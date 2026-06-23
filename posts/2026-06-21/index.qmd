@@ -19,7 +19,7 @@ categories:
 Tempo: 70 bpm
 
 Score: [Download](honne_and_tatemae.pdf)\
-mscz: [Download](honne_and_tatemae.mscz)
+MuseScore: [Download](honne_and_tatemae.mscz)
 
 ## Video
 
