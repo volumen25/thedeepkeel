@@ -1,12 +1,6 @@
 # macOS
 .DS_Store
 
-# R
-.Rproj.user/
-.RData
-.Rhistory
-.Ruserdata
-
 # VS Code
 .vscode/*
 !.vscode/settings.json
