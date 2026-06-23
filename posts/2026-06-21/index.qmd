@@ -2,7 +2,7 @@
 title: "Honne and Tatemae"
 subtitle: "Étude in D Dorian"
 date: "2026-06-21"
-date-modified: "2026-06-22"
+date-modified: "2026-06-23"
 #draft: true
 format: 
   html: default
