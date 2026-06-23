@@ -1,0 +1,68 @@
+---
+title: "White Christmas Phrases 1, 2 & 3"
+date: "2024-02-11T20:37:23"
+date-modified: "2024-02-19T20:37:23"
+format: 
+  html: default
+image: "../img/les.jpg"
+categories:
+  - "2024"
+  - Les Paul
+  - Fingerstyle
+  - Song
+  - Study
+  - Christmas
+  - Chord melody
+---
+
+Tempo: free
+
+**Phrase 1**\
+Bar1: Cmaj7 Dm7 F#13\
+Bar2: Dm7 D#o Em7\
+**Phrase 2**\
+Bar3: Fmaj7 G9\
+Bar4: Cmaj7 Eb7 Dmin11 G9sus4 G9\
+Bar5: Cmaj7 C7\
+**Phrase 3**\
+Bar6: F6/9 F-6\
+Bar7: Cmaj7 Dm7 G9\
+Bar8: Dm7 G7
+
+## Video
+
+{{< video https://youtu.be/IdWmMwQJ8JI >}}
+
+{{< video https://youtu.be/SB5lx9AnFk0 >}}
+
+## Gibson Les Paul
+
+Pickup Position: Neck\
+Master Volume: 6\
+Master Tone: 7
+
+## Zoom G3Xn
+
+Preset: 147 Jazz Summer
+
+## Joyo Tremolo
+
+Intensity: 25%\
+Rate: 25%
+
+## Fender Blues Jr. III
+
+Volume: 8.0\
+Fat: OFF\
+Treble: 6.5\
+Bass: 6.0\
+Middle: 6.0\
+Master: 3.0\
+Reverb: 5.0
+
+## Blue Yeti
+
+Gain: 9 o'clock\
+Mode: Stereo, on desk near plant
+
+{{< video https://youtu.be/MpxE1P9fYeQ?si=p6TFe9ngW8rmvPsi >}}

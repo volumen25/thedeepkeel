@@ -1,0 +1,138 @@
+---
+title: "The New Year’s Burden"
+date: "2020-01-01T21:37:23"
+#date-modified: "2019-11-10T21:37:23"
+#draft: true
+format: 
+  html: default
+# image: "../img/les.jpg"
+image: "../img/strat.jpg"
+#image: "../img/tele.jpg"
+categories:
+  - "2020"
+  - Stratocaster
+  - Song
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+## Video
+
+{{< video https://youtu.be/nXqEUFfh5Cg >}}
+
+**by Catherine Davis**
+
+I will not, though I would, resolve,
+
+As the New Year's Eve comes on,
+
+To do, not do, review, revolve
+
+On the past year, how it has gone,
+
+Taking not all, but still enough
+
+(Seeing I had not much to lose)
+
+Of what, for all my falling off,
+
+Might have been mine, as then, to use:
+
+But if I cast off heaviness,
+
+This is my burden, none the less.
+
+I would no more, as I have done,
+
+Consider what the year will bring
+
+But take the seasons one by one;
+
+For, all in all, the heaviest thing
+
+---Excepting only no more hope---
+
+Is hope returning year on year:
+
+Let me not give it now the scope
+
+Of what I might do, for I fear
+
+That if it cast off heaviness,
+
+This is my burden, none the less.
+
+I care no more for this \<I might,
+
+Whether it comes as would or should:
+
+The first is nothing if not light,
+
+Yet it has weighed me down for good;
+
+And how much heavier, come to naught,
+
+As I have found, the other is:
+
+Lightness that ponders what it ought
+
+Weighs like its own antithesis:
+
+But when I cast off heaviness,
+
+This is my burden, none the less.
+
+I cannot, if I would, complain
+
+Of a mean lot and curse my luck
+
+(Though luck for luck, as gain for gain,
+
+I cannot say that I've been struck
+
+By how much mine exceeds) but hold
+
+That this same luck has come to me
+
+Never so empty-handed, cold,
+
+As my more favored levity:
+
+And if it casts off heaviness,
+
+This is my burden, none the less.
+
+Let others ponder, while they may,
+
+Their wealth of possibilities;
+
+But, as for me, since I must pay
+
+For empty-headed-handed ease,
+
+And since what comes will also go,
+
+I find most hope in most distrust.
+
+I make my burden lighter so
+
+And bear the new year, as I must:
+
+But if I cast off heaviness,
+
+This is my burden, none the less.
+
+Envoi to the Reader
+
+I do not hope even to strike
+
+Your fancy with my verse: No mask,
+
+Symbol nor image nor the like
+
+Encumbers it, as you might ask;
+
+I make too plain my heaviness:
+
+This is my burden, none the less.

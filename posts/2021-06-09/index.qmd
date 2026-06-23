@@ -1,0 +1,25 @@
+---
+title: "Practicing w/ Logic Pro"
+date: "2021-06-09T20:37:23"
+format: 
+  html: default
+image: "../img/strat.jpg"
+categories:
+  - "2021"
+  - Stratocaster
+  - Fingerstyle
+  - Bottleneck slide
+  - Study
+---
+
+Tempo: free bpm
+
+## Video
+
+{{< video https://youtu.be/9s-xoLJjpVo >}}
+
+{{< video https://youtu.be/WD9DRx8Zils >}}
+
+{{< video https://youtu.be/Goz0MhDsY9E >}}
+
+{{< video https://youtu.be/zrG-5ay7Vq4 >}}

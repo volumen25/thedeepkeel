@@ -1,0 +1,33 @@
+---
+title: "Blues in E"
+date: "2020-07-25T20:37:23"
+date-modified: "2020-07-31T20:47:23"
+format: 
+  html: default
+image: "../img/strat.jpg"
+categories:
+  - "2020"
+  - Stratocaster
+  - Fingerstyle
+  - Study
+---
+
+## Video
+
+{{< video https://youtu.be/_Yg-YT0Wb7Y >}}
+
+{{< video https://youtu.be/XW3hR0DWIMY >}}
+
+{{< video https://youtu.be/hntPMVhPpME >}}
+
+{{< video https://youtu.be/jJBi7UB_dE8 >}}
+
+{{< video https://youtu.be/_At_hAHaz8s >}}
+
+{{< video https://youtu.be/cG1S-6O-UWw >}}
+
+{{< video https://youtu.be/7hXC-Fk-9IY >}}
+
+{{< video https://youtu.be/Prh3GxMelXE >}}
+
+{{< video https://youtu.be/Y6_wNgUfxBc >}}

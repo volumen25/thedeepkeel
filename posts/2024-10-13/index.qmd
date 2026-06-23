@@ -1,0 +1,68 @@
+---
+title: "Sea to Sea"
+date: "2024-10-15"
+date-modified: "2024-10-24"
+format: 
+  html: default
+image: "../img/les.jpg"
+categories:
+  - "2024"
+  - Les Paul
+  - Study
+  - Scales
+  - MMG
+---
+
+## Guitar 2
+
+{{< video https://youtu.be/af31sNjlnLI >}}
+
+## Guitar 2
+
+{{< video https://youtu.be/25VeHXWId7Y >}}
+
+## Guitar 1
+
+{{< video https://youtu.be/tJkheXavkmA >}}
+
+## Section A1
+
+{{< video https://youtu.be/y3LezK-UqGQ >}}
+
+## Section A
+
+{{< video https://youtu.be/VDDi_5TNDCc >}}
+
+## Gibson Les Paul
+
+Pickup Position: Bridge\
+Master Volume: 5\
+Master Tone: 3
+
+## Zoom G3Xn
+
+Preset: 134 Jazz Fall
+
+## Joyo Tremolo OFF
+
+Intensity: 50%\
+Rate: 50%
+
+## Fender Blues Jr. III
+
+Volume: 8.0\
+Fat: OFF\
+Treble: 6.5\
+Bass: 6.0\
+Middle: 6.0\
+Master: 4.5\
+Reverb: 5.0
+
+## Blue Yeti
+
+Gain: 9 o'clock\
+Mode: Stereo, on desk near plant
+
+## Lesson Part 1
+
+{{< video https://youtu.be/8O_DQwHrnH4?si=dX3l0YgKCcNP7LwI >}}

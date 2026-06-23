@@ -1,0 +1,20 @@
+---
+title: "Okinawa Shores"
+date: "2020-12-13T21:37:23"
+#date-modified: "2023-07-10T20:37:23"
+#draft: true
+format: 
+  html: default
+image: "../img/jag.jpg"
+categories:
+  - "2020"
+  - Jaguar
+  - Study
+---
+
+## Video
+
+{{< video https://youtu.be/pFliRSQIuwQ >}}
+
+{{< video https://youtu.be/UqBf1aGETX0 >}}
+

@@ -1,0 +1,68 @@
+---
+title: "Rhythm Exercise"
+date: "2021-12-30T20:37:23"
+date-modified: "2021-12-31T20:37:23"
+#draft: true
+format: 
+  html: default
+image: "../img/tele.jpg"
+categories:
+  - "2021"
+  - Telecaster
+  - Rhythm
+  - Study
+---
+
+Measures: All\
+Metronome: 80 bpm
+
+## Video
+
+{{< video https://youtu.be/cSagzs3zFIU >}}
+
+{{< video https://youtu.be/Orw9JKnZ6Zc >}}
+
+```
+Fender Telecaster
+Body: Pine
+Fingerboard: Maple
+Pickup Position: 5
+Master Volume: 5.0
+Master Tone: 9.0
+
+Zoom G3Xn
+Master Volume: 25
+MXR Dyna Comp: 6, Slow, 5, 50
+
+Joyo Tremolo
+Intensity: 25%
+Rate: 50%
+
+Fender Blues Jr. III
+Volume: 8.5
+Fat: ON
+Treble: 6.5
+Bass: 6.5
+Middle: 6.5
+Master: 2.7
+Reverb: 4.5
+
+Blue Yeti 
+Approx. 70 cm away from centre
+Gain: 9 o'clock
+Mode: Omnidirectional
+
+GarageBand Master Track
+Enveloper: 47 ms, 26%, 200 ms, 0%, -14 dB
+Compressor: -5.0 dB, 2.6:1, 11.0 ms, 1.0 dB
+Multipressor: -14.8 dB
+Limiter: 0.0 dB -4.8 dB
+Ozone Imager 2: Mode I: 90%, 10 ms & 86
+Loudness Meter: LUFS: -15.2, True Peak Max: 0.6 dB 
+```
+
+
+
+
+
+

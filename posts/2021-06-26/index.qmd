@@ -1,0 +1,29 @@
+---
+title: "Limes and Coronas"
+date: "2021-06-26T20:37:23"
+format: 
+  html: default
+image: "../img/les.jpg"
+categories:
+  - "2021"
+  - Les Paul
+  - Fingerstyle
+  - Open D
+  - Study
+---
+
+G3Xn compressor settings: 7, Fast, 7, 76. Tremolo: Tube, 47, 97, 70. Recorded with Logic Pro and mastered using "MasterJazzJune2021"
+
+{{< video https://youtu.be/oDraq1iuafQ >}}
+
+G3Xn Tremolo: Tube, 47, 97, 70. Recorded with Logic Pro and mastered using "MasterJazzJune2021"
+
+{{< video https://youtu.be/FIc8dH9BUzI >}}
+
+G3Xn Tape Echo Delay 3: 50, 29, 47, 80, directly from iPhone into iMovie...
+
+{{< video https://youtu.be/oFYy1qdL8Kw >}}
+
+Recorded with Garage Band and mastered using "MasterClassicalJune2021"
+
+{{< video https://youtu.be/pbU_H-00Vfs >}}

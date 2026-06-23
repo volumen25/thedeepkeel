@@ -1,0 +1,161 @@
+---
+title: "Apple Blossom by The White Stripes"
+date: "2020-09-01T20:37:23"
+date-modified: "2020-09-11T20:47:23"
+format: 
+  html: default
+image: "../img/strat.jpg"
+categories:
+  - "2020"
+  - Stratocaster
+  - Song
+---
+## Video
+
+{{< video https://youtu.be/HTKP1XwLBIw >}}
+
+{{< video https://youtu.be/gG4O7-fYHpk >}}
+
+{{< video https://youtu.be/WBvethf6CeU >}}
+
+{{< video https://youtu.be/fG0HBzgSEuQ >}}
+
+```         
+INTRO
+    Am
+
+VERSE
+    Am
+    Hey little apple blossom
+         Dm
+    What... seems to be the problem
+    Am
+    ...All the ones you tell your troubles to
+         E            G        Am
+    They don't really care for you
+VERSE
+    Am
+    ...Come and tell me what you're thinking
+           Dm
+    Cause just when the boat is sinking
+    Am
+    ...A little light is blinking
+        E               G      Am
+    And I will come and rescue you
+
+REFRAIN
+        Dm                     Am
+        ...Lots of girls walk around in tears
+        E                      Am
+        But that's not for you...
+        Dm                          Am
+        ...You've been looking all around for years
+                B (let ring)                    E  G
+        For someone to tell your troubles to
+VERSE
+    Am
+    ...Come and sit with me and talk awhile
+    Dm
+    ...Let me see your pretty little smile
+    Am
+    ...Put your troubles in a little pile
+        E                G       Am
+    And I will sort them out for you
+
+SOLO
+        Dm                     Am
+        ...Lots of girls walk around in tears
+        E                      Am
+        But that's not for you...
+        Dm                          Am
+        ...You've been looking all around for years
+                B (let ring)                    E  G
+        For someone to tell your troubles to
+VERSE
+    Am
+    ...Come and sit with me and talk awhile
+    Dm
+    ...Let me see your pretty little smile
+    Am
+    ...Put your troubles in a little pile
+        E                G       Am
+    And I will sort them out for you
+OUTRO
+    E               G           Am
+    ...I'll fall in love with you...
+    E               G         Am
+    ...I think I'll marry you
+```
+
+Chord Progression
+
+Verse
+
+```         
+Am . . . Am . . . Dm . . . Dm . . .
+Am . . . Am . . . E  . G . Am . . .
+```
+
+Refrain
+
+```         
+Dm . . . Am . . . E . . . Am . . .
+Dm . . . Am . . . B . . . E  . . .
+```
+
+Solo tab
+
+```         
+E ||–––––––––––––––––––––––––|–––––––––––––––––––––––|–
+B ||–––––––––––––––––––––––––|–––––––––––––––––––––––|–
+G ||–––––––––––––––––––––––––|–––––––––––––––––––––––|–
+D ||–––––––––––––––––––––––––|––5/7––7–5–––––––––––––|–
+A ||–––5/7––7–7–5––––––––––––|––––––––––––/8–––7–5–––|–
+E ||–––––––––––––––/8–––7–5––|–––––––––––––––––––––––|–
+       Am                       Dm
+
+E –|––––––––––––––––––––––––––––––––––––––––––––|–
+B –|––––––––––––––––––––––––––––––––––––––––––––|–
+G –|––––––––––––––––––––––––––––––––––––––––––––|–
+D –|––––––––––––––––––––––––––––––––––––––––––––|–
+A –|–––0–7––––0–5––––0–3––––0––3––5––3––––––––––|–
+E –|–––––––––––––––––––––––––––––––––––-/7–––5––|–
+       Am                      
+
+E –|––––––––––––––––––––––––––––––––––|–
+B –|––––––––––––––––––––––––––––––––––|–
+G –|––––––––––––––––––––––––––––––––––|–
+D –|––––––––––––––––––––––––––––––––––|–
+A –|––––––––––––––––––––––––––––––––––|–
+E –|–––/7–7–7–7–––8––8––7~~–0––––––3––|–
+        E
+```
+
+```         
+E –|–––––0––0––––––––––––––|–––––5––5––––––––––––––|–
+B –|–––––1–––––3––1––0–––––|–––––6–––––8––6––5–––––|–
+G –|–––––2––––––––––––––2––|–––––7––––––––––––––7––|–
+D –|–––––2–––––––––––––––––|––0––––––––––––––––––––|–
+A –|––0––––––––––––––––––––|–––––––––––––––––––––––|–
+E –|–––––––––––––––––––––––|–––––––––––––––––––––––|–
+      Am                      Dm
+
+E –|–––––0––0––––––––––––––––––––––––––––––|–
+B –|–––––1––––––3––3–––1––1–––0––1––0––––––|–
+G –|–––––2––––––––––––––––––––––––––––––2––|–
+D –|–––––2–––––––––––––––––––––––––––––––––|–
+A –|––0––––––––––––––––––––––––––––––––––––|–
+E –|–––––––––––––––––––––––––––––––––––––––|–
+      Am
+
+E –|–––––––––––––––––––––––––––––––––––––––|–
+B –|–––0––0––––––––––––––––––––––––––––––––|–
+G –|–––1–––––––––0–––2–––––––––––––––––––––|–
+D –|–––2––––––2––––––2–––––––––––––––––––––|–
+A –|–––2–––––––––––––0–––––––––––––––––––––|–
+E –|–––0–––––––––––––––––––––––––––––––––––|–
+       E             Am
+```
+
+<https://playsongnotes.com/lessons/30/>
+

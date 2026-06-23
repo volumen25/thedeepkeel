@@ -1,0 +1,19 @@
+---
+title: "Chord Inversions"
+date: "2020-11-16T20:37:23"
+format: 
+  html: default
+image: "../img/tele.jpg"
+categories:
+  - "2020"
+  - Telecaster
+  - Fingerstyle
+---
+
+## Video
+
+{{< video https://youtu.be/ewwBI-cMfIk >}}
+
+{{< video https://youtu.be/kr9NXwv8h3k >}}
+
+{{< video https://youtu.be/f9wXD4o-Nqk >}}

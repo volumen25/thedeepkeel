@@ -1,0 +1,23 @@
+---
+title: "Corrina, Corrina"
+date: "2019-07-25T21:37:23"
+date-modified: "2019-07-26T20:37:23"
+#draft: true
+format: 
+  html: default
+# image: "../img/les.jpg"
+image: "../img/strat.jpg"
+#image: "../img/tele.jpg"
+categories:
+  - "2019"
+  - Stratocaster
+  - Song
+---
+
+## Video
+
+{{< video https://youtu.be/O0fH5EyEFQ0 >}}
+
+{{< video https://youtu.be/YsOk8uvVuCo >}}
+
+{{< video https://youtu.be/0f31H4BYGKg >}}

@@ -1,0 +1,40 @@
+---
+title: "Blues in E"
+date: "2020-08-02T20:37:23"
+date-modified: "2020-08-20T20:47:23"
+format: 
+  html: default
+image: "../img/les.jpg"
+categories:
+  - "2020"
+  - Les Paul
+  - Telecaster
+  - Fingerstyle
+  - Study
+---
+
+## Video
+
+{{< video https://youtu.be/dCAePIRUQE4 >}}
+
+{{< video https://youtu.be/4ebMUcaR-FQ >}}
+
+{{< video https://youtu.be/Hhlvp4fYcQo >}}
+
+{{< video https://youtu.be/y3tKXCdC62g >}}
+
+{{< video https://youtu.be/4vvHKa3SK10 >}}
+
+{{< video https://youtu.be/rtX5chR0Jy0 >}}
+
+{{< video https://youtu.be/ev0D7Wd7fCw >}}
+
+{{< video https://youtu.be/03WL73-ahqk >}}
+
+{{< video https://youtu.be/5Py37kkoldQ >}}
+
+{{< video https://youtu.be/HWKYMHQ-Rdw >}}
+
+{{< video https://youtu.be/dxtwP5NaD-I >}}
+
+{{< video https://youtu.be/j3pRxVxtIkc >}}

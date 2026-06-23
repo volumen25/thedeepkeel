@@ -1,0 +1,248 @@
+---
+title: "Rhythm Exercise"
+date: "2022-01-03T20:37:23"
+date-modified: "2022-01-16T20:37:23"
+format: 
+  html: default
+image: "../img/tele.jpg"
+categories:
+  - "2022"
+  - Telecaster
+  - Study
+  - Rhythm
+---
+
+## L06
+
+{{< video https://youtu.be/vJizmNzBliA >}}
+
+```         
+Notes
+Measures: All
+Metronome: 100 bpm
+
+Fender Telecaster
+Body: Pine
+Fingerboard: Maple
+Pickup Position: 5
+Master Volume: 5.0
+Master Tone: 9.0
+
+Zoom G3Xn
+Master Volume: 25
+MXR Dyna Comp: 6, Slow, 5, 50
+
+Joyo Tremolo
+Intensity: 50%
+Rate: 50%
+
+Fender Blues Jr. III
+Volume: 8.5
+Fat: ON
+Treble: 6.5
+Bass: 6.5
+Middle: 6.5
+Master: 2.7
+Reverb: 4.5
+
+Blue Yeti 
+Approx. 70 cm away from centre
+Gain: 9 o'clock
+Mode: Omnidirectional
+
+GarageBand Master Track
+Enveloper: 47 ms, 26%, 200 ms, 0%, -14 dB
+Compressor: 0.0 dB, 2.6:1, 11.0 ms, -0.5 dB
+Multipressor: -16.8 dB
+Limiter: -0.4 dB -4.0 dB
+Ozone Imager 2: Mode I: 90%, 10 ms & 86
+Loudness Meter: LUFS: -16.9, True Peak Max: 0.6 dB 
+```
+
+## Basic Strumming 1
+
+{{< video https://youtu.be/H7yOMLxWk7k >}}
+
+```         
+Notes
+Measures: All
+Metronome: 120 bpm
+
+Fender Telecaster
+Body: Pine
+Fingerboard: Maple
+Pickup Position: 5
+Master Volume: 5.0
+Master Tone: 9.0
+
+Zoom G3Xn
+Master Volume: 25
+MXR Dyna Comp: 6, Slow, 5, 50
+
+Joyo Tremolo
+Intensity: 50%
+Rate: 50%
+
+Fender Blues Jr. III
+Volume: 8.5
+Fat: ON
+Treble: 6.5
+Bass: 6.5
+Middle: 6.5
+Master: 2.7
+Reverb: 4.5
+
+Blue Yeti 
+Approx. 70 cm away from centre
+Gain: 9 o'clock
+Mode: Omnidirectional
+
+GarageBand Master Track
+Enveloper: 47 ms, 26%, 200 ms, 0%, -14 dB
+Compressor: 0.0 dB, 2.6:1, 11.0 ms, -0.5 dB
+Multipressor: -16.8 dB
+Limiter: -0.4 dB -4.0 dB
+Ozone Imager 2: Mode I: 90%, 10 ms & 86
+Loudness Meter: LUFS: -16.9, True Peak Max: 0.6 dB 
+```
+
+## Basic Strumming 2
+
+{{< video https://youtu.be/LCliX-EABpI >}}
+
+```         
+Notes
+Measures: All
+Metronome: 120 bpm
+
+Fender Telecaster
+Body: Pine
+Fingerboard: Maple
+Pickup Position: 5
+Master Volume: 5.0
+Master Tone: 9.0
+
+Zoom G3Xn
+Master Volume: 25
+MXR Dyna Comp: 6, Slow, 5, 50
+
+Joyo Tremolo
+Intensity: 50%
+Rate: 50%
+
+Fender Blues Jr. III
+Volume: 8.5
+Fat: ON
+Treble: 6.5
+Bass: 6.5
+Middle: 6.5
+Master: 2.7
+Reverb: 4.5
+
+Blue Yeti 
+Approx. 70 cm away from centre
+Gain: 9 o'clock
+Mode: Omnidirectional
+
+GarageBand Master Track
+Enveloper: 47 ms, 26%, 200 ms, 0%, -14 dB
+Compressor: 0.0 dB, 2.6:1, 11.0 ms, -0.5 dB
+Multipressor: -16.8 dB
+Limiter: -0.4 dB -4.0 dB
+Ozone Imager 2: Mode I: 90%, 10 ms & 86
+Loudness Meter: LUFS: -16.9, True Peak Max: 0.6 dB 
+```
+
+## Basic Strumming 9
+
+{{< video https://youtu.be/egiytBI-qG0 >}}
+
+```         
+Notes
+4 Basic Strumming 9
+Metronome: 100 bpm
+
+Fender Telecaster
+Body: Pine
+Fingerboard: Maple
+Pickup Position: 1
+Master Volume: 4.0
+Master Tone: 1.0
+
+Zoom G3Xn
+Master Volume: 25
+MXR Dyna Comp: 6, Slow, 5, 50
+
+Joyo Tremolo
+Intensity: 50%
+Rate: 50%
+
+Fender Blues Jr. III
+Volume: 8.5
+Fat: ON
+Treble: 6.5
+Bass: 6.5
+Middle: 6.5
+Master: 2.7
+Reverb: 4.5
+
+Blue Yeti 
+Approx. 70 cm away from centre
+Gain: 11 o'clock
+Mode: Cardioid
+
+GarageBand Master Track
+Enveloper: 47 ms, 26%, 200 ms, 0%, -14 dB
+Compressor: 0.0 dB, 2.6:1, 11.0 ms, -0.5 dB
+Multipressor: -10.0 dB
+Limiter: -2.0 dB -3.0 dB
+Ozone Imager 2: Mode I: 90%, 10 ms & 86
+Loudness Meter: LUFS: -16.9, True Peak Max: 0.6 dB 
+```
+
+## Exercise 3
+
+{{< video https://youtu.be/rOLT5e7Pv7U >}}
+
+```         
+Notes
+Rhythm Exercise P90 Exercise 3
+Metronome: 70 bpm
+
+Fender Telecaster
+Body: Pine
+Fingerboard: Maple
+Pickup Position: 5
+Master Volume: 
+Master Tone: 
+
+Zoom G3Xn
+Master Volume: 25
+MXR Dyna Comp: 6, Slow, 5, 50
+
+Joyo Tremolo
+Intensity: 50%
+Rate: 50%
+
+Fender Blues Jr. III
+Volume: 8.5
+Fat: ON
+Treble: 6.5
+Bass: 6.5
+Middle: 6.5
+Master: 2.7
+Reverb: 4.5
+
+Blue Yeti 
+Approx. 70 cm away from centre
+Gain: 11 o'clock
+Mode: Cardioid
+
+GarageBand Master Track
+Enveloper: 47 ms, 26%, 200 ms, 0%, -14 dB
+Compressor: 0.0 dB, 2.6:1, 11.0 ms, -0.5 dB
+Multipressor: -10.0 dB
+Limiter: -2.0 dB -3.0 dB
+Ozone Imager 2: Mode I: 90%, 10 ms & 86
+Loudness Meter: LUFS: -16.9, True Peak Max: 0.6 dB 
+```

@@ -1,0 +1,264 @@
+---
+title: "Practicing Scales"
+date: "2022-01-02T20:37:23"
+date-modified: "2022-01-23T20:37:23"
+format: 
+  html: default
+image: "../img/tele.jpg"
+categories:
+  - "2022"
+  - Telecaster
+  - Study
+  - Theory
+---
+
+## Major Scales L05
+
+{{< video https://youtu.be/onTLUq_4uR8 >}}
+
+```         
+Notes
+Measures: All
+Metronome: 70 bpm
+
+Fender Telecaster
+Body: Pine
+Fingerboard: Maple
+Pickup Position: 5
+Master Volume: 5.0
+Master Tone: 9.0
+
+Zoom G3Xn
+Master Volume: 25
+MXR Dyna Comp: 6, Slow, 5, 50
+
+Joyo Tremolo
+Intensity: 25%
+Rate: 50%
+
+Fender Blues Jr. III
+Volume: 8.5
+Fat: ON
+Treble: 6.5
+Bass: 6.5
+Middle: 6.5
+Master: 2.7
+Reverb: 4.5
+
+Blue Yeti 
+Approx. 70 cm away from centre
+Gain: 9 o'clock
+Mode: Omnidirectional
+
+GarageBand Master Track
+Enveloper: 47 ms, 26%, 200 ms, 0%, -14 dB
+Compressor: -1.5 dB, 2.6:1, 11.0 ms, -2.0 dB
+Multipressor: -10.8 dB
+Limiter: -0.3 dB -4.8 dB
+Ozone Imager 2: Mode I: 90%, 10 ms & 86
+Loudness Meter: LUFS: -14.2, True Peak Max: 0.9 dB 
+```
+
+## Practicing Scales Fmaj
+
+[F Major Scale](https://guitargearfinder.com/guides/f-major-scale/)
+
+{{< video https://youtu.be/oIAb8JWAavc >}}
+
+{{< video https://youtu.be/Qai0k_lI-3I >}}
+
+```         
+Notes
+Scale: Fmaj
+Metronome: 50 bpm
+
+Fender Telecaster
+Body: Pine
+Fingerboard: Maple
+Pickup Position: 1
+Master Volume: 4.0
+Master Tone: 1.0
+
+Zoom G3Xn
+Master Volume: 25
+MXR Dyna Comp: 6, Slow, 5, 50
+
+Joyo Tremolo
+Intensity: 50%
+Rate: 50%
+
+Fender Blues Jr. III
+Volume: 8.5
+Fat: ON
+Treble: 6.5
+Bass: 6.5
+Middle: 6.5
+Master: 2.7
+Reverb: 4.5
+
+Blue Yeti 
+Approx. 70 cm away from centre
+Gain: 11 o'clock
+Mode: Cardioid
+
+GarageBand Master Track
+Enveloper: 47 ms, 26%, 200 ms, 0%, -14 dB
+Compressor: 0.0 dB, 2.6:1, 11.0 ms, -0.5 dB
+Multipressor: -10.0 dB
+Limiter: -2.0 dB -3.0 dB
+Ozone Imager 2: Mode I: 90%, 10 ms & 86
+Loudness Meter: LUFS: -16.9, True Peak Max: 0.6 dB 
+```
+
+## Practicing Scales Cmaj
+
+[C Major Scale](https://guitargearfinder.com/guides/resources/c-major-scale/)
+
+{{< video https://youtu.be/MvONUd0h1HU >}}
+
+{{< video https://youtu.be/Qai0k_lI-3I >}}
+
+```         
+Notes
+Scale: Cmaj
+Metronome: 45 bpm
+
+Fender Telecaster
+Body: Pine
+Fingerboard: Maple
+Pickup Position: 5
+Master Volume: 
+Master Tone: 
+
+Zoom G3Xn
+Master Volume: 25
+MXR Dyna Comp: 6, Slow, 5, 50
+
+Joyo Tremolo
+Intensity: 50%
+Rate: 50%
+
+Fender Blues Jr. III
+Volume: 8.5
+Fat: ON
+Treble: 6.5
+Bass: 6.5
+Middle: 6.5
+Master: 2.7
+Reverb: 4.5
+
+Blue Yeti 
+Approx. 70 cm away from centre
+Gain: 11 o'clock
+Mode: Cardioid
+
+GarageBand Master Track
+Enveloper: 47 ms, 26%, 200 ms, 0%, -14 dB
+Compressor: 0.0 dB, 2.6:1, 11.0 ms, -0.5 dB
+Multipressor: -10.0 dB
+Limiter: -2.0 dB -3.0 dB
+Ozone Imager 2: Mode I: 90%, 10 ms & 86
+Loudness Meter: LUFS: -16.9, True Peak Max: 0.6 dB 
+```
+
+## Practicing Scales Gmaj
+
+[G Major Scale](https://guitargearfinder.com/guides/g-major-scale/)
+
+{{< video https://youtu.be/3NSe9_U5zvo >}}
+
+{{< video https://youtu.be/Qai0k_lI-3I >}}
+
+```         
+Notes
+Scale: Gmaj
+Metronome: 45 bpm
+
+Fender Telecaster
+Body: Pine
+Fingerboard: Maple
+Pickup Position: 1
+Master Volume: 
+Master Tone: 
+
+Zoom G3Xn
+Master Volume: 25
+MXR Dyna Comp: 6, Slow, 5, 50
+
+Joyo Tremolo
+Intensity: 50%
+Rate: 50%
+
+Fender Blues Jr. III
+Volume: 8.5
+Fat: ON
+Treble: 6.5
+Bass: 6.5
+Middle: 6.5
+Master: 2.7
+Reverb: 4.5
+
+Blue Yeti 
+Approx. 70 cm away from centre
+Gain: 11 o'clock
+Mode: Cardioid
+
+GarageBand Master Track
+Enveloper: 47 ms, 26%, 200 ms, 0%, -14 dB
+Compressor: 0.0 dB, 2.6:1, 11.0 ms, -0.5 dB
+Multipressor: -10.0 dB
+Limiter: -2.0 dB -3.0 dB
+Ozone Imager 2: Mode I: 90%, 10 ms & 86
+Loudness Meter: LUFS: -16.9, True Peak Max: 0.6 dB 
+```
+
+## Practicing Scales Emaj
+
+[E Major Scale](https://guitargearfinder.com/guides/g-major-scale/)
+
+{{< video https://youtu.be/DZZEt59gkao >}}
+
+{{< video https://youtu.be/Qai0k_lI-3I >}}
+
+```         
+Notes
+Scale: Emaj
+Metronome: 45 bpm
+
+Fender Telecaster
+Body: Pine
+Fingerboard: Maple
+Pickup Position: 1
+Master Volume: 
+Master Tone: 
+
+Zoom G3Xn
+Master Volume: 25
+MXR Dyna Comp: 6, Slow, 5, 50
+
+Joyo Tremolo
+Intensity: 50%
+Rate: 50%
+
+Fender Blues Jr. III
+Volume: 8.5
+Fat: ON
+Treble: 6.5
+Bass: 6.5
+Middle: 6.5
+Master: 2.7
+Reverb: 4.5
+
+Blue Yeti 
+Approx. 70 cm away from centre
+Gain: 11 o'clock
+Mode: Cardioid
+
+GarageBand Master Track
+Enveloper: 47 ms, 26%, 200 ms, 0%, -14 dB
+Compressor: 0.0 dB, 2.6:1, 11.0 ms, -0.5 dB
+Multipressor: -10.0 dB
+Limiter: -2.0 dB -3.0 dB
+Ozone Imager 2: Mode I: 90%, 10 ms & 86
+Loudness Meter: LUFS: -16.9, True Peak Max: 0.6 dB 
+```

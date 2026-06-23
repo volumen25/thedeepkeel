@@ -1,0 +1,30 @@
+---
+title: "With Les Paul"
+date: "2021-06-24T20:37:23"
+date-modified: "2021-06-26T20:37:23"
+format: 
+  html: default
+image: "../img/les.jpg"
+categories:
+  - "2021"
+  - Les Paul
+  - Fingerstyle
+---
+
+G3Xn compressor settings: 7, Fast, 7, 76. Tremolo: Tube, 47, 97, 70. Recorded with Logic Pro and mastered using "MasterJazzJune2021"
+
+{{< video https://youtu.be/M0ZukobCz-Y >}}
+
+Chord progression: D Bm7 G A (I vi IV V) 16th note syncopated finger picking pattern.
+
+{{< video https://youtu.be/ew24qfgVkOI >}}
+
+Practicing open D tuning.
+
+{{< video https://youtu.be/9pwlHUW1ksc >}}
+
+Practicing open D tuning on a Sunday morning.
+
+{{< video https://youtu.be/8L8UlaMET9M >}}
+
+{{< video https://youtu.be/3d-_p-HZo0c >}}

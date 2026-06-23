@@ -1,0 +1,37 @@
+---
+title: "Exercise 4"
+date: "2023-02-04T21:37:23"
+#draft: true
+format: 
+  html: default
+image: "../img/jag.jpg"
+categories:
+  - "2023"
+  - Jaguar
+  - Fingerstyle
+---
+
+Tempo: 50 bpm
+
+## Fender Jaguar
+Pickup Position: Neck\
+Master Volume: ~6\
+Master Tone: ~6 
+    
+## Multi Effects Processor
+Zoom G3Xn: 145 Archtop
+    
+## Amplifier
+Fender Blues Jr III: 8.5-2-2-5-5-1
+
+## Tremolo 
+ON 0-0
+    
+## Microphone 
+iPhone
+
+## Video
+
+{{< video https://youtu.be/yi0i7I7HfE4 >}}
+
+{{< video https://youtu.be/STxqmJUj6c8 >}}

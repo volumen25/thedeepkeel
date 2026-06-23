@@ -1,0 +1,79 @@
+---
+title: "Title Here"
+subtitle: "Like a Rolling Stone"
+date: "2025-07-10T20:37:23"
+#date-modified: "2025-07-10T20:37:23"
+#draft: true
+format: 
+  html: default
+image: "../img/tele_mij.jpg"
+# image: "../img/jag.jpg"
+# image: "../img/strat.jpg"
+# image: "../img/les.jpg"
+# image: "../img/tele.jpg"
+categories:
+  - "2025"
+  - Telecaster
+  - Stratocaster
+  - Les Paul
+  - Jaguar
+  - Fingerstyle
+  - Hybrid picking
+  - Song
+  - Study
+  - Chord melody
+---
+
+Tempo: free bpm\
+Measures: 1-8
+
+## Video
+
+{{< video https://youtu.be/wo9vZccmqwc >}}
+
+## Fender Telecaster
+
+Pickup Position: Neck\
+Master Volume: \~9\
+Master Tone: \~6
+
+## Multi Effects Processor: Zoom G3Xn
+
+Master Volume: 100\
+Compressor: 5, Fast, 5, 70 ON\
+Slab Back Delay: 20, 50, 50, Quarter note\
+Tremolo: Tube, 30, 50, 80 OFF
+
+or
+
+Preset 145: Archtop
+
+## Joyo Tremolo
+
+Intensity: 25%\
+Rate: 25%
+
+## Amplifier: Fender Blues Jr. III
+
+Volume: 3.5\
+Fat: OFF\
+Treble: 4.5\
+Bass: 7.0\
+Middle: 5.0\
+Master: 3.5\
+Reverb: 2.0
+
+## Microphone
+
+Blue Yeti\
+Gain: 9 o'clock\
+Mode: Cardioid mode, 18” from speaker, slightly off-axis
+
+## Dolby ON
+
+Natural, Boost +2
+
+## GarageBand
+
+Track Preset: WhiteXmasTrack\
+Master Preset: WhiteXmas

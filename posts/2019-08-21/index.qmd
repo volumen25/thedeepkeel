@@ -1,0 +1,26 @@
+---
+title: "C Locrian"
+date: "2019-08-21T21:37:23"
+#date-modified: "2019-07-29T20:37:23"
+#draft: true
+format: 
+  html: default
+# image: "../img/les.jpg"
+image: "../img/strat.jpg"
+#image: "../img/tele.jpg"
+categories:
+  - "2019"
+  - Stratocaster
+  - Theory
+---
+
+## Video
+
+{{< video https://youtu.be/GJDD5XGYNO4 >}}
+
+C Locrian is the seventh mode of the Db major scale\
+C Locrian Scale Notes: C Db Eb F Gb Ab Bb\
+Locrian Scale Formula: 1 b2 b3 4 b5 b6 b7\
+Locrian Scale Intervals: H W W H W W W
+
+<img class="alignnone size-full wp-image-179" src="https://thedeepkeel.files.wordpress.com/2019/05/img_0028.jpg" alt="IMG_0028" width="1537" height="2049" />

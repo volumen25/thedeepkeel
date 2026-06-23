@@ -1,0 +1,23 @@
+---
+title: "Ode to Roads of New Mexico"
+date: "2020-03-06T21:37:23"
+#date-modified: "2020-02-04T21:37:23"
+#draft: true
+format: 
+  html: default
+# image: "../img/les.jpg"
+image: "../img/strat.jpg"
+#image: "../img/tele.jpg"
+categories:
+  - "2020"
+  - Stratocaster
+  - Song
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+And all the other roads that took us to New Mexico. Write a song titled Ode to Roads of New Mexico. Just like Lucinda's...
+## Video
+
+{{< video https://youtu.be/L8wfdjTgIQk >}}

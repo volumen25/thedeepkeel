@@ -1,0 +1,24 @@
+---
+title: "Für Edith Bar 1 - 2 & 3 - 6"
+date: "2021-06-05T20:37:23"
+#date-modified: "2023-07-10T20:37:23"
+format: 
+  html: default
+image: "../img/strat.jpg"
+
+categories:
+  - "2021"
+  - Stratocaster
+  - Fingerstyle
+  - Study
+---
+Tempo: free bpm
+
+## Video
+
+{{< video https://youtu.be/bgTNBwDQ8sc >}}
+{{< video https://youtu.be/wpwvNJ_12qo >}}
+
+{{< video https://youtu.be/5mMZu05aldI >}}
+{{< video https://youtu.be/Ba0qmGx4IKQ >}}
+

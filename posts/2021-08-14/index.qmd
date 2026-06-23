@@ -1,0 +1,30 @@
+---
+title: "Fingerpicking"
+date: "2021-08-14T20:37:23"
+date-modified: "2021-08-15T20:37:23"
+format: 
+  html: default
+image: "../img/tele.jpg"
+categories:
+  - "2021"
+  - Telecaster
+  - Study
+  - Fingerstyle
+---
+
+## Fingerpicking 1
+
+G3Xn: Compressor: 7, Slow, 5, 31, Tremolo: Tube, 50, 50, 70\
+Blues Jr.: 8.5, ON, 8, 8, 4.5, 3, 8\
+GarageBand: TeleAugust2021 settings and Mastered with MasterJazz2021  
+
+{{< video https://youtu.be/NZaIW7ltWxU >}}
+
+## Fingerpicking 2
+
+Fender Mustang: Johnny Marr setting\
+GarageBand: TeleAugust2021 settings and Mastered with MasterJazz2021  
+
+{{< video https://youtu.be/Edaz3r6hEWE >}}
+
+![](https://www.azquotes.com/picture-quotes/quote-the-zen-way-of-calligraphy-is-to-write-in-the-most-straightforward-simple-way-as-if-shunryu-suzuki-115-69-44.jpg)

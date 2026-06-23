@@ -1,0 +1,59 @@
+---
+title: "Für Edith"
+subtitle: "Für Edith"
+date: "2025-11-03"
+date-modified: "2025-11-03"
+#draft: true
+format: 
+  html: default
+image: "../img/les.jpg"
+# image: "../img/tele_mij.jpg"
+# image: "../img/strat.jpg"
+# image: "../img/tele.jpg"
+categories:
+  - "2025"
+  - Les Paul
+  - Fingerstyle
+  - Song
+---
+
+Für Edith
+
+## Video
+
+{{< video https://youtu.be/MB4p_qNdIBE >}}
+
+## Les Paul
+
+Pickup Position: Neck\
+Master Volume: \~9\
+Master Tone: \~6
+
+## Multi Effects Processor: Zoom G3Xn
+
+OFF
+
+## Joyo Tremolo
+
+Intensity: 25%\
+Rate: 75%
+
+## Amplifier: Fender Blues Jr. III
+
+Volume: 3.5\
+Fat: OFF\
+Treble: 4.5\
+Bass: 7.0\
+Middle: 5.0\
+Master: 3.5\
+Reverb: 2.0
+
+## Microphone
+
+Blue Yeti\
+Gain: 9 o'clock\
+Mode: Cardioid mode, 12” from speaker, slightly off-axis
+
+## Dolby ON
+
+Standard.

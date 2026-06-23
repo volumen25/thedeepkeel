@@ -1,0 +1,59 @@
+---
+title: "White Christmas"
+date: "2023-01-07T20:37:23"
+#date-modified: "2023-07-10T20:37:23"
+#draft: true
+format: 
+  html: default
+image: "../img/strat.jpg"
+categories:
+  - "2023"
+  - Stratocaster
+  - Fingerstyle
+  - Christmas
+  - Song
+  - Study
+  - Chord melody
+---
+
+## Video
+
+{{< video https://youtu.be/0sHthkYBN8I >}}
+
+{{< video https://youtu.be/9-db4YKX8AY >}}
+
+{{< video https://youtu.be/MpxE1P9fYeQ >}}
+
+{{< video https://youtu.be/S0qHDpLkuPg >}}
+
+Measures: 1-4
+
+Tempo: 40 bpm
+
+## Fender Stratocaster
+
+Pickup Position: Neck
+
+Master Volume: \~6
+
+Master Tone: \~6
+
+## Multi Effects Processor
+
+Zoom G3Xn: 142 (Jazz Strato)
+
+## Amplifier
+
+Fender Blues Jr III: 7-2-2-5-5-1
+
+## Tremolo
+
+ON 0-0
+
+## Microphone
+
+Blue Yeti Gain: 9 o'clock Mode: Omnidirectional, on desk near plant
+
+## GarageBand
+
+Track: Compressor: Platinum Analog Tape: -12.5, 1.6:1, 47, 1.5 Channel EQ: Warm Master: OFF Channel EQ: Final Mix, Ballad Stereo Spread: Medium LF & HF Spread Limiter: For Vocals +2 and -0.1

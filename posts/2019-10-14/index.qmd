@@ -1,0 +1,19 @@
+---
+title: "Milestone 1 | Sight, Sound & Smell"
+date: "2019-10-14T21:37:23"
+#date-modified: "2019-07-29T20:37:23"
+#draft: true
+format: 
+  html: default
+# image: "../img/les.jpg"
+image: "../img/strat.jpg"
+#image: "../img/tele.jpg"
+categories:
+  - "2019"
+  - Stratocaster
+  - Song
+---
+
+## Video
+
+{{< video https://youtu.be/kZnxyQ-WUuU >}}

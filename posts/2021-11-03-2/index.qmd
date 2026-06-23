@@ -1,0 +1,14 @@
+---
+title: "Theme C2 | G Major Harmonized Chords"
+date: "2021-11-03T20:37:23"
+format: 
+  html: default
+image: "../img/les.jpg"
+categories:
+  - "2021"
+  - Les Paul
+  - Fingerstyle
+  - Song
+---
+
+[Theme C2 Gmaj](https://wordpress.com/post/lespaul18.wordpress.com/219)

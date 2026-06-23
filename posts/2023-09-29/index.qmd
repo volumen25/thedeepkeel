@@ -1,0 +1,73 @@
+---
+title: "Trouble in Mind"
+date: "2023-09-29T20:37:23"
+date-modified: "2023-09-30T20:37:23"
+#draft: true
+format: 
+  html: default
+image: "../img/jag.jpg"
+# image: "../img/les.jpg"
+# image: "../img/strat.jpg"
+# image: "../img/tele.jpg"
+categories:
+  - "2023"
+  - Jaguar
+  - Fingerstyle
+  - Study
+---
+
+Measures: 1-7
+
+Tempo: 144 bpm \[95%\]
+
+## Fender Jaguar
+
+Pickup Position: Neck\
+Master Volume: 3\
+Master Tone: 3
+
+## Joyo Tremolo
+
+Intensity: 25%\
+Rate: 75%
+
+## Amplifier: Fender Blues Jr. III
+
+Volume: 8.0\
+Fat: OFF\
+Treble: 4.5\
+Bass: 7.0\
+Middle: 11.0\
+Master: 4.0\
+Reverb: 5.0
+
+## GarageBand:
+
+Track: Jaguar TroubleInMind\
+Master: Jaguar TroubleInMind
+
+<https://www.fretboardconfidential.com/horizontal-3-step>
+
+{{< video https://youtu.be/tQuX5ImxeXA >}}
+
+{{< video https://youtu.be/boX2AAskrvM >}}
+
+{{< video https://youtu.be/nrfUdxOzaUQ >}}
+
+Measures: 1-7\
+Tempo: 35 bpm
+
+### Fender Jaguar
+Pickup Position: Neck\
+Master Volume: 4\
+Master Tone: 3
+
+### Amplifier
+Fender Mustang 1 ['59 Bassman]
+
+### Microphone 
+Blue Yeti\ 
+Gain: 11 o'clock\
+Mode: Omnidirectional, on desk near iMac
+
+{{< video https://youtu.be/JIaL3xpHD-E >}}

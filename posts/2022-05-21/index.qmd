@@ -1,0 +1,51 @@
+---
+title: "Nocturne 4"
+date: "2022-05-21T20:37:23"
+#date-modified: "2023-11-21T20:47:23"
+format: 
+  html: default
+image: "../img/jag.jpg"
+categories:
+  - "2022"
+  - Jaguar
+  - Song
+  - Study
+---
+
+Measures: 1-17
+
+## Video
+
+{{< video https://youtu.be/xK2TOK2j1hs >}}
+
+```         
+Guitar: Fender Jaguar
+Body Material: Alder
+Fingerboard Material: Pau Ferro
+Pickup Position: Neck
+Master Volume: 4
+Master Tone: 4
+
+Multi Effects Processor: Zoom G3Xn
+Master Volume: 100 
+Compressor: 5, Fast, 5, 70 ON
+Tremolo: Tube, 30, 50, 80 OFF
+
+Joyo Tremolo
+Intensity: 55%
+Rate: 55%
+
+Amplifier: Fender Blues Jr. III
+Volume: 8.0
+Fat: OFF
+Treble: 6.5
+Bass: 6.5
+Middle: 6.5
+Master: 3.0
+Reverb: 5.0
+
+Microphone: Blue Yeti 
+Gain: 11 o'clock
+Mode: Cardioid 
+70 cm away from centre
+```

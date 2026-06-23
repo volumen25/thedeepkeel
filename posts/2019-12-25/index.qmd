@@ -1,0 +1,59 @@
+---
+title: "Silent Night"
+date: "2019-12-25T21:37:23"
+#date-modified: "2019-11-10T21:37:23"
+#draft: true
+format: 
+  html: default
+# image: "../img/les.jpg"
+image: "../img/strat.jpg"
+#image: "../img/tele.jpg"
+categories:
+  - "2019"
+  - Stratocaster
+  - Song
+  - Christmas
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+## Video
+
+{{< video https://youtu.be/P6g1AjOrwAQ >}}
+
+Stille Nacht, heilige Nacht,
+
+Alles schläft; einsam wacht
+
+Nur das traute hochheilige Paar.
+
+Holder Knabe im lockigen Haar,
+
+Schlaf in himmlischer Ruh!
+
+Schlaf in himmlischer Ruh!
+
+Stille Nacht, heilige Nacht,
+
+Hirten erst kundgemacht
+
+Durch der Engel Halleluja,
+
+Tönt es laut von fern und nah:
+
+Christ, der Retter ist da!
+
+Christ, der Retter ist da!
+
+Stille Nacht, heilige Nacht,
+
+Gottes Sohn, o wie lacht
+
+Lieb' aus deinem göttlichen Mund,
+
+Da uns schlägt die rettende Stund'.
+
+Christ, in deiner Geburt!
+
+Christ, in deiner Geburt!

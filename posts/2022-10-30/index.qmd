@@ -1,0 +1,38 @@
+---
+title: "Autumn Leaves"
+date: "2022-10-30T21:37:23"
+format: 
+  html: default
+image: "../img/les.jpg"
+categories:
+  - "2022"
+  - Les Paul
+  - Fingerstyle
+  - Chord melody
+---
+
+Measures: 1-9\
+Tempo: 40 bpm
+
+Fender Les Paul\
+Pickup Position: Neck\
+Master Volume: 6\
+Master Tone: 8
+
+Amplifier: Fender Mustang 1 \[Custom Deluxe Reverb\]\
+
+GarageBand:\
+Track: Tube Vocal\
+Master: TroubleInMind
+
+## Video
+
+{{< video https://youtu.be/9C2KfNPMTOk >}}
+
+{{< video https://youtu.be/c-cCNW73Qv0 >}}
+
+{{< video https://youtu.be/_H1PEWueekg >}}
+
+{{< video https://youtu.be/Qx9hQrYx-8c >}}
+
+{{< video https://youtu.be/86vKnTC8_QI >}}

@@ -1,0 +1,19 @@
+---
+title: "Strat is One Year Old"
+date: "2020-07-09T20:37:23"
+#date-modified: "2020-07-17T20:37:23"
+format: 
+  html: default
+image: "../img/strat.jpg"
+categories:
+  - "2020"
+  - Stratocaster
+---
+
+## Video
+
+{{< video https://youtu.be/jztZmxVOE_o >}}
+
+{{< video https://youtu.be/ThuHOBqDkh8 >}}
+
+{{< video https://youtu.be/bw7gavSZR0g >}}

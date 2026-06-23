@@ -1,0 +1,62 @@
+---
+title: "The Complete Guitar Manual Ex 7.1.2"
+date: "2025-04-12"
+#date-modified: "2023-07-10T20:37:23"
+#draft: true
+format: 
+  html: default
+image: "../img/jag.jpg"
+categories:
+  - "2025"
+  - Jaguar
+  - Fingerstyle
+  - Study
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+Tempo: 75-96 bpm\
+Page: 193
+
+## Video
+
+{{< video https://youtu.be/klU7Ub5GLQI >}}
+
+{{< video https://youtu.be/fAojlBiWz0A >}}
+
+```         
+Fender Jaguar
+
+Pickup Position: Neck
+Master Volume: ~9
+Master Tone: ~6
+
+Multi Effects Processor: Zoom G3Xn
+
+Preset: OFF
+
+Joyo Tremolo
+
+Intensity: 25%
+Rate: 25%
+
+Amplifier: Fender Blues Jr. III
+
+Volume: 4.0
+Fat: OFF
+Treble: 4.5
+Bass: 7.0
+Middle: 5.0
+Master: 5.0
+Reverb: 2.5
+
+Microphone
+
+Blue Yeti
+Gain: 10 o'clock Mode: Stereo, on desk near plant
+```
+
+## Lesson
+
+{{< video https://youtu.be/ZGuxqverDw8?si=WuOJ6O_Nm-lYzH2T >}}

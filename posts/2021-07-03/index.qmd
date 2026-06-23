@@ -1,0 +1,57 @@
+---
+title: "Arbutus Trail in Open D Minor"
+date: "2021-07-03T20:37:23"
+date-modified: "2021-07-18T20:37:23"
+format: 
+  html: default
+image: "../img/jag.jpg"
+categories:
+  - "2021"
+  - Jaguar
+  - Fingerstyle
+  - Travis picking
+  - Bottleneck slide
+  - Study
+---
+## Arbutus Trail 4
+G3Xn compressor settings: 7, Slow, 10, 31 + Tremolo + Tape Echo 3. Recorded with Logic Pro.
+
+{{< video https://youtu.be/_Ab02Tzjgf4 >}}
+
+## Arbutus Trail 3
+G3Xn compressor settings: 7, Slow, 10, 31. Recorded with Logic Pro and mastered using "MasterSlideJuly2021"
+
+{{< video https://youtu.be/4JVcoFyKNOo >}}
+
+## Arbutus Trail 2
+G3Xn compressor settings: 7, Slow, 10, 31. Recorded with Logic Pro and mastered using "MasterSlideJuly2021"
+
+{{< video https://youtu.be/CWbYCFnlwak >}}
+
+## Arbutus Trail 1
+Measures 1 - 12: 60 bpm. G3Xn compressor settings: 6, Slow, 6, 80. Recorded with Logic Pro and mastered using "MasterJazzJune2021"
+
+{{< video https://youtu.be/W0EvVF8CABY >}}
+
+{{< video https://youtu.be/GHQm-QqxSo8 >}}
+
+## Arbutus Trail 0
+A new piece. G3Xn compressor settings: 6, Slow, 6, 80. Recorded with Logic Pro and mastered using "MasterJazzJune2021"
+
+{{< video https://youtu.be/GHQm-QqxSo8 >}}
+
+{{< video https://youtu.be/iJkIc9o9Rgg >}}
+
+## Blues Techniques: Rakes, Triplets and Bass Notes
+
+{{< video https://youtu.be/h3bVFvueWPM >}}
+
+## Travis Picking
+
+{{< video https://youtu.be/sWQ0uSlGNfg >}}
+
+{{< video https://youtu.be/cf_eWc6IPZY >}}
+
+{{< video https://youtu.be/2RnVLLnxUOs >}}
+
+{{< video https://youtu.be/vSO1IIv58F4 >}}

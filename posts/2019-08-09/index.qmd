@@ -1,0 +1,43 @@
+---
+title: "Video Lessons"
+date: "2019-08-09T21:37:23"
+#draft: true
+format: 
+  html: default
+# image: "../img/les.jpg"
+image: "../img/strat.jpg"
+#image: "../img/tele.jpg"
+categories:
+  - "2019"
+  - Song
+---
+
+## Rumble
+
+{{< video https://youtu.be/WnPQK1huDOE >}}
+
+{{< video https://youtu.be/ioAOQCcJxUM >}}
+
+## Pipeline
+
+{{< video https://youtu.be/I_yXEjEhgxM >}}
+
+## California Stars
+
+{{< video https://youtu.be/7iEgtBGmI-g >}}
+
+{{< video https://youtu.be/kxuPw-vVxfE >}}
+
+[California Stars by Wilco and Billy Bragg](https://www.anyonecanplayguitar.co.uk/13-song-californis-stars-by-wilco-and-billy-bragg/)
+
+[California Stars](https://www.anyonecanplayguitar.co.uk/wp-content/uploads/2017/01/California-Stars.pdf)
+
+{{< video https://youtu.be/-0i9PxkxQQM >}}
+
+## Tremolo Picking
+
+{{< video https://youtu.be/loX-zYQJZ3Y >}}
+
+{{< video https://youtu.be/Ejf0VnCVs7w >}}
+
+[Better Tremolo Picking](https://www.anyonecanplayguitar.co.uk/better-tremolo-picking/)

@@ -1,0 +1,55 @@
+---
+title: "Happy Birthday Papa"
+subtitle: "Happy Birthday Papa 2026"
+date: "2026-05-29"
+date-modified: "2026-05-30"
+#draft: true
+format: 
+  html: default
+image: "../img/tele_mij.jpg"
+# image: "../img/les.jpg"
+# image: "../img/strat.jpg"
+# image: "../img/tele.jpg"
+categories:
+  - "2026"
+  - Telecaster
+  - Song
+---
+
+## Video
+
+{{< video https://youtu.be/b3_2a88uYqA >}}
+
+## Fender Telecaster
+
+Pickup Position: Neck\
+Master Volume: \~9\
+Master Tone: \~9
+
+## Zoom G3Xn
+
+040 Hot Twin (Master Level 10)
+
+## Joyo Tremolo
+
+Intensity: 25%\
+Rate: 25%
+
+## Fender Blues Jr. III
+
+Volume: 3.5\
+Fat: OFF\
+Treble: 4.5\
+Bass: 7.0\
+Middle: 9.0\
+Master: 3.5\
+Reverb: 2.0
+
+## Blue Yeti
+
+Gain: 9 o'clock\
+Mode: Cardioid mode, 12” from speaker, slightly off-axis
+
+## Dolby ON
+
+OFF

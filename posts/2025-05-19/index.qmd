@@ -1,0 +1,58 @@
+---
+title: "Hava Nagila"
+date: "2025-05-19"
+#date-modified: "2025-05-19"
+#draft: true
+format: 
+  html: default
+image: "../img/tele.jpg"
+categories:
+  - "2025"
+  - Telecaster
+  - Song
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+## Bars 1-8
+
+Tempo: Free
+
+### Video
+
+{{< video https://youtu.be/FR800B-e0iY >}}
+
+```         
+Fender Telecaster
+
+Pickup Position: Neck
+
+Master Volume: 9
+
+Master Tone: 9
+
+Zoom G3Xn
+
+Preset: OFF
+
+Joyo Tremolo
+
+Intensity: 25%
+Rate: 25%
+
+Fender Blues Jr. III
+
+Volume: 4.0
+Fat: OFF
+Treble: 4.5
+Bass: 7.0
+Middle: 5.0
+Master: 5.0
+Reverb: 2.5
+
+Blue Yeti
+
+Gain: 10 o'clock
+Mode: Stereo, on desk near plant
+```

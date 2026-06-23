@@ -1,0 +1,33 @@
+---
+title: "Black Swan Blues"
+date: "2021-05-08T20:37:23"
+date-modified: "2021-05-15T20:37:23"
+format: 
+  html: default
+image: "../img/tele.jpg"
+categories:
+  - "2021"
+  - Telecaster
+  - Fingerstyle
+  - Song
+---
+
+## Video
+
+{{< video https://youtu.be/fkl4rhHkV7Q >}}
+
+{{< video https://youtu.be/vlD3vC5LOLE >}}
+
+{{< video https://youtu.be/ISkc9B1LVIg >}}
+
+{{< video https://youtu.be/JVG7VUFbXYI >}}
+
+{{< video https://youtu.be/TyutsTM0Rcc >}}
+
+{{< video https://youtu.be/tfthHwNY7yo >}}
+
+{{< video https://youtu.be/yEv2jTRbW1M >}}
+
+{{< video https://youtu.be/RGF3-B2tpko >}}
+
+{{< video https://youtu.be/i-YEqJTjV2I >}}

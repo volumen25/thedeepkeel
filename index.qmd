@@ -1,0 +1,16 @@
+---
+title: "Ever So Slowly"
+listing:
+  contents: posts
+  sort: "date desc"
+  page-size: 5
+  type: default #table grid default
+  categories: cloud #numbered unnumbered cloud
+  feed:
+    items: 10
+  sort-ui: false
+  filter-ui: false
+  #fields: [date, title, description]
+page-layout: full
+title-block-banner: true
+---

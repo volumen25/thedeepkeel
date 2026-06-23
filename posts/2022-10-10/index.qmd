@@ -1,0 +1,43 @@
+---
+title: "Georgia on my Mind"
+date: "2022-10-10T21:37:23"
+date-modified: "2022-10-23T20:37:23"
+#draft: true
+format: 
+  html: default
+image: "../img/jag.jpg"
+categories:
+  - "2022"
+  - Jaguar
+  - Fingerstyle
+  - Chord melody
+---
+
+## Fender Jaguar
+
+Pickup Position: Neck\
+Master Volume: 6\
+Master Tone: 6
+
+## Amplifier
+
+Fender Mustang 1 *Custom Deluxe Reverb*
+
+## GarageBand
+
+Track: Jaguar TroubleInMind\
+Master: Master TroubleInMind
+
+## Video
+
+{{< video https://youtu.be/x4OwAynTEX0 >}}
+
+{{< video https://youtu.be/Z_NKkSekxoo >}}
+
+{{\< video https://youtu.be/5GmMxAhaFNU\> }}
+
+{{< video https://youtu.be/6eyKbbOdnsI >}}
+
+{{< video https://youtu.be/5GmMxAhaFNU >}}
+
+{{< video https://youtu.be/sWmeQxGRgbk >}}

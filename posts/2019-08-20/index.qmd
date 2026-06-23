@@ -1,0 +1,26 @@
+---
+title: "C Phrygian"
+date: "2019-08-20T21:37:23"
+#date-modified: "2019-07-29T20:37:23"
+#draft: true
+format: 
+  html: default
+# image: "../img/les.jpg"
+image: "../img/strat.jpg"
+#image: "../img/tele.jpg"
+categories:
+  - "2019"
+  - Stratocaster
+  - Theory
+---
+
+## Video
+
+{{< video https://youtu.be/8YHD_BajTp8 >}}
+
+C Phrygian is the third mode of the Ab major scale\
+C Phrygian Scale Notes: C Db Eb F G Ab Bb\
+Phrygian Scale Formula: 1 b2 b3 4 5 b6 b7\
+Phrygian Scale Intervals: H W W W H W W
+
+<img class="alignnone size-full wp-image-178" src="https://thedeepkeel.files.wordpress.com/2019/05/img_0029.jpg" alt="IMG_0029" width="1535" height="2049" />

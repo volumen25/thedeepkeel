@@ -1,0 +1,17 @@
+---
+title: "Victoria Park"
+date: "2020-07-18T20:37:23"
+#date-modified: "2020-07-17T20:37:23"
+format: 
+  html: default
+image: "../img/ami.jpg"
+categories:
+  - "2020"
+  - The Parlor
+---
+
+## Video
+
+{{< video https://youtu.be/ALGe5Nwx_Jg >}}
+
+{{< video https://youtu.be/dWRSPzAIs50 >}}

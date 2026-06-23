@@ -1,0 +1,21 @@
+---
+title: "Jaguar is home..."
+date: "2020-11-22T20:37:23"
+#date-modified: "2023-07-10T20:37:23"
+#draft: true
+format: 
+  html: default
+image: "../img/jag.jpg"
+# image: "../img/les.jpg"
+# image: "../img/strat.jpg"
+# image: "../img/tele.jpg"
+categories:
+  - "2020"
+  - Jaguar
+---
+
+[Jaguar](https://serhatbeyenir.quarto.pub/the-deep-keel/equipment.html#fender-jaguar)
+
+## Video
+
+{{< video https://youtu.be/6K_TbmrmiLY >}}

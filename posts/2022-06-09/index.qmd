@@ -1,0 +1,60 @@
+---
+title: "Nocturne 6 Section B1 - Bars 17 & 20"
+date: "2022-06-09T20:37:23"
+date-modified: "2022-06-15T20:37:23"
+format: 
+  html: default
+image: "../img/jag.jpg"
+categories:
+  - "2022"
+  - Jaguar
+  - Hybrid picking
+  - Study
+---
+
+Measures: 17-20\
+Tempo: very slow to learn fingering and chord progression
+
+{{< video https://youtu.be/_AYbNE5waS8 >}}
+
+{{< video https://youtu.be/WyhPC3SK8aQ >}}
+
+{{< video https://youtu.be/iRNpmxb9EgI >}}
+
+{{< video https://youtu.be/KNl-AxokI6Q >}}
+
+{{< video https://youtu.be/X3oxGFjlLHo >}}
+
+{{< video https://youtu.be/wqMAWrb8Jf0 >}}
+
+```         
+Guitar: Fender Jaguar
+Body Material: Alder
+Fingerboard Material: Pau Ferro
+Pickup Position: Neck
+Master Volume: 3
+Master Tone: 8
+
+Multi Effects Processor: Zoom G3Xn
+Master Volume: 20 
+Compressor: 6, Fast, 6, 80 ON
+Slab Back Delay: 20, 50, 50, Quarter note
+
+Joyo Tremolo
+Intensity: 25%
+Rate: 25%
+
+Amplifier: Fender Blues Jr. III
+Volume: 8.0
+Fat: OFF
+Treble: 6.5
+Bass: 6.5
+Middle: 6.5
+Master: 3.0
+Reverb: 5.0
+
+Microphone: Blue Yeti 
+Gain: 11 o'clock
+Mode: Stereo 
+120 cm away from centre
+```

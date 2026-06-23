@@ -1,0 +1,242 @@
+---
+title: "Freight Train"
+date: "2021-08-19T20:37:23"
+date-modified: "2021-08-31T20:37:23"
+format: 
+  html: default
+image: "../img/strat.jpg"
+categories:
+  - "2021"
+  - Stratocaster
+  - Study
+  - Fingerstyle
+---
+Metronom: 40 bpm\
+Measures: 9-11
+
+## Freight Train 6
+
+{{< video https://youtu.be/WtJaQIdyuSE >}}
+
+```
+Fender ’65 Deluxe Reverb
+Gain: 4.5
+Volume: 9.5
+Treble: 6.5
+Middle: 9.5
+Bass: 9.0
+Reverb: 2.9
+Speed: 1.8
+Intensity: 1.8
+Green Bank A
+
+GarageBand Mastering
+Direction Mixer: Phase Invert
+Channel EQ: Reduce Bass Boom
+Exciter: Add Silver
+Multipressor: Slow Attack 4-Band
+Limiter: For Classical Music
+Loudness Meter: -14 LUFS
+```
+
+## Freight Train 7
+Metronom: 60 bpm\
+Measures: 1-11
+
+{{< video https://youtu.be/n7rrXKPOHrI >}}
+
+```
+Fender ’65 Deluxe Reverb
+Gain: 4.5
+Volume: 9.5
+Treble: 6.5
+Middle: 9.5
+Bass: 9.0
+Reverb: 2.9
+Speed: 1.8
+Intensity: 1.8
+Green Bank A
+
+GarageBand Mastering
+Direction Mixer: Phase Invert
+Channel EQ: Reduce Bass Boom
+Exciter: Add Silver
+Multipressor: Slow Attack 4-Band
+Limiter: For Classical Music
+Loudness Meter: -14 LUFS
+```
+
+## Freight Train 8
+Metronom: 60 bpm\
+Measures: 1-11
+
+{{< video https://youtu.be/G6XYIm_hSfg >}}
+
+```
+Fender ’65 Deluxe Reverb
+Gain: 4.5
+Volume: 9.5
+Treble: 6.5
+Middle: 9.5
+Bass: 9.0
+Reverb: 2.9
+Speed: 1.8
+Intensity: 1.8
+Green Bank A
+
+GarageBand Mastering
+Direction Mixer: User Default 
+Channel EQ: Guitar Sweetener
+Space D: Small Space > Rooms > 0.3 s Jazz Guitar Room
+Exciter: Factory Default
+Multipressor: Extreme Deep Punch
+Limiter: For Classical Music
+Loudness Meter: -14 LUFS
+```
+
+## Freight Train 9
+Metronom: 70 bpm\
+Measures: 1-11
+
+{{< video https://youtu.be/zHLaWyHXJa8 >}}
+
+```
+Multi Effects Processor: Zoom G3Xn 
+Master Volume: 15
+Compressor: 8, Slow, 5, 50 OFF
+Tremolo: Tube, 50, 50, 70 OFF
+
+Amplifier: Fender Blues Jr. III
+Volume: 6.0
+Fat: OFF
+Treble: 9.0
+Bass: 4.0
+Middle: 6.0
+Master: 6.0
+Reverb: 1.0
+
+Microphone: Blue Yeti 
+Gain: 11 o'clock
+Mode: Omnidirectional
+
+GarageBand Master Track
+Direction Mixer: User Default 
+Channel EQ: Guitar Sweetener
+Space D: Small Space > Rooms > 0.3 s Jazz Guitar Room
+Exciter: Factory Default
+Multipressor: Extreme Deep Punch, OFF
+Limiter: For Classical Music
+Loudness Meter: -14 LUFS
+```
+## Freight Train 10
+Metronom: 70 bpm\
+Measures: 1-11
+
+{{< video https://youtu.be/TTqxetagJ_Y >}}
+
+```
+Multi Effects Processor: Zoom G3Xn OFF
+Master Volume: 15 
+Compressor: 8, Slow, 5, 50 OFF
+Tremolo: Tube, 50, 50, 70 OFF
+
+Amplifier: Fender ’65 Deluxe Reverb
+Gain: 4.5
+Volume: 9.5
+Treble: 6.5
+Middle: 9.5
+Bass: 9.0
+Reverb: 2.9
+Speed: 1.8
+Intensity: 1.8
+Green Bank A
+
+Microphone: Blue Yeti 
+Gain: 9 o'clock
+Mode: Omnidirectional
+
+GarageBand Master Track
+Direction Mixer: User Default 
+Channel EQ: Guitar Sweetener
+Space D: Small Space > Rooms > 0.3 s Jazz Guitar Room
+Exciter: Factory Default
+Multipressor: Fast Attack 4-Band, Master Gain -3.2
+Limiter: For Classical Music
+Loudness Meter: -14 LUFS
+```
+
+## Freight Train 11
+Metronom: 70 bpm\
+Measures: 1-13
+
+{{< video https://youtu.be/HEh4ecQK0Dg >}}
+
+```
+Multi Effects Processor: Zoom G3Xn OFF
+Master Volume: 15 
+Compressor: 8, Slow, 5, 50 OFF
+Tremolo: Tube, 50, 50, 70 OFF
+
+Amplifier: Fender ’65 Deluxe Reverb
+Gain: 4.5
+Volume: 9.5
+Treble: 6.5
+Middle: 9.5
+Bass: 9.0
+Reverb: 2.9
+Speed: 1.8
+Intensity: 1.8
+Green Bank A
+
+Microphone: Blue Yeti 
+Gain: 9 o'clock
+Mode: Omnidirectional
+
+GarageBand Master Track
+Direction Mixer: User Default 
+Channel EQ: Guitar Sweetener
+Space D: Small Space > Rooms > 0.3 s Jazz Guitar Room
+Exciter: Factory Default
+Multipressor: Fast Attack 4-Band, Master Gain -3.2
+Limiter: For Classical Music
+Loudness Meter: -14 LUFS
+```
+
+## Freight Train 12
+Metronom: Free\
+Measures: 1-13
+
+{{< video https://youtu.be/kF8TRuknOwk >}}
+
+```
+Multi Effects Processor: Zoom G3Xn OFF
+Master Volume: 15 
+Compressor: 8, Slow, 5, 50 OFF
+Tremolo: Tube, 50, 50, 70 OFF
+
+Amplifier: Fender ’65 Deluxe Reverb
+Gain: 4.5
+Volume: 9.5
+Treble: 6.5
+Middle: 9.5
+Bass: 9.0
+Reverb: 2.9
+Speed: 1.8
+Intensity: 1.8
+Green Bank A
+
+Microphone: Blue Yeti 
+Gain: 9 o'clock
+Mode: Omnidirectional
+
+GarageBand Master Track
+Direction Mixer: User Default 
+Channel EQ: Guitar Sweetener
+Space D: Small Space > Rooms > 0.3 s Jazz Guitar Room
+Exciter: Factory Default
+Multipressor: Fast Attack 4-Band, Master Gain -3.2
+Limiter: For Classical Music
+Loudness Meter: -14 LUFS
+```
+
+![](https://www.azquotes.com/picture-quotes/quote-the-zen-way-of-calligraphy-is-to-write-in-the-most-straightforward-simple-way-as-if-shunryu-suzuki-115-69-44.jpg)

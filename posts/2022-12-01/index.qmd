@@ -1,0 +1,77 @@
+---
+title: "Für Edith"
+date: "2022-12-01T20:37:23"
+date-modified: "2022-12-05T20:47:23"
+format: 
+  html: default
+image: "../img/les.jpg"
+categories:
+  - "2022"
+  - Les Paul
+  - Fingerstyle
+  - Song
+---
+
+Measures: All themes\
+Metronome: 1.1a-Free 1.2-69 bpm 1.2a-Free
+
+## Video
+
+{{< video https://youtu.be/sg7IFMJ0HO8 >}}
+
+{{< video https://youtu.be/cZVYqcPVdH0 >}}
+
+{{< video https://youtu.be/LUkmo-edQlg >}}
+
+
+## Gibson Les Paul
+
+Body: Plain Maple Top with a Mahogany Body\
+Fingerboard: Rosewood\
+Pickup Position: Neck\
+Master Volume: 3.5\
+Master Tone: 9.0
+
+## Zoom G3Xn
+
+Master Volume: 100 OFF\
+Compressor: 5, Fast, 5, 70 OFF\
+Tremolo: Tube, 30, 50, 80 OFF\
+Tape Echo Delay 3: 50, 29, 47, 80 OFF
+
+## Joyo Tremolo
+
+Intensity: 25%\
+Rate: 50%
+
+## Fender Blues Jr. III
+
+Volume: 8.5\
+Fat: OFF\
+Treble: 6.5\
+Bass: 6.5\
+Middle: 6.5\
+Master: 2.7\
+Reverb: 3.0
+
+## Blue Yeti
+
+Approx. 70 cm away from centre\
+Gain: 11 o'clock\
+Mode: Omnidirectional
+
+## 1.1a GarageBand Master Track
+
+Channel EQ: Final Mix - Ballad\
+Space D: Analog Pedal 1; 964 ms, mute, -2.0 dB\
+Limiter: For Classical Music: 4.5 dB 0.0 dB\
+Ozone Imager 2: 15.4 & 86\
+Loudness Meter: -14.7 LUFS
+
+## 1.2 GarageBand Master Track
+Channel EQ: Final Mix - Ballad\
+Space D: Analog Pedal 2; 1.93 s, mute, -1.4 dB\
+Multipressor: Extreme deep punch; -6.0\
+Limiter: For Vocals: -5.1 dB -0.5 dB\
+Ozone Imager 2: 15.4 & 86\
+Loudness Meter: -14.4 LUFS

@@ -1,0 +1,61 @@
+---
+title: "Silent Night"
+date: "2020-12-26T21:37:23"
+#date-modified: "2023-07-10T20:37:23"
+#draft: true
+format: 
+  html: default
+image: "../img/jag.jpg"
+categories:
+  - "2020"
+  - Jaguar
+  - Christmas
+---
+
+Silent night! Holy night!\
+All is calm, all is bright\
+Round yon virgin mother and child!\
+Holy infant, so tender and mild,\
+Sleep in heavenly peace!\
+Sleep in heavenly peace!\
+\
+Silent night! Holy night!\
+Shepherds quake at the sight!\
+Glories stream from heaven afar,\
+Heavenly hosts sing Alleluia!\
+Christ the Saviour is born!\
+Christ the Saviour is born!
+
+Silent night! Holy night!\
+Son of God, love's pure light\
+Radiant beams from thy holy face\
+With the dawn of redeeming grace,\
+Jesus, Lord, at thy birth!\
+Jesus, Lord, at thy birth!
+
+## Video
+
+{{< video https://youtu.be/-kTVHZUBQGw >}}
+
+{{< video https://youtu.be/42GXj6jebhs >}}
+
+Stille Nacht, heilige Nacht,\
+Alles schläft; einsam wacht\
+Nur das traute hochheilige Paar.\
+Holder Knabe im lockigen Haar,\
+Schlaf in himmlischer Ruh!\
+Schlaf in himmlischer Ruh!\
+
+Stille Nacht, heilige Nacht,\
+Hirten erst kundgemacht\
+Durch der Engel Halleluja,\
+Tönt es laut von fern und nah:\
+Christ, der Retter ist da!\
+Christ, der Retter ist da!\
+
+Stille Nacht, heilige Nacht,\
+Gottes Sohn, o wie lacht\
+Lieb' aus deinem göttlichen Mund,\
+Da uns schlägt die rettende Stund'.\
+Christ, in deiner Geburt!\
+Christ, in deiner Geburt!

@@ -1,0 +1,53 @@
+---
+title: "Sea to Sea Duet"
+date: "2024-11-03"
+#date-modified: "2024-10-24"
+format: 
+  html: default
+image: "../img/les.jpg"
+categories:
+  - "2024"
+  - Les Paul
+  - Study
+  - Scales
+  - MMG
+---
+
+## Guitar 2 Duet
+
+{{< video https://youtu.be/3nH_aggIAck >}}
+
+## Gibson Les Paul
+
+Pickup Position: Bridge\
+Master Volume: 5\
+Master Tone: 3
+
+## Zoom G3Xn
+
+Preset: 134 Jazz Fall
+
+## Joyo Tremolo OFF
+
+Intensity: 50%\
+Rate: 50%
+
+## Fender Blues Jr. III
+
+Volume: 8.0\
+Fat: OFF\
+Treble: 6.5\
+Bass: 6.0\
+Middle: 6.0\
+Master: 4.5\
+Reverb: 5.0
+
+## GarageBand
+
+Track: Natural Vocal
+
+Mix: Jazz
+
+## Lesson Part 1
+
+{{< video https://youtu.be/8O_DQwHrnH4?si=dX3l0YgKCcNP7LwI >}}

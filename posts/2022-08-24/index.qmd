@@ -1,0 +1,55 @@
+---
+title: "Nocturne"
+date: "2022-08-24T20:37:23"
+#date-modified: "2023-09-30T20:37:23"
+#draft: true
+format: 
+  html: default
+image: "../img/jag.jpg"
+# image: "../img/les.jpg"
+# image: "../img/strat.jpg"
+# image: "../img/tele.jpg"
+categories:
+  - "2022"
+  - Jaguar
+  - Fingerstyle
+  - Study
+---
+Measures: A4 (33-40)\
+Tempo: 70% of 110 bpm
+
+## Fender Jaguar
+Pickup Position: Neck\
+Master Volume: 2.5\
+Master Tone: 3.5
+
+## Multi Effects Processor
+Zoom G3Xn\
+Master Volume: 20\ 
+Compressor: 6, Fast, 6, 80 ON\
+Slab Back Delay: 20, 50, 50, Quarter note
+
+## Joyo Tremolo
+Intensity: 25%\
+Rate: 75%
+
+## Amplifier
+Fender Blues Jr. III\
+Volume: 8.0\
+Fat: OFF\
+Treble: 4.5\
+Bass: 7.0\
+Middle: 11.0\
+Master: 4.0\
+Reverb: 4.5
+
+## Microphone
+Blue Yeti\ 
+Gain: 11 o'clock\
+Mode: Stereo, on desk near iMac
+
+## Video
+
+{{< video https://youtu.be/l8VilnIiPBo >}}
+
+{{< video https://youtu.be/wqMAWrb8Jf0 >}}

@@ -1,0 +1,26 @@
+---
+title: "Tremolo Picking "
+date: "2019-08-23T21:37:23"
+date-modified: "2019-08-28T20:37:23"
+#draft: true
+format: 
+  html: default
+# image: "../img/les.jpg"
+image: "../img/strat.jpg"
+#image: "../img/tele.jpg"
+categories:
+  - "2019"
+  - Stratocaster
+---
+
+## Video
+
+{{< video https://youtu.be/VZRGI9G5Xew >}}
+
+{{< video https://youtu.be/cvy0JEYJ1sE >}}
+
+{{< video https://youtu.be/oAliDMXLSYU >}}
+
+{{< video https://youtu.be/NM95x3ggW7o >}}
+
+{{< video https://youtu.be/ENIC85y1ypE >}}

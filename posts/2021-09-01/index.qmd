@@ -1,0 +1,131 @@
+---
+title: "Freight Train"
+date: "2021-09-01T20:37:23"
+date-modified: "2021-09-11T20:37:23"
+format: 
+  html: default
+image: "../img/jag.jpg"
+categories:
+  - "2021"
+  - Jaguar
+  - Study
+  - Fingerstyle
+---
+
+Metronome: 80 bpm\
+Measures: 1-13\
+Measures: 13-16
+
+## Freight Train 13
+
+{{< video https://youtu.be/ffQ3qG7EvOc >}}
+
+## Freight Train 14
+
+{{< video https://youtu.be/1gTS4yhIFGA >}}
+
+```         
+Multi Effects Processor: Zoom G3Xn OFF
+Master Volume: 15 
+Compressor: 8, Slow, 5, 50 OFF
+Tremolo: Tube, 50, 50, 70 OFF
+
+Amplifier: Fender Blues Jr. III
+Volume: 6.0
+Fat: OFF
+Treble: 10.0
+Bass: 6.0
+Middle: 6.0
+Master: 4.0
+Reverb: 5.0
+
+Microphone: Blue Yeti 
+Gain: 10 o'clock
+Mode: Omnidirectional
+
+GarageBand Master Track
+Direction Mixer: User Default 
+Channel EQ: Guitar Sweetener
+Space D: Small Space > Rooms > 0.3 s Jazz Guitar Room
+Exciter: User Default OFF
+Compressor: Platinum Analog Tape
+Ozone Image: 13.7 & 70
+Limiter: For Classical Music, -3.7 & -2.0
+Loudness Meter: -14 LUFS
+```
+
+## Freight Train 15
+
+Metronome: 70 bpm\
+Measures: 1-16\
+
+{{< video https://youtu.be/Jw5GOOOjKOo >}}
+
+## Freight Train 16
+
+Metronome: 85 bpm\
+Measures: 1-24\
+
+{{< video https://youtu.be/uA6mJBznV98 >}}
+
+## Freight Train 17
+
+Metronome: 70 bpm\
+Measures: 1-24\
+
+{{< video https://youtu.be/9olqabmHqD0 >}}
+
+## Freight Train 18
+
+Metronome: free\
+Measures: 1-24\
+
+{{< video https://youtu.be/DBzWqNI7qVA >}}
+
+## Freight Train 19
+
+Metronome: 95 bpm\
+Measures: 1-24\
+
+{{< video https://youtu.be/IoSGW-S0GZs >}}
+
+## Freight Train 20
+
+Metronome: free\
+Measures: 1-24\
+
+{{< video https://youtu.be/0o4jnWjSQDA >}}
+
+```         
+Guitar: Fender Jaguar
+Body Material: Alder
+Fingerboard Material: Pau Ferro
+Pickup Position: 3 (neck)
+Master Volume: 4
+Master Tone: 6
+
+Multi Effects Processor: Zoom G3Xn
+Master Volume: 100 
+Compressor: 7, Slow, 7, 70 OFF
+Tremolo: Tube, 20, 50, 80
+
+Amplifier: Fender Blues Jr. III
+Volume: 6.5
+Fat: OFF
+Treble: 6.5
+Bass: 6.5
+Middle: 6.5
+Master: 4.0
+Reverb: 1.0
+
+Microphone: Blue Yeti 70 cm away from centre
+Gain: 11 o'clock
+Mode: Omnidirectional
+
+GarageBand Master Track
+Compressor: Platinum Analog Tape: -12.5 dB 1.6:1 47.0 ms 1.5 dB OFF
+Channel EQ: Guitar Sweetener 
+Limiter: Limiter preset 1: 0.0 dB -3.0 dB
+Ozone Imager 2: 15.4 & 58
+Loudness Meter: -14 LUFS
+```

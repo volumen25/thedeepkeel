@@ -1,0 +1,164 @@
+---
+title: "Ue o Muite Arukō (Sukiyaki)"
+date: "2020-01-03T21:37:23"
+#date-modified: "2019-11-10T21:37:23"
+#draft: true
+format: 
+  html: default
+# image: "../img/les.jpg"
+image: "../img/strat.jpg"
+#image: "../img/tele.jpg"
+categories:
+  - "2020"
+  - Stratocaster
+  - Song
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+## Video
+
+{{< video https://youtu.be/1P91O6fAb8A >}}
+
+**I look up while I walk**
+
+**So the tears won't fall**
+
+**Remembering those spring days**
+
+**But tonight I'm all alone**
+
+**I look up while I walk**
+
+**Counting the stars with teary eyes**
+
+**Remembering those summer days**
+
+**But tonight I'm all alone**
+
+**Happiness lies beyond the clouds**
+
+**Happiness lies above the sky**
+
+**I look up while I walk**
+
+**So the tears won't fall**
+
+**I cry while I walk**
+
+**For I am alone tonight**
+
+**Remembering those autumn days**
+
+**But tonight I'm all alone**
+
+**Sadness hides in the shadow of the stars**
+
+**Sadness hides in the shadow of the moon**
+
+**I look up while I walk**
+
+**So the tears won't fall**
+
+**My heart is filled with sorrow**
+
+**For tonight I am alone**
+
+**For tonight I am alone**
+
+------------------------------------------------------------------------
+
+**Ue o muite arukō**
+
+**Namida ga koborenai youni**
+
+**Omoidasu haruno hi**
+
+**Hitoribocchi no yoru**
+
+**Ue o muite arukō**
+
+**Nijinda hoshi o kazoete**
+
+**Omoidasu natsuno hi**
+
+**Hitoribocchi no yoru**
+
+**Shiawase wa kumo no ueni**
+
+**Shiawase wa sora no ueni**
+
+**Ue o muite arukō**
+
+**Namida ga koborenai youni**
+
+**Nakinagara aruku**
+
+**Hitoribocchi no yoru**
+
+**Omoidasu akino hi**
+
+**Hitoribocchi no yoru**
+
+**Kanashimi wa hoshino kageni**
+
+**Kanashimi wa tsukino kageni**
+
+**Ue o muite arukō**
+
+**Namida ga koborenai youni**
+
+**Nakinagara aruku**
+
+**Hitoribocchi no yoru**
+
+**Hitoribocchi no yoru**
+
+------------------------------------------------------------------------
+
+**上を向いて歩こう**
+
+**涙が零れないように**
+
+**思い出す春の日**
+
+**一人ぼっちの夜**
+
+**上を向いて歩こう**
+
+**滲んだ星をか数えて**
+
+**思い出す夏の日**
+
+**一人ぼっちの夜**
+
+**幸せは雲の上に**
+
+**幸せは空の上に**
+
+**上を向いて歩こう**
+
+**涙が零れないように**
+
+**泣きながら歩く**
+
+**一人ぼっちの夜**
+
+**思い出す秋の日**
+
+**一人ぼっちの夜**
+
+**悲しみは星の影に**
+
+**悲しみは月の影に**
+
+**上を向いて歩こう**
+
+**涙が零れないように**
+
+**泣きながら歩く**
+
+**一人ぼっちの夜**
+
+**一人ぼっちの夜**

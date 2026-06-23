@@ -1,0 +1,56 @@
+---
+title: "Canon in D"
+date: "2024-09-22T15:01:23"
+date-modified: "2024-10-01T16:01:23"
+format: 
+  html: default
+image: "../img/tele.jpg"
+categories:
+  - "2024"
+  - Telecaster
+  - Fingerstyle
+  - Song
+  - Study
+---
+
+Tuning: Dropped D (Low E-string to D)
+
+## Bars 1 - 10 Tempo 40 bpm
+
+{{< video https://youtu.be/RliMMdLUuqU >}}
+
+## Bars 1 - 9 Tempo 30 bpm
+
+{{< video https://youtu.be/Sbkc2bmc3IE >}}
+
+## Bars 1 - 10 Tempo very slow
+
+{{< video https://youtu.be/RBkqTgD0S7c >}}
+
+## Fender Telecaster
+
+Pickup Position: 5\
+Master Volume: 9\
+Master Tone: 6
+
+## Joyo Tremolo
+
+Intensity: 50%\
+Rate: 50%
+
+## Fender Blues Jr. III
+
+Volume: 8.0\
+Fat: OFF\
+Treble: 6.5\
+Bass: 6.0\
+Middle: 6.0\
+Master: 4.5\
+Reverb: 5.0
+
+## Blue Yeti
+
+Gain: 9 o'clock\
+Mode: Stereo, on desk near plant
+
+{{< video https://youtu.be/M1tZ9mMHUas?si=heb33NktckgRdlKw >}}

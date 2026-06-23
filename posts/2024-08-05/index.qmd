@@ -1,0 +1,58 @@
+---
+title: "Canon in D"
+date: "2024-08-05T15:01:23"
+#date-modified: "2024-08-05T16:01:23"
+format: 
+  html: default
+image: "../img/strat.jpg"
+categories:
+  - "2024"
+  - Stratocaster
+  - Fingerstyle
+  - Song
+  - Study
+---
+
+Tuning: Dropped D (Low E-string to D)
+
+Tempo: 40 bpm
+
+## Video
+
+{{< video https://youtu.be/C0yCKtmSld0 >}}
+
+Tempo: 60 bpm
+
+{{< video https://youtu.be/b6d30ysKi5Y >}}
+
+## Fender Stratocaster
+
+Pickup Position: 5\
+Master Volume: 9\
+Master Tone: 6
+
+## Zoom G3Xn
+
+Preset: 147 Jazz Summer
+
+## Joyo Tremolo
+
+Intensity: 0%\
+Rate: 0%
+
+## Fender Blues Jr. III
+
+Volume: 8.0\
+Fat: OFF\
+Treble: 6.5\
+Bass: 6.0\
+Middle: 6.0\
+Master: 5.0\
+Reverb: 5.0
+
+## Blue Yeti
+
+Gain: 9 o'clock\
+Mode: Stereo, on desk near plant
+
+{{< video https://youtu.be/XKam6mdRrBk?si=c523zzLYhdivf6dp >}}

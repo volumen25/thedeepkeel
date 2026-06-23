@@ -1,0 +1,33 @@
+---
+title: "Emancipation Blues"
+date: "2020-08-20T20:37:23"
+date-modified: "2020-08-26T20:47:23"
+format: 
+  html: default
+image: "../img/tele.jpg"
+categories:
+  - "2020"
+  - Telecaster
+  - Fingerstyle
+  - Study
+---
+
+## Video
+
+{{< video https://youtu.be/Kf9O04AMD5I >}}
+
+{{< video https://youtu.be/GT03ygeVXWk >}}
+
+{{< video https://youtu.be/dG1xGcYGEGc >}}
+
+{{< video https://youtu.be/WWBjFuzGMrA >}}
+
+{{< video https://youtu.be/7H3cHfV8rXI >}}
+
+{{< video https://youtu.be/_R3zFXFVTlo >}}
+
+{{< video https://youtu.be/ZtnzdgnjHyo >}}
+
+{{< video https://youtu.be/YISbZtXjMz0 >}}
+
+{{< video https://youtu.be/_R3zFXFVTlo >}}

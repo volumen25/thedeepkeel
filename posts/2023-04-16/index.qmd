@@ -1,0 +1,54 @@
+---
+title: "Nocturne"
+date: "2023-April-16"
+#date-modified: "2023-June-xx"
+format: 
+  html: default
+image: "../img/strat.jpg"
+categories:
+  - "2023"
+  - Stratocaster
+  - Hybrid picking
+  - Song
+  - Study
+---
+
+Tempo: Free bpm\
+Measures: 1-8
+
+## Video
+
+{{< video https://youtu.be/zeOsX1zRWyQ >}}
+
+## Fender Stratocaster
+
+Pickup Position: Neck\
+Master Volume: \~6\
+Master Tone: \~6
+
+## Multi Effects Processor: Zoom G3Xn
+
+Master Volume: 100\
+Compressor: 5, Fast, 5, 70 ON\
+Slab Back Delay: 20, 50, 50, Quarter note\
+Tremolo: Tube, 30, 50, 80 OFF
+
+## Joyo Tremolo
+
+Intensity: 75%\
+Rate: 75%
+
+## Amplifier: Fender Blues Jr. III
+
+Volume: 8.0\
+Fat: OFF\
+Treble: 6.5\
+Bass: 6.5\
+Middle: 6.5\
+Master: 3.0\
+Reverb: 5.0
+
+## Microphone
+
+Blue Yeti Gain: 11 o'clock\
+Mode: Omnidirectional, on desk near plant

@@ -1,0 +1,279 @@
+---
+title: "Week12"
+subtitle: "Like a Rolling Stone"
+date: "2025-09-14"
+#date-modified: "2025-08-31"
+format: 
+  html: default
+image: "../img/jag.jpg"
+categories:
+  - "2025"
+  - Jaguar
+  - Practice
+  - TGIAY
+  - Song
+---
+
+Tempo up to 90 bpm
+
+Primary focus: Am pentatonic scale, Cycle of Fourths on A string for note recognition and *Like a Rolling Stone* (Bob Dylan / Mike Bloomfield)
+
+Practice with discipline, but without friction, maintaining a calm and steady approach. Take each step deliberately to enter the flow state where progress unfolds. Though progress is not the goal, it arises as a consequence of unintended outcomes. This is the ultimate state of mind, the one that brings true contentment.
+
+## Day 1 – Note Recognition & Am Pentatonic
+
+**Warm-up (5 min)**: Spider walk, slow muted strums with metronome.
+
+**Note Recognition (10 min)**
+
+C major pentatonic = C D E G A
+
+A minor pentatonic = A C D E G
+
+(same notes, different tonal centre → relative scales).
+
+In 5th–8th fret region:
+
+-   Use pinky when visualizing/playing C major pentatonic.
+-   Use index when visualizing/playing A minor pentatonic.
+
+A Minor Pentatonic (roots = A)
+
+```         
+e|--5(A)-----8---------|
+B|--5--------8---------|
+G|--5------7-----------|
+D|--5------7(A)--------|
+A|--5------7-----------|
+E|--5(A)-----8---------|
+```
+
+C Major Pentatonic (roots = C)
+
+```         
+e|--5---------8(C)-----|
+B|--5---------8--------|
+G|--5(C)---7-----------|
+D|--5------------------|
+A|--5------7-----------|
+E|--5---------8(C)-----|
+```
+
+-   Cycle of Fourths on A string (60 → 80 bpm).
+-   Review E string at 60 bpm.
+
+**Scales (10 min)**
+
+-   C major pentatonic (pinky anchor).
+
+-   Am pentatonic in same position (index anchor).
+
+-   Recognize overlap → say notes aloud.
+
+-   *Frisell prompt: Space and Silence — play 2–3 notes, then pause for 2 beats.*
+
+**Song (20 min)**: Like a Rolling Stone intro (C → Fmaj7/C). Play slowly with metronome at 50 bpm.
+
+**Rotating Songs (5 min)**: Blues shuffle in A and Hava Nagila.
+
+**Cooldown (5 min)** - Soft open C chord, let sustain.
+
+## Day 2 – A Section
+
+**Warm-up (5 min)**: Spider walk across neck.
+
+**Note Recognition (10 min)**
+
+-   Cycle of Fourths on A string (up to 90 bpm).
+
+-   Quick E string cycle (60 bpm).
+
+```         
+Circle of Fourths — Low E string (starting from C, quarter notes)
+
+E|--8--1--6--11--4--9--2--7--0--5--10--3--8--
+    C  F  Bb Eb  Ab Db F# B  E  A   D  G  C
+```
+
+```         
+Circle of Fourths — A string (starting from C, quarter notes)
+
+A|--3--8--1--6---11--4--9---2--7--0--5--10--3--
+    C  F  Bb Eb  Ab  Db F#  B  E  A  D   G  C
+```
+
+**Scales (10 min)** -
+
+-   One-octave Cmaj ↔ Am pentatonic, alternating.
+
+-   One note per click at 50 bpm.
+
+-   *Frisell prompt: Broken Chords — outline small fragments (C–E–G or A–C–E), let notes ring.*
+
+**Song (20 min)**: A Section chords: C–Dm–Em–F–G. Play with backing track, slow tempo.
+
+**Rotating Songs (5 min)**: Happy Birthday and Hava Nagila.
+
+**Cooldown (5 min)**: Open G chord, soft strum.
+
+## Day 3 – B Section
+
+**Warm-up (5 min)**: Spider walk + smooth position shifts.
+
+**Note Recognition (10 min)**
+
+-   Cycle of Fourths on A string → aim for 90 bpm.
+
+-   E string quick review.
+
+**Scales (10 min)**
+
+-   Am pentatonic, 2 octaves, index anchor.
+
+-   Add slides into upper register.
+
+-   *Frisell prompt: Double-Stops, add simple dyads (e.g., 5th fret G + B, 7th fret D + G).*
+
+**Song (20 min)**: Focus on B Section chords. Build slowly → play with backing track.
+
+**Rotating Songs (5 min)**: Amazing Grace and Hava Nagila.
+
+**Cooldown (5 min)**: Low C note (8th fret, E string).
+
+## Day 4 – Linking Intro + A Section
+
+**Warm-up (5 min)**: Spider walk + finger stretches (1–3–5).
+
+**Note Recognition (10 min)**: Cycle of Fourths on A string, steady 80–90 bpm.
+
+**Scales (10 min)**
+
+-   Shift mid-phrase: Cmaj → Am pentatonic.
+
+-   Focus on awareness of “pinky vs index” anchor.
+
+-   *Frisell prompt: Wide Intervals — skip strings while ascending, create open sound.*
+
+**Song (20 min)**: Intro + A Section together. Backing track at 60 bpm, increase gradually.
+
+**Rotating Songs (5 min)**: Hava Nagila.
+
+**Cooldown (5 min)**: Arpeggiate C chord slowly.
+
+## Day 5 – Song Skeleton (Intro + A + B)
+
+**Warm-up (5 min)**: Spider walk + muted strums.
+
+**Note Recognition (10 min)**: Cycle of Fourths: alternate A + E strings.
+
+**Scales (10 min)**
+
+-   Am pentatonic phrasing: 2–3 note ideas with pauses.
+
+-   *Frisell prompt: Dynamic Swells — play single notes quietly, then swell volume.*
+
+**Song (20 min)**: Play Intro → A Section → B Section. Very slow tempo with backing track.
+
+**Rotating Songs (5 min)**: Hava Nagila.
+
+**Cooldown (5 min)**: Open F chord, let ring.
+
+## Day 6 – Endings
+
+**Warm-up (5 min)**: Spider walk + neck slides.
+
+**Note Recognition (10 min)**: Cycle of Fourths, A string, up to 90 bpm.
+
+**Scales (10 min)**
+
+-   Call-and-response: Cmaj pentatonic phrase → Am pentatonic phrase.
+
+-   *Frisell prompt: Slides and Ghost Notes — slide between scale tones, add muted plucks.*
+
+**Song (20 min)**: Work on Ending 1 + Ending 2 separately. Loop A + B section into endings.
+
+**Rotating Songs (5 min)**: Hava Nagila.
+
+**Cooldown (5 min)**: G chord drone.
+
+## Day 7 – Integration + Simulated Performance
+
+**Pre-Performance Ritual (5 min)**
+
+1.  Grounding breath (inhale 4, hold 2, exhale 6).
+
+2.  Open string meditation (C note).
+
+3.  Mental cue: “This is practice, not performance.”
+
+**Warm-up (5 min)**: Spider + chord strums.
+
+**Note Recognition (10 min)**: A + E string cycles, steady 80–100 bpm.
+
+**Scales (10 min)**
+
+-   Play Cmaj → Am pentatonic in 2 positions.
+
+-   Free improv for 2–3 minutes.
+
+-   *Frisell prompt: Drone + Melody or Less is More — hold low C/A drone, or restrict to 3 notes only.*
+
+**Song (20 min)**
+
+-   Record performance.
+
+-   Full play through: Intro + A + B + Ending 1 + Ending 2.
+
+-   First with slow backing track → normal tempo.
+
+-   Then play with original recording.
+
+**Rotating Songs (5 min)**: Hava Nagila.
+
+**Cooldown (5 min)**
+
+-   Drone on C + G.
+
+-   Journal 1–2 lines:
+
+    -   “One sound I enjoyed today was…”
+
+    -   “Next week I’ll explore more of…”
+
+## Recorded Performance
+
+{{< video https://youtu.be/U6nilIZM2jw >}}
+
+## Fender Jaguar
+
+Pickup Position: Neck\
+Master Volume: 9\
+Master Tone: 5
+
+## Zoom G3Xn
+
+Preset: OFF
+
+## Joyo Tremolo
+
+Intensity: 25%\
+Rate: 25%
+
+## Fender Blues Jr. III
+
+Volume: 4.0\
+Fat: OFF\
+Treble: 5.0\
+Bass: 7.0\
+Middle: 5.0\
+Master: 3.0\
+Reverb: 3.0
+
+## Blue Yeti
+
+Gain: 10 o'clock\
+Mode: Cardioid mode, 18” from speaker, slightly off-axis
+
+## Lesson Video
+
+{{< video https://youtu.be/ahKEANqQrpw?si=Ibb2do4BnL8ApW3r >}}

@@ -1,0 +1,68 @@
+---
+title: "White Christmas Phrases 1, 2 & 3"
+date: "2024-03-09T20:37:23"
+#date-modified: "2024-02-19T20:37:23"
+format: 
+  html: default
+image: "../img/strat.jpg"
+categories:
+  - "2024"
+  - Stratocaster
+  - Fingerstyle
+  - Song
+  - Study
+  - Christmas
+  - Chord melody
+---
+
+Tempo: free
+
+**Phrase 1**\
+**Bar 1:** C∆7 Dm7 F♯13\
+**Bar 2:** Dm7 D♯ø Em7
+
+**Phrase 2**\
+**Bar 3:** F∆7 G9\
+**Bar 4:** C∆7 E♭7 Dm11 G9sus4 G9\
+**Bar 5:** C∆7 C7
+
+**Phrase 3**\
+**Bar 6:** F6/9 Fm6\
+**Bar 7:** C∆7 Dm7 G9\
+**Bar 8:** Dm7 G7
+
+## Video
+
+{{< video https://youtu.be/bm-cEq6EdYk?si=QkqhKnoDoDOnx_BU >}}
+
+## Fender Stratocaster
+
+Pickup Position: Neck\
+Master Volume: 8\
+Master Tone: 3
+
+## Zoom G3Xn
+
+Preset: 147 Jazz Summer
+
+## Joyo Tremolo
+
+Intensity: 25%\
+Rate: 25%
+
+## Fender Blues Jr. III
+
+Volume: 8.0\
+Fat: OFF\
+Treble: 6.5\
+Bass: 6.0\
+Middle: 6.0\
+Master: 3.0\
+Reverb: 5.0
+
+## Blue Yeti
+
+Gain: 9 o'clock\
+Mode: Stereo, on desk near plant
+
+{{< video https://youtu.be/MpxE1P9fYeQ?si=p6TFe9ngW8rmvPsi >}}

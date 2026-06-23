@@ -1,0 +1,18 @@
+---
+title: "Blues for Capt. Grant"
+date: "2020-09-06T20:37:23"
+date-modified: "2020-09-12T20:47:23"
+format: 
+  html: default
+image: "../img/strat.jpg"
+categories:
+  - "2020"
+  - Stratocaster
+  - Fingerstyle
+---
+
+## Video
+
+{{< video https://youtu.be/zLyRxlZX8Wg >}}
+
+![](https://thedeepkeel.files.wordpress.com/2020/09/3cbcd93f-68c5-4ba1-a4bb-cee3d20a7b7c.jpeg)

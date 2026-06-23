@@ -1,0 +1,16 @@
+---
+title: "Blues in E, Open D Tuning"
+date: "2019-07-17T21:37:23"
+#date-modified: "2019-07-25T20:37:23"
+#draft: true
+format: 
+  html: default
+image: "../img/ami.jpg"
+categories:
+  - "2019"
+  - The Parlor
+---
+
+## Video
+
+{{< video https://youtu.be/3_0E_A3R0mI >}}

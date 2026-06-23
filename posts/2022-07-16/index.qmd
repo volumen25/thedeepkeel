@@ -1,0 +1,62 @@
+---
+title: "Nocturne 1-32"
+date: "2022-07-16T19:16:23"
+#date-modified: "2023-07-10T20:37:23"
+draft: false
+format: 
+  html: default
+image: "../img/les.jpg"
+
+categories:
+  - "2022"
+  - Les Paul
+  - Hybrid picking
+  - Song
+  - Study
+---
+
+Tempo: Approx. 80 bpm\
+Measures: 1 - 32
+
+## Video
+
+{{< video https://youtu.be/PWrg_g7oZoo >}}
+
+## Gibson Les Paul
+
+Pickup Position: Neck\
+Master Volume: 2.5\
+Master Tone: 3.5
+
+## Multi Effects Processor: Zoom G3Xn
+
+Master Volume: 20\
+Compressor: 6, Fast, 6, 80 ON\
+Slab Back Delay: 20, 50, 50, Quarter note
+
+## Joyo Tremolo
+
+Intensity: 75%\
+Rate: 75%
+
+## Amplifier: Fender Blues Jr. III
+
+Volume: 8.0\
+Fat: OFF\
+Treble: 6.5\
+Bass: 6.5\
+Middle: 6.5\
+Master: 3.0\
+Reverb: 5.0
+
+## Microphone
+
+Blue Yeti\
+Gain: 11 o'clock\
+Mode: Stereo, on the floor, approx. 1 m from amp.
+
+### Nocturne
+
+"My tastes," he said, still smiling, "incline me to the garishly sunlit side of this planet." And, to tease her and arouse her to combat: "I prefer a farandole to a nocturne; I'd rather have a painting than an etching; Mr. Whistler bores me with his monochromatic mud; I don't like dull colours, dull sounds, dull intellects; \[...\]."
+
+For all its grace, charm, and apparent simplicity, \[Frédéric\] Chopin's Nocturne in E♭ major, Op. 9, No. 2, poses fundamental problems on close inspection. The fact that so many analyses of the piece -- including those of Heinrich Schenker and Felix Salzer -- fail to explain certain idiosyncratic aspects, in particular an unusual distribution of structural weight, gives some indication of the Nocturne's complexities at a profound level.

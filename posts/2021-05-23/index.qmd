@@ -1,0 +1,58 @@
+---
+title: "Für Edith"
+date: "2021-05-23T20:37:23"
+date-modified: "2021-05-29T20:37:23"
+#draft: true
+format: 
+  html: default
+#image: "../img/jag.jpg"
+# image: "../img/les.jpg"
+image: "../img/strat.jpg"
+# image: "../img/tele.jpg"
+categories:
+  - "2021"
+  - Stratocaster
+  - Fingerstyle
+  - Song
+  - Study
+  - Bottleneck slide
+---
+
+Bottleneck slide, Travis picking, open D tuning, 12-bar blues.
+
+## Video
+
+{{< video https://youtu.be/2zScvf-KC5o >}}
+
+{{< video https://youtu.be/DDWKzmR0cs0 >}}
+
+{{< video https://youtu.be/BKPimE93FjQ >}}
+
+{{< video https://youtu.be/s61eV0zJ1qg >}}
+
+{{< video https://youtu.be/n0iPt7P67u0 >}}
+
+{{< video https://youtu.be/VIrf6D8cI9s >}}
+
+{{< video https://youtu.be/-LDVGcPVkxA >}}
+
+{{< video https://youtu.be/XAJFqjZS6yA >}}
+
+### Open D tuning
+
+D-A-D-F#-A-D (low to high)
+
+...hint: it\'s a D major chord
+
+Nothing quite beats that deep low down dirty blues sound of **open D tuning**. The guitar is tuned to the same pitch as an **open D** major chord (D, F#, A), but unlike **open G tuning** the root of the chord is on the sixth string (lowest string). This opens up some great opportunities for some real deep and dirty sounding blues.  **Open D** is an extremely popular open tuning for **slide guitar.** Being used by some of those old blues cats such as **Elmore James**, **Tampa Red** & **Kokomo Arnold**, even modern day artist such as **Bob Dylan** and **Joni Mitchell** made use of this tuning. 
+
+
+{{< video https://youtu.be/AqjKj-SkPc8 >}}
+
+{{< video https://youtu.be/xlkYKjxJFBE >}}
+
+{{< video https://youtu.be/Vbkt1l6sI8g >}}
+
+{{< video https://youtu.be/VMHbxHXr7Hk >}}
+
+

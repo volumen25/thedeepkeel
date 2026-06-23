@@ -1,0 +1,99 @@
+---
+title: "We're Going To Be Friends"
+subtitle: "We're Going To Be Friends Revisited in 2026"
+date: "2026-04-19"
+date-modified: "2026-05-30"
+#draft: true
+format: 
+  html: default
+image: "../img/tele_mij.jpg"
+# image: "../img/les.jpg"
+# image: "../img/strat.jpg"
+# image: "../img/tele.jpg"
+categories:
+  - "2026"
+  - Telecaster
+  - Fingerstyle
+  - Song
+  - Study
+---
+
+## Tablature: We're Going To Be Friends
+
+[Download](tab.pdf)
+
+## Tempo: 90 bpm
+
+<audio controls>
+
+<source src="WereGoingToBeFriends90.m4a" type="audio/mpeg">
+
+</audio>
+
+## Audio: 60 bpm
+
+<audio controls>
+
+<source src="Friends2026-05-10.mp3" type="audio/mpeg">
+
+</audio>
+
+## Tempo: 60 bpm
+
+<audio controls>
+
+<source src="WereGoingToBeFriends.m4a" type="audio/mpeg">
+
+</audio>
+
+## Video
+
+Video Tempo: 90%
+
+{{< video https://youtu.be/WD8IF7F4Pqo >}}
+
+{{< video https://youtu.be/9yIxlU_rvZM >}}
+
+Video Tempo: 85%
+
+{{< video https://youtu.be/GfFeaY80HKw >}}
+
+{{< video https://youtu.be/6_rLrDdiXQw >}}
+
+{{< video https://youtu.be/pR4SND3MU1M?si=mYdvhhhDA2AbdSxv >}}
+
+{{< video https://youtu.be/xV6Aztix67U?si=ayUQv_c6ugdIdEI6 >}}
+
+## Fender Telecaster
+
+Pickup Position: Neck\
+Master Volume: \~9\
+Master Tone: \~10
+
+## Zoom G3Xn
+
+035 EarlyBrits
+
+## Joyo Tremolo
+
+Intensity: 25%\
+Rate: 25%
+
+## Fender Blues Jr. III
+
+Volume: 3.5\
+Fat: OFF\
+Treble: 4.5\
+Bass: 7.0\
+Middle: 5.0\
+Master: 3.5\
+Reverb: 2.0
+
+## Blue Yeti
+
+Gain: 9 o'clock\
+Mode: Cardioid mode, 12” from speaker, slightly off-axis
+
+## Dolby ON
+
+OFF

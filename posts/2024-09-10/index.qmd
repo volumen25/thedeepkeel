@@ -1,0 +1,53 @@
+---
+title: "You Ain’t Goin’ Nowhere"
+date: "2024-09-10T15:01:23"
+#date-modified: "2024-08-05T16:01:23"
+format: 
+  html: default
+image: "../img/tele.jpg"
+categories:
+  - "2024"
+  - Telecaster
+  - Song
+  - Study
+---
+
+Tempo: Free
+
+## Video
+
+{{< video https://youtu.be/MIbUNSrFW5o >}}
+
+Tempo: 110 bpm
+
+{{< video https://youtu.be/BYj6jpl7e8Q >}}
+
+## Fender Telecaster
+
+Pickup Position: 4\
+Master Volume: 9\
+Master Tone: 6
+
+## Zoom G3Xn
+
+**OFF**: Preset: 147 Jazz Summer
+
+## Joyo Tremolo
+
+Intensity: 50%\
+Rate: 50%
+
+## Fender Blues Jr. III
+
+Volume: 8.0\
+Fat: OFF\
+Treble: 6.5\
+Bass: 6.0\
+Middle: 6.0\
+Master: 5.0\
+Reverb: 5.0
+
+## Blue Yeti
+
+Gain: 9 o'clock\
+Mode: Stereo, on desk near plant

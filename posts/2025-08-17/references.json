@@ -1,0 +1,30 @@
+[
+  {
+    "id": "leavitt2020",
+    "ISBN": "978-0-87639-199-0",
+    "author": [
+      {
+        "family": "Leavitt",
+        "given": "William"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          1
+        ]
+      ]
+    },
+    "key": "L5BL6I7P",
+    "language": "English",
+    "libraryid": "1",
+    "number-of-pages": "424",
+    "providerkey": "Zotero",
+    "publisher": "Berklee Press",
+    "source": "Amazon",
+    "title": "A Modern Method for Guitar - Complete Method Book/Online Media",
+    "type": "book"
+  }
+]

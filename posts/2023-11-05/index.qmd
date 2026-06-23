@@ -1,0 +1,56 @@
+---
+title: "White Christmas Phrase 2"
+date: "2023-11-05T20:37:23"
+#date-modified: "2023-10-29T20:47:23"
+format: 
+  html: default
+image: "../img/les.jpg"
+categories:
+  - "2023"
+  - Les Paul
+  - Fingerstyle
+  - Song
+  - Study
+  - Christmas
+  - Chord melody
+---
+
+Bar3: Fmaj7 G9\
+Bar4: Cmaj7 Eb7 Dmin11 G9sus4 G9\
+Bar5: Cmaj7 C7
+
+## Video
+
+{{< video https://youtu.be/ZkCeYwm8REc >}}
+
+## Gibson Les Paul
+
+Pickup Position: Neck\
+Master Volume: 6\
+Master Tone: 7\
+
+## Multi Effects Processor: Zoom G3Xn
+
+Preset 145: Archtop
+
+## Joyo Tremolo
+
+Intensity: 25%\
+Rate: 25%
+
+## Amplifier: Fender Blues Jr. III
+
+Volume: 8.0\
+Fat: OFF\
+Treble: 6.5\
+Bass: 6.0\
+Middle: 6.0\
+Master: 3.0\
+Reverb: 5.0
+
+## Microphone: Blue Yeti
+
+Gain: 9 o'clock\
+Mode: Omnidirectional, on desk near plant
+
+{{< video https://youtu.be/MpxE1P9fYeQ?si=p6TFe9ngW8rmvPsi >}}

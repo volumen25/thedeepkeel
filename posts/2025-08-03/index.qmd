@@ -1,0 +1,202 @@
+---
+title: "Week06"
+subtitle: "Happy Birthday"
+date: "2025-08-03"
+#date-modified: "2025-07-29"
+format: 
+  html: default
+image: "../img/strat.jpg"
+categories:
+  - "2025"
+  - Stratocaster
+  - Practice
+  - TGIAY
+  - Song
+---
+
+## C Major Scale Degrees
+
+| Scale Degree | Name         | Note | Function                          |
+|--------------|--------------|------|-----------------------------------|
+| 1            | Tonic        | C    | Home note, point of resolution    |
+| 2            | Supertonic   | D    | Pre-dominant, leads to dominant   |
+| 3            | Mediant      | E    | Connects tonic and dominant       |
+| 4            | Subdominant  | F    | Prepares the dominant             |
+| 5            | Dominant     | G    | Strong tension, resolves to tonic |
+| 6            | Submediant   | A    | Relative minor's tonic            |
+| 7            | Leading Tone | B    | Leads strongly to the tonic       |
+
+These scale degrees form the backbone of Western tonal music. For example:
+
+-   The tonic (C) is your tonal center.
+
+-   The dominant (G) strongly wants to resolve back to the tonic.
+
+-   The leading tone (B) is one semitone below the tonic and “leads” to it melodically.
+
+-   A major third = 4 semitones (or 2 whole steps).
+
+-   It’s called a “third” because it spans three letter names (like C to E).
+
+-   It’s called “major” because it’s the larger of the two commonly used thirds (major vs minor).
+
+To play a major third interval:
+
+-   From a note on the 6th string, move 4 frets up on the same string, or
+
+-   Move 1 string down and 1 fret back (e.g., 5th fret 6th string to 4th fret 5th string)
+
+In Chords:
+
+-   A major chord is built from the root + major third + perfect fifth. Example: C major = C (root) + E (major third) + G (perfect fifth)
+
+-   A minor chord uses a minor third (3 semitones) instead.
+
+### Roman Numeral Notation
+
+Roman numerals represent chords based on scale degrees.
+
+#### In C Major:
+
+| Scale Degree | Note | Roman Numeral | Chord Quality |
+|--------------|------|---------------|---------------|
+| 1            | C    | I             | Major         |
+| 2            | D    | ii            | Minor         |
+| 3            | E    | iii           | Minor         |
+| 4            | F    | IV            | Major         |
+| 5            | G    | V             | Major         |
+| 6            | A    | vi            | Minor         |
+| 7            | B    | vii°          | Diminished    |
+
+-   **Uppercase** numerals = major chords\
+-   **Lowercase** numerals = minor chords\
+-   **°** symbol = diminished chord
+
+This system works in any key by applying it to that key's scale degrees.
+
+## Picking Practice
+
+-   Alternate picking, 2x each time, fingers 1-2-3-4, from E to e string, 2 min
+
+-   Alternate picking, fingers 1-3-2-4, from E to e string, 2 min
+
+-   Alternate picking, fingers 4-2-3-1, from E to e string, 2 min
+
+## Chromatic Scale
+
+Write and say it out loud:
+
+[**C**]{.underline} C#Db [**D**]{.underline} D#Eb [**E**]{.underline} [**F**]{.underline} F#Gb [**G**]{.underline} G#Ab [**A**]{.underline} A#Bb [**B**]{.underline}
+
+## Cmaj Scale
+
+```         
+C – D – E – F – G – A – B – C
+```
+
+-   Play full Cmaj scale up & down in the open position, 1 min
+
+-   Improvise over backing track
+
+### Improvisation for Guitar
+
+```         
+E|----------------0–1–3--
+B|----------0–1–3-------
+G|------0–2-------------
+D|--0–2-----------------
+A|--3-------------------
+E|----------------------
+```
+
+-   Pick 3 notes from the C major scale.\
+-   Improvise a melody using only those 3 notes.\
+-   Focus on rhythm, feel, and phrasing.\
+-   Add more notes as you get comfortable.\
+
+```         
+E|------0–3–0-------
+B|--1–3-------3–1---
+G|-----------------2
+```
+
+```         
+B|--1–3-------------
+G|-------0–2--------
+D|-------------2–0--
+```
+
+## Chord Practice
+
+-   **Em** Chord, 2 min
+
+-   **Am** Chord, 2 min
+
+-   Chord progression, **Em → Am**, 3 min.
+
+## Song Practice
+
+Happy birthday.
+
+```         
+e|------|----------------|----------------|----------------|----------------|
+B|------|-----------1----|-0--------------|-----------3----|-1--------------|
+G|-0--0-|-2----0---------|-----------0--0-|-2----0---------|-----------0--0-|
+D|------|----------------|----------------|----------------|----------------|
+A|------|----------------|----------------|----------------|----------------|
+E|------|----------------|----------------|----------------|----------------|
+ 
+ 
+e|-3----0---------|----------------1--1-|-0--------------|-----------------|
+B|-----------1----|-0-------------------|------1----3----|-1---------------|
+G|----------------|------2--------------|----------------|-----------------|
+D|----------------|---------------------|----------------|-----------------|
+A|----------------|---------------------|----------------|-----------------|
+E|----------------|---------------------|----------------|-----------------|
+```
+
+## Video Log
+
+{{< video https://youtu.be/wpMERngKemQ >}}
+
+{{< video https://youtu.be/P9Pc5xMcXJI >}}
+
+## Fender Stratocaster
+
+Pickup Position: Neck\
+Master Volume: 3\
+Master Tone: 5
+
+## Zoom G3Xn
+
+Preset: OFF
+
+## Joyo Tremolo
+
+Intensity: 25%\
+Rate: 25%
+
+## Fender Blues Jr. III
+
+Volume: 3.5\
+Fat: OFF\
+Treble: 4.5\
+Bass: 7.0\
+Middle: 11.0\
+Master: 4.0\
+Reverb: 2.0
+
+## Blue Yeti
+
+Gain: 10 o'clock\
+Mode: Stereo, on desk near plant
+
+## Lesson Video
+
+{{< video https://youtu.be/FLORjaPMUwI?si=z8RyNxM_drF57jU8 >}}
+
+## Backing Track
+
+{{< video https://youtu.be/JwcCBGqPmwU?si=ZNiTJGUl7w_PYu2i >}}
+
+{{< video https://youtu.be/fyqSZfOxwlI?si=ovFglWd2qyRF21bZ >}}

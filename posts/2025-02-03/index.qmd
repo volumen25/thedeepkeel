@@ -1,0 +1,79 @@
+---
+title: "Week03"
+date: "2025-02-03"
+#date-modified: "2025-02-03"
+format: 
+  html: default
+image: "../img/les.jpg"
+categories:
+  - "2025"
+  - Les Paul
+  - Practice
+  - TGIAY
+---
+
+**Tempo: 70 bpm**
+
+## Picking Practice
+
+-   Alternate picking, fingers 1-3-2-4, from E to e string, 25 repetitions
+
+## Chord Practice
+
+-   **G** Chord, 25 repetitions
+
+-   **Cadd9** Chord, 25 repetitions
+
+-   **Dsus4** Chord, 25 repetitions
+
+-   Chord progression, **G → Cadd9 → Dsus4**, 3 min.
+
+## Chromatic Scale
+
+Write and say it out loud:
+
+[C]{.underline} C#Db [D]{.underline} D#Eb [E]{.underline} [F]{.underline} F#Gb [G]{.underline} G#Ab [A]{.underline} A#Bb [B]{.underline}
+
+## Cmaj Scale
+
+-   Play Cmaj scale up & down, 1 min
+
+## Video Log
+
+Mon, 2025-02-03: Tempo: 70 bpm
+
+{{< video https://youtu.be/XiJQB2zibdU >}}
+
+## Gibson Les Paul
+
+Pickup Position: Neck\
+Master Volume: 9\
+Master Tone: 5
+
+## Zoom G3Xn
+
+Preset: OFF
+
+## Joyo Tremolo
+
+Intensity: 25%\
+Rate: 25%
+
+## Fender Blues Jr. III
+
+Volume: 4.0\
+Fat: OFF\
+Treble: 4.5\
+Bass: 7.0\
+Middle: 5.0\
+Master: 5.0\
+Reverb: 2.5
+
+## Blue Yeti
+
+Gain: 10 o'clock\
+Mode: Stereo, on desk near plant
+
+## Lesson Video
+
+{{< video https://youtu.be/DaL0y-YSNWk?si=nvSghIqX6TruL8ev >}}

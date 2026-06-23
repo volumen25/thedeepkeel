@@ -1,0 +1,33 @@
+---
+title: "Nocturne - Bars 1 - 24"
+date: "2022-06-16T20:37:23"
+#date-modified: "2022-06-15T20:37:23"
+format: 
+  html: default
+image: "../img/jag.jpg"
+categories:
+  - "2022"
+  - Jaguar
+  - Hybrid picking
+  - Study
+---
+
+Measures: 1-24\
+Tempo: very slow to learn fingering and chord progression
+
+{{< video https://youtu.be/7ysD34-Fglw >}}
+
+{{< video https://youtu.be/wqMAWrb8Jf0 >}}
+
+```         
+Guitar: Fender Jaguar
+Pickup Position: Neck
+Master Volume: 3.5
+Master Tone: 3
+
+Amplifier: Fender Mustang 1 [Custom Deluxe Reverb]
+
+Microphone: Blue Yeti 
+Gain: 11 o'clock
+Mode: Stereo, on desk near iMac
+```

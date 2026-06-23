@@ -1,0 +1,26 @@
+---
+title: "Daily Practice"
+date: "2020-06-04T21:37:23"
+date-modified: "2020-06-06T21:37:23"
+#draft: true
+format: 
+  html: default
+# image: "../img/les.jpg"
+image: "../img/strat.jpg"
+#image: "../img/tele.jpg"
+categories:
+  - "2020"
+  - Stratocaster
+  - Song
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+## Video
+
+{{< video https://youtu.be/MN8LkO85fpc >}}
+
+{{< video https://youtu.be/RVvveExin-U >}}
+
+{{< video https://youtu.be/UNcVszikYCI >}}

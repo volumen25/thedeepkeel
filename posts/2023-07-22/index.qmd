@@ -1,0 +1,56 @@
+---
+title: "Nocturne A4"
+date: "2023-07-22T23:21:23"
+#date-modified: "2023-07-10T20:37:23"
+draft: false
+format: 
+  html: default
+image: "../img/jag.jpg"
+
+categories:
+  - "2023"
+  - Jaguar
+  - Hybrid picking
+  - Song
+  - Study
+---
+
+Tempo: Free\
+Measures: 33 - 40
+
+## Video
+
+{{< video https://youtu.be/USFYNwg4dZA >}}
+
+## Fender Jaguar
+
+Pickup Position: Neck\
+Master Volume: 4\
+Master Tone: 5
+
+## Multi Effects Processor: Zoom G3Xn
+
+Master Volume: 20\
+Compressor: 6, Fast, 6, 80 ON\
+Slab Back Delay: 20, 50, 50, Quarter note
+
+## Joyo Tremolo
+
+Intensity: 75%\
+Rate: 75%
+
+## Amplifier: Fender Blues Jr. III
+
+Volume: 8.0\
+Fat: OFF\
+Treble: 6.5\
+Bass: 6.5\
+Middle: 6.5\
+Master: 3.0\
+Reverb: 5.0
+
+## Microphone
+
+Blue Yeti\
+Gain: 11 o'clock\
+Mode: Omnidirectional, on desk near plant

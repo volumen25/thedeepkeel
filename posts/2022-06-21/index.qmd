@@ -1,0 +1,33 @@
+---
+title: "Nocturne – A3"
+date: "2022-06-21T20:37:23"
+#date-modified: "2022-06-15T20:37:23"
+format: 
+  html: default
+image: "../img/les.jpg"
+categories:
+  - "2022"
+  - Les Paul
+  - Hybrid picking
+  - Study
+---
+
+Measures: 25-32\
+Tempo: very slow to learn fingering and chord progression
+
+{{< video https://youtu.be/TgtScTYFNyk >}}
+
+{{< video https://youtu.be/wqMAWrb8Jf0 >}}
+
+```         
+Gibson Les Paul
+Pickup Position: Neck
+Master Volume: 2.0
+Master Tone: 3.5
+
+Amplifier: Fender Mustang 1 [Custom Deluxe Reverb]
+
+Microphone: Blue Yeti 
+Gain: 11 o'clock
+Mode: Stereo, on desk near iMac
+```

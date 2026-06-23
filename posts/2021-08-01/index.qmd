@@ -1,0 +1,46 @@
+---
+title: "Shunryū"
+date: "2021-08-01T20:37:23"
+date-modified: "2021-08-05T20:37:23"
+format: 
+  html: default
+image: "../img/tele.jpg"
+categories:
+  - "2021"
+  - Telecaster
+  - Study
+  - Fingerstyle
+---
+
+Recorded with Mustang 57 Champ & GarageBand
+
+## Shunryū 1
+
+{{< video https://youtu.be/T2f3rSNgAyA >}}
+
+## Shunryū 2
+
+{{< video https://youtu.be/Aj3NqB2OFl4 >}}
+
+## Shunryū 4
+
+{{< video https://youtu.be/cPSYDMaI4ew >}}
+
+## Shunryū 5
+
+{{< video https://youtu.be/33vQKm357MU >}}
+
+## Shunryū 7
+
+{{< video https://youtu.be/r389ELRgGXg >}}
+
+## Shunryū 8
+
+G3Xn: Compressor: 7, Slow, 5, 31, Tremolo: Tube, 50, 50, 70.\ 
+Blues Jr.: 8.5, ON, 8, 8, 4.5, 3, 8\
+GarageBand: Tele settings and Mastered with MasterJazz2021 
+
+{{< video https://youtu.be/ifxtIWQbnyI >}}
+
+
+![](https://www.azquotes.com/picture-quotes/quote-the-zen-way-of-calligraphy-is-to-write-in-the-most-straightforward-simple-way-as-if-shunryu-suzuki-115-69-44.jpg)

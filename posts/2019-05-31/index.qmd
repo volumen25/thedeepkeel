@@ -1,0 +1,91 @@
+---
+title: "Incipit incipit"
+date: "2019-05-31T21:37:23"
+#date-modified: "2023-07-10T20:37:23"
+#draft: true
+format: 
+  html: default
+# image: "../img/les.jpg"
+# image: "../img/strat.jpg"
+image: "../img/tele.jpg"
+categories:
+  - "2019"
+  - Telecaster
+  - Song
+---
+
+## Video
+
+{{< video https://youtu.be/sr86_h_bdAs >}}
+
+## Theory
+
+<strong>C Lydian</strong> is the fourth mode of the G major scale C Lydian Scale Notes: C D E F# G A B Lydian Scale Formula: 1 2 3 #4 5 6 7 Lydian Scale Intervals: W W W H W W H
+
+The Ionian Mode is the first mode of the major scale. They are essentially the same scale. <strong>C Ionian</strong> Scale Notes: C D E F G A B Ionian Scale Formula: 1 2 3 4 5 6 7 Ionian Scale Intervals: W W H W W W H
+
+<strong>C Mixolydian</strong> is the fifth mode of the F major scale C Mixolydian Scale Notes: C D E F G A Bb Mixolydian Scale Formula: 1 2 3 4 5 6 b7 Mixolydian Scale Intervals: W W H W W H W
+
+<strong>C Dorian</strong> is the second mode of the Bb major scale C Dorian Scale Notes: C D Eb F G A Bb Dorian Scale Formula: 1 2 b3 4 5 6 b7 Dorian Scale Intervals: W H W W W H W
+
+<strong>C Aeolian</strong> is the sixth mode of the Eb major scale C Aeolian Scale Notes: C D Eb F G Ab Bb Aeolian Scale Formula: 1 2 b3 4 5 b6 b7 Aeolian Scale Intervals: W H W W H W W
+
+<strong>C Phrygian</strong> is the third mode of the Ab major scale C Phrygian Scale Notes: C Db Eb F G Ab Bb Phrygian Scale Formula: 1 b2 b3 4 5 b6 b7 Phrygian Scale Intervals: H W W W H W W
+
+<strong>C Locrian</strong> is the seventh mode of the Db major scale C Locrian Scale Notes: C Db Eb F Gb Ab Bb Locrian Scale Formula: 1 b2 b3 4 b5 b6 b7 Locrian Scale Intervals: H W W H W W W
+
+<img src="https://thedeepkeel.files.wordpress.com/2019/05/img_0018.jpg" alt="IMG_0018" class="alignnone size-full wp-image-170" width="2049" height="1537"/><img src="https://thedeepkeel.files.wordpress.com/2019/05/img_0020.jpg" alt="IMG_0020" class="alignnone size-full wp-image-171" width="2049" height="1537"/><img src="https://thedeepkeel.files.wordpress.com/2019/05/img_0022.jpg" alt="IMG_0022" class="alignnone size-full wp-image-172" width="2049" height="1537"/><img src="https://thedeepkeel.files.wordpress.com/2019/05/img_0024.jpg" alt="IMG_0024" class="alignnone size-full wp-image-173" width="1537" height="2049"/><img src="https://thedeepkeel.files.wordpress.com/2019/05/img_0026.jpg" alt="IMG_0026" class="alignnone size-full wp-image-174" width="1537" height="2049"/><img src="https://thedeepkeel.files.wordpress.com/2019/05/img_0027.jpg" alt="IMG_0027" class="alignnone size-full wp-image-175" width="2049" height="1537"/>
+
+<img src="https://thedeepkeel.files.wordpress.com/2019/05/img_0029.jpg" alt="IMG_0029" class="alignnone size-full wp-image-178" width="1535" height="2049"/><img src="https://thedeepkeel.files.wordpress.com/2019/05/img_0028.jpg" alt="IMG_0028" class="alignnone size-full wp-image-179" width="1537" height="2049"/>
+
+<strong>Mnemonic:</strong> I Don't Play Loud Music After Lectures
+
+I: WWHWWWH D:   WHWWWHW P:       HWWWHWW L:          WWWHWWH M:            WWHWWHW A:                WHWWHWW L:                    HWWHWWW
+
+<strong>To Identify By Scale:</strong> Each mode corresponds to a scale degree of the major scale as follows (using the C Major Scale):
+
+C - C, Ionian D - D, Dorian E - E, Phrygian F - F, Lydian G - G, Mixolydian A - A, Aeolian B - B, Locrian
+
+<strong>To Identify by Pitch:</strong> Isolate two things - the tonic and the altered pitch. There are only five cases where a mode will present itself by key.
+
+If your tonic is Major, there are only two possible modes:
+
+Case 1: "The 4th scale degree is raised." You're in Lydian. Case 2: "The 7th scale degree is lowered." You're in Mixolydian.
+
+If your tonic is Minor, there are only two possible modes:
+
+Case 1: "The 6th scale degree is raised." You're in Dorian. Case 2: "The 2nd scale degree is lowered." You're in Phrygian. If none of these cases add up, you're likely in some form of the Locrian mode, but we more often use a diminished scale. This is the most unusual case, so if you're asked what mode you're in and none of the above cases present themselves to you, it's a good bet it's Locrian.
+
+<strong>Examples from personal opinions:</strong>
+
+LYDIAN Joe Satriani: Flying in a Blue Dream Dream Theater: Strange Deja Vu Beatles: Blue Jay Way (lydian elements only)
+
+MIXOLYDIAN Traditional: She Moved Through the Fair Traditional: Blackwaterside Beatles: Tomorrow Never Knows Beatles: She Said She Said Steve Earle: Copperhead Road Them (etc): Gloria Television: Marquee Moon Rolling Stones: The Last Time Beatles: Within You Without You (aeolian deviation in bridge) Countless rock songs employ mixolydian verses with major key choruses or bridges. Examples: Beatles - A Hard Days Night (and many others); G'nR - Sweet Child O'Mine; Rolling Stones - Sympathy for the Devil. The Beatles' Day Tripper is essentially a bunch of different mixolydian chords.
+
+DORIAN Traditional: Scarborough Fair Traditional: What Shall We Do with the Drunken Sailor Miles Davis: So What John Coltrane: Impressions Tito Puente / Santana: Oye Como Va Herbie Hancock: Maiden Voyage \[but is it? see below\] Allman Brothers Band: In Memory of Elizabeth Reed Association: Along Comes Mary Michael Jackson: Thriller (mostly) Beatles: Love You To Lady Gaga: Telephone Manic Street Preachers: Small Black Flowers that Grow in the Sky (mostly)
+
+AEOLIAN Bob Dylan / Jimi Hendrix: All Along the Watchtower Kate Bush: Running Up That Hill Rolling Stones: Gimme Shelter Sade: Smooth Operator (except for intro) Nirvana: Smells Like Teen Spirit (vocal melody)
+
+PHRYGIAN Pink Floyd: Set the Controls for the Heart of the Sun Montell Jordan: This is How We Do It Kanye West: Clique Slade: Cuz I Love You Metallica: Wherever I May Roam (riff) Clash: London Calling (partly) Dr Who theme (partly) Jefferson Airplane: White Rabbit (phrygian dominant?)
+
+LOCRIAN John Kirkpatrick: Dust to Dust
+
+### Interesting mixtures or partially modal tunes
+
+Miles Davis: All Blues - mixolydian to dorian, with minor blues turnaround
+
+Beatles: Eleanor Rigby - dorian and aeolian
+
+Beatles: Norwegian Wood - mixolydian to dorian, with major key ii-V turnaround
+
+Freddie Hubbard: Little Sunflower - mostly dorian, shifting to lydian or major.
+
+Van Morrison: Moondance - dorian verse and chorus, minor key pre-chorus
+
+Doors: Riders on the Storm - dorian vamp
+
+Doors: Light My Fire - dorian keyboard solo
+
+Strokes: Juicebox - locrian riff
+
+ 

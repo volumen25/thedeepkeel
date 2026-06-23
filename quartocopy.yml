@@ -1,0 +1,36 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - CNAME
+execute:
+  freeze: true
+
+website:
+  site-url: https://guitars.volumen.ca
+  favicon: favicon.ico
+  title: "The Deep Keel"
+  sidebar:
+    style: "docked"          # ensures sidebar is visible
+    title: "The Deep Keel"    # shows title at top of sidebar
+    search: true
+    contents:
+      - about.qmd
+      - playlist.qmd
+      - equipment.qmd
+  back-to-top-navigation: true
+  page-footer: 
+    left: 2013-2025 The Deep Keel built with <a href="https://quarto.org"> Quarto {{< version >}}</a>   
+    right:
+      - icon: rss
+        href: index.xml
+    background: light
+
+format:
+  html:
+    toc: true
+    theme: cosmo
+    css: styles.css
+
+date-format: full
+editor: visual

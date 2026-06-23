@@ -1,0 +1,28 @@
+---
+title: "Exercise 7.4"
+date: "2020-11-14T20:37:23"
+date-modified: "2020-11-18T20:47:23"
+format: 
+  html: default
+image: "../img/tele.jpg"
+categories:
+  - "2020"
+  - Stratocaster
+  - Telecaster
+  - Les Paul
+  - Fingerstyle
+---
+
+## Video
+
+{{< video https://youtu.be/rcvp5iNvTbo >}}
+
+{{< video https://youtu.be/ZGuxqverDw8 >}}
+
+{{< video https://youtu.be/ONJniqmuuBQ >}}
+
+{{< video https://youtu.be/KeDvUTsa5cs >}}
+
+{{< video https://youtu.be/LvvC78zdCGA >}}
+
+{{< video https://youtu.be/YR6Mqe7mzGM >}}

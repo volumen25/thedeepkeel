@@ -1,0 +1,39 @@
+---
+title: "Autumn Leaves"
+date: "2022-11-12T21:37:23"
+#date-modified: "2023-07-10T20:37:23"
+#draft: true
+format: 
+  html: default
+image: "../img/jag.jpg"
+categories:
+  - "2022"
+  - Jaguar
+  - Fingerstyle
+---
+
+Measures: 1- 9\
+Tempo: 45 bpm
+
+Fender Jaguar\
+Pickup Position: Neck\
+Master Volume: 6\
+Master Tone: 6\
+
+Amplifier: Fender Mustang 1 \[Custom Deluxe Reverb\]
+
+GarageBand:\
+Track: Tube Vocal\
+Master: Master TroubleInMind
+
+## Video
+
+{{< video https://youtu.be/h4qeSPrEegk >}}
+
+{{< video https://youtu.be/oLUlPp6xicY >}}
+
+Bill Frisell with session guitar greats Bob Bain and Dennis Budimir, performing "Autumn Leaves". Full transcriptions and learning materials available here: [bit.ly/2qFnYEj](https://bit.ly/2qFnYEj)
+
+<https://www.soundslice.com/slices/Bbwcc/>
+
+{{< video https://youtu.be/sw-JZpebBh4 >}}

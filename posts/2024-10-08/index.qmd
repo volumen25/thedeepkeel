@@ -1,0 +1,80 @@
+---
+title: "Ex.1-4"
+date: "2024-10-08T15:01:23"
+date-modified: "2024-10-14T16:01:23"
+format: 
+  html: default
+image: "../img/les.jpg"
+categories:
+  - "2024"
+  - Les Paul
+  - Study
+  - Scales
+  - MMG
+---
+
+## Exercise 4
+
+{{< video https://youtu.be/o_Ap6XmV5SI >}}
+
+{{< video https://youtu.be/6ipcl1i2BiU >}}
+
+{{< video https://youtu.be/sfNGakEJpWk >}}
+
+{{< video https://youtu.be/ic_zO3q-YzU >}}
+
+{{< video https://youtu.be/dK4uozlunNo >}}
+
+## Exercise 4a & 4b
+
+{{< video https://youtu.be/wX4gCN_zbIY >}}
+
+{{< video https://youtu.be/wLTsm8lnHrY >}}
+
+## Exercise 3
+
+{{< video https://youtu.be/3jWbFmz7wkM >}}
+
+## Exercise 2
+
+{{< video https://youtu.be/7vjI5AKKMBM >}}
+
+## Exercise 1
+
+{{< video https://youtu.be/YW0-J1n9FWo >}}
+
+{{< video https://youtu.be/oNw9rlxJdBk >}}
+
+## Gibson Les Paul
+
+Pickup Position: Bridge\
+Master Volume: 5\
+Master Tone: 3
+
+## Zoom G3Xn
+
+Preset: 134 Jazz Fall
+
+## Joyo Tremolo OFF
+
+Intensity: 50%\
+Rate: 50%
+
+## Fender Blues Jr. III
+
+Volume: 8.0\
+Fat: OFF\
+Treble: 6.5\
+Bass: 6.0\
+Middle: 6.0\
+Master: 4.5\
+Reverb: 5.0
+
+## Blue Yeti
+
+Gain: 9 o'clock\
+Mode: Stereo, on desk near plant
+
+## Lesson
+
+{{< video https://youtu.be/xcftRG0kS_g?si=25OvTvnjob8ecxIH >}}

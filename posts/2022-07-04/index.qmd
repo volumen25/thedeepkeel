@@ -1,0 +1,189 @@
+---
+title: "Nocturne"
+date: "2022-07-04T20:37:23"
+date-modified: "2022-07-16T20:47:23"
+format: 
+  html: default
+image: "../img/les.jpg"
+categories:
+  - "2022"
+  - Les Paul
+  - Song
+---
+
+Measures: 1 - 32\
+Tempo: Approx. 80 bpm
+
+## Video
+
+{{< video https://youtu.be/PWrg_g7oZoo >}}
+
+```         
+Gibson Les Paul
+Pickup Position: Neck
+Master Volume: 2.5
+Master Tone: 3.5
+
+Multi Effects Processor: Zoom G3Xn
+Master Volume: 20 
+Compressor: 6, Fast, 6, 80 ON
+Slab Back Delay: 20, 50, 50, Quarter note
+
+Joyo Tremolo
+Intensity: 75%
+Rate: 75%
+
+Amplifier: Fender Blues Jr. III
+Volume: 8.0
+Fat: OFF
+Treble: 6.5
+Bass: 6.5
+Middle: 6.5
+Master: 3.0
+Reverb: 5.0
+
+Microphone: Blue Yeti 
+Gain: 11 o'clock
+Mode: Stereo, on the floor, approx. 1 m from amp.
+```
+
+## Video
+
+{{< video https://youtu.be/cc71ZPVEZJY >}}
+
+```         
+Notes
+Measures: B1 & A3
+Tempo: 82 bpm [75%] 
+Gibson Les Paul
+Pickup Position: Neck
+Master Volume: 2.5
+Master Tone: 3.5
+
+Multi Effects Processor: Zoom G3Xn
+Master Volume: 20 
+Compressor: 6, Fast, 6, 80 ON
+Slab Back Delay: 20, 50, 50, Quarter note
+
+Joyo Tremolo
+Intensity: 75%
+Rate: 75%
+
+Amplifier: Fender Blues Jr. III
+Volume: 8.0
+Fat: OFF
+Treble: 6.5
+Bass: 6.5
+Middle: 6.5
+Master: 3.0
+Reverb: 5.0
+
+Microphone: Blue Yeti 
+Gain: 11 o'clock
+Mode: Stereo, on the floor, approx. 1 m from amp.
+```
+
+## Video
+
+{{< video https://youtu.be/tNQDwupXDf0 >}}
+
+```         
+Notes
+Measures: 1-32
+Tempo: Approx. 70%
+Gibson Les Paul
+Pickup Position: Neck
+Master Volume: 2.5
+Master Tone: 3.5
+
+Multi Effects Processor: Zoom G3Xn
+Master Volume: 20 
+Compressor: 6, Fast, 6, 80 ON
+Slab Back Delay: 20, 50, 50, Quarter note
+
+Joyo Tremolo
+Intensity: 75%
+Rate: 75%
+
+Amplifier: Fender Blues Jr. III
+Volume: 8.0
+Fat: OFF
+Treble: 6.5
+Bass: 6.5
+Middle: 6.5
+Master: 3.0
+Reverb: 5.0
+
+Microphone: Blue Yeti 
+Gain: 11 o'clock
+Mode: Stereo, on the floor, approx. 1 m from amp.
+```
+
+## Video
+
+{{< video https://youtu.be/gVqykrvWsww >}}
+
+```         
+Notes
+Measures: A1 A2
+Tempo: 99 bpm
+
+Gibson Les Paul
+Pickup Position: Neck
+Master Volume: 2.5
+Master Tone: 3.5
+
+Multi Effects Processor: Zoom G3Xn
+Master Volume: 20 
+Compressor: 6, Fast, 6, 80 ON
+Slab Back Delay: 20, 50, 50, Quarter note
+
+Joyo Tremolo
+Intensity: 75%
+Rate: 75%
+
+Amplifier: Fender (Mustang) Custom Deluxe Reverb
+
+Microphone: Blue Yeti 
+Gain: 11 o'clock
+Mode: Stereo, on desk, 1 m. away from amp
+```
+
+## Video
+
+{{< video https://youtu.be/0OXF-ZnODQQ >}}
+
+```         
+Measures: A2
+Tempo: 99 bpm
+Gibson Les Paul
+Pickup Position: Neck
+Master Volume: 2.5
+Master Tone: 3.5
+
+Multi Effects Processor: Zoom G3Xn
+Master Volume: 20 
+Compressor: 6, Fast, 6, 80 ON
+Slab Back Delay: 20, 50, 50, Quarter note
+
+Joyo Tremolo
+Intensity: 75%
+Rate: 75%
+
+Amplifier: Fender Blues Jr. III
+Volume: 8.0
+Fat: OFF
+Treble: 6.5
+Bass: 6.5
+Middle: 6.5
+Master: 3.0
+Reverb: 5.0
+
+Microphone: Blue Yeti 
+Gain: 11 o'clock
+Mode: Stereo, on desk, 1 m. away from amp
+```
+
+{{< video https://youtu.be/ilGM_eL-iD0 >}}
+
+{{< video https://youtu.be/wqMAWrb8Jf0 >}}

@@ -1,0 +1,16 @@
+---
+title: "Apple Blossom Live Again"
+date: "2020-10-02T20:37:23"
+format: 
+  html: default
+image: "../img/strat.jpg"
+categories:
+  - "2020"
+  - Stratocaster
+  - Song
+---
+
+## Video
+
+{{< video https://youtu.be/PTfMKTxQH1M >}}
+

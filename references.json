@@ -1,0 +1,88 @@
+[
+    {
+        "ISBN": "978-0-8129-9598-5",
+        "author": [
+            {
+                "family": "Denk",
+                "given": "Jeremy"
+            }
+        ],
+        "call-number": "ML417.D38 A3 2022",
+        "edition": "First edition",
+        "id": "denk2022",
+        "issued": {
+            "date-parts": [
+                [
+                    2022
+                ]
+            ]
+        },
+        "key": "ZQRDC383",
+        "libraryid": "1",
+        "number-of-pages": "368",
+        "providerkey": "2509FBBE-5BB0-44C4-B119-6083A81ED673",
+        "publisher": "Random House",
+        "publisher-place": "New York",
+        "source": "North Vancouver City Library",
+        "title": "Every good boy does fine: a love story, in music lessons",
+        "title-short": "Every good boy does fine",
+        "type": "book"
+    },
+    {
+        "ISBN": "978-0-8129-9598-5",
+        "author": [
+            {
+                "family": "Denk",
+                "given": "Jeremy"
+            }
+        ],
+        "call-number": "ML417.D38 A3 2022",
+        "edition": "First edition",
+        "id": "denk2022",
+        "issued": {
+            "date-parts": [
+                [
+                    2022
+                ]
+            ]
+        },
+        "key": "ZQRDC383",
+        "libraryid": "1",
+        "number-of-pages": "368",
+        "providerkey": "Zotero",
+        "publisher": "Random House",
+        "publisher-place": "New York",
+        "source": "North Vancouver City Library",
+        "title": "Every good boy does fine: a love story, in music lessons",
+        "title-short": "Every good boy does fine",
+        "type": "book"
+    },
+    {
+        "ISBN": "978-0-87639-199-0",
+        "author": [
+            {
+                "family": "Leavitt",
+                "given": "William"
+            }
+        ],
+        "id": "leavitt2020",
+        "issued": {
+            "date-parts": [
+                [
+                    2020,
+                    2,
+                    1
+                ]
+            ]
+        },
+        "key": "L5BL6I7P",
+        "language": "English",
+        "libraryid": "1",
+        "number-of-pages": "424",
+        "providerkey": "2509FBBE-5BB0-44C4-B119-6083A81ED673",
+        "publisher": "Berklee Press",
+        "source": "Amazon",
+        "title": "A Modern Method for Guitar - Complete Method Book/Online Media",
+        "type": "book"
+    }
+]

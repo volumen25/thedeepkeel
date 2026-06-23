@@ -1,0 +1,27 @@
+---
+title: "Finger Picking With Luke Winslow King"
+date: "2021-05-27T21:37:23"
+#draft: true
+format: 
+  html: default
+image: "../img/ami.jpg"
+categories:
+  - "2021"
+  - The Parlor
+  - Fingerstyle
+  - Bottleneck slide
+---
+
+Open D tuning: D-A-D-F#-A-D (low to high)...hint: it's a D major chord
+
+<https://musmath.com>
+
+## Video
+
+{{< video https://youtu.be/bzd_zYMPoEo >}}
+
+{{< video https://youtu.be/9SM0JmA57mI >}}
+
+{{< video https://youtu.be/4ECd-E-G4Rs >}}
+
+{{< video https://youtu.be/G0DjsZ54jOI >}}

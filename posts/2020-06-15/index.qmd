@@ -1,0 +1,24 @@
+---
+title: "Twelve-bar Blues"
+date: "2020-06-15T21:37:23"
+#date-modified: "2020-06-06T21:37:23"
+#draft: true
+format: 
+  html: default
+image: "../img/les.jpg"
+#image: "../img/strat.jpg"
+#image: "../img/tele.jpg"
+categories:
+  - "2020"
+  - Les Paul
+  - Fingerstyle
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+## Video
+
+{{< video https://youtu.be/0qYasf3NeI0 >}}
+
+{{< video https://youtu.be/eqjbdhSL614 >}}

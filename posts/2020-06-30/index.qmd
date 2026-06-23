@@ -1,0 +1,103 @@
+---
+title: "Misirlou"
+date: "2020-06-30T21:37:23"
+#date-modified: "2020-06-19T21:37:23"
+#draft: true
+format: 
+  html: default
+image: "../img/les.jpg"
+#image: "../img/strat.jpg"
+#image: "../img/tele.jpg"
+categories:
+  - "2020"
+  - Les Paul
+  - Song
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+## Video
+
+{{< video https://youtu.be/IHeVUGV1rkw >}}
+
+{{< video https://youtu.be/EXpJAyqmgXk >}}
+
+[Reference](https://en.wikipedia.org/wiki/Misirlou)
+
+"Misirlou" (Greek: Μισιρλού \< Turkish: Mısırlı 'Egyptian' \< Arabic:
+مصر‎ Miṣr 'Egypt'\[1\]) is a folk song\[2\] from the Eastern
+Mediterranean region, with origins in the Ottoman Empire. The original
+author of the song is not known, but Arabic, Greek and Jewish musicians
+were playing it by the 1920s. The earliest known recording of the song
+is a 1927 Greek rebetiko/tsifteteli composition influenced by Middle
+Eastern music. There are also Arabic belly dancing, Armenian, Persian,
+Indian and Turkish versions of the song. This song was popular from the
+1920s onwards in the Arab American, Armenian American and Greek American
+communities who settled in the United States as part of the Ottoman
+diaspora.
+
+The song was a hit in 1946 for Jan August, an American pianist and
+xylophonist nicknamed "the one-man piano duet". It gained worldwide
+popularity through Dick Dale's 1962 American surf rock version,
+originally titled "Miserlou", which popularized the song in Western
+popular culture; Dale's version was influenced by an earlier Arabic folk
+version played with an oud. Various versions have since been recorded,
+mostly based on Dale's version, including other surf and rock versions
+by bands such as the Beach Boys, the Ventures, Consider the Source, and
+the Trashmen, as well as international orchestral easy listening
+(exotica) versions by musicians such as Martin Denny and Arthur Lyman.
+Dale's surf rock version later gained renewed popularity when director
+Quentin Tarantino used it in his 1994 film Pulp Fiction, and again when
+it was sampled in the Black Eyed Peas' song "Pump It" (2006).
+
+# **Name**
+
+Misirlou (Μισιρλού), due to the suffix "ou", is the feminine form (in
+Greek\[3\]) of Misirlis (Μισιρλής- a surname) which comes from the
+Turkish word Mısırlı, which is formed by combining Mısır ("Egypt" in
+Turkish, borrowed from Arabic مِصر‎ Miṣr) with the Turkish -lı suffix,
+literally meaning "Egyptian". Therefore, the song is about an Egyptian
+woman.
+
+# **Composition**
+
+The folk song has origins in the Eastern Mediterranean region of the
+Ottoman Empire, but the original author of the song is not known. There
+is evidence that the folk song was known to Arabic musicians, Greek
+rebetiko musicians and Jewish klezmer musicians by the 1920s.\[4\] The
+claim in some sources that the tune derives from the song "Bint Misr"
+("Egyptian Girl") written by Egyptian musician Sayed Darwish is thought
+to be incorrect.\[5\]
+
+The earliest known recording of the song was by the rebetiko musician
+Theodotos ("Tetos") Demetriades (Greek: Θεόδοτος ("Τέτος") Δημητριάδης)
+in 1927. Demetriades, an Ottoman Greek, was born in Istanbul, Ottoman
+Empire, in 1897, and he resided there until he moved to the United
+States in 1921,\[6\] during a period when most of the Greek speaking
+population fled the emerging Turkish state. It is likely that he was
+familiar with the song as a folk song before he moved to the United
+States. As with almost all early rebetika songs (a style that originated
+with the Greek refugees from Asia Minor in Turkey), the song's actual
+composer has never been identified, and its ownership rested with the
+band leader. Demetriades named the song "Misirlou" in his original 1927
+Columbia recording, which is a Greek assimilated borrowing of the
+regional pronunciation of "Egyptian" in Turkish ("Mısırlı"), as opposed
+to the corresponding word for "Egyptian" in Greek, which is Αιγύπτιοι
+(Aigyptioi).
+
+The rebetiko version of the song was intended for a Greek tsifteteli
+dance, at a slower tempo and a different key than the Oriental
+performances that most are familiar with today. This was the style of
+recording by Michalis Patrinos in Greece, circa 1930, which was
+circulated in the United States by the Orthophonic label; another
+recording was made by Patrinos in New York City in 1931 as well.
+
+The song's Oriental melody has been so popular for so long that many
+people, from Morocco to Iraq, claim it to be a folk song from their own
+country. In the realm of Middle Eastern music, the song is a very simple
+one, since it is little more than going up and down the Hijaz Kar or
+double harmonic scale (E-F-G#-A-B-C-D#). It still remains a well known
+Greek, Klezmer and Arab folk song.
+
+{{< video https://youtu.be/GTTmJKbAIsE >}}

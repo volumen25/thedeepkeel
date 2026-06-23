@@ -1,0 +1,22 @@
+---
+title: "Mannish Boy Riff"
+date: "2020-04-19T21:37:23"
+#date-modified: "2020-02-04T21:37:23"
+#draft: true
+format: 
+  html: default
+# image: "../img/les.jpg"
+image: "../img/strat.jpg"
+#image: "../img/tele.jpg"
+categories:
+  - "2020"
+  - Stratocaster
+  - Song
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+## Video
+
+{{< video https://youtu.be/ypG9UBkK97w >}}

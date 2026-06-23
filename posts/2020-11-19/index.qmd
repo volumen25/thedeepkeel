@@ -1,0 +1,55 @@
+---
+title: "Ikigai Study 1 and Mastering a Song in GarageBand"
+date: "2020-11-19T20:37:23"
+format: 
+  html: default
+image: "../img/tele.jpg"
+categories:
+  - "2020"
+  - Telecaster
+  - Fingerstyle
+---
+
+## Ikigai in Okinawa
+
+Scientists have cautioned against hyping early results before long-term safety and efficacy data has been collected, and no one knows how long the vaccine's protection might last. It's also likely to be months before Pfizer's vaccine or any other is able to substantially curb the coronavirus outbreak, which is picking up steam around the world.
+
+## Video
+
+{{< video https://youtu.be/LY3hGVop5dA >}}
+
+{{< video https://youtu.be/if2n5RuTcRs >}}
+
+### Compressing Guitars In GarageBand
+
+There are 5 main parameters of the compressor:
+
+1)  Threshold -- the point in dB at which the compressor starts functioning
+2)  Ratio -- how much the compressor is reducing or increasing the loudest and quietest parts of the song, or in other words, the strength of the compressor
+3)  Attack -- how fast the compressor latches on to the audio signal
+4)  Release -- how fast the compressor lets go of the audio signal
+5)  Gain/Output Level -- the total strength or volume of the audio signal
+
+### Compressing Acoustic Guitars
+
+Track Volume set at -15.0dB 
+
+Threshold: -22.5dB  Ratio: 3:2:1  Attack: 20ms  Gain: 5.5dB
+
+### Compressing Clean Guitars
+
+Track Volume set at -19.0dB 
+
+Threshold: -28.0dB  Ratio: 4:1:1 Attack: 155.0ms Gain: -8.0dB
+
+### Compressing Distorted Guitars
+
+Track volume set to -12.5dB 
+
+Threshold: -28.5dB  Ratio: 3:2:1 Attack: 16ms Gain: +5.0dB
+
+[Link](https://producersociety.com/how-to-master-a-song-in-garageband/)
+
+## How to Practice Effectively
+
+{{< video https://youtu.be/f2O6mQkFiiw >}}

@@ -1,0 +1,20 @@
+---
+title: "Road to Taos Live"
+date: "2019-04-04T21:37:23"
+#date-modified: "2023-07-10T20:37:23"
+#draft: true
+format: 
+  html: default
+image: "../img/les.jpg"
+# image: "../img/strat.jpg"
+# image: "../img/tele.jpg"
+categories:
+  - "2019"
+  - Les Paul
+  - Song
+---
+
+## Video
+
+{{< video https://youtu.be/yepsepoNR0c >}}
+

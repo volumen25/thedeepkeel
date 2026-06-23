@@ -1,0 +1,14 @@
+---
+title: "El sonido de la Les Paul"
+date: "2021-04-07T20:37:23"
+format: 
+  html: default
+image: "../img/les.jpg"
+categories:
+  - "2021"
+  - Les Paul
+---
+
+## Video
+
+{{< video https://youtu.be/FwEfRiLbdt8 >}}

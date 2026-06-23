@@ -1,0 +1,52 @@
+---
+title: "Milestone 3: Obscure Poems"
+date: "2020-01-12T21:37:23"
+date-modified: "2020-02-04T21:37:23"
+#draft: true
+format: 
+  html: default
+# image: "../img/les.jpg"
+image: "../img/strat.jpg"
+#image: "../img/tele.jpg"
+categories:
+  - "2020"
+  - Stratocaster
+  - Song
+  - Titles
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+## Video
+
+{{< video https://youtu.be/thBm1VWDSMQ >}}
+
+{{< video https://youtu.be/_hREh3nsNf4 >}}
+
+{{< video https://youtu.be/SaRef9m-9_U >}}
+
+{{< video https://youtu.be/iSs27rYhjUw >}}
+
+## Titles
+
+Carrera Séptima, Dictum Factum, In Times Not Long Past, Et cetera ad
+infinitum, Telecaster MP and others are titles chosen to mark the memory
+of who I was reading, what I was practising, when and where I was at
+that particular moment in time. And why do it? To remember, simply not
+forget those precious moments. Titles are like stamps on envelopes
+symbolizing the way in which the activities came to me.
+
+## Video Lessons
+
+{{< video https://youtu.be/XNhgPbXvZa4?t=234 >}}
+
+{{< video https://youtu.be/rDsTJuAUeTA >}}
+
+{{< video https://youtu.be/yJfHmi5Rods >}}
+
+{{< video https://youtu.be/_41_wpBuH8U >}}
+
+{{< video https://youtu.be/7iEgtBGmI-g >}}
+
+{{< video https://youtu.be/-0i9PxkxQQM >}}

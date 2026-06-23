@@ -1,0 +1,247 @@
+---
+title: "Week08"
+subtitle: "Blues Shuffle in A"
+date: "2025-08-14"
+date-modified: "2025-08-24"
+format: 
+  html: default
+image: "../img/les.jpg"
+categories:
+  - "2025"
+  - Les Paul
+  - Practice
+  - TGIAY
+  - Song
+---
+
+Tempo 70 bpm
+
+## Picking Exercise
+
+-   Alternate picking, 2x each time, fingers 1-2-3-4, from E to e string,
+
+-   Alternate picking, fingers 1-3-2-4, from E to e string,
+
+-   Alternate picking, fingers 4-2-3-1, from E to e string,
+
+-   Spider picking.
+
+``` txt
+e|------------4---|1---------------|
+B|----------------|----------------|
+G|--------3-------|----2-----------|
+D|----2-----------|--------3-------|
+A|----------------|----------------|
+E|-1--------------|------------4---|
+```
+
+-   Hybrid picking and arpeggiation
+
+    -   Dsus4
+    -   D
+    -   Dsus2
+
+## Bar Chords with Cycle of Fourths
+
+Write and say it out loud:
+
+``` txt
+C - F - Bb - Eb - Ab - Db - F# - B - E - A - D - G
+```
+
+## Cycle of Fourths on E String
+
+``` txt
+Circle of Fourths — Low E string (starting from C, quarter notes)
+
+E|--8--1--6--11--4--9--2--7--0--5--10--3--8--
+    C  F  Bb Eb  Ab Db F# B  E  A   D  G  C
+```
+
+``` txt
+8 - 1 - 6 - 11 - 4 - 9 - 2 - 7 - 12 - 5 - 10 - 3
+```
+
+-   Start with 2 notes ( C - F), then 1 - 3 (C - F - Bb), then 1 - 4, and so on.
+
+-   Play full cycle of fourths, 40 bpm - 70 bpm, 2 min,
+
+## Chord Practice
+
+-   Chord progression, **Dsus4 → D → Dsus2 → Dsus4**
+
+## Song Practice
+
+Blues shuffle in A\
+
+``` txt
+   1   2   3   4      1   2   3   4      1   2   3   4      1   2   3   4
+|--A---A---A---A---|--A---A---A---A---|--A---A---A---A---|--A---A---A---A---|
+|--D---D---D---D---|--D---D---D---D---|--A---A---A---A---|--A---A---A---A---|
+|--E---E---E---E---|--D---D---D---D---|--A---A---A---A---|--E---E---E---E---|
+```
+
+<audio controls>
+
+<source src="Blues shuffle in A.wav" type="audio/wav">
+
+Your browser does not support the audio element.
+
+</audio>
+
+Practice with discipline, but without friction, maintaining a calm and steady approach. Take each step deliberately to enter the flow state where progress unfolds. Though progress is not the goal, it arises as a consequence of unintended outcomes. This is the ultimate state of mind, the one that brings true contentment.
+
+## Day 1 – Bar Chords + Cycle of Fourths
+
+**Warm-up (5–7 min)** - Finger stretch: 5–7–9–12 on low E and A strings. - Strum open chords (G, C, D, A) gently. - With metronome at **40 bpm**: strum muted strings once per click.
+
+**Focus (20 min)** - Bar chords (maj/min) through cycle of fourths on low E string. - Strum once, let ring, then move calmly to the next chord.
+
+**Secondary (15 min)** - Hybrid picking: Dsus4 → D → Dsus2 (very slow).
+
+**Improvisation (7–10 min)** - Soft comping with bar chords, free time.
+
+**Cooldown (3–5 min)** - Play favorite open chords slowly, with breath.
+
+## Day 2 – Hybrid Picking & Arpeggiation
+
+**Warm-up** - Open-string hybrid picking (pluck D–G–B–E with pick+fingers). - Slow one-octave D major scale.
+
+**Focus** - Hybrid picking arpeggiation on Dsus4 → D → Dsus2. - Add metronome at **50 bpm**: change chord every 2 clicks.
+
+**Secondary** - Cycle of fourths (maj/min bar chords, light touch).
+
+**Improvisation** - Simple melody using only open D + arpeggio notes.
+
+**Cooldown** - Strum D chord softly.
+
+## Day 3 – Blues Shuffle in A
+
+**Warm-up** - Down-up strumming on open A. - Play 12-bar blues in open position, no shuffle yet.
+
+**Focus** - Blues shuffle in A, relaxed feel. - Add metronome at **60 bpm**, play only downbeats.
+
+**Secondary** - Hybrid picking Dsus chord shapes (slow).
+
+**Improvisation** - Add one phrase per 12 bars, keep it simple.
+
+**Cooldown** - Play A pentatonic scale slowly.
+
+## Day 4 – Bar Chords (Expansion)
+
+**Warm-up** - Spider walk (1–2–3–4 across 2 strings). - Strum muted strings with metronome at **40 bpm**.
+
+**Focus** - Bar chords with 7th extensions (maj7, m7, dom7) in cycle of fourths.
+
+**Secondary** - Gentle shuffle groove (no metronome).
+
+**Improvisation** - Comp a 12-bar blues with bar chords.
+
+**Cooldown** - Soft open G major chord, let it ring.
+
+## Day 5 – Hybrid Picking (Expansion)
+
+**Warm-up** - Hybrid pick open strings (low E with pick, fingers on D–G–B–E). - Arpeggiate C major open chord.
+
+**Focus** - Hybrid arpeggios on C, G, Am chords. - Metronome at **55 bpm**, one note per click.
+
+**Secondary** - Cycle of fourths (first 4 chords only: E–A–D–G).
+
+**Improvisation** - Free play with arpeggio fragments.
+
+**Cooldown** - Slow strum Am chord.
+
+## Day 6 – Blues Shuffle (Expansion)
+
+**Warm-up** - Play open A pentatonic scale slowly. - Palm-muted downstrokes on open A.
+
+**Focus** - Shuffle in A with turnaround (E7–D7–A7). - Metronome at **60 bpm**: only for first 4 bars, then stop.
+
+**Secondary** - Hybrid picking on Dsus shapes.
+
+**Improvisation** - Call-and-response fills between shuffle rhythm and tiny licks.
+
+**Cooldown** - Free play blues fills softly.
+
+## Day 7 – Integration + Simulated Performance
+
+### **Pre-Performance Ritual (5 min)**
+
+**1. Grounding Breath (Hand Method)** - Place one hand on your belly, optional other hand on chest.\
+
+-   **Inhale 4 counts:** feel your belly rise.\
+-   **Hold 2 counts:** keep hands steady, relax shoulders.\
+-   **Exhale 6 counts:** feel your belly fall, optional chest lowers.\
+-   Repeat 3–4 rounds.\
+-   Mental cue: *“Calm and steady. Steps taken slowly.”*
+
+**2. Gentle Touch** - Rest left hand lightly on fretboard, right hand on strings.\
+
+-   No pressure, just feel the guitar. (*“Without friction.”*)
+
+**3. Open String Meditation** - Play a single open string (e.g., A or D), let it ring fully.\
+
+-   Repeat a few times. (*“Steps taken slowly.”*)
+
+**4. Intentional First Notes** - Play one simple chord or phrase (e.g., Em or Dsus4).\
+
+-   Focus on tone, not speed. (*“Progress unfolds.”*)
+
+**5. Mental Cue** - Remind yourself: *“This is practice, not performance. Mistakes are outcomes, not failures.”*
+
+### **Warm-up (5–7 min)**
+
+-   Finger roll across fretboard (low E → high E → back).\
+-   Strum G–C–D–A slowly, lightly tapping foot.\
+-   Metronome at 40–50 bpm, one note/chord per click.
+
+### **Integration “Set” (25–30 min)**
+
+1.  Bar chords through cycle of fourths.\
+2.  Dsus4 → D → Dsus2 hybrid arpeggios.\
+3.  Blues shuffle in A with turnaround.\
+
+-   Play continuously, **no stopping** for mistakes.
+
+### **Simulated Performance (10–12 min)**
+
+-   Record the full set straight through.\
+-   Treat it like a real performance: start with breath, finish with a small bow or smile.
+
+## Recorded Performance
+
+{{< video https://youtu.be/U6nilIZM2jw >}}
+
+## Fender Les Paul
+
+Pickup Position: Neck\
+Master Volume: 9\
+Master Tone: 5
+
+## Zoom G3Xn
+
+Preset: OFF
+
+## Joyo Tremolo
+
+Intensity: 25%\
+Rate: 25%
+
+## Fender Blues Jr. III
+
+Volume: 4.0\
+Fat: OFF\
+Treble: 5.0\
+Bass: 7.0\
+Middle: 5.0\
+Master: 3.0\
+Reverb: 3.0
+
+## Blue Yeti
+
+Gain: 10 o'clock\
+Mode: Stereo, on desk near plant
+
+## Lesson Video
+
+{{< video https://youtu.be/Nh1_o1FY2k4?si=ZCfs5DqrqGXKikPO >}}

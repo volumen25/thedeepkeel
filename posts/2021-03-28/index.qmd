@@ -1,0 +1,40 @@
+---
+title: "Robert Johnson Style Blues 11, 12 & 13"
+date: "2021-03-28T20:37:23"
+#date-modified: "2023-07-10T20:37:23"
+#draft: true
+format: 
+  html: default
+image: "../img/jag.jpg"
+# image: "../img/les.jpg"
+# image: "../img/strat.jpg"
+# image: "../img/tele.jpg"
+categories:
+  - "2021"
+  - Jaguar
+  - Fingerstyle
+  - Song
+---
+
+## Video
+
+{{< video https://youtu.be/s2eGn4ywpCk >}}
+
+{{< video https://youtu.be/QGQz0va9CFc >}}
+
+{{< video https://youtu.be/-LylvzXxTSM >}}
+
+{{< video https://youtu.be/jGYd-8FhgUg >}}
+
+{{< video https://youtu.be/kbKpm0orH94 >}}
+
+{{< video https://youtu.be/j_cSGUnz9zM >}}
+
+{{< video https://youtu.be/ntiSTSmvUME >}}
+
+{{< video https://youtu.be/hUkmnuuY2x8 >}}
+
+{{< video https://youtu.be/GcMGo3pMK2s >}}
+
+{{< video https://youtu.be/DUTecmw2Aic >}}
+

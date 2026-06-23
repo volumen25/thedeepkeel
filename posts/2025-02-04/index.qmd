@@ -1,0 +1,81 @@
+---
+title: "Week04"
+subtitle: "Cowboy Rides Away"
+date: "2025-02-04"
+#date-modified: "2025-02-03"
+format: 
+  html: default
+image: "../img/les.jpg"
+categories:
+  - "2025"
+  - Les Paul
+  - Practice
+  - TGIAY
+  - Song
+---
+
+**Tempo: 70 bpm**
+
+## Picking Practice
+
+-   Alternate picking, fingers 4-3-2-1, from E to e string, 25 repetitions
+
+-   Alternate picking, 2x each time, fingers 1-2-3-4, from E to e string, 25 repetitions
+
+-   Alternate picking, fingers 1-3-2-4, from E to e string, 25 repetitions
+
+## First Song
+
+The Cowboy Rides Away by George Straight
+
+{{< video https://youtu.be/kFbbyt6oAmk?si=7VG3yzzKAG_VtHX- >}}
+
+## Chromatic Scale
+
+Write and say it out loud:
+
+[C]{.underline} C#Db [D]{.underline} D#Eb [E]{.underline} [F]{.underline} F#Gb [G]{.underline} G#Ab [A]{.underline} A#Bb [B]{.underline}
+
+## Cmaj Scale
+
+-   Play Cmaj scale up & down, 1 min
+
+## Video Log
+
+With instructor \@ 85% tempo
+
+{{< video https://youtu.be/TqEsIV3O31w >}}
+
+## Gibson Les Paul
+
+Pickup Position: Neck\
+Master Volume: 9\
+Master Tone: 5
+
+## Zoom G3Xn
+
+Preset: OFF
+
+## Joyo Tremolo
+
+Intensity: 25%\
+Rate: 25%
+
+## Fender Blues Jr. III
+
+Volume: 4.0\
+Fat: OFF\
+Treble: 4.5\
+Bass: 7.0\
+Middle: 5.0\
+Master: 5.0\
+Reverb: 2.5
+
+## Blue Yeti
+
+Gain: 10 o'clock\
+Mode: Stereo, on desk near plant
+
+## Lesson Video
+
+{{< video https://youtu.be/MkWSsgZ2Xko?si=6JjGPbRK9Ym15Tol >}}

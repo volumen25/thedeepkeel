@@ -1,0 +1,60 @@
+---
+title: "Für Edith 0.2"
+date: "2021-11-24T20:37:23"
+format: 
+  html: default
+image: "../img/les.jpg"
+categories:
+  - "2021"
+  - Les Paul
+  - Fingerstyle
+  - Song
+---
+
+Measures: All themes\
+Metronome: Free
+
+## Video
+
+{{< video https://youtu.be/dAwet7YdXL8 >}}
+
+``` 
+Gibson Les Paul
+Body Material: Plain Maple Top with a Mahogany Body
+Fingerboard Material: Rosewood
+Pickup Position: Neck
+Master Volume: 3.5
+Master Tone: 9.0
+
+Zoom G3Xn
+Master Volume: 100 OFF
+Compressor: 5, Fast, 5, 70 OFF
+Tremolo: Tube, 30, 50, 80 OFF
+Tape Echo Delay 3: 50, 29, 47, 80 OFF
+
+Joyo Tremolo
+Intensity: 50%
+Rate: 50%
+
+Fender Blues Jr. III
+Volume: 8.5
+Fat: OFF
+Treble: 6.5
+Bass: 6.5
+Middle: 6.5
+Master: 2.7
+Reverb: 1.0
+
+Blue Yeti 
+Approx. 70 cm away from centre
+Gain: 11 o'clock
+Mode: Omnidirectional
+
+GarageBand Master Track
+Channel EQ: Final Mix - Ballad
+Space D: Analog Pedal 2; 1.93 s, mute, -1.4 dB
+Multipressor: Extreme Deep Punch; -6.8
+Limiter: For Classical Music: 1.0 dB -2.0 dB
+Ozone Imager 2: 15.4 & 86
+Loudness Meter: -14.5 LUFS
+```

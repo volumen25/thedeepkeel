@@ -1,0 +1,61 @@
+---
+title: "White Christmas Phrase 1 Bars 1-2"
+date: "2023-10-17T20:37:23"
+date-modified: "2023-10-17T20:39:23"
+#draft: true
+format: 
+  html: default
+#image: "../img/jag.jpg"
+image: "../img/les.jpg"
+#image: "../img/strat.jpg"
+#image: "../img/tele.jpg"
+categories:
+  - "2023"
+  - Les Paul
+  - Fingerstyle
+  - Christmas
+  - Song
+  - Study
+  - Chord melody
+---
+
+Tempo: 40 bpm\
+Bar1: Cmaj7 Dm7 F#13 \
+Bar2: Dm7 D#o Em7
+
+## Video
+
+{{< video https://youtu.be/P2DCgt06Y60?si=YiWN5vOsZld2ZMqt >}}
+
+{{< video https://youtu.be/MpxE1P9fYeQ?si=P4cZ2iSMgBK_0PoO >}}
+
+## Les Paul
+
+Pickup Position: Neck\
+Master Volume: \~6\
+Master Tone: \~6
+
+## Multi Effects Processor: Zoom G3Xn
+
+Zoom G3Xn: 145 (Archtop)
+
+## Joyo Tremolo
+
+Intensity: 25%\
+Rate: 25%
+
+## Amplifier: Fender Blues Jr. III
+
+Volume: 8.0\
+Fat: OFF\
+Treble: 6.5\
+Bass: 6.5\
+Middle: 6.5\
+Master: 3.0\
+Reverb: 5.0
+
+## Microphone
+
+Blue Yeti\
+Gain: 9 o'clock\
+Mode: Omnidirectional, on desk near plant

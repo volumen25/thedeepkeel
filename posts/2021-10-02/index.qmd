@@ -1,0 +1,62 @@
+---
+title: "Für Edith 0"
+date: "2021-10-02T21:37:23"
+#draft: true
+format: 
+  html: default
+image: "../img/les.jpg"
+categories:
+  - "2021"
+  - Les Paul
+  - Fingerstyle
+---
+
+Measures: From first sketches in Summer 2021
+
+## Guitar: Gibson Les Paul
+
+Body Material: Plain Maple Top with a Mahogany Body\
+Fingerboard Material: Rosewood\
+Pickup Position: Neck\
+Master Volume: 4.0\
+Master Tone: 3.5\
+
+## Multi Effects Processor: Zoom G3Xn
+
+Master Volume: 100\
+Compressor: 5, Fast, 5, 70 OFF\
+Tremolo: Tube, 30, 50, 80 OFF\
+Tape Echo Delay 3: 50, 29, 47, 80
+
+## Amplifier: Fender Blues Jr. III
+
+Volume: 5.0\
+Fat: OFF\
+Treble: 5.5\
+Bass: 8.5\
+Middle: 4.5\
+Master: 4.0\
+Reverb: 8.5
+
+## Microphone
+
+Blue Yeti 70 cm away from centre\
+Gain: 11 o'clock\
+Mode: Omnidirectional
+
+## GarageBand
+
+Master Track\
+Channel EQ: Final Mix - Ballad\
+Space D: Analog Pedal 2; 1.93 s, mute, -1.4 dB\
+Multipressor: Extreme Deep Punch; -8.0\
+Limiter: For Classical Music: 0.4 dB -2.0 dB\
+Ozone Imager 2: 15.4 & 86\
+Loudness Meter: -14.1 LUFS
+
+## Video
+
+{{< video https://youtu.be/q8ZU3zIPpN0 >}}
+
+{{< video https://youtu.be/j8-ojdfg5sg >}}
+

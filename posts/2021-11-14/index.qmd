@@ -1,0 +1,70 @@
+---
+title: "Für Edith Supporting Theme B in Amaj Video"
+date: "2021-11-14T20:37:23"
+format: 
+  html: default
+image: "../img/les.jpg"
+categories:
+  - "2021"
+  - Les Paul
+  - Fingerstyle
+  - Song
+---
+
+Measures: Für Edith Supporting Theme B in Amaj
+
+## Video
+
+{{< video https://youtu.be/ahGYuhkMv9s >}}
+
+```         
+Guitar: Gibson Les Paul
+Body Material: Plain Maple Top with a Mahogany Body
+Fingerboard Material: Rosewood
+Pickup Position: Neck
+Master Volume: 5.1
+Master Tone: 1.9
+
+Multi Effects Processor: Zoom G3Xn
+Master Volume: 100 
+Compressor: 5, Fast, 5, 70 OFF
+Tremolo: Tube, 30, 50, 80 OFF
+Tape Echo Delay 3: 50, 29, 47, 80 OFF
+
+Amplifier: Fender Blues Jr. III
+Volume: 6.5
+Fat: OFF
+Treble: 6.5
+Bass: 6.5
+Middle: 6.5
+Master: 4.0
+Reverb: 1.0
+
+Microphone: Blue Yeti 70 cm away from centre
+Gain: 11 o'clock
+Mode: Omnidirectional
+
+GarageBand Master Track
+Channel EQ: Final Mix - Ballad
+Space D: Analog Pedal 2; 1.93 s, mute, -1.4 dB
+Multipressor: Extreme Deep Punch; -10.8
+Limiter: For Classical Music: 0.4 dB -2.0 dB
+Ozone Imager 2: 15.4 & 86
+Loudness Meter: -14.1 LUFS
+```
+
+### Rondo Musical Form
+
+Rondo and its French part-equivalent rondeau are words that have been used in music in a number of ways, most often in reference to a musical form, but also to a character type that is distinct from the form. 
+
+![Form](https://thedeepkeel.files.wordpress.com/2021/11/rondo-musical-form-2021.jpg?w=1024)
+
+The term and formal principle may have derived from the medieval poetic form, rondeau, which contains repetitions of a couplet separated by longer sections of poetry. In rondo form, a principal theme (sometimes called the "refrain") alternates with one or more contrasting themes, generally called "episodes," but also occasionally referred to as "digressions" or "couplets." Possible patterns in the Classical period include: ABA, ABACA, or ABACABA. The number of themes can vary from piece to piece, and the recurring element is sometimes embellished and/or shortened in order to provide for variation. The Baroque predecessor to the rondo was the ritornello. Ritornello form was used in the fast movements of baroque concertos. The entire orchestra (in Italian, tutti) plays the main ritornello theme, while soloists play the intervening episodes. While Rondo form is similar to ritornello form, it is different in that ritornello brings back the subject or main theme in fragments and in different keys, but the rondo brings back its theme complete and in the same key. A common expansion of rondo form is to combine it with sonata form, to create the sonata rondo form. Here, the second theme acts in a similar way to the second theme group in sonata form by appearing first in a key other than the tonic and later being repeated in the tonic key. Unlike sonata form, thematic development does not need to occur except possibly in the coda.
+
+![](https://s3-us-west-2.amazonaws.com/courses-images-archive-read-only/wp-content/uploads/sites/592/2015/06/21174057/Classical_seven-part_rondo.png)
+
+Source: <https://courses.lumenlearning.com/atd-epcc-musicappreciation/chapter/rondo-form/>
+
+![](https://www.musictheoryacademy.com/wp-content/uploads/2013/11/Primary-Chords-in-Major-Keys.png)
+
+![](https://www.musictheoryacademy.com/wp-content/uploads/2013/11/Primary-Chords-in-Minor-Keys.png)

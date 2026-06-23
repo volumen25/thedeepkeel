@@ -1,0 +1,28 @@
+---
+title: "Accented Notes"
+date: "2020-06-16T21:37:23"
+date-modified: "2020-06-19T21:37:23"
+#draft: true
+format: 
+  html: default
+image: "../img/les.jpg"
+#image: "../img/strat.jpg"
+#image: "../img/tele.jpg"
+categories:
+  - "2020"
+  - Les Paul
+  - Fingerstyle
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+## Video
+
+{{< video https://youtu.be/NO8Gdyl2ViY >}}
+
+{{< video https://youtu.be/Ld93Nm0VtiQ >}}
+
+{{< video https://youtu.be/TNJiirBNkTI >}}
+
+{{< video https://youtu.be/TflmFc_Wqt8 >}}

@@ -1,0 +1,31 @@
+---
+title: "Twelve-Bar Blues Shuffle"
+date: "2021-06-07T20:37:23"
+format: 
+  html: default
+image: "../img/strat.jpg"
+categories:
+  - "2021"
+  - Stratocaster
+  - Fingerstyle
+  - Bottleneck slide
+  - Study
+---
+
+Tempo: free bpm
+
+## Video
+
+{{< video https://youtu.be/OCjXc0wOXjA >}}
+
+{{< video https://youtu.be/Kvevx1bA9hw >}}
+
+{{< video https://youtu.be/awB_q-F3n3I >}}
+
+{{< video https://youtu.be/Ry4jFUV4CE0 >}}
+
+{{< video https://youtu.be/ph_TI3HVgvQ >}}
+
+{{< video https://youtu.be/Mzs9oke-vsE >}}
+
+{{< video https://youtu.be/q1wmfbrVyN0 >}}

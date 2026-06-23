@@ -1,0 +1,82 @@
+---
+title: "Milestone 2 | Impermanence"
+date: "2019-10-26T21:37:23"
+#date-modified: "2019-07-29T20:37:23"
+#draft: true
+format: 
+  html: default
+# image: "../img/les.jpg"
+image: "../img/strat.jpg"
+#image: "../img/tele.jpg"
+categories:
+  - "2019"
+  - Stratocaster
+  - Song
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+## Video
+
+{{< video https://youtu.be/xsdJ88TR0OE >}}
+
+{{< video https://youtu.be/VcsblWiO6Qs >}}
+
+### Impermanence
+
+The first ending. And knowing it would end
+
+I wanted another. Lover, summer,
+
+pen with which to write it all down.
+
+The first disappointment. Which is not
+
+remembered but lives in the body.
+
+And how familiar it became. To take
+
+the same walk home or lean over ledges,
+
+to say my own name when meeting someone.
+
+Again and again for the last time:
+
+the taste of salt in the afternoon.
+
+Flowers for no one---alive and sold on the street.
+
+What did I think was promised in being?
+
+The way a stranger can finish you off.
+
+Once only. And never the same
+
+after that. After knowledge.
+
+How people are being detained
+
+and shot with our money.
+
+All of which cannot prepare us for death
+
+of which I am a student
+
+and which is this country's business:
+
+the permanence of others.
+
+Even our cruelty toward one another.
+
+Will end. And I know
+
+that looking at the night sky
+
+is me looking at the past. At light
+
+that's long escaped and travels alone
+
+but won't always.
+
+\- Alex Dimitrov

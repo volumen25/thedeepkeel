@@ -1,0 +1,109 @@
+---
+title: "Okinawa Skies Revisited"
+subtitle: "Okinawa Skies Revisited in 2026"
+date: "2026-02-16"
+date-modified: "2026-05-31"
+#draft: true
+format: 
+  html: default
+image: "../img/tele_mij.jpg"
+# image: "../img/les.jpg"
+# image: "../img/strat.jpg"
+# image: "../img/tele.jpg"
+categories:
+  - "2026"
+  - Telecaster
+  - Fingerstyle
+  - Song
+  - Study
+---
+
+## Tablature: Okinawa Skies Revisited
+
+[Download](tab.pdf)
+
+## Video
+
+{{< video https://youtu.be/0NKNYXEXiRA >}}
+
+{{< video https://youtu.be/p8NZi2Ke6JM >}}
+
+{{< video https://youtu.be/Een76VTbAC0 >}}
+
+{{< video https://youtu.be/a4PqakJCXjI >}}
+
+## Fender Telecaster
+
+Pickup Position: Neck\
+Master Volume: \~9\
+Master Tone: \~9
+
+## Zoom G3Xn
+
+040 Hot Twin (Master Level 10)
+
+## Joyo Tremolo
+
+Intensity: 25%\
+Rate: 25%
+
+## Fender Blues Jr. III
+
+Volume: 3.5\
+Fat: OFF\
+Treble: 4.5\
+Bass: 7.0\
+Middle: 9.0\
+Master: 3.5\
+Reverb: 2.0
+
+## Blue Yeti
+
+Gain: 9 o'clock\
+Mode: Cardioid mode, 12” from speaker, slightly off-axis
+
+## Dolby ON
+
+OFF
+
+Free tempo
+
+## Video
+
+{{< video https://youtu.be/PwLIWSBWWH4 >}}
+
+{{< video https://youtu.be/VxdPzjTyoL4 >}}
+
+## Fender Telecaster
+
+Pickup Position: Neck\
+Master Volume: \~9\
+Master Tone: \~9
+
+## Zoom G3Xn
+
+OFF
+
+## Joyo Tremolo
+
+Intensity: 25%\
+Rate: 25%
+
+## Fender Blues Jr. III
+
+Volume: 3.5\
+Fat: OFF\
+Treble: 4.5\
+Bass: 7.0\
+Middle: 5.0\
+Master: 3.5\
+Reverb: 2.0
+
+## Blue Yeti
+
+Gain: 9 o'clock\
+Mode: Cardioid mode, 12” from speaker, slightly off-axis
+
+## Dolby ON
+
+Standard

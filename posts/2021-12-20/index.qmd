@@ -1,0 +1,75 @@
+---
+title: "The Little Drummer Boy"
+date: "2021-12-20T20:37:23"
+date-modified: "2021-12-23T20:47:23"
+format: 
+  html: default
+image: "../img/tele.jpg"
+categories:
+  - "2021"
+  - Telecaster
+  - Study
+  - Christmas
+---
+
+Measures: All\
+Metronome: 120 bpm
+
+## Video
+
+{{< video https://youtu.be/MlThKb-Gr44 >}}
+
+{{< video https://youtu.be/2_6_P9SprFQ >}}
+
+{{< video https://youtu.be/2AX4pSXQwtA >}}
+
+{{< video https://youtu.be/I_OaP4aRjHo >}}
+
+{{< video https://youtu.be/m0kZWBAMUgI >}}
+
+{{< video https://youtu.be/ZkTcZP2tDt4 >}}
+
+{{< video https://youtu.be/RhPaKfSiLas >}}
+
+## Fender Telecaster
+
+Body: Pine\
+Fingerboard: Maple\
+Master Volume: 4.0\
+Master Tone: 9.0
+
+## Zoom G3Xn
+
+Master Volume: 100 OFF\
+Compressor: 5, Fast, 5, 70 OFF\
+Tremolo: Tube, 30, 50, 80 OFF\
+Tape Echo Delay 3: 50, 29, 47, 80 OFF
+
+## Joyo Tremolo
+
+Intensity: 50%\
+Rate: 75%
+
+## Fender Blues Jr. III
+
+Volume: 8.5\
+Fat: OFF\
+Treble: 6.5\
+Bass: 6.5\
+Middle: 6.5\
+Master: 2.7\
+Reverb: 3.0
+
+## Blue Yeti
+
+Approx. 70 cm away from centre\
+Gain: 11 o'clock\
+Mode: Omnidirectional
+
+## GarageBand Master Track
+
+Channel EQ: Final Mix - Ballad\
+Space D: Analog Pedal 2; 964 ms, mute, -2.0 dB\
+Limiter: For Vocals: -0.6 dB -6.0 dB\
+Ozone Imager 2: 15.4 & 86\
+Loudness Meter: -14.7 LUFS

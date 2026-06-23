@@ -1,0 +1,135 @@
+---
+title: "Week05"
+subtitle: "Amazing Grace"
+date: "2025-07-30"
+date-modified: "2025-08-02"
+format: 
+  html: default
+image: "../img/strat.jpg"
+categories:
+  - "2025"
+  - Stratocaster
+  - Practice
+  - TGIAY
+  - Song
+---
+
+Tempo: 70 bpm
+
+Economy of motion!
+
+## Picking Practice
+
+-   Alternate picking, fingers 4-2-3-1, from E to e string, 25 repetitions
+
+-   Alternate picking, 2x each time, fingers 1-2-3-4, from E to e string, 25 repetitions
+
+-   Alternate picking, fingers 1-3-2-4, from E to e string, 25 repetitions
+
+## Chromatic Scale
+
+Write and say it out loud:
+
+[**C**]{.underline} C#Db [**D**]{.underline} D#Eb [**E**]{.underline} [**F**]{.underline} F#Gb [**G**]{.underline} G#Ab [**A**]{.underline} A#Bb [**B**]{.underline}
+
+## Cmaj Scale
+
+-   Play Cmaj scale up & down, 1 min
+
+## Chord Practice
+
+-   **G** Chord, 25 repetitions
+
+-   **Cadd9** Chord, 25 repetitions
+
+-   **Dsus4** Chord, 25 repetitions
+
+-   Chord progression, **G → Cadd9 → Dsus4**, 3 min.
+
+## Song Practice
+
+Amazing Grace
+
+``` txt
+    1   2   3      1   2   3      1   2   3      1   2   3
+e|--------------|--------------|--------------|--------------|
+B|--------------|----------0---|--0-----------|--------------|
+G|--------------|--0-----------|----------2---|--0-----------|
+D|----------0---|--------------|--------------|----------2---|
+A|--------------|--------------|--------------|--------------|
+E|--------------|--------------|--------------|--------------|
+```
+
+``` txt
+    1   2   3      1   2   3      1   2   3      1   2   3
+e|--------------|--------------|--------------|--------------|
+B|--------------|----------0---|--0-----------|--3-----------|
+G|--------------|--0-----------|----------2---|--------------|
+D|--0-------0---|--------------|--------------|--------------|
+A|--------------|--------------|--------------|--------------|
+E|--------------|--------------|--------------|--------------|
+```
+
+``` txt
+    1   2   3      1   2   3      1   2   3      1   2   3
+e|--------------|--------------|--------------|--------------|
+B|----------0---|--3-------0---|--------------|--------------|
+G|--------------|--------------|--0-----------|--0-----------|
+D|--------------|--------------|----------2---|----------2---|
+A|--------------|--------------|--------------|--------------|
+E|--------------|--------------|--------------|--------------|
+```
+
+``` txt
+    1   2   3      1   2   3      1   2   3      1   2   3
+e|--------------|--------------|--------------|--------------|
+B|--------------|----------0---|--0-----------|--------------|
+G|--------------|--0-----------|----------2---|--0-----------|
+D|--0-------0---|--------------|--------------|--------------|
+A|--------------|--------------|--------------|--------------|
+E|--------------|--------------|--------------|--------------|
+```
+
+## Video Log
+
+{{< video https://youtu.be/GUyua9jIxMc >}}
+
+{{< video https://youtu.be/CDuHlzcnWeI >}}
+
+{{< video https://youtu.be/b8bSEizjnkA >}}
+
+{{< video https://youtu.be/IeY8pp9xzAY >}}
+
+## Fender Stratocaster
+
+Pickup Position: Neck\
+Master Volume: 3\
+Master Tone: 5
+
+## Zoom G3Xn
+
+Preset: OFF
+
+## Joyo Tremolo
+
+Intensity: 25%\
+Rate: 25%
+
+## Fender Blues Jr. III
+
+Volume: 8.0\
+Fat: OFF\
+Treble: 5.0\
+Bass: 7.0\
+Middle: 11.0\
+Master: 4.0\
+Reverb: 5.0
+
+## Blue Yeti
+
+Gain: 10 o'clock\
+Mode: Stereo, on desk near plant
+
+## Lesson Video
+
+{{< video https://youtu.be/PpW1xR_ko0Q?si=3PIPzxl5z-DAeg6U >}}

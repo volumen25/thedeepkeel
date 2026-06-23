@@ -1,0 +1,70 @@
+---
+title: "Nocturne Bars 1-32"
+date: "2022-06-23T20:37:23"
+#date-modified: "2022-06-15T20:37:23"
+format: 
+  html: default
+image: "../img/les.jpg"
+categories:
+  - "2022"
+  - Les Paul
+  - Hybrid picking
+  - Study
+---
+
+Measures: 1-32\
+Tempo: very slow to learn fingering and chord progression
+
+{{< video https://youtu.be/BY0BbwqP530 >}}
+
+{{< video https://youtu.be/-IyLLLimM5o >}}
+
+{{< video https://youtu.be/pAbvEDtOfek >}}
+
+{{< video https://youtu.be/7w2x6B7iJ-8 >}}
+
+```         
+Gibson Les Paul
+Pickup Position: Neck
+Master Volume: 2.5
+Master Tone: 3.5
+
+Multi Effects Processor: Zoom G3Xn
+Master Volume: 20 
+Compressor: 6, Fast, 6, 80 ON
+Slab Back Delay: 20, 50, 50, Quarter note
+
+Joyo Tremolo
+Intensity: 50%
+Rate: 50%
+
+Amplifier: Fender Blues Jr. III
+Volume: 8.0
+Fat: OFF
+Treble: 6.5
+Bass: 6.5
+Middle: 6.5
+Master: 3.0
+Reverb: 5.0
+
+Microphone: Blue Yeti 
+Gain: 11 o'clock
+Mode: Stereo, on desk near iMac
+```
+
+{{< video https://youtu.be/i5zR0ZA_os8 >}}
+
+```         
+Gibson Les Paul
+Pickup Position: Neck
+Master Volume: 2.0
+Master Tone: 3.5
+
+Amplifier: Fender Mustang 1 [Custom Deluxe Reverb]
+
+Microphone: Blue Yeti 
+Gain: 11 o'clock
+Mode: Stereo, on desk near iMac
+```
+
+![](https://www.fmicassets.com/Damroot/ZoomJpg/10007/2274000000_amp_frt_001_nr.jpg)

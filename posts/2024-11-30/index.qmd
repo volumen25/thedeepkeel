@@ -1,0 +1,25 @@
+---
+title: "Happy Birthday"
+date: "2024-11-30T20:37:23"
+#date-modified: "2023-07-10T20:37:23"
+format: 
+  html: default
+image: "../img/ami.jpeg"
+categories:
+  - "2024"
+  - Parlor
+  - Song
+---
+
+## Video
+
+{{< video https://youtu.be/WrDjbTaNZ7k >}}
+
+{{< video https://youtu.be/F5MHPOGq1jQ >}}
+
+{{< video https://youtu.be/hRMXgs4yxys >}}
+
+## GarageBand
+
+Track Preset: Parlor\
+Master Preset: Master Parlor

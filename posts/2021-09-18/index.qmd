@@ -1,0 +1,94 @@
+---
+title: "Freight Train"
+date: "2021-09-18T20:37:23"
+date-modified: "2021-09-24T20:37:23"
+format: 
+  html: default
+image: "../img/tele.jpg"
+categories:
+  - "2021"
+  - Telecaster
+  - Study
+  - Fingerstyle
+---
+
+Metronome: Free\
+Measures: 1-24
+
+## Freight Train 21
+
+{{< video https://youtu.be/pJBf1RrWZn8 >}}
+
+```
+Guitar: Fender Telecaster
+Body Material: Pine
+Fingerboard Material: Maple
+Pickup Position: 5 (neck)
+
+Amplifier: Fender Custom Deluxe Reverb
+
+Microphone: Blue Yeti 70 cm away from centre
+Gain: 11 o'clock
+Mode: Omnidirectional
+
+GarageBand Master Track
+Compressor: Platinum Analog Tape: -12.5 dB 1.6:1 47.0 ms 1.5 dB OFF
+Channel EQ: Guitar Sweetener 
+Limiter: For Classical Music: 0.6 dB -4.4 dB
+Ozone Imager 2: 15.4 & 86
+Loudness Meter: -14 LUFS
+```
+
+## Freight Train 22
+
+Metronome: Free\
+Measures: 1-24
+
+{{< video https://youtu.be/_awisjaYLcQ >}}
+
+```         
+Guitar: Fender Telecaster
+Body Material: Pine
+Fingerboard Material: Maple
+Pickup Position: 5 (neck)
+
+Amplifier: Fender Custom Deluxe Reverb
+
+Microphone: Blue Yeti 70 cm away from centre
+Gain: 11 o'clock
+Mode: Omnidirectional
+
+GarageBand Master Track
+Compressor: Platinum Analog Tape: -12.5 dB 1.6:1 47.0 ms 1.5 dB OFF
+Channel EQ: Guitar Sweetener 
+Limiter: For Classical Music: 0.6 dB -4.4 dB
+Ozone Imager 2: 15.4 & 86
+Loudness Meter: -14 LUFS
+```
+
+## Freight Train 23
+
+Metronome: Free\
+Measures: 1-24
+
+{{< video https://youtu.be/6k6xqEkh3f0 >}}
+
+```
+Guitar: Fender Telecaster
+Body Material: Pine
+Fingerboard Material: Maple
+Pickup Position: 5 (neck)
+
+Amplifier: Fender Custom Deluxe Reverb
+
+Microphone: Blue Yeti 70 cm away from centre
+Gain: 11 o'clock
+Mode: Omnidirectional
+
+GarageBand Master Track
+Compressor: Platinum Analog Tape: -12.5 dB 1.6:1 47.0 ms 1.5 dB OFF
+Channel EQ: Guitar Sweetener 
+Limiter: For Classical Music: 0.6 dB -4.4 dB
+Ozone Imager 2: 15.4 & 86
+Loudness Meter: -14 LUFS
+```

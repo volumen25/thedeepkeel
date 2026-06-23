@@ -1,0 +1,43 @@
+---
+title: "Freight Train"
+date: "2021-08-16T20:37:23"
+date-modified: "2021-08-19T20:37:23"
+format: 
+  html: default
+image: "../img/strat.jpg"
+categories:
+  - "2021"
+  - Stratocaster
+  - Study
+  - Fingerstyle
+---
+
+## Freight Train 2
+G3Xn: Compressor: 8, Slow, 5, 50, Tremolo: OFF Tube, 50, 50, 70\
+Blues Jr.: 4, ON, 8, 8, 4.5, 3.5, 5\
+GarageBand: Mastered with MasterJazz2021
+
+{{< video https://youtu.be/ogeWj3KHwM4 >}}
+
+## Freight Train 4
+G3Xn: Compressor: 8, Slow, 5, 50, Tremolo: OFF Tube, 50, 50, 70.\
+Blues Jr.: 4, ON, 8, 8, 4.5, 3.5, 5\
+GarageBand: Mastered with MasterJazz2021
+
+Metronom: Free\
+Measures: 1-8
+
+{{< video https://youtu.be/XFf-aTy59fs >}}
+
+## Freight Train 5
+G3Xn: Compressor: 8, Slow, 7, 70, Tremolo: OFF/ON Tube, 59, 39, 81\
+Blues Jr.: 4, ON, 8, 8, 4.5, 3.5, 5\
+GarageBand: Mastered with MasterJazz2021\
+
+Metronom: 75 bpm\
+Measures: 1-8
+
+{{< video https://youtu.be/hoZ-nQYcZ-I >}}
+
+
+![](https://www.azquotes.com/picture-quotes/quote-the-zen-way-of-calligraphy-is-to-write-in-the-most-straightforward-simple-way-as-if-shunryu-suzuki-115-69-44.jpg)

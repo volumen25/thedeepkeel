@@ -1,0 +1,45 @@
+---
+title: "Yūgen: Mysterious Grace"
+date: "2021-06-10T20:37:23"
+format: 
+  html: default
+image: "../img/strat.jpg"
+categories:
+  - "2021"
+  - Stratocaster
+  - Fingerstyle
+  - Bottleneck slide
+  - Song
+---
+
+First attempt at a new piece. G3Xn compressor settings: 6, Slow, 6, 80. Recorded with Logic Pro and mastered using "MasterJazzJune2021"
+
+## Video
+
+{{< video https://youtu.be/CQ60Hc_YNf0 >}}
+
+{{< video https://youtu.be/RXPy-obTEa8 >}}
+
+{{< video https://youtu.be/Q5hzvMitQi8 >}}
+
+{{< video https://youtu.be/ymiiZpRSsb8 >}}
+
+## Yūgen: Mysterious Grace
+
+From: <https://plato.stanford.edu/entries/japanese-aesthetics/>
+
+Yūgen may be, among generally recondite Japanese aesthetic ideas, the most ineffable. The term is first found in Chinese philosophical texts, where it has the meaning of "dark," or "mysterious."
+
+Kamo no Chōmei, the author of the well-known Hōjōki (An Account of my Hut, 1212), also wrote about poetry and considered yūgen to be a primary concern of the poetry of his time. He offers the following as a characterization of yūgen: "It is like an autumn evening under a colorless expanse of silent sky. Somehow, as if for some reason that we should be able to recall, tears well uncontrollably." Another characterization helpfully mentions the importance of the imagination:
+
+> "When looking at autumn mountains through mist, the view may be indistinct yet have great depth. Although few autumn leaves may be visible through the mist, the view is alluring. The limitless vista created in imagination far surpasses anything one can see more clearly" (Hume, 253--54).
+
+This passage instantiates a general feature of East-Asian culture, which favors allusiveness over explicitness and completeness. Yūgen does not, as has sometimes been supposed, have to do with some other world beyond this one, but rather with the depth of the world we live in, as experienced with the aid of a cultivated imagination.
+
+The art in which the notion of yūgen has played the most important role is the Nō drama, one of the world's great theater traditions, which attained its highest flourishing through the artistry of Zeami Motokiyo (1363--1443). Zeami wrote a number of treatises on Nō drama, in which yūgen("Grace") figures as "the highest principle" (Rimer, 92). He associates it with the highly refined culture of the Japanese nobility, and with their speech in particular, though there is also in Nō a "Grace of music," a "Grace of performance \[of different roles\]," and a "Grace of the dance" (Rimer, 93). It is something rare, that is attained only by the greatest actors in the tradition, and only after decades of dedicated practice of the art. It is impossible to conceptualize, so that Zeami often resorts to imagery in trying to explain it: "Cannot the beauty of Grace be compared to the image of a swan holding a flower in its bill, I wonder?" (Rimer, 73).
+
+The most famous formulation comes at the beginning of Zeami's "Notes on the Nine Levels \[of artistic attainment in Nō\]," where the highest level is referred to as "the art of the flower\[ing\] of peerless charm":
+
+> The meaning of the phrase Peerless Charm surpasses any explanation in words and lies beyond the workings of consciousness. It can surely be said that the phrase "in the dead of night, the sun shines brightly" exists in a realm beyond logical explanation. Indeed, concerning the Grace of the greatest performers in our art \[it gives rise to\] the moment of Feeling that Transcends Cognition, and to an art that lies beyond any level that the artist may consciously have attained. (Rimer, 120)
+
+This passage alludes to the results of a pattern of rigorous discipline that informs many "performing arts" (which would include the tea ceremony and calligraphy as well as theater) in Japan, as well as East-Asian martial arts. Nō is exemplary in this respect, since its forms of diction, gestures, gaits, and dance movements are all highly stylized and extremely unnatural. The idea is that one practices for years a "form" (kata) that goes counter to the movements of the body and thus requires tremendous discipline---to the point of a breakthrough to a "higher naturalness" that is exhibited when the form has been consummately incorporated. This kind of spontaneity gives the impression, as in the case of Grace, of something "supernatural."

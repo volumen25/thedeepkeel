@@ -1,0 +1,26 @@
+---
+title: "C Ionian"
+date: "2019-08-16T21:37:23"
+#date-modified: "2019-07-29T20:37:23"
+#draft: true
+format: 
+  html: default
+# image: "../img/les.jpg"
+image: "../img/strat.jpg"
+#image: "../img/tele.jpg"
+categories:
+  - "2019"
+  - Stratocaster
+  - Theory
+---
+
+## Video
+
+{{< video https://youtu.be/R6-DJ3RMPCc >}}
+
+The Ionian Mode is the first mode of the major scale. They are essentially the same scale.\
+C Ionian Scale Notes: C D E F G A B\
+Ionian Scale Formula: 1 2 3 4 5 6 7\
+Ionian Scale Intervals: W W H W W W H
+
+<img class="alignnone size-full wp-image-172" src="https://thedeepkeel.files.wordpress.com/2019/05/img_0022.jpg" alt="IMG_0022" width="2049" height="1537" />

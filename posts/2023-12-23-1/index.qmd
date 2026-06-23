@@ -1,0 +1,52 @@
+---
+title: "Silent Night"
+date: "2023-12-23T20:37:23"
+date-modified: "2023-12-25T20:47:23"
+format: 
+  html: default
+image: "../img/les.jpg"
+categories:
+  - "2023"
+  - Les Paul
+  - Song
+  - Study
+  - Christmas
+---
+
+Tempo: Free
+
+## Video
+
+{{< video https://youtu.be/6Qi4qUY3vN0 >}}
+
+{{< video https://youtu.be/3ACLfihYclU >}}
+
+## Gibson Les Paul
+
+Pickup Position: Neck\
+Master Volume: 6\
+Master Tone: 7
+
+## Zoom G3Xn
+
+Preset: 147 Jazz Summer
+
+## Joyo Tremolo
+
+Intensity: 25%\
+Rate: 25%
+
+## Fender Blues Jr. III
+
+Volume: 8.0\
+Fat: OFF\
+Treble: 6.5\
+Bass: 6.0\
+Middle: 6.0\
+Master: 3.0\
+Reverb: 5.0
+
+## Blue Yeti
+
+Gain: 9 o'clock\
+Mode: Stereo, on desk near plant

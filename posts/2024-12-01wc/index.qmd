@@ -1,0 +1,60 @@
+---
+title: "White Christmas"
+date: "2024-12-01"
+date-modified: "2024-12-03"
+format: 
+  html: default
+image: "../img/les.jpg"
+categories:
+  - "2024"
+  - Les Paul
+  - Fingerstyle
+  - Hybrid picking
+  - Song
+  - Study
+  - Christmas
+  - Chord melody
+---
+
+## Phrase 1
+
+{{< video https://youtu.be/Mb3M7mGx25g >}}
+
+## Gibson Les Paul
+
+Pickup Position: Neck\
+Master Volume: 9\
+Master Tone: 5\
+
+## Zoom G3Xn
+
+Preset: OFF
+
+## Joyo Tremolo
+
+Intensity: 25%\
+Rate: 25%
+
+## Fender Blues Jr. III
+
+Volume: 4.0\
+Fat: OFF\
+Treble: 4.5\
+Bass: 7.0\
+Middle: 5.0\
+Master: 5.0\
+Reverb: 2.5\
+
+## Blue Yeti
+
+Gain: 10 o'clock\
+Mode: Stereo, on desk near plant
+
+## GarageBand
+
+Track Preset: Gibson Jazz Combo\
+Master Preset: WhiteXmas2024
+
+## Lesson
+
+{{< video https://youtu.be/MpxE1P9fYeQ?si=5nKd9jXMpzpVsUZx >}}

@@ -1,0 +1,33 @@
+---
+title: "Étude: Open D: I, IV and V chords"
+date: "2021-06-15T20:37:23"
+format: 
+  html: default
+image: "../img/les.jpg"
+categories:
+  - "2021"
+  - Les Paul
+  - Fingerstyle
+  - Theory
+  - Open D
+  - Study
+---
+
+G3Xn compressor settings: 6, Slow, 6, 80. Recorded with Logic Pro with slow panning tremolo and mastered using "MasterJazzJune2021"
+
+
+## Video
+
+{{< video https://youtu.be/wMbcsACioUw >}}
+
+{{< video https://youtu.be/_CYRXzLl_Ik >}}
+
+{{< video https://youtu.be/t8x7QXsh_FE >}}
+
+{{< video https://youtu.be/CAzrBYNO3xQ >}}
+
+{{< video https://youtu.be/rmhir9D6IVQ >}}
+
+{{< video https://youtu.be/4Y8BNOJXVpA >}}
+
+{{< video https://youtu.be/8bbJsyJxCGo >}}

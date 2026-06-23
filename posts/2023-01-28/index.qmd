@@ -1,0 +1,34 @@
+---
+title: "Exercise 2 & 3"
+date: "2023-01-28T21:37:23"
+#draft: true
+format: 
+  html: default
+image: "../img/strat.jpg"
+categories:
+  - "2023"
+  - Stratocaster
+  - Fingerstyle
+---
+
+## Fender Stratocaster 
+Pickup Position: Neck\
+Master Volume: ~6\
+Master Tone: ~6 
+
+## Multi Effects Processor
+Zoom G3Xn: 142 (Jazz Strato)
+
+## Amplifier
+Fender Mustang Red B
+
+## Microphone 
+Blue Yeti\ 
+Gain: 9 o'clock\ 
+Mode: Omnidirectional, on desk near plant
+
+## Video
+
+{{< video https://youtu.be/yoRfhuV1ThY >}}
+
+{{< video https://youtu.be/h-ExRuFUZ1k >}}

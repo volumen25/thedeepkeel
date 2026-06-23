@@ -1,0 +1,24 @@
+---
+title: "We’re going to be friends"
+date: "2019-01-05T21:37:23"
+#date-modified: "2023-07-10T20:37:23"
+#draft: true
+format: 
+  html: default
+# image: "../img/les.jpg"
+# image: "../img/strat.jpg"
+image: "../img/tele.jpg"
+categories:
+  - "2019"
+  - Telecaster
+  - Fingerstyle
+  - Study
+---
+
+Recorded with built-in iMac camera using Tele in position 4\>G3Xn\>Archtop+R&B2 Drum Pattern \>Blues Jr.
+
+## Video
+
+{{< video https://youtu.be/qxjfXs61ph4?si=r_uCaPd2OZjxD003 >}}
+
+{{< video https://youtu.be/xV6Aztix67U >}}

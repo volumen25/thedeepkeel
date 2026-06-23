@@ -1,0 +1,26 @@
+---
+title: "C Aeolian"
+date: "2019-08-19T21:37:23"
+#date-modified: "2019-07-29T20:37:23"
+#draft: true
+format: 
+  html: default
+# image: "../img/les.jpg"
+image: "../img/strat.jpg"
+#image: "../img/tele.jpg"
+categories:
+  - "2019"
+  - Stratocaster
+  - Theory
+---
+
+## Video
+
+{{< video https://youtu.be/OGF1n9lIpZI >}}
+
+C Aeolian< is the sixth mode of the Eb major scale\
+C Aeolian Scale Notes: C D Eb F G Ab Bb\
+Aeolian Scale Formula: 1 2 b3 4 5 b6 b7\
+Aeolian Scale Intervals: W H W W H W W
+
+<img class="alignnone size-full wp-image-175" src="https://thedeepkeel.files.wordpress.com/2019/05/img_0027.jpg" alt="IMG_0027" width="2049" height="1537" />

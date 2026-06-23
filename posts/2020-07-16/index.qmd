@@ -1,0 +1,19 @@
+---
+title: "SUS4 Transitions"
+date: "2020-07-16T20:37:23"
+date-modified: "2020-07-17T20:37:23"
+format: 
+  html: default
+image: "../img/strat.jpg"
+categories:
+  - "2020"
+  - Stratocaster
+---
+
+## Video
+
+{{< video https://youtu.be/Mt1VbsOUqGA >}}
+
+{{< video https://youtu.be/KnfAZfXOZYA >}}
+
+{{< video https://youtu.be/a31foZrbYe8 >}}

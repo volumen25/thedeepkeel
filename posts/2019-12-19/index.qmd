@@ -1,0 +1,27 @@
+---
+title: "The Little Drummer Boy"
+date: "2019-12-19T21:37:23"
+#date-modified: "2019-11-10T21:37:23"
+#draft: true
+format: 
+  html: default
+# image: "../img/les.jpg"
+image: "../img/strat.jpg"
+#image: "../img/tele.jpg"
+categories:
+  - "2019"
+  - Stratocaster
+  - Song
+  - Christmas
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+## Video
+
+{{< video https://youtu.be/EHRiFyK_K4g >}}
+
+{{< video https://youtu.be/QB6FMtGSHUs >}}
+
+{{< video https://youtu.be/2AKUTGthICw >}}

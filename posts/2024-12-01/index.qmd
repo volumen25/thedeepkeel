@@ -1,0 +1,52 @@
+---
+title: "Ex.8"
+date: "2024-12-01"
+#date-modified: "2024-11-13"
+format: 
+  html: default
+image: "../img/les.jpg"
+categories:
+  - "2024"
+  - Les Paul
+  - Study
+  - Scales
+  - MMG
+---
+
+## Exercise 8 \@ 35 bpm
+
+{{< video https://youtu.be/_YOpOF5uhfo >}}
+
+## Gibson Les Paul
+
+Pickup Position: Neck\
+Master Volume: 9\
+Master Tone: 5\
+
+## Zoom G3Xn
+
+Preset: OFF
+
+## Joyo Tremolo
+
+Intensity: 25%\
+Rate: 25%
+
+## Fender Blues Jr. III
+
+-   Volume: 4.0
+-   Fat: OFF
+-   Treble: 4.5
+-   Bass: 7.0
+-   Middle: 5.0
+-   Master: 5.0
+-   Reverb: 2.5
+
+## Blue Yeti
+
+Gain: 9 o'clock\
+Mode: Stereo, on desk near plant
+
+## Lesson
+
+{{< video https://youtu.be/bMg62i2itLw?si=J8ZR1_nBFVCn0TE- >}}

@@ -1,0 +1,120 @@
+---
+title: "Freight Train"
+date: "2021-09-26T20:37:23"
+date-modified: "2021-09-28T20:37:23"
+format: 
+  html: default
+image: "../img/jag.jpg"
+categories:
+  - "2021"
+  - Jaguar
+  - Study
+  - Fingerstyle
+---
+
+Metronome: 90 bpm\
+Measures: Complete piece
+
+## Freight Train 24
+
+{{< video https://youtu.be/5ocpJSl_a2Q >}}
+
+```
+Guitar: Fender Jaguar
+Body Material: Alder
+Fingerboard Material: Pau Ferro
+Pickup Position: Neck
+Master Volume: 4
+Master Tone: 9
+
+Amplifier: Fender Blues Jr. III
+Volume: 5.5
+Fat: OFF
+Treble: 6.5
+Bass: 6.5
+Middle: 6.5
+Master: 5.5
+Reverb: 3.0
+
+Microphone: Blue Yeti 70 cm away from centre
+Gain: 11 o'clock
+Mode: Omnidirectional
+
+GarageBand Master Track
+Compressor: Platinum Analog Tape: -12.5 dB 1.6:1 47.0 ms 1.5 dB OFF
+Channel EQ: Guitar Sweetener 
+Limiter: For Classical Music: 0.6 dB -4.4 dB
+Ozone Imager 2: 15.4 & 86
+Loudness Meter: -14 LUFS
+```
+
+Metronome: 110 bpm\
+Measures: Complete piece
+
+## Freight Train 25
+
+{{< video https://youtu.be/gHPuUc1GnTs >}}
+
+```         
+Guitar: Fender Jaguar
+Body Material: Alder
+Fingerboard Material: Pau Ferro
+Pickup Position: Neck
+Master Volume: 4
+Master Tone: 9
+
+Amplifier: Fender Blues Jr. III
+Volume: 5.5
+Fat: OFF
+Treble: 6.5
+Bass: 6.5
+Middle: 6.5
+Master: 5.5
+Reverb: 3.0
+
+Microphone: Blue Yeti 70 cm away from centre
+Gain: 11 o'clock
+Mode: Omnidirectional
+
+GarageBand Master Track
+Compressor: Platinum Analog Tape: -12.5 dB 1.6:1 47.0 ms 1.5 dB OFF
+Channel EQ: Guitar Sweetener 
+Limiter: For Classical Music: 0.6 dB -4.4 dB
+Ozone Imager 2: 15.4 & 86
+Loudness Meter: -14 LUFS
+```
+
+Measures: Complete piece
+
+## Freight Train 26
+
+{{< video https://youtu.be/TD387HEw6js >}}
+
+```
+Guitar: Fender Jaguar
+Body Material: Alder
+Fingerboard Material: Pau Ferro
+Pickup Position: Neck
+Master Volume: 4
+Master Tone: 9
+
+Amplifier: Fender Blues Jr. III
+Volume: 5.5
+Fat: OFF
+Treble: 6.5
+Bass: 6.5
+Middle: 6.5
+Master: 5.5
+Reverb: 3.0
+
+Microphone: Blue Yeti 70 cm away from centre
+Gain: 11 o'clock
+Mode: Omnidirectional
+
+GarageBand Master Track
+Compressor: Platinum Analog Tape: -12.5 dB 1.6:1 47.0 ms 1.5 dB OFF
+Channel EQ: Guitar Sweetener 
+Limiter: For Classical Music: 0.6 dB -4.4 dB
+Ozone Imager 2: 15.4 & 86
+Loudness Meter: -14 LUFS
+```

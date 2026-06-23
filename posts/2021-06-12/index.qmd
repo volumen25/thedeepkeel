@@ -1,0 +1,66 @@
+---
+title: "Étude: Open D"
+date: "2021-06-12T20:37:23"
+format: 
+  html: default
+image: "../img/strat.jpg"
+categories:
+  - "2021"
+  - Stratocaster
+  - Fingerstyle
+  - Theory
+  - Open D
+  - Study
+---
+
+Tuning: **D A D F# A D**: Including an octave perspective, the tuning is written D2-A2-D3-F#3-A3-D4, meaning that the lowest string is a D note on the second octave, the second lowest string is a A note on the second octave and so on. Standard tuning reference: E2-A2-D3-G3-B3-E4.
+
+## All common major chords in open D
+
+D: 000000 / 000004\
+E: XX2222 / 222222\
+F: XX3333 / 333333\
+G: XX5555 / 555555\
+A: XX7777 / 777777\
+B: XX9999 / 999999\
+C: X X 10 10 10 10 / 10 10 10 10 10 10
+
+![](open-d-cords.jpg)
+
+## Movable slash chords
+
+Aadd2/E: 242322\
+C/G: 575655\
+D/A: 797877
+
+## Slash chords with A or D as bass note
+
+G9/A: X00123\
+Em11/D: 002120\
+E11/D: 002222
+
+![](open-d-barre-cords.jpg)
+
+![](chords-open-d.jpg)
+
+## Étude, Open D: I, IV and V chords
+
+Played through Custom Deluxe Reverb, fingerpicking pattern 1 using the thumb on 4-6 strings and the fingers on 1-3 strings.
+
+![](12-bar-bues-chords.jpg)
+
+## Video
+
+{{< video https://youtu.be/lqhMPsqdBcg >}}
+
+{{< video https://youtu.be/RiOB7EEmDac >}}
+
+{{< video https://youtu.be/FXSM1EuLdLs >}}
+
+{{< video https://youtu.be/Mzs9oke-vsE >}}
+
+{{< video https://youtu.be/5mMZu05aldI >}}
+
+[Open D tuning](https://www.guitar-chord.org/articles/open-d-tuning.html){.uri}
+
+[Guitar Chord Diagram Creator](https://chordpic.com/#editor)

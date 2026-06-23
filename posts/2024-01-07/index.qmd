@@ -1,0 +1,58 @@
+---
+title: "White Christmas Phrase 3"
+date: "2024-01-07T20:37:23"
+#date-modified: "2023-12-11T20:47:23"
+format: 
+  html: default
+image: "../img/les.jpg"
+categories:
+  - "2024"
+  - Les Paul
+  - Fingerstyle
+  - Song
+  - Study
+  - Christmas
+  - Chord melody
+---
+
+Tempo: free
+
+F6/9 F-6\
+Cmaj7 D-7 G9\
+D-7 G7
+
+## Video
+
+{{< video https://youtu.be/KpL-LMLWxyc >}}
+
+## Gibson Les Paul
+
+Pickup Position: Neck\
+Master Volume: 6\
+Master Tone: 7
+
+## Zoom G3Xn
+
+Preset: 147 Jazz Summer
+
+## Joyo Tremolo
+
+Intensity: 25%\
+Rate: 25%
+
+## Fender Blues Jr. III
+
+Volume: 8.0\
+Fat: OFF\
+Treble: 6.5\
+Bass: 6.0\
+Middle: 6.0\
+Master: 3.0\
+Reverb: 5.0
+
+## Blue Yeti
+
+Gain: 9 o'clock\
+Mode: Stereo, on desk near plant
+
+{{< video https://youtu.be/MpxE1P9fYeQ?si=p6TFe9ngW8rmvPsi >}}
