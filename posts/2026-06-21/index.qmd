@@ -22,6 +22,8 @@ MuseScore: [Download](honne_and_tatemae.mscz)
 
 ## Video
 
+Just the Amp and Trem Pedal:
+
 {{< video https://youtu.be/IyfD4Sphpks >}}
 
 {{< video https://youtu.be/UvvrcpthfsU >}}
