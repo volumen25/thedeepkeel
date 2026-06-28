@@ -2,7 +2,7 @@
 title: "Honne and Tatemae"
 subtitle: "Étude in D Dorian"
 date: "2026-06-21"
-date-modified: "2026-06-23"
+date-modified: "2026-06-27"
 #draft: true
 format: 
   html: default
@@ -21,6 +21,8 @@ Score: [Download](honne_and_tatemae.pdf)\
 MuseScore: [Download](honne_and_tatemae.mscz)
 
 ## Video
+
+{{< video https://youtu.be/IyfD4Sphpks >}}
 
 {{< video https://youtu.be/UvvrcpthfsU >}}
 
