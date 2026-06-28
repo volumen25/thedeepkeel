@@ -2,7 +2,7 @@
 title: "Honne and Tatemae"
 subtitle: "Étude in D Dorian"
 date: "2026-06-21"
-date-modified: "2026-06-27"
+date-modified: "2026-06-23"
 #draft: true
 format: 
   html: default
@@ -16,16 +16,11 @@ categories:
   - Song
 ---
 
-Tempo: 70 bpm
-
+Tempo: 70 bpm\
 Score: [Download](honne_and_tatemae.pdf)\
 MuseScore: [Download](honne_and_tatemae.mscz)
 
 ## Video
-
-Just the Amp and Trem Pedal:
-
-{{< video https://youtu.be/IyfD4Sphpks >}}
 
 {{< video https://youtu.be/UvvrcpthfsU >}}
 
