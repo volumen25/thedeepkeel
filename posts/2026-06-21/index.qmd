@@ -16,7 +16,7 @@ categories:
   - Song
 ---
 
-Tempo: 70 bpm\
+Tempo: 85 bpm\
 Score: [Download](honne_and_tatemae.pdf)\
 MuseScore: [Download](honne_and_tatemae.mscz)
 
