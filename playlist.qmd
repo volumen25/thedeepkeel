@@ -5,23 +5,17 @@ title-block-banner: false
 
 ## From Hokkaido to Okinawa
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=8eV04MsR8Rfc7KSf&amp;list=PLAUQLxFKQjkDkO062gUZ3LxFJ36_XLAEE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
-
-</iframe>
+[**Playlist: From Hokkaido to Okinawa**](https://www.youtube.com/playlist?list=PLAUQLxFKQjkDkO062gUZ3LxFJ36_XLAEE)
 
 ## Ever So Slowly
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=Q-iV7ziwJoQO80o_&amp;list=PLAUQLxFKQjkCIHNtQFy7bFurHwhHho4se" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
-
-</iframe>
+[**Playlist: Ever So Slowly**](https://www.youtube.com/playlist?list=PLAUQLxFKQjkCIHNtQFy7bFurHwhHho4se)
 
 ## Ikigai in Okinawa
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=kkX_14pQIBKh75M7&amp;list=PLAUQLxFKQjkDa7WLRL11uNdJm6rtJTyIh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+[**Playlist: Ikigai in Okinawa**](https://www.youtube.com/playlist?list=PLAUQLxFKQjkDa7WLRL11uNdJm6rtJTyIh)
 
-</iframe>
-
-------------------------------------------------------------------------
+## Summary
 
 [Looking Back at 2023](https://youtube.com/playlist?list=PLAUQLxFKQjkCEILQZtxbiWSV3uHEoCxFY&si=3Y306qLJtJZOfnSz)
 
@@ -35,7 +29,7 @@ title-block-banner: false
 
 [Looking Back at 2018](https://www.youtube.com/playlist?list=PLAUQLxFKQjkAZxPz597f3z_6Lp0qsKci3)
 
-------------------------------------------------------------------------
+## Progress
 
 [2026 \| Triads](https://youtube.com/playlist?list=PLAUQLxFKQjkDsq1gUnoSF6id-hJxUIccJ&si=ZgbR7EnTCHbFrycK)
 
