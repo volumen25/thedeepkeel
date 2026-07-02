@@ -2,7 +2,7 @@
 title: "Honne and Tatemae"
 subtitle: "Étude in D Dorian"
 date: "2026-06-21"
-date-modified: "2026-06-27"
+date-modified: "2026-07-01"
 #draft: true
 format: 
   html: default
@@ -23,6 +23,8 @@ MuseScore: [Download](honne_and_tatemae.mscz)
 ## Video
 
 Just the Amp and Trem Pedal:
+
+{{< video https://youtu.be/Ko--WiylY4U >}}
 
 {{< video https://youtu.be/IyfD4Sphpks >}}
 
