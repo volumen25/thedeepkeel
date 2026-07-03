@@ -10,6 +10,7 @@ image: "../img/tele_mij.jpg"
 # image: "../img/les.jpg"
 # image: "../img/strat.jpg"
 # image: "../img/tele.jpg"
+# image: "../img/jag.jpg"
 categories:
   - "2026"
   - Telecaster
@@ -51,7 +52,7 @@ Volume: 3.5\
 Fat: OFF\
 Treble: 4.5\
 Bass: 7.0\
-Middle: 9.0\
+Middle: 11.0\
 Master: 3.5\
 Reverb: 2.0
 

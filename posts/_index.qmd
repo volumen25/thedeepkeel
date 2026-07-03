@@ -12,7 +12,7 @@ image: "../img/tele_mij.jpg"
 # image: "../img/les.jpg"
 # image: "../img/tele.jpg"
 categories:
-  - "2025"
+  - "2026"
   - Telecaster
   - Stratocaster
   - Les Paul
@@ -26,6 +26,10 @@ categories:
 
 Tempo: free bpm\
 Measures: 1-8
+
+Tempo: 85 bpm\
+Score: [Download](honne_and_tatemae.pdf)\
+MuseScore: [Download](honne_and_tatemae.mscz)
 
 ## Video
 
@@ -59,7 +63,7 @@ Volume: 3.5\
 Fat: OFF\
 Treble: 4.5\
 Bass: 7.0\
-Middle: 5.0\
+Middle: 11.0\
 Master: 3.5\
 Reverb: 2.0
 
