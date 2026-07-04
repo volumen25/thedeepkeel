@@ -23,7 +23,7 @@ MuseScore: [Download](honne_and_tatemae.mscz)
 
 ## Video
 
-Just the Amp and Trem Pedal: 
+Just the Amp and Trem Pedal:
 
 60 bpm
 
@@ -68,3 +68,80 @@ Mode: Cardioid mode, 12” from speaker, slightly off-axis
 ## Dolby ON
 
 OFF
+
+## Zoom G3Xn "Princeton Warm" Patch Checklist
+
+Guitar: MIJ Tele, neck pickup, volume/tone slightly rolled back
+Amp: Fender Blues Jr III (miked — no Zoom amp/cab sim used)
+Goal: warm, articulate Princeton Reverb-style clean tone with shimmer trem and spring reverb
+
+## Signal Chain
+
+Guitar → RackComp → RC Boost → Tremolo → FD Spring → Zoom output → Blues Jr input → mic
+
+## Block 1 — RackComp (DYNAMICS)
+
+- [ ] THRSH: 25–30
+- [ ] Ratio: 3–4:1
+- [ ] ATTCK: 5–6 (mid-slow, lets pick transient through before compressing)
+- [ ] VOL: 100 (unity — no boost here)
+
+## Block 2 — RC Boost (DRIVE)
+
+- [ ] Gain: 15–20 (just enough to nudge the amp, not add drive character)
+- [ ] Bass: 50
+- [ ] Treble: 55–60
+- [ ] VOL: 105–110 (small push, +2–4 dB feel)
+
+## Block 3 — Tremolo (MODULATION)
+
+- [ ] Wave: **TUBE**
+- [ ] Depth: 35–40
+- [ ] Rate: 30–35
+- [ ] VOL: 100
+
+## Block 4 — FD Spring (REVERB)
+
+- [ ] Color: try 0 first, switch to 1 if thin
+- [ ] Lo: 55–60
+- [ ] Hi: 45–50
+- [ ] Mix: 30–35
+
+Alternative if FD Spring sounds too metallic: swap in plain **Spring**
+- PreD: 10–15
+- Decay: 12–15
+- Mix: 30–35
+
+## Amp Settings — Blues Jr III
+
+- [ ] Volume: 4–5
+- [ ] Fat: OFF
+- [ ] Treble: 5.5–6
+- [ ] Bass: 4.5–5
+- [ ] Middle: 5–6
+- [ ] Master: 4–4.5
+- [ ] Reverb: OFF or very low (FD Spring on the Zoom is handling reverb — avoid stacking two reverbs)
+
+## Mic Setup — Blue Yeti (on stock desktop stand, floor placement)
+
+- [ ] Mode: Cardioid
+- [ ] Orientation: **logo side of mesh grille facing the amp** (this is the capsule's listening face — confirmed correct)
+- [ ] Distance: 4–5 inches from grille
+- [ ] Position: base shifted slightly to the **right** of the amp's centerline (creates true off-axis angle, since the stock stand doesn't swivel sideways)
+- [ ] Tilt: forward, toward the amp — this aims the capsule up to cone height (compensating for the stand sitting lower than the speaker on the floor)
+- [ ] Gain: set using the *loudest* tremolo peak, target -12 to -6 dB, no clipping
+
+Notes:
+- Forward tilt = vertical aim adjustment (reaches cone height), not the off-axis angle
+- Sideways base offset = true off-axis angle (softens pick attack/harshness)
+- Both adjustments are used together in this floor setup since the stand can't swivel independently
+
+## Test Pass
+
+- [ ] Record 15–20 seconds of comping/chords
+- [ ] RC Boost check: should be inaudible as a "pedal" — felt as amp push, not as added grit. If gritty, lower Gain further.
+- [ ] Reverb check: confirm only FD Spring is audible, not doubled with Blues Jr reverb
+- [ ] Tremolo check: TUBE wave should feel smoother/rounder than a standard triangle wave trem
+- [ ] Compression check: RackComp should be felt as sustain/evenness, not obvious pumping
+- [ ] Overall: does the amp feel like it's "working" a little (natural compression) rather than stiff/clean?
+- [ ] If still too clean/stiff: raise Master first, before touching EQ
