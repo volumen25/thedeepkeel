@@ -19,7 +19,7 @@ website:
   page-footer:
     left: 2013-2026 The Deep Keel
     right: |
-      Built with <a href="https://quarto.org"> Quarto {{< version >}}</a>
+      Built with <a href="https://quarto.org"> Quarto</a> {{< version >}}
 format:
   html:
     toc: true
