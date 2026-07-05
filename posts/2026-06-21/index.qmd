@@ -2,7 +2,7 @@
 title: "Honne and Tatemae"
 subtitle: "Étude in D Dorian"
 date: "2026-06-21"
-date-modified: "2026-07-03"
+date-modified: "2026-07-04"
 #draft: true
 format: 
   html: default
@@ -71,9 +71,7 @@ OFF
 
 ## Zoom G3Xn "Princeton Warm" Patch Checklist
 
-Guitar: MIJ Tele, neck pickup, volume/tone slightly rolled back
-Amp: Fender Blues Jr III (miked — no Zoom amp/cab sim used)
-Goal: warm, articulate Princeton Reverb-style clean tone with shimmer trem and spring reverb
+Guitar: MIJ Tele, neck pickup, volume/tone slightly rolled back Amp: Fender Blues Jr III (miked — no Zoom amp/cab sim used) Goal: warm, articulate Princeton Reverb-style clean tone with shimmer trem and spring reverb
 
 ## Signal Chain
 
@@ -107,10 +105,7 @@ Guitar → RackComp → RC Boost → Tremolo → FD Spring → Zoom output → B
 - [ ] Hi: 45–50
 - [ ] Mix: 30–35
 
-Alternative if FD Spring sounds too metallic: swap in plain **Spring**
-- PreD: 10–15
-- Decay: 12–15
-- Mix: 30–35
+Alternative if FD Spring sounds too metallic: swap in plain **Spring** - PreD: 10–15 - Decay: 12–15 - Mix: 30–35
 
 ## Amp Settings — Blues Jr III
 
@@ -131,10 +126,7 @@ Alternative if FD Spring sounds too metallic: swap in plain **Spring**
 - [ ] Tilt: forward, toward the amp — this aims the capsule up to cone height (compensating for the stand sitting lower than the speaker on the floor)
 - [ ] Gain: set using the *loudest* tremolo peak, target -12 to -6 dB, no clipping
 
-Notes:
-- Forward tilt = vertical aim adjustment (reaches cone height), not the off-axis angle
-- Sideways base offset = true off-axis angle (softens pick attack/harshness)
-- Both adjustments are used together in this floor setup since the stand can't swivel independently
+Notes: - Forward tilt = vertical aim adjustment (reaches cone height), not the off-axis angle - Sideways base offset = true off-axis angle (softens pick attack/harshness) - Both adjustments are used together in this floor setup since the stand can't swivel independently
 
 ## Test Pass
 
