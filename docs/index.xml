@@ -10,7 +10,74 @@
 <atom:link href="https://guitars.volumen.ca/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.9.38</generator>
-<lastBuildDate>Sun, 21 Jun 2026 07:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sun, 05 Jul 2026 07:08:23 GMT</lastBuildDate>
+<item>
+  <title>Für Edith</title>
+  <link>https://guitars.volumen.ca/posts/2026-07-05/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Tempo: free bpm<br>
+Score: <a href="FurEdithJuly2026.pdf">Download</a><br>
+MuseScore: <a href="FurEdithJuly2026.mscz">Download</a></p>
+<section id="video" class="level2">
+<h2 class="anchored" data-anchor-id="video">Video</h2>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/wo9vZccmqwc" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+</section>
+<section id="fender-telecaster" class="level2">
+<h2 class="anchored" data-anchor-id="fender-telecaster">Fender Telecaster</h2>
+<p>Pickup Position: Neck<br>
+Master Volume: ~9<br>
+Master Tone: ~6</p>
+</section>
+<section id="multi-effects-processor-zoom-g3xn" class="level2">
+<h2 class="anchored" data-anchor-id="multi-effects-processor-zoom-g3xn">Multi Effects Processor: Zoom G3Xn</h2>
+<p>Master Volume: 100<br>
+RackComp: THRSH: 25–30 | Ratio: 3–4:1 | ATTCK: 5–6 | VOL: 100<br>
+RC Boost: Gain: 15–20 | Bass: 50 | Treble: 55–60 | VOL: 105–110<br>
+Tremolo: Tube | Depth: 35–40 | Rate: 30–35 | VOL: 100<br>
+FD Spring: Color: 1 | Lo: 55–60 | Hi: 45–50 | Mix: 30–35</p>
+</section>
+<section id="joyo-tremolo" class="level2">
+<h2 class="anchored" data-anchor-id="joyo-tremolo">Joyo Tremolo</h2>
+<p>OFF<br>
+Intensity: 25%<br>
+Rate: 25%</p>
+</section>
+<section id="amplifier-fender-blues-jr.-iii" class="level2">
+<h2 class="anchored" data-anchor-id="amplifier-fender-blues-jr.-iii">Amplifier: Fender Blues Jr.&nbsp;III</h2>
+<p>Volume: 4.5<br>
+Fat: OFF<br>
+Treble: 5.5<br>
+Bass: 4.5<br>
+Middle: 5.0<br>
+Master: 4.5<br>
+Reverb: 0.0</p>
+</section>
+<section id="microphone" class="level2">
+<h2 class="anchored" data-anchor-id="microphone">Microphone</h2>
+<p>Blue Yeti<br>
+Gain: 9 o’clock<br>
+Mode: Cardioid mode, 4” from speaker, slightly off-axis</p>
+</section>
+<section id="dolby-on" class="level2">
+<h2 class="anchored" data-anchor-id="dolby-on">Dolby ON</h2>
+<p>OFF</p>
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
+  <category>2026</category>
+  <category>Telecaster</category>
+  <category>Fingerstyle</category>
+  <category>Song</category>
+  <guid>https://guitars.volumen.ca/posts/2026-07-05/</guid>
+  <pubDate>Sun, 05 Jul 2026 07:08:23 GMT</pubDate>
+  <media:content url="https://guitars.volumen.ca/posts/img/tele.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Honne and Tatemae</title>
   <link>https://guitars.volumen.ca/posts/2026-06-21/</link>
@@ -732,66 +799,6 @@ Mode: Cardioid mode, 12” from speaker, slightly off-axis</p>
   <guid>https://guitars.volumen.ca/posts/2025-11-03/</guid>
   <pubDate>Mon, 03 Nov 2025 08:00:00 GMT</pubDate>
   <media:content url="https://guitars.volumen.ca/posts/img/les.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>November Week 1</title>
-  <link>https://guitars.volumen.ca/posts/2025-11-02/</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>White Christmas Phrase 1, Hava Nagila and Amazing Grace.</p>
-<section id="video" class="level2">
-<h2 class="anchored" data-anchor-id="video">Video</h2>
-<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/1uwhW4fIc2A" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
-</section>
-<section id="fender-telecaster" class="level2">
-<h2 class="anchored" data-anchor-id="fender-telecaster">Fender Telecaster</h2>
-<p>Pickup Position: Middle<br>
-Master Volume: ~9<br>
-Master Tone: ~6</p>
-</section>
-<section id="multi-effects-processor-zoom-g3xn" class="level2">
-<h2 class="anchored" data-anchor-id="multi-effects-processor-zoom-g3xn">Multi Effects Processor: Zoom G3Xn</h2>
-<p>OFF</p>
-</section>
-<section id="joyo-tremolo" class="level2">
-<h2 class="anchored" data-anchor-id="joyo-tremolo">Joyo Tremolo</h2>
-<p>Intensity: 25%<br>
-Rate: 75%</p>
-</section>
-<section id="amplifier-fender-blues-jr.-iii" class="level2">
-<h2 class="anchored" data-anchor-id="amplifier-fender-blues-jr.-iii">Amplifier: Fender Blues Jr.&nbsp;III</h2>
-<p>Volume: 3.5<br>
-Fat: OFF<br>
-Treble: 4.5<br>
-Bass: 7.0<br>
-Middle: 5.0<br>
-Master: 3.5<br>
-Reverb: 2.0</p>
-</section>
-<section id="microphone" class="level2">
-<h2 class="anchored" data-anchor-id="microphone">Microphone</h2>
-<p>Blue Yeti<br>
-Gain: 9 o’clock<br>
-Mode: Cardioid mode, 12” from speaker, slightly off-axis</p>
-</section>
-<section id="dolby-on" class="level2">
-<h2 class="anchored" data-anchor-id="dolby-on">Dolby ON</h2>
-<p>Natural.</p>
-
-
-</section>
-
-<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
-  <category>2025</category>
-  <category>Telecaster</category>
-  <category>Christmas</category>
-  <category>Song</category>
-  <guid>https://guitars.volumen.ca/posts/2025-11-02/</guid>
-  <pubDate>Sun, 02 Nov 2025 07:00:00 GMT</pubDate>
-  <media:content url="https://guitars.volumen.ca/posts/img/tele_mij.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
