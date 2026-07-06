@@ -15,6 +15,7 @@ categories:
   - "2026"
   - Telecaster
   - Song
+  - Princeton
 ---
 
 Tempo: 85 bpm\
@@ -41,29 +42,29 @@ Just the Amp and Trem Pedal:
 
 Pickup Position: Neck
 
-## Zoom G3Xn
+## Zoom G3Xn ON
 
-150 Trem Etc
+106 Princeton 
 
-## Joyo Tremolo
+## Joyo Tremolo OFF
 
 Intensity: 50%\
 Rate: 50%
 
 ## Fender Blues Jr. III
 
-Volume: 3.5\
+Volume: 4.5\
 Fat: OFF\
-Treble: 4.5\
-Bass: 7.0\
-Middle: 11.0\
-Master: 3.5\
-Reverb: 2.0
+Treble: 5.5\
+Bass: 4.5\
+Middle: 5.0\
+Master: 4.5\
+Reverb: 1.0
 
 ## Blue Yeti
 
 Gain: 9 o'clock\
-Mode: Cardioid mode, 12” from speaker, slightly off-axis
+Mode: Cardioid mode, 4” from speaker, slightly off-axis
 
 ## Dolby ON
 
@@ -71,51 +72,79 @@ OFF
 
 ## Zoom G3Xn "Princeton Warm" Patch Checklist
 
-Guitar: MIJ Tele, neck pickup, volume/tone slightly rolled back Amp: Fender Blues Jr III (miked — no Zoom amp/cab sim used) Goal: warm, articulate Princeton Reverb-style clean tone with shimmer trem and spring reverb
+Guitar: Fender Telecaster MIJ, neck pickup, Master Volume ~9, Master Tone ~9
+Amp: Fender Blues Jr III (real amp, miked — no Zoom amp/cab sim used)
+Zoom: G3Xn, Firmware 2.20, Patch cell 106, Patch name "Princeton"
+Goal: Warm, articulate Princeton Reverb-style clean tone with shimmer trem and spring reverb
+
+---
 
 ## Signal Chain
 
 Guitar → RackComp → RC Boost → Tremolo → FD Spring → Zoom output → Blues Jr input → mic
 
+Note: guitar Volume/Tone currently near max (~9/~9) rather than rolled back. Brighter/more
+aggressive than original plan — if tone feels too bright or aggressive once recorded, roll
+Tone back to 6-7 as first adjustment.
+
+---
+
 ## Block 1 — RackComp (DYNAMICS)
 
-- [ ] THRSH: 25–30
-- [ ] Ratio: 3–4:1
-- [ ] ATTCK: 5–6 (mid-slow, lets pick transient through before compressing)
-- [ ] VOL: 100 (unity — no boost here)
+- [x] THRSH: 25
+- [x] Ratio: 3
+- [x] ATTCK: 5
+- [x] VOL: 100 (unity/pass-through — not a boost like RC Boost's Volume)
 
 ## Block 2 — RC Boost (DRIVE)
 
-- [ ] Gain: 15–20 (just enough to nudge the amp, not add drive character)
-- [ ] Bass: 50
-- [ ] Treble: 55–60
-- [ ] VOL: 105–110 (small push, +2–4 dB feel)
+- [x] Gain: 15
+- [x] Bass: 50
+- [x] Treble: 55
+- [x] VOL: 65 (adjusted down from 100/max after A/B testing — 100 was a noticeable level jump, not a subtle push)
 
 ## Block 3 — Tremolo (MODULATION)
 
-- [ ] Wave: **TUBE**
-- [ ] Depth: 35–40
-- [ ] Rate: 30–35
-- [ ] VOL: 100
+- [x] Wave: **TUBE**
+- [x] Depth: 35
+- [x] Rate: 30
+- [x] VOL: 100
 
-## Block 4 — FD Spring (REVERB)
+## Block 4 — FD Spring (REVERB) — sole reverb source (Option A)
 
-- [ ] Color: try 0 first, switch to 1 if thin
-- [ ] Lo: 55–60
-- [ ] Hi: 45–50
-- [ ] Mix: 30–35
+- [x] Active: ON
+- [x] Color: 1
+- [x] Lo: 55
+- [x] Hi: 45
+- [x] Mix: 30
 
-Alternative if FD Spring sounds too metallic: swap in plain **Spring** - PreD: 10–15 - Decay: 12–15 - Mix: 30–35
+Decision: FD Spring is the sole *meaningful* reverb source. Blues Jr's physical Reverb
+dial has no true zero (range is 1–12), so it stays at its physical minimum (1) — this
+contributes a negligible touch of onboard spring underneath and is not treated as
+problematic stacking.
 
-## Amp Settings — Blues Jr III
+---
 
-- [ ] Volume: 4–5
-- [ ] Fat: OFF
-- [ ] Treble: 5.5–6
-- [ ] Bass: 4.5–5
-- [ ] Middle: 5–6
-- [ ] Master: 4–4.5
-- [ ] Reverb: OFF or very low (FD Spring on the Zoom is handling reverb — avoid stacking two reverbs)
+## Block 5 — Rhythm (RHYTHM AND LOOPER) — practice aid, not part of the recorded tone
+
+- [x] Active: ON (intentional — metronome for practice)
+- Pattern: Metro4 4/4
+- Volume: 4
+- **Reminder: disable or mute before any actual take** — this is a metronome click, not a tone-shaping effect, and isn't meant to bleed into the final recording
+
+---
+
+## Amp Settings — Blues Jr III (dials 1–12, no true zero)
+
+- [x] Volume: 4.5
+- [x] Fat: OFF
+- [x] Treble: 5.5
+- [x] Bass: 4.5
+- [x] Middle: 5.0
+- [x] Master: 4.5
+- [x] Reverb: 1 (physical minimum — FD Spring on the Zoom is the sole meaningful reverb source, see Block 4)
+
+---
 
 ## Mic Setup — Blue Yeti (on stock desktop stand, floor placement)
 
@@ -126,14 +155,21 @@ Alternative if FD Spring sounds too metallic: swap in plain **Spring** - PreD: 1
 - [ ] Tilt: forward, toward the amp — this aims the capsule up to cone height (compensating for the stand sitting lower than the speaker on the floor)
 - [ ] Gain: set using the *loudest* tremolo peak, target -12 to -6 dB, no clipping
 
-Notes: - Forward tilt = vertical aim adjustment (reaches cone height), not the off-axis angle - Sideways base offset = true off-axis angle (softens pick attack/harshness) - Both adjustments are used together in this floor setup since the stand can't swivel independently
+Notes:
+- Forward tilt = vertical aim adjustment (reaches cone height), not the off-axis angle
+- Sideways base offset = true off-axis angle (softens pick attack/harshness)
+- Both adjustments are used together in this floor setup since the stand can't swivel independently
+
+---
 
 ## Test Pass
 
+- [ ] Turn OFF/mute Rhythm (metronome) block before recording an actual take
 - [ ] Record 15–20 seconds of comping/chords
-- [ ] RC Boost check: should be inaudible as a "pedal" — felt as amp push, not as added grit. If gritty, lower Gain further.
-- [ ] Reverb check: confirm only FD Spring is audible, not doubled with Blues Jr reverb
+- [ ] RC Boost check: at Volume 65, should feel like a mild lift, not an obvious pedal jump. Adjust down further (55–60) if still too pushed.
+- [ ] Reverb check: FD Spring is the sole meaningful reverb source (amp Reverb sits at its physical minimum of 1) — confirm the overall reverb amount feels right, not doubled
 - [ ] Tremolo check: TUBE wave should feel smoother/rounder than a standard triangle wave trem
 - [ ] Compression check: RackComp should be felt as sustain/evenness, not obvious pumping
+- [ ] Guitar tone check: Volume/Tone near max (~9/~9) — if the result feels too bright/aggressive, roll Tone back to 6–7 first
 - [ ] Overall: does the amp feel like it's "working" a little (natural compression) rather than stiff/clean?
 - [ ] If still too clean/stiff: raise Master first, before touching EQ
