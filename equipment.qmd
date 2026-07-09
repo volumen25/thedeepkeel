@@ -141,18 +141,18 @@ Amp Weight: 17 lbs (7.7 kg)
 
 *2016-12-08, Tom Lee Music, North Vancouver*
 
--   Body Type Ami
--   Case Gig Bag
--   Country of Origin Canada
--   Electronics None
--   Fingerboard Rosewood
--   Finish Burgundy, Semi-Gloss Custom Varnish
--   Neck Silver Leaf Maple
--   Nut Graphtech Tusq
--   Part \# 023523
--   Pickguard None
--   Saddle Graphtech Tusq
--   Top/Body Material Spruce / Wild Cherry
+- Body Type Ami
+- Case Gig Bag
+- Country of Origin Canada
+- Electronics None
+- Fingerboard Rosewood
+- Finish Burgundy, Semi-Gloss Custom Varnish
+- Neck Silver Leaf Maple
+- Nut Graphtech Tusq
+- Part \# 023523
+- Pickguard None
+- Saddle Graphtech Tusq
+- Top/Body Material Spruce / Wild Cherry
 
 ## Fender Blues Jr III
 
@@ -332,33 +332,41 @@ Rate: 25%
 
 **Features At A Glance**
 
--   70 (68 effects, 1 looper pedal, and 1 rhythm pedal) onboard
-    high-quality digital effects, including distortion, overdrive, EQ,
-    compression, delay, reverb, flanging, phasing, and chorusing
--   5 new amp emulators plus 5 cabinet emulators
--   75 custom-designed factory patches
--   Free ZOOM Guitar Lab Mac/Windows software allows\
-    downloading of additional effects and patches
--   Use up to 7 effects simultaneously, chained together in\
-    any order
--   3 stompbox switches allow effects to instantly be brought in and out
--   3 independent editing displays
--   Auto Save function for automatic saving of all patch parameters
--   Onboard chromatic tuner with dedicated footswitch supports all
-    standard guitar tunings, including open and drop tunings
--   Tuner range of 435 - 445 Hz
--   Stereo/mono Looper allows recording of up to 80 seconds of phrase
-    recording
--   68 built-in rhythm patterns that can be used in conjunction with the
-    Looper
--   Tap Tempo with dedicated footswitch
--   Input jack accepts standard guitar cable
--   Auxiliary stereo input jack for connection of smartphones and music
-    players
--   Dual output jacks for connection to guitar amps and mono or stereo
-    PA systems
--   Stereo headphone output
--   Included AC adapter
+- 70 (68 effects, 1 looper pedal, and 1 rhythm pedal) onboard
+  high-quality digital effects, including distortion, overdrive, EQ,
+  compression, delay, reverb, flanging, phasing, and chorusing
+- 5 new amp emulators plus 5 cabinet emulators
+- 75 custom-designed factory patches
+- Free ZOOM Guitar Lab Mac/Windows software allows\
+  downloading of additional effects and patches
+- Use up to 7 effects simultaneously, chained together in\
+  any order
+- 3 stompbox switches allow effects to instantly be brought in and out
+- 3 independent editing displays
+- Auto Save function for automatic saving of all patch parameters
+- Onboard chromatic tuner with dedicated footswitch supports all
+  standard guitar tunings, including open and drop tunings
+- Tuner range of 435 - 445 Hz
+- Stereo/mono Looper allows recording of up to 80 seconds of phrase
+  recording
+- 68 built-in rhythm patterns that can be used in conjunction with the
+  Looper
+- Tap Tempo with dedicated footswitch
+- Input jack accepts standard guitar cable
+- Auxiliary stereo input jack for connection of smartphones and music
+  players
+- Dual output jacks for connection to guitar amps and mono or stereo PA
+  systems
+- Stereo headphone output
+- Included AC adapter
+
+### Download Manuals
+
+- [Guitar Lab](E_GuitarLab_v7.0.pdf)
+- [Operation Manual](E_G3n_G3Xn.pdf)
+- [Patch List](E_G3Xn_patch-list.pdf)
+- [Parameters](E_G5n_G3n_G3Xn_FX_Parameters.pdf)
+- [Power Chart](E_G5n_G3n_G3Xn_PowerChart_v2.pdf)
 
 ## Fender Stratocaster
 
@@ -644,17 +652,17 @@ Signal to Noise: 100dB
 
 **Apple M1 Max chip**
 
--   10-core CPU with 8 performance cores and 2 efficiency cores
--   24-core GPU
--   16-core Neural Engine
--   400GB/s memory bandwidth
+- 10-core CPU with 8 performance cores and 2 efficiency cores
+- 24-core GPU
+- 16-core Neural Engine
+- 400GB/s memory bandwidth
 
 **Media engine**
 
--   Hardware-accelerated H.264, HEVC, ProRes and ProRes RAW
--   Video decode engine
--   Two video encode engines
--   Two ProRes encode and decode engines
+- Hardware-accelerated H.264, HEVC, ProRes and ProRes RAW
+- Video decode engine
+- Two video encode engines
+- Two ProRes encode and decode engines
 
 **Memory**
 
@@ -668,62 +676,62 @@ Signal to Noise: 100dB
 
 Thunderbolt 4 digital video output supports
 
--   Native DisplayPort output over USB‑C
--   Thunderbolt 2, DVI and VGA output supported using adapters (sold
-    separately)
+- Native DisplayPort output over USB‑C
+- Thunderbolt 2, DVI and VGA output supported using adapters (sold
+  separately)
 
 HDMI display video output
 
--   Support for one display with up to 4K resolution at 60Hz
--   DVI output using HDMI to DVI Adapter (sold separately)
+- Support for one display with up to 4K resolution at 60Hz
+- DVI output using HDMI to DVI Adapter (sold separately)
 
 **Audio**
 
--   Built-in speaker
--   3.5 mm headphone jack with advanced support for high-impedance
-    headphones
--   HDMI port supports multichannel audio output
+- Built-in speaker
+- 3.5 mm headphone jack with advanced support for high-impedance
+  headphones
+- HDMI port supports multichannel audio output
 
 **Connections**
 
 Four Thunderbolt 4 ports with support for:
 
--   Thunderbolt 4 (up to 40Gb/s)
+- Thunderbolt 4 (up to 40Gb/s)
 
--   DisplayPort
+- DisplayPort
 
--   USB 4 (up to 40Gb/s)
+- USB 4 (up to 40Gb/s)
 
--   USB 3.1 Gen 2 (up to 10Gb/s)
+- USB 3.1 Gen 2 (up to 10Gb/s)
 
--   Two USB-A ports (up to 5Gb/s)
+- Two USB-A ports (up to 5Gb/s)
 
--   HDMI port
+- HDMI port
 
--   10Gb Ethernet
+- 10Gb Ethernet
 
--   3.5 mm headphone jack
+- 3.5 mm headphone jack
 
 On front (M1 Max):
 
--   Two USB‑C ports (up to 10Gb/s)
--   SDXC card slot (UHS-II)
+- Two USB‑C ports (up to 10Gb/s)
+- SDXC card slot (UHS-II)
 
 **Communications**
 
 Wi-Fi
 
--   802.11ax Wi-Fi 6 wireless networking
--   IEEE 802.11a/b/g/n/ac compatible
+- 802.11ax Wi-Fi 6 wireless networking
+- IEEE 802.11a/b/g/n/ac compatible
 
 Bluetooth
 
--   Bluetooth 5.0 wireless technology
+- Bluetooth 5.0 wireless technology
 
 Ethernet
 
--   10Gb Ethernet (Nbase-T Ethernet with support for 1Gb, 2.5Gb, 5Gb and
-    10Gb Ethernet using RJ-45 connector)
+- 10Gb Ethernet (Nbase-T Ethernet with support for 1Gb, 2.5Gb, 5Gb and
+  10Gb Ethernet using RJ-45 connector)
 
 ## Studio Display
 
@@ -731,37 +739,36 @@ Ethernet
 
 **5K Retina display**
 
--   27-inch (diagonal) 5K Retina display
--   5120-by-2880 resolution at 218 pixels per inch
--   600 nits brightness
--   Support for 1 billion colours
--   Wide colour (P3)
--   True Tone technology
+- 27-inch (diagonal) 5K Retina display
+- 5120-by-2880 resolution at 218 pixels per inch
+- 600 nits brightness
+- Support for 1 billion colours
+- Wide colour (P3)
+- True Tone technology
 
 **Camera**
 
--   12MP Ultra Wide camera with 122° field of view
--   ƒ/2.4 aperture
--   Center Stage
+- 12MP Ultra Wide camera with 122° field of view
+- ƒ/2.4 aperture
+- Center Stage
 
 **Audio**
 
--   High-fidelity six-speaker system with force-cancelling woofers
--   Wide stereo sound
--   Support for Spatial Audio when playing music or video with Dolby
-    Atmos
--   Studio-quality three-mic array with high signal-to-noise ratio and
-    directional beamforming
--   Support for "Hey Siri"
+- High-fidelity six-speaker system with force-cancelling woofers
+- Wide stereo sound
+- Support for Spatial Audio when playing music or video with Dolby Atmos
+- Studio-quality three-mic array with high signal-to-noise ratio and
+  directional beamforming
+- Support for "Hey Siri"
 
 **Connections**
 
 One Thunderbolt 3 (USB-C) port, three USB-C ports
 
--   One upstream Thunderbolt 3 (USB-C) port for host (with 96W host
-    charging)
--   Three downstream USB-C ports (up to 10Gb/s) for connecting
-    peripherals, storage and networking
+- One upstream Thunderbolt 3 (USB-C) port for host (with 96W host
+  charging)
+- Three downstream USB-C ports (up to 10Gb/s) for connecting
+  peripherals, storage and networking
 
 ## Photos
 
