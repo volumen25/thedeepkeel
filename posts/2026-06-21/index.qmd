@@ -2,7 +2,7 @@
 title: "Honne and Tatemae"
 subtitle: "Étude in D Dorian"
 date: "2026-06-21"
-date-modified: "2026-07-08"
+date-modified: "2026-07-09"
 #draft: true
 format: 
   html: default
@@ -22,6 +22,8 @@ MuseScore: [Download](honne_and_tatemae.mscz)
 ## Video
 
 80 bpm
+
+{{< video https://youtu.be/mOIHlfyuIh0 >}}
 
 {{< video https://youtu.be/P2jbU3QC6wU >}}
 
