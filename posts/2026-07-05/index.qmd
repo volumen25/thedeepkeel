@@ -1,8 +1,8 @@
 ---
 title: "Für Edith"
 subtitle: "Open D Tuning"
-date: "2026-07-05T00:08:23"
-date-modified: "2026-07-12T014:49:23"
+date: "2026-07-05"
+date-modified: "2026-07-12"
 format: 
   html: default
 image: "../img/strat.jpg"
@@ -62,7 +62,6 @@ OFF
 ### Signal Chain
 
 Guitar → RackComp → RC Boost → Tremolo → FD Spring → Zoom output → Blues Jr input → mic
-
 
 ### Block 1 — RackComp (DYNAMICS)
 
