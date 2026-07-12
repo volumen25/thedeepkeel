@@ -2,7 +2,7 @@
 title: "Honne and Tatemae"
 subtitle: "Étude in D Dorian"
 date: "2026-06-21"
-date-modified: "2026-07-09"
+date-modified: "2026-07-12"
 #draft: true
 format: 
   html: default
@@ -22,6 +22,8 @@ MuseScore: [Download](honne_and_tatemae.mscz)
 ## Video
 
 80 bpm
+
+{{< video https://youtu.be/uUrcNmXqy-0 >}}
 
 {{< video https://youtu.be/mOIHlfyuIh0 >}}
 
@@ -75,7 +77,7 @@ OFF
 
 ## Zoom G3Xn "Princeton" Patch Checklist
 
-**Guitar**: Fender Telecaster MIJ, neck pickup, Master Volume \~9, Master Tone \~9 \
+**Guitar**: Fender Telecaster MIJ, neck pickup, Master Volume \~9, Master Tone \~9\
 **Zoom**: G3Xn, Firmware 2.20, Patch cell 106, Patch name "Princeton" Goal: Warm, articulate Princeton Reverb-style clean tone with shimmer trem and spring reverb\
 **Amp**: Fender Blues Jr III (real amp, miked — no Zoom amp/cab sim used)
 
