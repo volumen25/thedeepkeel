@@ -20,7 +20,7 @@ GarageBand: [Download](FurEdithJuly2026.band)
 
 ## Video
 
-{{< video https://youtu.be/_DOz8zb9XRE >}}
+{{< video https://youtu.be/s0GQLyrOMeQ >}}
 
 {{< video https://youtu.be/so7zWLxRE6c >}}
 
