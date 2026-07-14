@@ -15,7 +15,8 @@ categories:
 
 Tempo: free bpm\
 Score: [Download](FurEdithJuly2026.pdf)\
-MuseScore: [Download](FurEdithJuly2026.mscz)
+MuseScore: [Download](FurEdithJuly2026.mscz)\
+GarageBand: [Download](FurEdithJuly2026.band)
 
 ## Video
 
