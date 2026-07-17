@@ -15,13 +15,6 @@ website:
       - equipment.qmd
       - icon: rss
         href: index.xml
-  search:
-    location: navbar
-    type: overlay
-    limit: 20
-    collapse-after: 2
-    copy-button: false
-    show-item-context: tree
   back-to-top-navigation: true
   page-footer:
     left: 2013-2026 The Deep Keel

@@ -273,18 +273,18 @@
     "text": "Fender Telecaster\nPickup Position: Neck"
   },
   {
-    "objectID": "posts/2026-06-21/index.html#zoom-g3xn",
-    "href": "posts/2026-06-21/index.html#zoom-g3xn",
+    "objectID": "posts/2026-06-21/index.html#zoom-g3xn-on",
+    "href": "posts/2026-06-21/index.html#zoom-g3xn-on",
     "title": "Honne and Tatemae",
-    "section": "Zoom G3Xn",
-    "text": "Zoom G3Xn\n106 Princeton"
+    "section": "Zoom G3Xn ON",
+    "text": "Zoom G3Xn ON\n106 Princeton"
   },
   {
-    "objectID": "posts/2026-06-21/index.html#joyo-tremolo",
-    "href": "posts/2026-06-21/index.html#joyo-tremolo",
+    "objectID": "posts/2026-06-21/index.html#joyo-tremolo-off",
+    "href": "posts/2026-06-21/index.html#joyo-tremolo-off",
     "title": "Honne and Tatemae",
-    "section": "Joyo Tremolo",
-    "text": "Joyo Tremolo\nIntensity: 50%\nRate: 50%"
+    "section": "Joyo Tremolo OFF",
+    "text": "Joyo Tremolo OFF\nIntensity: 50%\nRate: 50%"
   },
   {
     "objectID": "posts/2026-06-21/index.html#fender-blues-jr.-iii",
@@ -306,6 +306,13 @@
     "title": "Honne and Tatemae",
     "section": "Dolby ON",
     "text": "Dolby ON\nOFF"
+  },
+  {
+    "objectID": "posts/2026-06-21/index.html#zoom-g3xn-princeton-patch-checklist",
+    "href": "posts/2026-06-21/index.html#zoom-g3xn-princeton-patch-checklist",
+    "title": "Honne and Tatemae",
+    "section": "Zoom G3Xn “Princeton” Patch Checklist",
+    "text": "Zoom G3Xn “Princeton” Patch Checklist\nGuitar: Fender Telecaster MIJ, neck pickup, Master Volume ~9, Master Tone ~9\nZoom: G3Xn, Firmware 2.20, Patch cell 106, Patch name “Princeton” Goal: Warm, articulate Princeton Reverb-style clean tone with shimmer trem and spring reverb\nAmp: Fender Blues Jr III (real amp, miked — no Zoom amp/cab sim used)\n\nSignal Chain\nGuitar → RackComp → RC Boost → Tremolo → FD Spring → Zoom output → Blues Jr input → mic\nNote: guitar Volume/Tone currently near max (9/9) rather than rolled back. Brighter/more aggressive than original plan — if tone feels too bright or aggressive once recorded, roll Tone back to 6-7 as first adjustment.\n\n\nBlock 1 — RackComp (DYNAMICS)\n\nTHRSH: 25\nRatio: 3\nATTCK: 5\nVOL: 100 (unity/pass-through — not a boost like RC Boost’s Volume)\n\n\n\nBlock 2 — RC Boost (DRIVE)\n\nGain: 15\nBass: 50\nTreble: 55\nVOL: 65 (adjusted down from 100/max after A/B testing — 100 was a noticeable level jump, not a subtle push)\n\n\n\nBlock 3 — Tremolo (MODULATION)\n\nWave: TUBE\nDepth: 35\nRate: 30\nVOL: 100\n\n\n\nBlock 4 — FD Spring (REVERB) — sole reverb source (Option A)\n\nActive: ON\nColor: 1\nLo: 55\nHi: 45\nMix: 30\n\nDecision: FD Spring is the sole meaningful reverb source. Blues Jr’s physical Reverb dial has no true zero (range is 1–12), so it stays at its physical minimum (1) — this contributes a negligible touch of onboard spring underneath and is not treated as problematic stacking.\n\n\nBlock 5 — Rhythm (RHYTHM AND LOOPER) — practice aid, not part of the recorded tone\n\nActive: ON (intentional — metronome for practice)\nPattern: Metro4 4/4\nVolume: 4\nReminder: disable or mute before any actual take — this is a metronome click, not a tone-shaping effect, and isn’t meant to bleed into the final recording\n\n\n\nAmp Settings — Blues Jr III (dials 1–12, no true zero)\n\nVolume: 4.5\nFat: OFF\nTreble: 5.5\nBass: 4.5\nMiddle: 5.0\nMaster: 4.5\nReverb: 1 (physical minimum — FD Spring on the Zoom is the sole meaningful reverb source, see Block 4)\n\n\n\nMic Setup — Blue Yeti (on stock desktop stand, floor placement)\n\nMode: Cardioid\nOrientation: logo side of mesh grille facing the amp (this is the capsule’s listening face — confirmed correct)\nDistance: 4–5 inches from grille\nPosition: base shifted slightly to the right of the amp’s centerline (creates true off-axis angle, since the stock stand doesn’t swivel sideways)\nTilt: forward, toward the amp — this aims the capsule up to cone height (compensating for the stand sitting lower than the speaker on the floor)\nGain: set using the loudest tremolo peak, target -12 to -6 dB, no clipping\n\nNotes: - Forward tilt = vertical aim adjustment (reaches cone height), not the off-axis angle - Sideways base offset = true off-axis angle (softens pick attack/harshness) - Both adjustments are used together in this floor setup since the stand can’t swivel independently\n\n\nTest Pass\n\nTurn OFF/mute Rhythm (metronome) block before recording an actual take\nRecord 15–20 seconds of comping/chords\nRC Boost check: at Volume 65, should feel like a mild lift, not an obvious pedal jump. Adjust down further (55–60) if still too pushed.\nReverb check: FD Spring is the sole meaningful reverb source (amp Reverb sits at its physical minimum of 1) — confirm the overall reverb amount feels right, not doubled\nTremolo check: TUBE wave should feel smoother/rounder than a standard triangle wave trem\nCompression check: RackComp should be felt as sustain/evenness, not obvious pumping\nGuitar tone check: Volume/Tone near max (9/9) — if the result feels too bright/aggressive, roll Tone back to 6–7 first\nOverall: does the amp feel like it’s “working” a little (natural compression) rather than stiff/clean?\nIf still too clean/stiff: raise Master first, before touching EQ"
   },
   {
     "objectID": "posts/2023-09-18/index.html",
@@ -742,361 +749,417 @@
     "text": "by Catherine Davis\nI will not, though I would, resolve,\nAs the New Year’s Eve comes on,\nTo do, not do, review, revolve\nOn the past year, how it has gone,\nTaking not all, but still enough\n(Seeing I had not much to lose)\nOf what, for all my falling off,\nMight have been mine, as then, to use:\nBut if I cast off heaviness,\nThis is my burden, none the less.\nI would no more, as I have done,\nConsider what the year will bring\nBut take the seasons one by one;\nFor, all in all, the heaviest thing\n—Excepting only no more hope—\nIs hope returning year on year:\nLet me not give it now the scope\nOf what I might do, for I fear\nThat if it cast off heaviness,\nThis is my burden, none the less.\nI care no more for this &lt;I might,\nWhether it comes as would or should:\nThe first is nothing if not light,\nYet it has weighed me down for good;\nAnd how much heavier, come to naught,\nAs I have found, the other is:\nLightness that ponders what it ought\nWeighs like its own antithesis:\nBut when I cast off heaviness,\nThis is my burden, none the less.\nI cannot, if I would, complain\nOf a mean lot and curse my luck\n(Though luck for luck, as gain for gain,\nI cannot say that I’ve been struck\nBy how much mine exceeds) but hold\nThat this same luck has come to me\nNever so empty-handed, cold,\nAs my more favored levity:\nAnd if it casts off heaviness,\nThis is my burden, none the less.\nLet others ponder, while they may,\nTheir wealth of possibilities;\nBut, as for me, since I must pay\nFor empty-headed-handed ease,\nAnd since what comes will also go,\nI find most hope in most distrust.\nI make my burden lighter so\nAnd bear the new year, as I must:\nBut if I cast off heaviness,\nThis is my burden, none the less.\nEnvoi to the Reader\nI do not hope even to strike\nYour fancy with my verse: No mask,\nSymbol nor image nor the like\nEncumbers it, as you might ask;\nI make too plain my heaviness:\nThis is my burden, none the less."
   },
   {
-    "objectID": "posts/2024-08-03/index.html",
-    "href": "posts/2024-08-03/index.html",
-    "title": "Canon in D",
-    "section": "",
-    "text": "Tuning: Dropped D (Low E-string to D)\nTempo: 40 bpm"
+    "objectID": "posts/2024-10-08/index.html#exercise-4a-4b",
+    "href": "posts/2024-10-08/index.html#exercise-4a-4b",
+    "title": "Ex.1-4",
+    "section": "Exercise 4a & 4b",
+    "text": "Exercise 4a & 4b"
   },
   {
-    "objectID": "posts/2024-08-03/index.html#video",
-    "href": "posts/2024-08-03/index.html#video",
-    "title": "Canon in D",
-    "section": "Video",
-    "text": "Video\n\nTempo: 60 bpm"
+    "objectID": "posts/2024-10-08/index.html#exercise-3",
+    "href": "posts/2024-10-08/index.html#exercise-3",
+    "title": "Ex.1-4",
+    "section": "Exercise 3",
+    "text": "Exercise 3"
   },
   {
-    "objectID": "posts/2024-08-03/index.html#fender-stratocaster",
-    "href": "posts/2024-08-03/index.html#fender-stratocaster",
-    "title": "Canon in D",
-    "section": "Fender Stratocaster",
-    "text": "Fender Stratocaster\nPickup Position: 5\nMaster Volume: 9\nMaster Tone: 6"
+    "objectID": "posts/2024-10-08/index.html#exercise-2",
+    "href": "posts/2024-10-08/index.html#exercise-2",
+    "title": "Ex.1-4",
+    "section": "Exercise 2",
+    "text": "Exercise 2"
   },
   {
-    "objectID": "posts/2024-08-03/index.html#zoom-g3xn",
-    "href": "posts/2024-08-03/index.html#zoom-g3xn",
-    "title": "Canon in D",
-    "section": "Zoom G3Xn",
-    "text": "Zoom G3Xn\nPreset: 147 Jazz Summer"
+    "objectID": "posts/2024-10-08/index.html#exercise-1",
+    "href": "posts/2024-10-08/index.html#exercise-1",
+    "title": "Ex.1-4",
+    "section": "Exercise 1",
+    "text": "Exercise 1"
   },
   {
-    "objectID": "posts/2024-08-03/index.html#joyo-tremolo",
-    "href": "posts/2024-08-03/index.html#joyo-tremolo",
-    "title": "Canon in D",
-    "section": "Joyo Tremolo",
-    "text": "Joyo Tremolo\nIntensity: 0%\nRate: 0%"
-  },
-  {
-    "objectID": "posts/2024-08-03/index.html#fender-blues-jr.-iii",
-    "href": "posts/2024-08-03/index.html#fender-blues-jr.-iii",
-    "title": "Canon in D",
-    "section": "Fender Blues Jr. III",
-    "text": "Fender Blues Jr. III\nVolume: 8.0\nFat: OFF\nTreble: 6.5\nBass: 6.0\nMiddle: 6.0\nMaster: 5.0\nReverb: 5.0"
-  },
-  {
-    "objectID": "posts/2024-08-03/index.html#blue-yeti",
-    "href": "posts/2024-08-03/index.html#blue-yeti",
-    "title": "Canon in D",
-    "section": "Blue Yeti",
-    "text": "Blue Yeti\nGain: 9 o’clock\nMode: Stereo, on desk near plant"
-  },
-  {
-    "objectID": "posts/2022-12-18/index.html",
-    "href": "posts/2022-12-18/index.html",
-    "title": "The Little Drummer Boy",
-    "section": "",
-    "text": "Measures: 1-39\nTempo: 120 bpm"
-  },
-  {
-    "objectID": "posts/2022-12-18/index.html#video",
-    "href": "posts/2022-12-18/index.html#video",
-    "title": "The Little Drummer Boy",
-    "section": "Video",
-    "text": "Video"
-  },
-  {
-    "objectID": "posts/2022-12-18/index.html#fender-telecaster",
-    "href": "posts/2022-12-18/index.html#fender-telecaster",
-    "title": "The Little Drummer Boy",
-    "section": "Fender Telecaster",
-    "text": "Fender Telecaster\nPickup Position: Neck\nMaster Volume: ~7\nMaster Tone: ~9"
-  },
-  {
-    "objectID": "posts/2022-12-18/index.html#multi-effects-processor",
-    "href": "posts/2022-12-18/index.html#multi-effects-processor",
-    "title": "The Little Drummer Boy",
-    "section": "Multi Effects Processor",
-    "text": "Multi Effects Processor\nZoom G3Xn: Jazz Time"
-  },
-  {
-    "objectID": "posts/2022-12-18/index.html#amplifier",
-    "href": "posts/2022-12-18/index.html#amplifier",
-    "title": "The Little Drummer Boy",
-    "section": "Amplifier",
-    "text": "Amplifier\nFender Mustang 1, 57 Champ"
-  },
-  {
-    "objectID": "posts/2022-12-18/index.html#microphone",
-    "href": "posts/2022-12-18/index.html#microphone",
-    "title": "The Little Drummer Boy",
-    "section": "Microphone",
-    "text": "Microphone\nBlue Yeti  Gain: 9 o’clock \nMode: Omnidirectional, on desk near plant"
-  },
-  {
-    "objectID": "posts/2022-12-18/index.html#garageband",
-    "href": "posts/2022-12-18/index.html#garageband",
-    "title": "The Little Drummer Boy",
-    "section": "GarageBand",
-    "text": "GarageBand\nTrack: \nCompressor: Platinum Analog Tape: -12.5, 1.6:1, 47, 1.5\nChannel EQ: Clean up guitar  Master:\nChannel EQ: Final Mix, Ballad\nStereo Spread: Medium LF & HF Spread\nLimiter: For Vocals +2 and -0.1"
-  },
-  {
-    "objectID": "posts/2023-07-10-1/index.html",
-    "href": "posts/2023-07-10-1/index.html",
-    "title": "Nocturne A1+A2",
-    "section": "",
-    "text": "Tempo: Free bpm\nMeasures: 1-17"
-  },
-  {
-    "objectID": "posts/2023-07-10-1/index.html#video",
-    "href": "posts/2023-07-10-1/index.html#video",
-    "title": "Nocturne A1+A2",
-    "section": "Video",
-    "text": "Video"
-  },
-  {
-    "objectID": "posts/2023-07-10-1/index.html#fender-telecaster",
-    "href": "posts/2023-07-10-1/index.html#fender-telecaster",
-    "title": "Nocturne A1+A2",
-    "section": "Fender Telecaster",
-    "text": "Fender Telecaster\nPickup Position: Neck\nMaster Volume: ~6\nMaster Tone: ~6"
-  },
-  {
-    "objectID": "posts/2023-07-10-1/index.html#multi-effects-processor-zoom-g3xn",
-    "href": "posts/2023-07-10-1/index.html#multi-effects-processor-zoom-g3xn",
-    "title": "Nocturne A1+A2",
-    "section": "Multi Effects Processor: Zoom G3Xn",
-    "text": "Multi Effects Processor: Zoom G3Xn\nMaster Volume: 100\nCompressor: 5, Fast, 5, 70 ON\nSlab Back Delay: 20, 50, 50, Quarter note\nTremolo: Tube, 30, 50, 80 OFF"
-  },
-  {
-    "objectID": "posts/2023-07-10-1/index.html#joyo-tremolo",
-    "href": "posts/2023-07-10-1/index.html#joyo-tremolo",
-    "title": "Nocturne A1+A2",
-    "section": "Joyo Tremolo",
-    "text": "Joyo Tremolo\nIntensity: 75%\nRate: 75%"
-  },
-  {
-    "objectID": "posts/2023-07-10-1/index.html#amplifier-fender-blues-jr.-iii",
-    "href": "posts/2023-07-10-1/index.html#amplifier-fender-blues-jr.-iii",
-    "title": "Nocturne A1+A2",
-    "section": "Amplifier: Fender Blues Jr. III",
-    "text": "Amplifier: Fender Blues Jr. III\nVolume: 8.0\nFat: OFF\nTreble: 6.5\nBass: 6.5\nMiddle: 6.5\nMaster: 3.0\nReverb: 5.0"
-  },
-  {
-    "objectID": "posts/2023-07-10-1/index.html#microphone",
-    "href": "posts/2023-07-10-1/index.html#microphone",
-    "title": "Nocturne A1+A2",
-    "section": "Microphone",
-    "text": "Microphone\nBlue Yeti Gain: 12 o’clock\nMode: Omnidirectional, on desk near plant"
-  },
-  {
-    "objectID": "posts/2023-03-26/index.html",
-    "href": "posts/2023-03-26/index.html",
-    "title": "Exercise 7a & 7b",
-    "section": "",
-    "text": "Tempo: 50 bpm"
-  },
-  {
-    "objectID": "posts/2023-03-26/index.html#fender-jaguar",
-    "href": "posts/2023-03-26/index.html#fender-jaguar",
-    "title": "Exercise 7a & 7b",
-    "section": "Fender Jaguar",
-    "text": "Fender Jaguar\nPickup Position: Neck\nMaster Volume: ~6 \nMaster Tone: ~6"
-  },
-  {
-    "objectID": "posts/2023-03-26/index.html#multi-effects-processor",
-    "href": "posts/2023-03-26/index.html#multi-effects-processor",
-    "title": "Exercise 7a & 7b",
-    "section": "Multi Effects Processor",
-    "text": "Multi Effects Processor\nZoom G3Xn: 145 (Archtop)"
-  },
-  {
-    "objectID": "posts/2023-03-26/index.html#amplifier",
-    "href": "posts/2023-03-26/index.html#amplifier",
-    "title": "Exercise 7a & 7b",
-    "section": "Amplifier",
-    "text": "Amplifier\nFender Blues Jr III: 8.5-2-2-5-5-1"
-  },
-  {
-    "objectID": "posts/2023-03-26/index.html#tremolo",
-    "href": "posts/2023-03-26/index.html#tremolo",
-    "title": "Exercise 7a & 7b",
-    "section": "Tremolo",
-    "text": "Tremolo\nON 0-0"
-  },
-  {
-    "objectID": "posts/2023-03-26/index.html#microphone",
-    "href": "posts/2023-03-26/index.html#microphone",
-    "title": "Exercise 7a & 7b",
-    "section": "Microphone",
-    "text": "Microphone\nBlue Yeti Gain: 9 o’clock Mode: Omnidirectional, on desk near plant"
-  },
-  {
-    "objectID": "posts/2023-03-26/index.html#video",
-    "href": "posts/2023-03-26/index.html#video",
-    "title": "Exercise 7a & 7b",
-    "section": "Video",
-    "text": "Video"
-  },
-  {
-    "objectID": "posts/2023-07-16/index.html",
-    "href": "posts/2023-07-16/index.html",
-    "title": "Nocturne A3 - A4",
-    "section": "",
-    "text": "Tempo: Free\nMeasures: 25 - 40"
-  },
-  {
-    "objectID": "posts/2023-07-16/index.html#video",
-    "href": "posts/2023-07-16/index.html#video",
-    "title": "Nocturne A3 - A4",
-    "section": "Video",
-    "text": "Video\n\nhttps://youtu.be/wqMAWrb8Jf0"
-  },
-  {
-    "objectID": "posts/2023-07-16/index.html#fender-jaguar",
-    "href": "posts/2023-07-16/index.html#fender-jaguar",
-    "title": "Nocturne A3 - A4",
-    "section": "Fender Jaguar",
-    "text": "Fender Jaguar\nPickup Position: Neck\nMaster Volume: 4\nMaster Tone: 5"
-  },
-  {
-    "objectID": "posts/2023-07-16/index.html#multi-effects-processor-zoom-g3xn",
-    "href": "posts/2023-07-16/index.html#multi-effects-processor-zoom-g3xn",
-    "title": "Nocturne A3 - A4",
-    "section": "Multi Effects Processor: Zoom G3Xn",
-    "text": "Multi Effects Processor: Zoom G3Xn\nMaster Volume: 20\nCompressor: 6, Fast, 6, 80 ON\nSlab Back Delay: 20, 50, 50, Quarter note"
-  },
-  {
-    "objectID": "posts/2023-07-16/index.html#joyo-tremolo",
-    "href": "posts/2023-07-16/index.html#joyo-tremolo",
-    "title": "Nocturne A3 - A4",
-    "section": "Joyo Tremolo",
-    "text": "Joyo Tremolo\nIntensity: 75%\nRate: 75%"
-  },
-  {
-    "objectID": "posts/2023-07-16/index.html#amplifier-fender-blues-jr.-iii",
-    "href": "posts/2023-07-16/index.html#amplifier-fender-blues-jr.-iii",
-    "title": "Nocturne A3 - A4",
-    "section": "Amplifier: Fender Blues Jr. III",
-    "text": "Amplifier: Fender Blues Jr. III\nVolume: 8.0\nFat: OFF\nTreble: 6.5\nBass: 6.5\nMiddle: 6.5\nMaster: 3.0\nReverb: 5.0"
-  },
-  {
-    "objectID": "posts/2023-07-16/index.html#microphone",
-    "href": "posts/2023-07-16/index.html#microphone",
-    "title": "Nocturne A3 - A4",
-    "section": "Microphone",
-    "text": "Microphone\nBlue Yeti\nGain: 11 o’clock\nMode: Omnidirectional, on desk near plant"
-  },
-  {
-    "objectID": "posts/2019-08-17/index.html",
-    "href": "posts/2019-08-17/index.html",
-    "title": "C Mixolydian",
-    "section": "",
-    "text": "C Mixolydian is the fifth mode of the F major scale\nC Mixolydian Scale Notes: C D E F G A Bb\nMixolydian Scale Formula: 1 2 3 4 5 6 b7\nMixolydian Scale Intervals: W W H W W H W"
-  },
-  {
-    "objectID": "posts/2019-08-17/index.html#video",
-    "href": "posts/2019-08-17/index.html#video",
-    "title": "C Mixolydian",
-    "section": "",
-    "text": "C Mixolydian is the fifth mode of the F major scale\nC Mixolydian Scale Notes: C D E F G A Bb\nMixolydian Scale Formula: 1 2 3 4 5 6 b7\nMixolydian Scale Intervals: W W H W W H W"
-  },
-  {
-    "objectID": "posts/2022-05-15/index.html",
-    "href": "posts/2022-05-15/index.html",
-    "title": "Nocturne 2",
-    "section": "",
-    "text": "Measures: 1-8"
-  },
-  {
-    "objectID": "posts/2022-05-15/index.html#video",
-    "href": "posts/2022-05-15/index.html#video",
-    "title": "Nocturne 2",
-    "section": "Video",
-    "text": "Video\n\nGibson Les Paul\nBody: Plain Maple Top with a Mahogany Body\nFingerboard: Rosewood\nPickup Position: Neck\nMaster Volume: 4.0\nMaster Tone: 3.5\n\nMulti Effects Processor: Zoom G3Xn\nMaster Volume: 100 \nCompressor: 5, Fast, 5, 70 ON\nTremolo: Tube, 30, 50, 80 OFF\n\nJoyo Tremolo\nIntensity: 55%\nRate: 55%\n\nAmplifier: Fender Blues Jr. III\nVolume: 8.0\nFat: OFF\nTreble: 6.5\nBass: 6.5\nMiddle: 6.5\nMaster: 3.0\nReverb: 5.0\n\nMicrophone: Blue Yeti \nGain: 11 o'clock\nMode: Cardioid \n70 cm away from centre"
-  },
-  {
-    "objectID": "posts/2024-10-13/index.html#guitar-2-1",
-    "href": "posts/2024-10-13/index.html#guitar-2-1",
-    "title": "Sea to Sea",
-    "section": "Guitar 2",
-    "text": "Guitar 2"
-  },
-  {
-    "objectID": "posts/2024-10-13/index.html#guitar-1",
-    "href": "posts/2024-10-13/index.html#guitar-1",
-    "title": "Sea to Sea",
-    "section": "Guitar 1",
-    "text": "Guitar 1"
-  },
-  {
-    "objectID": "posts/2024-10-13/index.html#section-a1",
-    "href": "posts/2024-10-13/index.html#section-a1",
-    "title": "Sea to Sea",
-    "section": "Section A1",
-    "text": "Section A1"
-  },
-  {
-    "objectID": "posts/2024-10-13/index.html#section-a",
-    "href": "posts/2024-10-13/index.html#section-a",
-    "title": "Sea to Sea",
-    "section": "Section A",
-    "text": "Section A"
-  },
-  {
-    "objectID": "posts/2024-10-13/index.html#gibson-les-paul",
-    "href": "posts/2024-10-13/index.html#gibson-les-paul",
-    "title": "Sea to Sea",
+    "objectID": "posts/2024-10-08/index.html#gibson-les-paul",
+    "href": "posts/2024-10-08/index.html#gibson-les-paul",
+    "title": "Ex.1-4",
     "section": "Gibson Les Paul",
     "text": "Gibson Les Paul\nPickup Position: Bridge\nMaster Volume: 5\nMaster Tone: 3"
   },
   {
-    "objectID": "posts/2024-10-13/index.html#zoom-g3xn",
-    "href": "posts/2024-10-13/index.html#zoom-g3xn",
-    "title": "Sea to Sea",
+    "objectID": "posts/2024-10-08/index.html#zoom-g3xn",
+    "href": "posts/2024-10-08/index.html#zoom-g3xn",
+    "title": "Ex.1-4",
     "section": "Zoom G3Xn",
     "text": "Zoom G3Xn\nPreset: 134 Jazz Fall"
   },
   {
-    "objectID": "posts/2024-10-13/index.html#joyo-tremolo-off",
-    "href": "posts/2024-10-13/index.html#joyo-tremolo-off",
-    "title": "Sea to Sea",
+    "objectID": "posts/2024-10-08/index.html#joyo-tremolo-off",
+    "href": "posts/2024-10-08/index.html#joyo-tremolo-off",
+    "title": "Ex.1-4",
     "section": "Joyo Tremolo OFF",
     "text": "Joyo Tremolo OFF\nIntensity: 50%\nRate: 50%"
   },
   {
-    "objectID": "posts/2024-10-13/index.html#fender-blues-jr.-iii",
-    "href": "posts/2024-10-13/index.html#fender-blues-jr.-iii",
-    "title": "Sea to Sea",
+    "objectID": "posts/2024-10-08/index.html#fender-blues-jr.-iii",
+    "href": "posts/2024-10-08/index.html#fender-blues-jr.-iii",
+    "title": "Ex.1-4",
     "section": "Fender Blues Jr. III",
     "text": "Fender Blues Jr. III\nVolume: 8.0\nFat: OFF\nTreble: 6.5\nBass: 6.0\nMiddle: 6.0\nMaster: 4.5\nReverb: 5.0"
   },
   {
-    "objectID": "posts/2024-10-13/index.html#blue-yeti",
-    "href": "posts/2024-10-13/index.html#blue-yeti",
-    "title": "Sea to Sea",
+    "objectID": "posts/2024-10-08/index.html#blue-yeti",
+    "href": "posts/2024-10-08/index.html#blue-yeti",
+    "title": "Ex.1-4",
     "section": "Blue Yeti",
     "text": "Blue Yeti\nGain: 9 o’clock\nMode: Stereo, on desk near plant"
   },
   {
-    "objectID": "posts/2024-10-13/index.html#lesson-part-1",
-    "href": "posts/2024-10-13/index.html#lesson-part-1",
-    "title": "Sea to Sea",
-    "section": "Lesson Part 1",
-    "text": "Lesson Part 1"
+    "objectID": "posts/2024-10-08/index.html#lesson",
+    "href": "posts/2024-10-08/index.html#lesson",
+    "title": "Ex.1-4",
+    "section": "Lesson",
+    "text": "Lesson"
   },
   {
-    "objectID": "posts/2019-08-16/index.html",
-    "href": "posts/2019-08-16/index.html",
-    "title": "C Ionian",
+    "objectID": "posts/2024-10-06/index.html",
+    "href": "posts/2024-10-06/index.html",
+    "title": "White Christmas Phrase 4",
     "section": "",
-    "text": "The Ionian Mode is the first mode of the major scale. They are essentially the same scale.\nC Ionian Scale Notes: C D E F G A B\nIonian Scale Formula: 1 2 3 4 5 6 7\nIonian Scale Intervals: W W H W W W H"
+    "text": "Phrase 4\nBar 6: F∆7 B♭7 B♭9\nBar 7: C∆7 C♯ø F∆7 A♭ø\nBar 8: D♭∆13 C6"
   },
   {
-    "objectID": "posts/2019-08-16/index.html#video",
-    "href": "posts/2019-08-16/index.html#video",
-    "title": "C Ionian",
+    "objectID": "posts/2024-10-06/index.html#phrase-4-0.50x-temp",
+    "href": "posts/2024-10-06/index.html#phrase-4-0.50x-temp",
+    "title": "White Christmas Phrase 4",
+    "section": "Phrase 4 0.50x Temp",
+    "text": "Phrase 4 0.50x Temp"
+  },
+  {
+    "objectID": "posts/2024-10-06/index.html#phrase-4-0.50x-temp-1",
+    "href": "posts/2024-10-06/index.html#phrase-4-0.50x-temp-1",
+    "title": "White Christmas Phrase 4",
+    "section": "Phrase 4 0.50x Temp",
+    "text": "Phrase 4 0.50x Temp"
+  },
+  {
+    "objectID": "posts/2024-10-06/index.html#phrase-4-0.45x-temp",
+    "href": "posts/2024-10-06/index.html#phrase-4-0.45x-temp",
+    "title": "White Christmas Phrase 4",
+    "section": "Phrase 4 0.45x Temp",
+    "text": "Phrase 4 0.45x Temp"
+  },
+  {
+    "objectID": "posts/2024-10-06/index.html#phrase-4-dead-slow",
+    "href": "posts/2024-10-06/index.html#phrase-4-dead-slow",
+    "title": "White Christmas Phrase 4",
+    "section": "Phrase 4 Dead Slow",
+    "text": "Phrase 4 Dead Slow"
+  },
+  {
+    "objectID": "posts/2024-10-06/index.html#phrase-4-second-half",
+    "href": "posts/2024-10-06/index.html#phrase-4-second-half",
+    "title": "White Christmas Phrase 4",
+    "section": "Phrase 4 Second Half",
+    "text": "Phrase 4 Second Half"
+  },
+  {
+    "objectID": "posts/2024-10-06/index.html#phrase-4-first-half-tempo-0.35x",
+    "href": "posts/2024-10-06/index.html#phrase-4-first-half-tempo-0.35x",
+    "title": "White Christmas Phrase 4",
+    "section": "Phrase 4 First Half Tempo: 0.35x",
+    "text": "Phrase 4 First Half Tempo: 0.35x"
+  },
+  {
+    "objectID": "posts/2024-10-06/index.html#gibson-les-paul",
+    "href": "posts/2024-10-06/index.html#gibson-les-paul",
+    "title": "White Christmas Phrase 4",
+    "section": "Gibson Les Paul",
+    "text": "Gibson Les Paul\nPickup Position: Neck\nMaster Volume: 5\nMaster Tone: 8"
+  },
+  {
+    "objectID": "posts/2024-10-06/index.html#joyo-tremolo",
+    "href": "posts/2024-10-06/index.html#joyo-tremolo",
+    "title": "White Christmas Phrase 4",
+    "section": "Joyo Tremolo",
+    "text": "Joyo Tremolo\nIntensity: 50%\nRate: 50%"
+  },
+  {
+    "objectID": "posts/2024-10-06/index.html#fender-blues-jr.-iii",
+    "href": "posts/2024-10-06/index.html#fender-blues-jr.-iii",
+    "title": "White Christmas Phrase 4",
+    "section": "Fender Blues Jr. III",
+    "text": "Fender Blues Jr. III\nVolume: 8.0\nFat: OFF\nTreble: 6.5\nBass: 6.0\nMiddle: 6.0\nMaster: 4.5\nReverb: 5.0"
+  },
+  {
+    "objectID": "posts/2024-10-06/index.html#blue-yeti",
+    "href": "posts/2024-10-06/index.html#blue-yeti",
+    "title": "White Christmas Phrase 4",
+    "section": "Blue Yeti",
+    "text": "Blue Yeti\nGain: 9 o’clock\nMode: Stereo, on desk near plant"
+  },
+  {
+    "objectID": "posts/2024-10-06/index.html#lesson",
+    "href": "posts/2024-10-06/index.html#lesson",
+    "title": "White Christmas Phrase 4",
+    "section": "Lesson",
+    "text": "Lesson"
+  },
+  {
+    "objectID": "posts/2023-07-11/index.html",
+    "href": "posts/2023-07-11/index.html",
+    "title": "Nocturne B1",
     "section": "",
-    "text": "The Ionian Mode is the first mode of the major scale. They are essentially the same scale.\nC Ionian Scale Notes: C D E F G A B\nIonian Scale Formula: 1 2 3 4 5 6 7\nIonian Scale Intervals: W W H W W W H"
+    "text": "Tempo: free bpm\nMeasures: 17-24"
+  },
+  {
+    "objectID": "posts/2023-07-11/index.html#video",
+    "href": "posts/2023-07-11/index.html#video",
+    "title": "Nocturne B1",
+    "section": "Video",
+    "text": "Video"
+  },
+  {
+    "objectID": "posts/2023-07-11/index.html#fender-jaguar",
+    "href": "posts/2023-07-11/index.html#fender-jaguar",
+    "title": "Nocturne B1",
+    "section": "Fender Jaguar",
+    "text": "Fender Jaguar\nPickup Position: Neck\nMaster Volume: ~7 Master Tone: ~5"
+  },
+  {
+    "objectID": "posts/2023-07-11/index.html#multi-effects-processor-zoom-g3xn",
+    "href": "posts/2023-07-11/index.html#multi-effects-processor-zoom-g3xn",
+    "title": "Nocturne B1",
+    "section": "Multi Effects Processor: Zoom G3Xn",
+    "text": "Multi Effects Processor: Zoom G3Xn\nMaster Volume: 100\nCompressor: 5, Fast, 5, 70 ON\nSlab Back Delay: 20, 50, 50, Quarter note\nTremolo: Tube, 30, 50, 80 OFF"
+  },
+  {
+    "objectID": "posts/2023-07-11/index.html#joyo-tremolo",
+    "href": "posts/2023-07-11/index.html#joyo-tremolo",
+    "title": "Nocturne B1",
+    "section": "Joyo Tremolo",
+    "text": "Joyo Tremolo\nIntensity: 75%\nRate: 75%"
+  },
+  {
+    "objectID": "posts/2023-07-11/index.html#amplifier-fender-blues-jr.-iii",
+    "href": "posts/2023-07-11/index.html#amplifier-fender-blues-jr.-iii",
+    "title": "Nocturne B1",
+    "section": "Amplifier: Fender Blues Jr. III",
+    "text": "Amplifier: Fender Blues Jr. III\nVolume: 8.0\nFat: OFF\nTreble: 6.5\nBass: 6.5\nMiddle: 6.5\nMaster: 3.0\nReverb: 5.0"
+  },
+  {
+    "objectID": "posts/2023-07-11/index.html#microphone",
+    "href": "posts/2023-07-11/index.html#microphone",
+    "title": "Nocturne B1",
+    "section": "Microphone",
+    "text": "Microphone\nBlue Yeti\nGain: 11 o’clock\nMode: Omnidirectional, on desk near plant"
+  },
+  {
+    "objectID": "posts/2019-08-19/index.html",
+    "href": "posts/2019-08-19/index.html",
+    "title": "C Aeolian",
+    "section": "",
+    "text": "C Aeolian&lt; is the sixth mode of the Eb major scale\nC Aeolian Scale Notes: C D Eb F G Ab Bb\nAeolian Scale Formula: 1 2 b3 4 5 b6 b7\nAeolian Scale Intervals: W H W W H W W"
+  },
+  {
+    "objectID": "posts/2019-08-19/index.html#video",
+    "href": "posts/2019-08-19/index.html#video",
+    "title": "C Aeolian",
+    "section": "",
+    "text": "C Aeolian&lt; is the sixth mode of the Eb major scale\nC Aeolian Scale Notes: C D Eb F G Ab Bb\nAeolian Scale Formula: 1 2 b3 4 5 b6 b7\nAeolian Scale Intervals: W H W W H W W"
+  },
+  {
+    "objectID": "posts/2019-08-21/index.html",
+    "href": "posts/2019-08-21/index.html",
+    "title": "C Locrian",
+    "section": "",
+    "text": "C Locrian is the seventh mode of the Db major scale\nC Locrian Scale Notes: C Db Eb F Gb Ab Bb\nLocrian Scale Formula: 1 b2 b3 4 b5 b6 b7\nLocrian Scale Intervals: H W W H W W W"
+  },
+  {
+    "objectID": "posts/2019-08-21/index.html#video",
+    "href": "posts/2019-08-21/index.html#video",
+    "title": "C Locrian",
+    "section": "",
+    "text": "C Locrian is the seventh mode of the Db major scale\nC Locrian Scale Notes: C Db Eb F Gb Ab Bb\nLocrian Scale Formula: 1 b2 b3 4 b5 b6 b7\nLocrian Scale Intervals: H W W H W W W"
+  },
+  {
+    "objectID": "posts/2020-01-12/index.html#titles",
+    "href": "posts/2020-01-12/index.html#titles",
+    "title": "Milestone 3: Obscure Poems",
+    "section": "Titles",
+    "text": "Titles\nCarrera Séptima, Dictum Factum, In Times Not Long Past, Et cetera ad infinitum, Telecaster MP and others are titles chosen to mark the memory of who I was reading, what I was practising, when and where I was at that particular moment in time. And why do it? To remember, simply not forget those precious moments. Titles are like stamps on envelopes symbolizing the way in which the activities came to me."
+  },
+  {
+    "objectID": "posts/2020-01-12/index.html#video-lessons",
+    "href": "posts/2020-01-12/index.html#video-lessons",
+    "title": "Milestone 3: Obscure Poems",
+    "section": "Video Lessons",
+    "text": "Video Lessons"
+  },
+  {
+    "objectID": "posts/2020-11-15/index.html",
+    "href": "posts/2020-11-15/index.html",
+    "title": "Re-Mastered Blues for Captain Grant Coburn",
+    "section": "",
+    "text": "Blues for Captain Grant Coburn Mastered- 2020-11-15 - 2020-11-15, 8.37 PM"
+  },
+  {
+    "objectID": "posts/2020-11-15/index.html#video",
+    "href": "posts/2020-11-15/index.html#video",
+    "title": "Re-Mastered Blues for Captain Grant Coburn",
+    "section": "Video",
+    "text": "Video"
+  },
+  {
+    "objectID": "posts/2022-11-12/index.html",
+    "href": "posts/2022-11-12/index.html",
+    "title": "Autumn Leaves",
+    "section": "",
+    "text": "Measures: 1- 9\nTempo: 45 bpm\nFender Jaguar\nPickup Position: Neck\nMaster Volume: 6\nMaster Tone: 6\nAmplifier: Fender Mustang 1 [Custom Deluxe Reverb]\nGarageBand:\nTrack: Tube Vocal\nMaster: Master TroubleInMind"
+  },
+  {
+    "objectID": "posts/2022-11-12/index.html#video",
+    "href": "posts/2022-11-12/index.html#video",
+    "title": "Autumn Leaves",
+    "section": "Video",
+    "text": "Video\n\n\nBill Frisell with session guitar greats Bob Bain and Dennis Budimir, performing “Autumn Leaves”. Full transcriptions and learning materials available here: bit.ly/2qFnYEj\nhttps://www.soundslice.com/slices/Bbwcc/"
+  },
+  {
+    "objectID": "posts/2025-01-08/index.html",
+    "href": "posts/2025-01-08/index.html",
+    "title": "Week02",
+    "section": "",
+    "text": "Tempo: 70 bpm"
+  },
+  {
+    "objectID": "posts/2025-01-08/index.html#picking-practice",
+    "href": "posts/2025-01-08/index.html#picking-practice",
+    "title": "Week02",
+    "section": "Picking Practice",
+    "text": "Picking Practice\n\nAlternate picking, fingers 4-3-2-1, from E to e string, 25 repetitions\nAlternate picking, 2x each time, fingers 1-2-3-4, from E to e string, 25 repetitions"
+  },
+  {
+    "objectID": "posts/2025-01-08/index.html#chord-practice",
+    "href": "posts/2025-01-08/index.html#chord-practice",
+    "title": "Week02",
+    "section": "Chord Practice",
+    "text": "Chord Practice\n\nG Chord, 25 repetitions\nCadd9 Chord, 25 repetitions\nChord progression, G → Cadd9, 3 min."
+  },
+  {
+    "objectID": "posts/2025-01-08/index.html#chromatic-scale",
+    "href": "posts/2025-01-08/index.html#chromatic-scale",
+    "title": "Week02",
+    "section": "Chromatic Scale",
+    "text": "Chromatic Scale\nWrite and say it out loud:\nC C#Db D D#Eb E F F#Gb G G#Ab A A#Bb B"
+  },
+  {
+    "objectID": "posts/2025-01-08/index.html#video-log",
+    "href": "posts/2025-01-08/index.html#video-log",
+    "title": "Week02",
+    "section": "Video Log",
+    "text": "Video Log\nSat, 2025-01-11: Tempo: 70 bpm\n\nWed, 2025-01-08: Tempo: 70 bpm"
+  },
+  {
+    "objectID": "posts/2025-01-08/index.html#gibson-les-paul",
+    "href": "posts/2025-01-08/index.html#gibson-les-paul",
+    "title": "Week02",
+    "section": "Gibson Les Paul",
+    "text": "Gibson Les Paul\nPickup Position: Neck\nMaster Volume: 9\nMaster Tone: 5"
+  },
+  {
+    "objectID": "posts/2025-01-08/index.html#zoom-g3xn",
+    "href": "posts/2025-01-08/index.html#zoom-g3xn",
+    "title": "Week02",
+    "section": "Zoom G3Xn",
+    "text": "Zoom G3Xn\nPreset: OFF"
+  },
+  {
+    "objectID": "posts/2025-01-08/index.html#joyo-tremolo",
+    "href": "posts/2025-01-08/index.html#joyo-tremolo",
+    "title": "Week02",
+    "section": "Joyo Tremolo",
+    "text": "Joyo Tremolo\nIntensity: 25%\nRate: 25%"
+  },
+  {
+    "objectID": "posts/2025-01-08/index.html#fender-blues-jr.-iii",
+    "href": "posts/2025-01-08/index.html#fender-blues-jr.-iii",
+    "title": "Week02",
+    "section": "Fender Blues Jr. III",
+    "text": "Fender Blues Jr. III\nVolume: 4.0\nFat: OFF\nTreble: 4.5\nBass: 7.0\nMiddle: 5.0\nMaster: 5.0\nReverb: 2.5"
+  },
+  {
+    "objectID": "posts/2025-01-08/index.html#blue-yeti",
+    "href": "posts/2025-01-08/index.html#blue-yeti",
+    "title": "Week02",
+    "section": "Blue Yeti",
+    "text": "Blue Yeti\nGain: 10 o’clock\nMode: Stereo, on desk near plant"
+  },
+  {
+    "objectID": "posts/2025-01-08/index.html#lesson-video",
+    "href": "posts/2025-01-08/index.html#lesson-video",
+    "title": "Week02",
+    "section": "Lesson Video",
+    "text": "Lesson Video"
+  },
+  {
+    "objectID": "posts/2026-07-05/index.html",
+    "href": "posts/2026-07-05/index.html",
+    "title": "Für Edith",
+    "section": "",
+    "text": "Tempo: free bpm\nScore: Download\nMuseScore: Download\nGarageBand: Download"
+  },
+  {
+    "objectID": "posts/2026-07-05/index.html#video",
+    "href": "posts/2026-07-05/index.html#video",
+    "title": "Für Edith",
+    "section": "Video",
+    "text": "Video"
+  },
+  {
+    "objectID": "posts/2026-07-05/index.html#fender-stratocaster",
+    "href": "posts/2026-07-05/index.html#fender-stratocaster",
+    "title": "Für Edith",
+    "section": "Fender Stratocaster",
+    "text": "Fender Stratocaster\nPickup Position: Position 4"
+  },
+  {
+    "objectID": "posts/2026-07-05/index.html#zoom-g3xn-on",
+    "href": "posts/2026-07-05/index.html#zoom-g3xn-on",
+    "title": "Für Edith",
+    "section": "Zoom G3Xn ON",
+    "text": "Zoom G3Xn ON\n106 Princeton"
+  },
+  {
+    "objectID": "posts/2026-07-05/index.html#joyo-tremolo-off",
+    "href": "posts/2026-07-05/index.html#joyo-tremolo-off",
+    "title": "Für Edith",
+    "section": "Joyo Tremolo OFF",
+    "text": "Joyo Tremolo OFF\nIntensity: 50%\nRate: 50%"
+  },
+  {
+    "objectID": "posts/2026-07-05/index.html#fender-blues-jr.-iii",
+    "href": "posts/2026-07-05/index.html#fender-blues-jr.-iii",
+    "title": "Für Edith",
+    "section": "Fender Blues Jr. III",
+    "text": "Fender Blues Jr. III\nVolume: 4.5\nFat: OFF\nTreble: 5.5\nBass: 4.5\nMiddle: 5.0\nMaster: 4.5\nReverb: 1.0"
+  },
+  {
+    "objectID": "posts/2026-07-05/index.html#blue-yeti",
+    "href": "posts/2026-07-05/index.html#blue-yeti",
+    "title": "Für Edith",
+    "section": "Blue Yeti",
+    "text": "Blue Yeti\nGain: 9 o’clock\nMode: Cardioid mode, 4” from speaker, slightly off-axis"
+  },
+  {
+    "objectID": "posts/2026-07-05/index.html#dolby-on",
+    "href": "posts/2026-07-05/index.html#dolby-on",
+    "title": "Für Edith",
+    "section": "Dolby ON",
+    "text": "Dolby ON\nOFF"
+  },
+  {
+    "objectID": "posts/2026-07-05/index.html#zoom-g3xn-princeton-patch",
+    "href": "posts/2026-07-05/index.html#zoom-g3xn-princeton-patch",
+    "title": "Für Edith",
+    "section": "Zoom G3Xn “Princeton” Patch",
+    "text": "Zoom G3Xn “Princeton” Patch\nGuitar: Fender Stratocaster, pickup position 4\nZoom: G3Xn, Firmware 2.20, Patch cell 106, Patch name “Princeton” Goal: Warm, articulate Princeton Reverb-style clean tone with shimmer trem and spring reverb\nAmp: Fender Blues Jr III (real amp, miked — no Zoom amp/cab sim used)\n\nSignal Chain\nGuitar → RackComp → RC Boost → Tremolo → FD Spring → Zoom output → Blues Jr input → mic\n\n\nBlock 1 — RackComp (DYNAMICS)\n\nTHRSH: 25\nRatio: 3\nATTCK: 5\nVOL: 100 (unity/pass-through — not a boost like RC Boost’s Volume)\n\n\n\nBlock 2 — RC Boost (DRIVE)\n\nGain: 15\nBass: 50\nTreble: 55\nVOL: 65 (adjusted down from 100/max after A/B testing — 100 was a noticeable level jump, not a subtle push)\n\n\n\nBlock 3 — Tremolo (MODULATION)\n\nWave: TUBE\nDepth: 35\nRate: 30\nVOL: 100\n\n\n\nBlock 4 — FD Spring (REVERB) — sole reverb source (Option A)\n\nActive: ON\nColor: 1\nLo: 55\nHi: 45\nMix: 30"
   },
   {
     "objectID": "posts/2019-08-20/index.html",
@@ -5306,354 +5369,410 @@
     "text": "Video"
   },
   {
-    "objectID": "posts/2025-01-08/index.html",
-    "href": "posts/2025-01-08/index.html",
-    "title": "Week02",
+    "objectID": "posts/2019-08-16/index.html",
+    "href": "posts/2019-08-16/index.html",
+    "title": "C Ionian",
     "section": "",
-    "text": "Tempo: 70 bpm"
+    "text": "The Ionian Mode is the first mode of the major scale. They are essentially the same scale.\nC Ionian Scale Notes: C D E F G A B\nIonian Scale Formula: 1 2 3 4 5 6 7\nIonian Scale Intervals: W W H W W W H"
   },
   {
-    "objectID": "posts/2025-01-08/index.html#picking-practice",
-    "href": "posts/2025-01-08/index.html#picking-practice",
-    "title": "Week02",
-    "section": "Picking Practice",
-    "text": "Picking Practice\n\nAlternate picking, fingers 4-3-2-1, from E to e string, 25 repetitions\nAlternate picking, 2x each time, fingers 1-2-3-4, from E to e string, 25 repetitions"
-  },
-  {
-    "objectID": "posts/2025-01-08/index.html#chord-practice",
-    "href": "posts/2025-01-08/index.html#chord-practice",
-    "title": "Week02",
-    "section": "Chord Practice",
-    "text": "Chord Practice\n\nG Chord, 25 repetitions\nCadd9 Chord, 25 repetitions\nChord progression, G → Cadd9, 3 min."
-  },
-  {
-    "objectID": "posts/2025-01-08/index.html#chromatic-scale",
-    "href": "posts/2025-01-08/index.html#chromatic-scale",
-    "title": "Week02",
-    "section": "Chromatic Scale",
-    "text": "Chromatic Scale\nWrite and say it out loud:\nC C#Db D D#Eb E F F#Gb G G#Ab A A#Bb B"
-  },
-  {
-    "objectID": "posts/2025-01-08/index.html#video-log",
-    "href": "posts/2025-01-08/index.html#video-log",
-    "title": "Week02",
-    "section": "Video Log",
-    "text": "Video Log\nSat, 2025-01-11: Tempo: 70 bpm\n\nWed, 2025-01-08: Tempo: 70 bpm"
-  },
-  {
-    "objectID": "posts/2025-01-08/index.html#gibson-les-paul",
-    "href": "posts/2025-01-08/index.html#gibson-les-paul",
-    "title": "Week02",
-    "section": "Gibson Les Paul",
-    "text": "Gibson Les Paul\nPickup Position: Neck\nMaster Volume: 9\nMaster Tone: 5"
-  },
-  {
-    "objectID": "posts/2025-01-08/index.html#zoom-g3xn",
-    "href": "posts/2025-01-08/index.html#zoom-g3xn",
-    "title": "Week02",
-    "section": "Zoom G3Xn",
-    "text": "Zoom G3Xn\nPreset: OFF"
-  },
-  {
-    "objectID": "posts/2025-01-08/index.html#joyo-tremolo",
-    "href": "posts/2025-01-08/index.html#joyo-tremolo",
-    "title": "Week02",
-    "section": "Joyo Tremolo",
-    "text": "Joyo Tremolo\nIntensity: 25%\nRate: 25%"
-  },
-  {
-    "objectID": "posts/2025-01-08/index.html#fender-blues-jr.-iii",
-    "href": "posts/2025-01-08/index.html#fender-blues-jr.-iii",
-    "title": "Week02",
-    "section": "Fender Blues Jr. III",
-    "text": "Fender Blues Jr. III\nVolume: 4.0\nFat: OFF\nTreble: 4.5\nBass: 7.0\nMiddle: 5.0\nMaster: 5.0\nReverb: 2.5"
-  },
-  {
-    "objectID": "posts/2025-01-08/index.html#blue-yeti",
-    "href": "posts/2025-01-08/index.html#blue-yeti",
-    "title": "Week02",
-    "section": "Blue Yeti",
-    "text": "Blue Yeti\nGain: 10 o’clock\nMode: Stereo, on desk near plant"
-  },
-  {
-    "objectID": "posts/2025-01-08/index.html#lesson-video",
-    "href": "posts/2025-01-08/index.html#lesson-video",
-    "title": "Week02",
-    "section": "Lesson Video",
-    "text": "Lesson Video"
-  },
-  {
-    "objectID": "posts/2022-11-12/index.html",
-    "href": "posts/2022-11-12/index.html",
-    "title": "Autumn Leaves",
+    "objectID": "posts/2019-08-16/index.html#video",
+    "href": "posts/2019-08-16/index.html#video",
+    "title": "C Ionian",
     "section": "",
-    "text": "Measures: 1- 9\nTempo: 45 bpm\nFender Jaguar\nPickup Position: Neck\nMaster Volume: 6\nMaster Tone: 6\nAmplifier: Fender Mustang 1 [Custom Deluxe Reverb]\nGarageBand:\nTrack: Tube Vocal\nMaster: Master TroubleInMind"
+    "text": "The Ionian Mode is the first mode of the major scale. They are essentially the same scale.\nC Ionian Scale Notes: C D E F G A B\nIonian Scale Formula: 1 2 3 4 5 6 7\nIonian Scale Intervals: W W H W W W H"
   },
   {
-    "objectID": "posts/2022-11-12/index.html#video",
-    "href": "posts/2022-11-12/index.html#video",
-    "title": "Autumn Leaves",
-    "section": "Video",
-    "text": "Video\n\n\nBill Frisell with session guitar greats Bob Bain and Dennis Budimir, performing “Autumn Leaves”. Full transcriptions and learning materials available here: bit.ly/2qFnYEj\nhttps://www.soundslice.com/slices/Bbwcc/"
+    "objectID": "posts/2024-10-13/index.html#guitar-2-1",
+    "href": "posts/2024-10-13/index.html#guitar-2-1",
+    "title": "Sea to Sea",
+    "section": "Guitar 2",
+    "text": "Guitar 2"
   },
   {
-    "objectID": "posts/2020-11-15/index.html",
-    "href": "posts/2020-11-15/index.html",
-    "title": "Re-Mastered Blues for Captain Grant Coburn",
-    "section": "",
-    "text": "Blues for Captain Grant Coburn Mastered- 2020-11-15 - 2020-11-15, 8.37 PM"
+    "objectID": "posts/2024-10-13/index.html#guitar-1",
+    "href": "posts/2024-10-13/index.html#guitar-1",
+    "title": "Sea to Sea",
+    "section": "Guitar 1",
+    "text": "Guitar 1"
   },
   {
-    "objectID": "posts/2020-11-15/index.html#video",
-    "href": "posts/2020-11-15/index.html#video",
-    "title": "Re-Mastered Blues for Captain Grant Coburn",
-    "section": "Video",
-    "text": "Video"
+    "objectID": "posts/2024-10-13/index.html#section-a1",
+    "href": "posts/2024-10-13/index.html#section-a1",
+    "title": "Sea to Sea",
+    "section": "Section A1",
+    "text": "Section A1"
   },
   {
-    "objectID": "posts/2020-01-12/index.html#titles",
-    "href": "posts/2020-01-12/index.html#titles",
-    "title": "Milestone 3: Obscure Poems",
-    "section": "Titles",
-    "text": "Titles\nCarrera Séptima, Dictum Factum, In Times Not Long Past, Et cetera ad infinitum, Telecaster MP and others are titles chosen to mark the memory of who I was reading, what I was practising, when and where I was at that particular moment in time. And why do it? To remember, simply not forget those precious moments. Titles are like stamps on envelopes symbolizing the way in which the activities came to me."
+    "objectID": "posts/2024-10-13/index.html#section-a",
+    "href": "posts/2024-10-13/index.html#section-a",
+    "title": "Sea to Sea",
+    "section": "Section A",
+    "text": "Section A"
   },
   {
-    "objectID": "posts/2020-01-12/index.html#video-lessons",
-    "href": "posts/2020-01-12/index.html#video-lessons",
-    "title": "Milestone 3: Obscure Poems",
-    "section": "Video Lessons",
-    "text": "Video Lessons"
-  },
-  {
-    "objectID": "posts/2019-08-21/index.html",
-    "href": "posts/2019-08-21/index.html",
-    "title": "C Locrian",
-    "section": "",
-    "text": "C Locrian is the seventh mode of the Db major scale\nC Locrian Scale Notes: C Db Eb F Gb Ab Bb\nLocrian Scale Formula: 1 b2 b3 4 b5 b6 b7\nLocrian Scale Intervals: H W W H W W W"
-  },
-  {
-    "objectID": "posts/2019-08-21/index.html#video",
-    "href": "posts/2019-08-21/index.html#video",
-    "title": "C Locrian",
-    "section": "",
-    "text": "C Locrian is the seventh mode of the Db major scale\nC Locrian Scale Notes: C Db Eb F Gb Ab Bb\nLocrian Scale Formula: 1 b2 b3 4 b5 b6 b7\nLocrian Scale Intervals: H W W H W W W"
-  },
-  {
-    "objectID": "posts/2019-08-19/index.html",
-    "href": "posts/2019-08-19/index.html",
-    "title": "C Aeolian",
-    "section": "",
-    "text": "C Aeolian&lt; is the sixth mode of the Eb major scale\nC Aeolian Scale Notes: C D Eb F G Ab Bb\nAeolian Scale Formula: 1 2 b3 4 5 b6 b7\nAeolian Scale Intervals: W H W W H W W"
-  },
-  {
-    "objectID": "posts/2019-08-19/index.html#video",
-    "href": "posts/2019-08-19/index.html#video",
-    "title": "C Aeolian",
-    "section": "",
-    "text": "C Aeolian&lt; is the sixth mode of the Eb major scale\nC Aeolian Scale Notes: C D Eb F G Ab Bb\nAeolian Scale Formula: 1 2 b3 4 5 b6 b7\nAeolian Scale Intervals: W H W W H W W"
-  },
-  {
-    "objectID": "posts/2023-07-11/index.html",
-    "href": "posts/2023-07-11/index.html",
-    "title": "Nocturne B1",
-    "section": "",
-    "text": "Tempo: free bpm\nMeasures: 17-24"
-  },
-  {
-    "objectID": "posts/2023-07-11/index.html#video",
-    "href": "posts/2023-07-11/index.html#video",
-    "title": "Nocturne B1",
-    "section": "Video",
-    "text": "Video"
-  },
-  {
-    "objectID": "posts/2023-07-11/index.html#fender-jaguar",
-    "href": "posts/2023-07-11/index.html#fender-jaguar",
-    "title": "Nocturne B1",
-    "section": "Fender Jaguar",
-    "text": "Fender Jaguar\nPickup Position: Neck\nMaster Volume: ~7 Master Tone: ~5"
-  },
-  {
-    "objectID": "posts/2023-07-11/index.html#multi-effects-processor-zoom-g3xn",
-    "href": "posts/2023-07-11/index.html#multi-effects-processor-zoom-g3xn",
-    "title": "Nocturne B1",
-    "section": "Multi Effects Processor: Zoom G3Xn",
-    "text": "Multi Effects Processor: Zoom G3Xn\nMaster Volume: 100\nCompressor: 5, Fast, 5, 70 ON\nSlab Back Delay: 20, 50, 50, Quarter note\nTremolo: Tube, 30, 50, 80 OFF"
-  },
-  {
-    "objectID": "posts/2023-07-11/index.html#joyo-tremolo",
-    "href": "posts/2023-07-11/index.html#joyo-tremolo",
-    "title": "Nocturne B1",
-    "section": "Joyo Tremolo",
-    "text": "Joyo Tremolo\nIntensity: 75%\nRate: 75%"
-  },
-  {
-    "objectID": "posts/2023-07-11/index.html#amplifier-fender-blues-jr.-iii",
-    "href": "posts/2023-07-11/index.html#amplifier-fender-blues-jr.-iii",
-    "title": "Nocturne B1",
-    "section": "Amplifier: Fender Blues Jr. III",
-    "text": "Amplifier: Fender Blues Jr. III\nVolume: 8.0\nFat: OFF\nTreble: 6.5\nBass: 6.5\nMiddle: 6.5\nMaster: 3.0\nReverb: 5.0"
-  },
-  {
-    "objectID": "posts/2023-07-11/index.html#microphone",
-    "href": "posts/2023-07-11/index.html#microphone",
-    "title": "Nocturne B1",
-    "section": "Microphone",
-    "text": "Microphone\nBlue Yeti\nGain: 11 o’clock\nMode: Omnidirectional, on desk near plant"
-  },
-  {
-    "objectID": "posts/2024-10-06/index.html",
-    "href": "posts/2024-10-06/index.html",
-    "title": "White Christmas Phrase 4",
-    "section": "",
-    "text": "Phrase 4\nBar 6: F∆7 B♭7 B♭9\nBar 7: C∆7 C♯ø F∆7 A♭ø\nBar 8: D♭∆13 C6"
-  },
-  {
-    "objectID": "posts/2024-10-06/index.html#phrase-4-0.50x-temp",
-    "href": "posts/2024-10-06/index.html#phrase-4-0.50x-temp",
-    "title": "White Christmas Phrase 4",
-    "section": "Phrase 4 0.50x Temp",
-    "text": "Phrase 4 0.50x Temp"
-  },
-  {
-    "objectID": "posts/2024-10-06/index.html#phrase-4-0.50x-temp-1",
-    "href": "posts/2024-10-06/index.html#phrase-4-0.50x-temp-1",
-    "title": "White Christmas Phrase 4",
-    "section": "Phrase 4 0.50x Temp",
-    "text": "Phrase 4 0.50x Temp"
-  },
-  {
-    "objectID": "posts/2024-10-06/index.html#phrase-4-0.45x-temp",
-    "href": "posts/2024-10-06/index.html#phrase-4-0.45x-temp",
-    "title": "White Christmas Phrase 4",
-    "section": "Phrase 4 0.45x Temp",
-    "text": "Phrase 4 0.45x Temp"
-  },
-  {
-    "objectID": "posts/2024-10-06/index.html#phrase-4-dead-slow",
-    "href": "posts/2024-10-06/index.html#phrase-4-dead-slow",
-    "title": "White Christmas Phrase 4",
-    "section": "Phrase 4 Dead Slow",
-    "text": "Phrase 4 Dead Slow"
-  },
-  {
-    "objectID": "posts/2024-10-06/index.html#phrase-4-second-half",
-    "href": "posts/2024-10-06/index.html#phrase-4-second-half",
-    "title": "White Christmas Phrase 4",
-    "section": "Phrase 4 Second Half",
-    "text": "Phrase 4 Second Half"
-  },
-  {
-    "objectID": "posts/2024-10-06/index.html#phrase-4-first-half-tempo-0.35x",
-    "href": "posts/2024-10-06/index.html#phrase-4-first-half-tempo-0.35x",
-    "title": "White Christmas Phrase 4",
-    "section": "Phrase 4 First Half Tempo: 0.35x",
-    "text": "Phrase 4 First Half Tempo: 0.35x"
-  },
-  {
-    "objectID": "posts/2024-10-06/index.html#gibson-les-paul",
-    "href": "posts/2024-10-06/index.html#gibson-les-paul",
-    "title": "White Christmas Phrase 4",
-    "section": "Gibson Les Paul",
-    "text": "Gibson Les Paul\nPickup Position: Neck\nMaster Volume: 5\nMaster Tone: 8"
-  },
-  {
-    "objectID": "posts/2024-10-06/index.html#joyo-tremolo",
-    "href": "posts/2024-10-06/index.html#joyo-tremolo",
-    "title": "White Christmas Phrase 4",
-    "section": "Joyo Tremolo",
-    "text": "Joyo Tremolo\nIntensity: 50%\nRate: 50%"
-  },
-  {
-    "objectID": "posts/2024-10-06/index.html#fender-blues-jr.-iii",
-    "href": "posts/2024-10-06/index.html#fender-blues-jr.-iii",
-    "title": "White Christmas Phrase 4",
-    "section": "Fender Blues Jr. III",
-    "text": "Fender Blues Jr. III\nVolume: 8.0\nFat: OFF\nTreble: 6.5\nBass: 6.0\nMiddle: 6.0\nMaster: 4.5\nReverb: 5.0"
-  },
-  {
-    "objectID": "posts/2024-10-06/index.html#blue-yeti",
-    "href": "posts/2024-10-06/index.html#blue-yeti",
-    "title": "White Christmas Phrase 4",
-    "section": "Blue Yeti",
-    "text": "Blue Yeti\nGain: 9 o’clock\nMode: Stereo, on desk near plant"
-  },
-  {
-    "objectID": "posts/2024-10-06/index.html#lesson",
-    "href": "posts/2024-10-06/index.html#lesson",
-    "title": "White Christmas Phrase 4",
-    "section": "Lesson",
-    "text": "Lesson"
-  },
-  {
-    "objectID": "posts/2024-10-08/index.html#exercise-4a-4b",
-    "href": "posts/2024-10-08/index.html#exercise-4a-4b",
-    "title": "Ex.1-4",
-    "section": "Exercise 4a & 4b",
-    "text": "Exercise 4a & 4b"
-  },
-  {
-    "objectID": "posts/2024-10-08/index.html#exercise-3",
-    "href": "posts/2024-10-08/index.html#exercise-3",
-    "title": "Ex.1-4",
-    "section": "Exercise 3",
-    "text": "Exercise 3"
-  },
-  {
-    "objectID": "posts/2024-10-08/index.html#exercise-2",
-    "href": "posts/2024-10-08/index.html#exercise-2",
-    "title": "Ex.1-4",
-    "section": "Exercise 2",
-    "text": "Exercise 2"
-  },
-  {
-    "objectID": "posts/2024-10-08/index.html#exercise-1",
-    "href": "posts/2024-10-08/index.html#exercise-1",
-    "title": "Ex.1-4",
-    "section": "Exercise 1",
-    "text": "Exercise 1"
-  },
-  {
-    "objectID": "posts/2024-10-08/index.html#gibson-les-paul",
-    "href": "posts/2024-10-08/index.html#gibson-les-paul",
-    "title": "Ex.1-4",
+    "objectID": "posts/2024-10-13/index.html#gibson-les-paul",
+    "href": "posts/2024-10-13/index.html#gibson-les-paul",
+    "title": "Sea to Sea",
     "section": "Gibson Les Paul",
     "text": "Gibson Les Paul\nPickup Position: Bridge\nMaster Volume: 5\nMaster Tone: 3"
   },
   {
-    "objectID": "posts/2024-10-08/index.html#zoom-g3xn",
-    "href": "posts/2024-10-08/index.html#zoom-g3xn",
-    "title": "Ex.1-4",
+    "objectID": "posts/2024-10-13/index.html#zoom-g3xn",
+    "href": "posts/2024-10-13/index.html#zoom-g3xn",
+    "title": "Sea to Sea",
     "section": "Zoom G3Xn",
     "text": "Zoom G3Xn\nPreset: 134 Jazz Fall"
   },
   {
-    "objectID": "posts/2024-10-08/index.html#joyo-tremolo-off",
-    "href": "posts/2024-10-08/index.html#joyo-tremolo-off",
-    "title": "Ex.1-4",
+    "objectID": "posts/2024-10-13/index.html#joyo-tremolo-off",
+    "href": "posts/2024-10-13/index.html#joyo-tremolo-off",
+    "title": "Sea to Sea",
     "section": "Joyo Tremolo OFF",
     "text": "Joyo Tremolo OFF\nIntensity: 50%\nRate: 50%"
   },
   {
-    "objectID": "posts/2024-10-08/index.html#fender-blues-jr.-iii",
-    "href": "posts/2024-10-08/index.html#fender-blues-jr.-iii",
-    "title": "Ex.1-4",
+    "objectID": "posts/2024-10-13/index.html#fender-blues-jr.-iii",
+    "href": "posts/2024-10-13/index.html#fender-blues-jr.-iii",
+    "title": "Sea to Sea",
     "section": "Fender Blues Jr. III",
     "text": "Fender Blues Jr. III\nVolume: 8.0\nFat: OFF\nTreble: 6.5\nBass: 6.0\nMiddle: 6.0\nMaster: 4.5\nReverb: 5.0"
   },
   {
-    "objectID": "posts/2024-10-08/index.html#blue-yeti",
-    "href": "posts/2024-10-08/index.html#blue-yeti",
-    "title": "Ex.1-4",
+    "objectID": "posts/2024-10-13/index.html#blue-yeti",
+    "href": "posts/2024-10-13/index.html#blue-yeti",
+    "title": "Sea to Sea",
     "section": "Blue Yeti",
     "text": "Blue Yeti\nGain: 9 o’clock\nMode: Stereo, on desk near plant"
   },
   {
-    "objectID": "posts/2024-10-08/index.html#lesson",
-    "href": "posts/2024-10-08/index.html#lesson",
-    "title": "Ex.1-4",
-    "section": "Lesson",
-    "text": "Lesson"
+    "objectID": "posts/2024-10-13/index.html#lesson-part-1",
+    "href": "posts/2024-10-13/index.html#lesson-part-1",
+    "title": "Sea to Sea",
+    "section": "Lesson Part 1",
+    "text": "Lesson Part 1"
+  },
+  {
+    "objectID": "posts/2022-05-15/index.html",
+    "href": "posts/2022-05-15/index.html",
+    "title": "Nocturne 2",
+    "section": "",
+    "text": "Measures: 1-8"
+  },
+  {
+    "objectID": "posts/2022-05-15/index.html#video",
+    "href": "posts/2022-05-15/index.html#video",
+    "title": "Nocturne 2",
+    "section": "Video",
+    "text": "Video\n\nGibson Les Paul\nBody: Plain Maple Top with a Mahogany Body\nFingerboard: Rosewood\nPickup Position: Neck\nMaster Volume: 4.0\nMaster Tone: 3.5\n\nMulti Effects Processor: Zoom G3Xn\nMaster Volume: 100 \nCompressor: 5, Fast, 5, 70 ON\nTremolo: Tube, 30, 50, 80 OFF\n\nJoyo Tremolo\nIntensity: 55%\nRate: 55%\n\nAmplifier: Fender Blues Jr. III\nVolume: 8.0\nFat: OFF\nTreble: 6.5\nBass: 6.5\nMiddle: 6.5\nMaster: 3.0\nReverb: 5.0\n\nMicrophone: Blue Yeti \nGain: 11 o'clock\nMode: Cardioid \n70 cm away from centre"
+  },
+  {
+    "objectID": "posts/2019-08-17/index.html",
+    "href": "posts/2019-08-17/index.html",
+    "title": "C Mixolydian",
+    "section": "",
+    "text": "C Mixolydian is the fifth mode of the F major scale\nC Mixolydian Scale Notes: C D E F G A Bb\nMixolydian Scale Formula: 1 2 3 4 5 6 b7\nMixolydian Scale Intervals: W W H W W H W"
+  },
+  {
+    "objectID": "posts/2019-08-17/index.html#video",
+    "href": "posts/2019-08-17/index.html#video",
+    "title": "C Mixolydian",
+    "section": "",
+    "text": "C Mixolydian is the fifth mode of the F major scale\nC Mixolydian Scale Notes: C D E F G A Bb\nMixolydian Scale Formula: 1 2 3 4 5 6 b7\nMixolydian Scale Intervals: W W H W W H W"
+  },
+  {
+    "objectID": "posts/2023-07-16/index.html",
+    "href": "posts/2023-07-16/index.html",
+    "title": "Nocturne A3 - A4",
+    "section": "",
+    "text": "Tempo: Free\nMeasures: 25 - 40"
+  },
+  {
+    "objectID": "posts/2023-07-16/index.html#video",
+    "href": "posts/2023-07-16/index.html#video",
+    "title": "Nocturne A3 - A4",
+    "section": "Video",
+    "text": "Video\n\nhttps://youtu.be/wqMAWrb8Jf0"
+  },
+  {
+    "objectID": "posts/2023-07-16/index.html#fender-jaguar",
+    "href": "posts/2023-07-16/index.html#fender-jaguar",
+    "title": "Nocturne A3 - A4",
+    "section": "Fender Jaguar",
+    "text": "Fender Jaguar\nPickup Position: Neck\nMaster Volume: 4\nMaster Tone: 5"
+  },
+  {
+    "objectID": "posts/2023-07-16/index.html#multi-effects-processor-zoom-g3xn",
+    "href": "posts/2023-07-16/index.html#multi-effects-processor-zoom-g3xn",
+    "title": "Nocturne A3 - A4",
+    "section": "Multi Effects Processor: Zoom G3Xn",
+    "text": "Multi Effects Processor: Zoom G3Xn\nMaster Volume: 20\nCompressor: 6, Fast, 6, 80 ON\nSlab Back Delay: 20, 50, 50, Quarter note"
+  },
+  {
+    "objectID": "posts/2023-07-16/index.html#joyo-tremolo",
+    "href": "posts/2023-07-16/index.html#joyo-tremolo",
+    "title": "Nocturne A3 - A4",
+    "section": "Joyo Tremolo",
+    "text": "Joyo Tremolo\nIntensity: 75%\nRate: 75%"
+  },
+  {
+    "objectID": "posts/2023-07-16/index.html#amplifier-fender-blues-jr.-iii",
+    "href": "posts/2023-07-16/index.html#amplifier-fender-blues-jr.-iii",
+    "title": "Nocturne A3 - A4",
+    "section": "Amplifier: Fender Blues Jr. III",
+    "text": "Amplifier: Fender Blues Jr. III\nVolume: 8.0\nFat: OFF\nTreble: 6.5\nBass: 6.5\nMiddle: 6.5\nMaster: 3.0\nReverb: 5.0"
+  },
+  {
+    "objectID": "posts/2023-07-16/index.html#microphone",
+    "href": "posts/2023-07-16/index.html#microphone",
+    "title": "Nocturne A3 - A4",
+    "section": "Microphone",
+    "text": "Microphone\nBlue Yeti\nGain: 11 o’clock\nMode: Omnidirectional, on desk near plant"
+  },
+  {
+    "objectID": "posts/2023-03-26/index.html",
+    "href": "posts/2023-03-26/index.html",
+    "title": "Exercise 7a & 7b",
+    "section": "",
+    "text": "Tempo: 50 bpm"
+  },
+  {
+    "objectID": "posts/2023-03-26/index.html#fender-jaguar",
+    "href": "posts/2023-03-26/index.html#fender-jaguar",
+    "title": "Exercise 7a & 7b",
+    "section": "Fender Jaguar",
+    "text": "Fender Jaguar\nPickup Position: Neck\nMaster Volume: ~6 \nMaster Tone: ~6"
+  },
+  {
+    "objectID": "posts/2023-03-26/index.html#multi-effects-processor",
+    "href": "posts/2023-03-26/index.html#multi-effects-processor",
+    "title": "Exercise 7a & 7b",
+    "section": "Multi Effects Processor",
+    "text": "Multi Effects Processor\nZoom G3Xn: 145 (Archtop)"
+  },
+  {
+    "objectID": "posts/2023-03-26/index.html#amplifier",
+    "href": "posts/2023-03-26/index.html#amplifier",
+    "title": "Exercise 7a & 7b",
+    "section": "Amplifier",
+    "text": "Amplifier\nFender Blues Jr III: 8.5-2-2-5-5-1"
+  },
+  {
+    "objectID": "posts/2023-03-26/index.html#tremolo",
+    "href": "posts/2023-03-26/index.html#tremolo",
+    "title": "Exercise 7a & 7b",
+    "section": "Tremolo",
+    "text": "Tremolo\nON 0-0"
+  },
+  {
+    "objectID": "posts/2023-03-26/index.html#microphone",
+    "href": "posts/2023-03-26/index.html#microphone",
+    "title": "Exercise 7a & 7b",
+    "section": "Microphone",
+    "text": "Microphone\nBlue Yeti Gain: 9 o’clock Mode: Omnidirectional, on desk near plant"
+  },
+  {
+    "objectID": "posts/2023-03-26/index.html#video",
+    "href": "posts/2023-03-26/index.html#video",
+    "title": "Exercise 7a & 7b",
+    "section": "Video",
+    "text": "Video"
+  },
+  {
+    "objectID": "posts/2023-07-10-1/index.html",
+    "href": "posts/2023-07-10-1/index.html",
+    "title": "Nocturne A1+A2",
+    "section": "",
+    "text": "Tempo: Free bpm\nMeasures: 1-17"
+  },
+  {
+    "objectID": "posts/2023-07-10-1/index.html#video",
+    "href": "posts/2023-07-10-1/index.html#video",
+    "title": "Nocturne A1+A2",
+    "section": "Video",
+    "text": "Video"
+  },
+  {
+    "objectID": "posts/2023-07-10-1/index.html#fender-telecaster",
+    "href": "posts/2023-07-10-1/index.html#fender-telecaster",
+    "title": "Nocturne A1+A2",
+    "section": "Fender Telecaster",
+    "text": "Fender Telecaster\nPickup Position: Neck\nMaster Volume: ~6\nMaster Tone: ~6"
+  },
+  {
+    "objectID": "posts/2023-07-10-1/index.html#multi-effects-processor-zoom-g3xn",
+    "href": "posts/2023-07-10-1/index.html#multi-effects-processor-zoom-g3xn",
+    "title": "Nocturne A1+A2",
+    "section": "Multi Effects Processor: Zoom G3Xn",
+    "text": "Multi Effects Processor: Zoom G3Xn\nMaster Volume: 100\nCompressor: 5, Fast, 5, 70 ON\nSlab Back Delay: 20, 50, 50, Quarter note\nTremolo: Tube, 30, 50, 80 OFF"
+  },
+  {
+    "objectID": "posts/2023-07-10-1/index.html#joyo-tremolo",
+    "href": "posts/2023-07-10-1/index.html#joyo-tremolo",
+    "title": "Nocturne A1+A2",
+    "section": "Joyo Tremolo",
+    "text": "Joyo Tremolo\nIntensity: 75%\nRate: 75%"
+  },
+  {
+    "objectID": "posts/2023-07-10-1/index.html#amplifier-fender-blues-jr.-iii",
+    "href": "posts/2023-07-10-1/index.html#amplifier-fender-blues-jr.-iii",
+    "title": "Nocturne A1+A2",
+    "section": "Amplifier: Fender Blues Jr. III",
+    "text": "Amplifier: Fender Blues Jr. III\nVolume: 8.0\nFat: OFF\nTreble: 6.5\nBass: 6.5\nMiddle: 6.5\nMaster: 3.0\nReverb: 5.0"
+  },
+  {
+    "objectID": "posts/2023-07-10-1/index.html#microphone",
+    "href": "posts/2023-07-10-1/index.html#microphone",
+    "title": "Nocturne A1+A2",
+    "section": "Microphone",
+    "text": "Microphone\nBlue Yeti Gain: 12 o’clock\nMode: Omnidirectional, on desk near plant"
+  },
+  {
+    "objectID": "posts/2022-12-18/index.html",
+    "href": "posts/2022-12-18/index.html",
+    "title": "The Little Drummer Boy",
+    "section": "",
+    "text": "Measures: 1-39\nTempo: 120 bpm"
+  },
+  {
+    "objectID": "posts/2022-12-18/index.html#video",
+    "href": "posts/2022-12-18/index.html#video",
+    "title": "The Little Drummer Boy",
+    "section": "Video",
+    "text": "Video"
+  },
+  {
+    "objectID": "posts/2022-12-18/index.html#fender-telecaster",
+    "href": "posts/2022-12-18/index.html#fender-telecaster",
+    "title": "The Little Drummer Boy",
+    "section": "Fender Telecaster",
+    "text": "Fender Telecaster\nPickup Position: Neck\nMaster Volume: ~7\nMaster Tone: ~9"
+  },
+  {
+    "objectID": "posts/2022-12-18/index.html#multi-effects-processor",
+    "href": "posts/2022-12-18/index.html#multi-effects-processor",
+    "title": "The Little Drummer Boy",
+    "section": "Multi Effects Processor",
+    "text": "Multi Effects Processor\nZoom G3Xn: Jazz Time"
+  },
+  {
+    "objectID": "posts/2022-12-18/index.html#amplifier",
+    "href": "posts/2022-12-18/index.html#amplifier",
+    "title": "The Little Drummer Boy",
+    "section": "Amplifier",
+    "text": "Amplifier\nFender Mustang 1, 57 Champ"
+  },
+  {
+    "objectID": "posts/2022-12-18/index.html#microphone",
+    "href": "posts/2022-12-18/index.html#microphone",
+    "title": "The Little Drummer Boy",
+    "section": "Microphone",
+    "text": "Microphone\nBlue Yeti  Gain: 9 o’clock \nMode: Omnidirectional, on desk near plant"
+  },
+  {
+    "objectID": "posts/2022-12-18/index.html#garageband",
+    "href": "posts/2022-12-18/index.html#garageband",
+    "title": "The Little Drummer Boy",
+    "section": "GarageBand",
+    "text": "GarageBand\nTrack: \nCompressor: Platinum Analog Tape: -12.5, 1.6:1, 47, 1.5\nChannel EQ: Clean up guitar  Master:\nChannel EQ: Final Mix, Ballad\nStereo Spread: Medium LF & HF Spread\nLimiter: For Vocals +2 and -0.1"
+  },
+  {
+    "objectID": "posts/2024-08-03/index.html",
+    "href": "posts/2024-08-03/index.html",
+    "title": "Canon in D",
+    "section": "",
+    "text": "Tuning: Dropped D (Low E-string to D)\nTempo: 40 bpm"
+  },
+  {
+    "objectID": "posts/2024-08-03/index.html#video",
+    "href": "posts/2024-08-03/index.html#video",
+    "title": "Canon in D",
+    "section": "Video",
+    "text": "Video\n\nTempo: 60 bpm"
+  },
+  {
+    "objectID": "posts/2024-08-03/index.html#fender-stratocaster",
+    "href": "posts/2024-08-03/index.html#fender-stratocaster",
+    "title": "Canon in D",
+    "section": "Fender Stratocaster",
+    "text": "Fender Stratocaster\nPickup Position: 5\nMaster Volume: 9\nMaster Tone: 6"
+  },
+  {
+    "objectID": "posts/2024-08-03/index.html#zoom-g3xn",
+    "href": "posts/2024-08-03/index.html#zoom-g3xn",
+    "title": "Canon in D",
+    "section": "Zoom G3Xn",
+    "text": "Zoom G3Xn\nPreset: 147 Jazz Summer"
+  },
+  {
+    "objectID": "posts/2024-08-03/index.html#joyo-tremolo",
+    "href": "posts/2024-08-03/index.html#joyo-tremolo",
+    "title": "Canon in D",
+    "section": "Joyo Tremolo",
+    "text": "Joyo Tremolo\nIntensity: 0%\nRate: 0%"
+  },
+  {
+    "objectID": "posts/2024-08-03/index.html#fender-blues-jr.-iii",
+    "href": "posts/2024-08-03/index.html#fender-blues-jr.-iii",
+    "title": "Canon in D",
+    "section": "Fender Blues Jr. III",
+    "text": "Fender Blues Jr. III\nVolume: 8.0\nFat: OFF\nTreble: 6.5\nBass: 6.0\nMiddle: 6.0\nMaster: 5.0\nReverb: 5.0"
+  },
+  {
+    "objectID": "posts/2024-08-03/index.html#blue-yeti",
+    "href": "posts/2024-08-03/index.html#blue-yeti",
+    "title": "Canon in D",
+    "section": "Blue Yeti",
+    "text": "Blue Yeti\nGain: 9 o’clock\nMode: Stereo, on desk near plant"
+  },
+  {
+    "objectID": "posts/2026-07-17/index.html",
+    "href": "posts/2026-07-17/index.html",
+    "title": "Blues for Captain Grant Coburn",
+    "section": "",
+    "text": "Tempo: 85 bpm\nScore: Download\nMuseScore: Download"
+  },
+  {
+    "objectID": "posts/2026-07-17/index.html#fender-telecaster",
+    "href": "posts/2026-07-17/index.html#fender-telecaster",
+    "title": "Blues for Captain Grant Coburn",
+    "section": "Fender Telecaster",
+    "text": "Fender Telecaster\nPickup Position: Neck"
+  },
+  {
+    "objectID": "posts/2026-07-17/index.html#zoom-g3xn",
+    "href": "posts/2026-07-17/index.html#zoom-g3xn",
+    "title": "Blues for Captain Grant Coburn",
+    "section": "Zoom G3Xn",
+    "text": "Zoom G3Xn\n150 Trem Etc"
+  },
+  {
+    "objectID": "posts/2026-07-17/index.html#joyo-tremolo",
+    "href": "posts/2026-07-17/index.html#joyo-tremolo",
+    "title": "Blues for Captain Grant Coburn",
+    "section": "Joyo Tremolo",
+    "text": "Joyo Tremolo\nIntensity: 50%\nRate: 50%"
+  },
+  {
+    "objectID": "posts/2026-07-17/index.html#fender-blues-jr.-iii",
+    "href": "posts/2026-07-17/index.html#fender-blues-jr.-iii",
+    "title": "Blues for Captain Grant Coburn",
+    "section": "Fender Blues Jr. III",
+    "text": "Fender Blues Jr. III\nVolume: 3.5\nFat: OFF\nTreble: 4.5\nBass: 7.0\nMiddle: 11.0\nMaster: 3.5\nReverb: 2.0"
+  },
+  {
+    "objectID": "posts/2026-07-17/index.html#blue-yeti",
+    "href": "posts/2026-07-17/index.html#blue-yeti",
+    "title": "Blues for Captain Grant Coburn",
+    "section": "Blue Yeti",
+    "text": "Blue Yeti\nGain: 9 o’clock\nMode: Cardioid mode, 4” from speaker, slightly off-axis"
+  },
+  {
+    "objectID": "posts/2026-07-17/index.html#video",
+    "href": "posts/2026-07-17/index.html#video",
+    "title": "Blues for Captain Grant Coburn",
+    "section": "Video",
+    "text": "Video"
   },
   {
     "objectID": "posts/2021-08-16/index.html",
@@ -6634,271 +6753,5 @@
     "title": "Ever So Slowly",
     "section": "",
     "text": "Blues for Captain Grant Coburn\n\n\nRevisited in 2026\n\n\n\n2026\n\nTelecaster\n\nFingerstyle\n\nSong\n\n\n\n\n\n\n\n\n\nFriday, July 17, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nFür Edith\n\n\nOpen D Tuning\n\n\n\n2026\n\nStratocaster\n\nFingerstyle\n\nSong\n\n\n\n\n\n\n\n\n\nSunday, July 5, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nHonne and Tatemae\n\n\nÉtude in D Dorian\n\n\n\n2026\n\nTelecaster\n\nSong\n\nPrinceton\n\n\n\n\n\n\n\n\n\nSunday, June 21, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nHappy Birthday Servet Abla\n\n\n2026\n\n\n\n2026\n\nTelecaster\n\nSong\n\n\n\n\n\n\n\n\n\nWednesday, June 17, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nHava Nagila\n\n\nHava Nagila 2026\n\n\n\n2026\n\nTelecaster\n\nSong\n\n\n\n\n\n\n\n\n\nTuesday, June 2, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nHappy Birthday Papa\n\n\nHappy Birthday Papa 2026\n\n\n\n2026\n\nTelecaster\n\nSong\n\n\n\n\n\n\n\n\n\nFriday, May 29, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nWe’re Going To Be Friends\n\n\nWe’re Going To Be Friends Revisited in 2026\n\n\n\n2026\n\nTelecaster\n\nFingerstyle\n\nSong\n\nStudy\n\n\n\n\n\n\n\n\n\nSunday, April 19, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nOkinawa Skies Revisited\n\n\nOkinawa Skies Revisited in 2026\n\n\n\n2026\n\nTelecaster\n\nFingerstyle\n\nSong\n\nStudy\n\n\n\n\n\n\n\n\n\nMonday, February 16, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nThe Little Drummer Boy\n\n\nThe Little Drummer Boy 2025\n\n\n\n2025\n\nTelecaster\n\nChristmas\n\nSong\n\nStudy\n\n\n\n\n\n\n\n\n\nWednesday, December 24, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nWhite Christmas\n\n\nWhite Christmas\n\n\n\n2025\n\nTelecaster\n\nChristmas\n\nSong\n\nChord melody\n\nStudy\n\n\n\n\n\n\n\n\n\nSaturday, November 29, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nFür Edith\n\n\nFür Edith\n\n\n\n2025\n\nLes Paul\n\nFingerstyle\n\nSong\n\n\n\n\n\n\n\n\n\nMonday, November 3, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nNovember Week 1\n\n\nWhite Christmas\n\n\n\n2025\n\nTelecaster\n\nChristmas\n\nSong\n\n\n\n\n\n\n\n\n\nSunday, November 2, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nMIJ Telecaster\n\n\nHava Nagila\n\n\n\n2025\n\nTelecaster\n\nSong\n\n\n\n\n\n\n\n\n\nSaturday, October 18, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nWeek12\n\n\nLike a Rolling Stone\n\n\n\n2025\n\nJaguar\n\nPractice\n\nTGIAY\n\nSong\n\n\n\n\n\n\n\n\n\nSunday, September 14, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nWeek11\n\n\nLike a Rolling Stone\n\n\n\n2025\n\nJaguar\n\nPractice\n\nTGIAY\n\nSong\n\n\n\n\n\n\n\n\n\nWednesday, August 27, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nReview\n\n\nSkills improve with practice\n\n\n\n2025\n\nStudy\n\nTheory\n\n\n\n\n\n\n\n\n\nSunday, August 17, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nWeek08\n\n\nBlues Shuffle in A\n\n\n\n2025\n\nLes Paul\n\nPractice\n\nTGIAY\n\nSong\n\n\n\n\n\n\n\n\n\nThursday, August 14, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nWeek07\n\n\nGood Riddance\n\n\n\n2025\n\nTelecaster\n\nPractice\n\nTGIAY\n\nSong\n\n\n\n\n\n\n\n\n\nFriday, August 8, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nWeek06\n\n\nHappy Birthday\n\n\n\n2025\n\nStratocaster\n\nPractice\n\nTGIAY\n\nSong\n\n\n\n\n\n\n\n\n\nSunday, August 3, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nWeek05\n\n\nAmazing Grace\n\n\n\n2025\n\nStratocaster\n\nPractice\n\nTGIAY\n\nSong\n\n\n\n\n\n\n\n\n\nWednesday, July 30, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nWeek05\n\n\n\n\n\n\n2025\n\nJaguar\n\nPractice\n\nTGIAY\n\nSong\n\n\n\n\n\n\n\n\n\nSunday, July 27, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nHava Nagila\n\n\n\n\n\n\n2025\n\nTelecaster\n\nSong\n\n\n\n\n\n\n\n\n\nMonday, May 19, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nThe Complete Guitar Manual Ex 7.2.2\n\n\n\n\n\n\n2025\n\nJaguar\n\nFingerstyle\n\nStudy\n\n\n\n\n\n\n\n\n\nMonday, April 14, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nThe Complete Guitar Manual Ex 7.2.1\n\n\n\n\n\n\n2025\n\nJaguar\n\nFingerstyle\n\nStudy\n\n\n\n\n\n\n\n\n\nSunday, April 13, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nThe Complete Guitar Manual Ex 7.1.2\n\n\n\n\n\n\n2025\n\nJaguar\n\nFingerstyle\n\nStudy\n\n\n\n\n\n\n\n\n\nSaturday, April 12, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nOkinawa Skies Revisited\n\n\n\n\n\n\n2025\n\nJaguar\n\nFingerstyle\n\nSong\n\nStudy\n\n\n\n\n\n\n\n\n\nThursday, April 10, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nWeek05\n\n\n\n\n\n\n2025\n\nJaguar\n\nPractice\n\nTGIAY\n\nSong\n\n\n\n\n\n\n\n\n\nSunday, February 9, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nWeek04\n\n\nCowboy Rides Away\n\n\n\n2025\n\nLes Paul\n\nPractice\n\nTGIAY\n\nSong\n\n\n\n\n\n\n\n\n\nTuesday, February 4, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nWeek03\n\n\n\n\n\n\n2025\n\nLes Paul\n\nPractice\n\nTGIAY\n\n\n\n\n\n\n\n\n\nMonday, February 3, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nWeek02\n\n\n\n\n\n\n2025\n\nLes Paul\n\nPractice\n\nTGIAY\n\n\n\n\n\n\n\n\n\nWednesday, January 8, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nEx.8\n\n\n\n\n\n\n2024\n\nLes Paul\n\nStudy\n\nScales\n\nMMG\n\n\n\n\n\n\n\n\n\nSunday, December 1, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nWhite Christmas\n\n\n\n\n\n\n2024\n\nLes Paul\n\nFingerstyle\n\nHybrid picking\n\nSong\n\nStudy\n\nChristmas\n\nChord melody\n\n\n\n\n\n\n\n\n\nSunday, December 1, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nHappy Birthday\n\n\n\n\n\n\n2024\n\nParlor\n\nSong\n\n\n\n\n\n\n\n\n\nSaturday, November 30, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nEx.7\n\n\n\n\n\n\n2024\n\nLes Paul\n\nStudy\n\nScales\n\nMMG\n\n\n\n\n\n\n\n\n\nSunday, November 10, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nEx.5-6\n\n\n\n\n\n\n2024\n\nLes Paul\n\nStudy\n\nScales\n\nMMG\n\n\n\n\n\n\n\n\n\nSunday, November 3, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nSea to Sea Duet\n\n\n\n\n\n\n2024\n\nLes Paul\n\nStudy\n\nScales\n\nMMG\n\n\n\n\n\n\n\n\n\nSunday, November 3, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nSea to Sea\n\n\n\n\n\n\n2024\n\nLes Paul\n\nStudy\n\nScales\n\nMMG\n\n\n\n\n\n\n\n\n\nTuesday, October 15, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nEx.1-4\n\n\n\n\n\n\n2024\n\nLes Paul\n\nStudy\n\nScales\n\nMMG\n\n\n\n\n\n\n\n\n\nTuesday, October 8, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nWhite Christmas Phrase 4\n\n\n\n\n\n\n2024\n\nLes Paul\n\nFingerstyle\n\nSong\n\nStudy\n\nChristmas\n\nChord melody\n\n\n\n\n\n\n\n\n\nSunday, October 6, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nCanon in D\n\n\n\n\n\n\n2024\n\nTelecaster\n\nFingerstyle\n\nSong\n\nStudy\n\n\n\n\n\n\n\n\n\nSunday, September 22, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nCanon in D\n\n\n\n\n\n\n2024\n\nTelecaster\n\nFingerstyle\n\nSong\n\nStudy\n\n\n\n\n\n\n\n\n\nMonday, September 16, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nYou Ain’t Goin’ Nowhere\n\n\n\n\n\n\n2024\n\nTelecaster\n\nSong\n\nStudy\n\n\n\n\n\n\n\n\n\nTuesday, September 10, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nCanon in D\n\n\n\n\n\n\n2024\n\nStratocaster\n\nFingerstyle\n\nSong\n\nStudy\n\n\n\n\n\n\n\n\n\nMonday, August 5, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nCanon in D\n\n\n\n\n\n\n2024\n\nStratocaster\n\nFingerstyle\n\nSong\n\nStudy\n\n\n\n\n\n\n\n\n\nSaturday, August 3, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nWhite Christmas Phrase 4\n\n\n\n\n\n\n2024\n\nJaguar\n\nFingerstyle\n\nSong\n\nStudy\n\nChristmas\n\nChord melody\n\n\n\n\n\n\n\n\n\nMonday, April 1, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nWhite Christmas Phrase 4\n\n\n\n\n\n\n2024\n\nJaguar\n\nFingerstyle\n\nSong\n\nStudy\n\nChristmas\n\nChord melody\n\n\n\n\n\n\n\n\n\nFriday, March 29, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nWhite Christmas Phrases 1, 2 & 3\n\n\n\n\n\n\n2024\n\nStratocaster\n\nFingerstyle\n\nSong\n\nStudy\n\nChristmas\n\nChord melody\n\n\n\n\n\n\n\n\n\nSaturday, March 9, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nWhite Christmas Phrases 1, 2 & 3\n\n\n\n\n\n\n2024\n\nLes Paul\n\nFingerstyle\n\nSong\n\nStudy\n\nChristmas\n\nChord melody\n\n\n\n\n\n\n\n\n\nSunday, February 11, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nWhite Christmas Phrase 3\n\n\n\n\n\n\n2024\n\nLes Paul\n\nFingerstyle\n\nSong\n\nStudy\n\nChristmas\n\nChord melody\n\n\n\n\n\n\n\n\n\nSaturday, January 20, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nWhite Christmas Phrase 3\n\n\n\n\n\n\n2024\n\nLes Paul\n\nFingerstyle\n\nSong\n\nStudy\n\nChristmas\n\nChord melody\n\n\n\n\n\n\n\n\n\nSunday, January 7, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nThe Little Drummer Boy\n\n\n\n\n\n\n2023\n\nLes Paul\n\nSong\n\nStudy\n\nChristmas\n\n\n\n\n\n\n\n\n\nSaturday, December 23, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nSilent Night\n\n\n\n\n\n\n2023\n\nLes Paul\n\nSong\n\nStudy\n\nChristmas\n\n\n\n\n\n\n\n\n\nSaturday, December 23, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nWhite Christmas Phrase 3\n\n\n\n\n\n\n2023\n\nLes Paul\n\nFingerstyle\n\nSong\n\nStudy\n\nChristmas\n\nChord melody\n\n\n\n\n\n\n\n\n\nSunday, December 10, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nWhite Christmas Phrases 1 & 2\n\n\n\n\n\n\n2023\n\nLes Paul\n\nFingerstyle\n\nSong\n\nStudy\n\nChristmas\n\nChord melody\n\n\n\n\n\n\n\n\n\nSaturday, November 18, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nWhite Christmas Phrase 2\n\n\n\n\n\n\n2023\n\nLes Paul\n\nFingerstyle\n\nSong\n\nStudy\n\nChristmas\n\nChord melody\n\n\n\n\n\n\n\n\n\nSunday, November 12, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nWhite Christmas Phrase 2\n\n\n\n\n\n\n2023\n\nLes Paul\n\nFingerstyle\n\nSong\n\nStudy\n\nChristmas\n\nChord melody\n\n\n\n\n\n\n\n\n\nSunday, November 5, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nWhite Christmas Phrase 1\n\n\n\n\n\n\n2023\n\nLes Paul\n\nFingerstyle\n\nSong\n\nStudy\n\nChristmas\n\nChord melody\n\n\n\n\n\n\n\n\n\nSunday, October 29, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nWhite Christmas Phrase 1\n\n\n\n\n\n\n2023\n\nLes Paul\n\nFingerstyle\n\nSong\n\nStudy\n\nChristmas\n\nChord melody\n\n\n\n\n\n\n\n\n\nSaturday, October 21, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nWhite Christmas Phrase 1 Bars 1-2\n\n\n\n\n\n\n2023\n\nLes Paul\n\nFingerstyle\n\nChristmas\n\nSong\n\nStudy\n\nChord melody\n\n\n\n\n\n\n\n\n\nTuesday, October 17, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nTrouble in Mind\n\n\n\n\n\n\n2023\n\nJaguar\n\nFingerstyle\n\nStudy\n\n\n\n\n\n\n\n\n\nFriday, September 29, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nE Shuffle Fingerstyle\n\n\n\n\n\n\n2023\n\nLes Paul\n\nFingerstyle\n\nStudy\n\n\n\n\n\n\n\n\n\nTuesday, September 26, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nE Shuffle 8th Notes\n\n\n\n\n\n\n2023\n\nLes Paul\n\nThump pick\n\nStudy\n\n\n\n\n\n\n\n\n\nMonday, September 25, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nE Shuffle 8th Notes\n\n\n\n\n\n\n2023\n\nLes Paul\n\nThump pick\n\nStudy\n\n\n\n\n\n\n\n\n\nMonday, September 25, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nE Shuffle\n\n\n\n\n\n\n2023\n\nLes Paul\n\nThump pick\n\nStudy\n\n\n\n\n\n\n\n\n\nFriday, September 22, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nTrouble in Mind\n\n\n\n\n\n\n2023\n\nJaguar\n\nFingerstyle\n\nStudy\n\n\n\n\n\n\n\n\n\nMonday, September 18, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nNocturne 1 - 40\n\n\n\n\n\n\n2023\n\nStratocaster\n\nHybrid picking\n\nSong\n\nStudy\n\n\n\n\n\n\n\n\n\nSunday, August 6, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nNocturne A4\n\n\n\n\n\n\n2023\n\nJaguar\n\nHybrid picking\n\nSong\n\nStudy\n\n\n\n\n\n\n\n\n\nSaturday, July 22, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nNocturne A3 - A4\n\n\n\n\n\n\n2023\n\nJaguar\n\nHybrid picking\n\nSong\n\nStudy\n\n\n\n\n\n\n\n\n\nSunday, July 16, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nNocturne A1+A2+B1\n\n\n\n\n\n\n2023\n\nJaguar\n\nHybrid picking\n\nSong\n\nStudy\n\n\n\n\n\n\n\n\n\nWednesday, July 12, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nNocturne A1+A2+B1\n\n\n\n\n\n\n2023\n\nJaguar\n\nHybrid picking\n\nSong\n\nStudy\n\n\n\n\n\n\n\n\n\nTuesday, July 11, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nNocturne B1\n\n\n\n\n\n\n2023\n\nJaguar\n\nHybrid picking\n\nSong\n\nStudy\n\n\n\n\n\n\n\n\n\nTuesday, July 11, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nNocturne A1+A2\n\n\n\n\n\n\n2023\n\nTelecaster\n\nHybrid picking\n\nSong\n\nStudy\n\n\n\n\n\n\n\n\n\nMonday, July 10, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nNocturne A1+A2\n\n\n\n\n\n\n2023\n\nTelecaster\n\nHybrid picking\n\nSong\n\nStudy\n\n\n\n\n\n\n\n\n\nMonday, July 10, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nNocturne A2\n\n\n\n\n\n\n2023\n\nTelecaster\n\nHybrid picking\n\nSong\n\nStudy\n\n\n\n\n\n\n\n\n\nMonday, July 10, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nNocturne A2\n\n\n\n\n\n\n2023\n\nStratocaster\n\nHybrid picking\n\nSong\n\nStudy\n\n\n\n\n\n\n\n\n\nSaturday, May 6, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nNocturne A1\n\n\n\n\n\n\n2023\n\nStratocaster\n\nHybrid picking\n\nSong\n\nStudy\n\n\n\n\n\n\n\n\n\nSaturday, May 6, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nNocturne\n\n\n\n\n\n\n2023\n\nStratocaster\n\nHybrid picking\n\nSong\n\nStudy\n\n\n\n\n\n\n\n\n\nSunday, April 16, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nExercise 8\n\n\n\n\n\n\n2023\n\nJaguar\n\nFingerstyle\n\n\n\n\n\n\n\n\n\nSaturday, April 15, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nExercise 7\n\n\n\n\n\n\n2023\n\nJaguar\n\nFingerstyle\n\n\n\n\n\n\n\n\n\nSunday, April 2, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nExercise 7a & 7b\n\n\n\n\n\n\n2023\n\nJaguar\n\nFingerstyle\n\n\n\n\n\n\n\n\n\nSunday, March 26, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nWhite Christmas Phrase 1 Bars 1-2\n\n\n\n\n\n\n2023\n\nJaguar\n\nFingerstyle\n\nChristmas\n\nSong\n\nStudy\n\nChord melody\n\n\n\n\n\n\n\n\n\nMonday, February 20, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nExercise 5 & 6\n\n\n\n\n\n\n2023\n\nJaguar\n\nFingerstyle\n\n\n\n\n\n\n\n\n\nSaturday, February 11, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nExercise 4\n\n\n\n\n\n\n2023\n\nJaguar\n\nFingerstyle\n\n\n\n\n\n\n\n\n\nSaturday, February 4, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nExercise 2 & 3\n\n\n\n\n\n\n2023\n\nStratocaster\n\nFingerstyle\n\n\n\n\n\n\n\n\n\nSaturday, January 28, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nWhite Christmas\n\n\n\n\n\n\n2023\n\nStratocaster\n\nFingerstyle\n\nChristmas\n\nSong\n\nStudy\n\nChord melody\n\n\n\n\n\n\n\n\n\nSaturday, January 7, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nThe Little Drummer Boy\n\n\n\n\n\n\n2022\n\nTelecaster\n\nSong\n\nStudy\n\nChristmas\n\n\n\n\n\n\n\n\n\nSunday, December 18, 2022\n\n\n\n\n\n\n\n\n\n\n\n\nExercise 5\n\n\n\n\n\n\n2022\n\nJaguar\n\n\n\n\n\n\n\n\n\nSunday, December 4, 2022\n\n\n\n\n\n\n\n\n\n\n\n\nFür Edith\n\n\n\n\n\n\n2022\n\nLes Paul\n\nFingerstyle\n\nSong\n\n\n\n\n\n\n\n\n\nThursday, December 1, 2022\n\n\n\n\n\n\n\n\n\n\n\n\nSea to Sea\n\n\n\n\n\n\n2022\n\nJaguar\n\n\n\n\n\n\n\n\n\nSaturday, November 26, 2022\n\n\n\n\n\n\n\n\n\n\n\n\nPractice\n\n\n\n\n\n\n2022\n\nJaguar\n\nFingerstyle\n\n\n\n\n\n\n\n\n\nMonday, November 21, 2022\n\n\n\n\n\n\n\n\n\n\n\n\nAutumn Leaves\n\n\n\n\n\n\n2022\n\nJaguar\n\nFingerstyle\n\n\n\n\n\n\n\n\n\nSaturday, November 12, 2022\n\n\n\n\n\n\n\n\n\n\n\n\nAutumn Leaves\n\n\n\n\n\n\n2022\n\nLes Paul\n\nFingerstyle\n\nChord melody\n\n\n\n\n\n\n\n\n\nSunday, October 30, 2022\n\n\n\n\n\n\n\n\n\n\n\n\nAutumn Leaves\n\n\n\n\n\n\n2022\n\nJaguar\n\nFingerstyle\n\n\n\n\n\n\n\n\n\nSaturday, October 29, 2022\n\n\n\n\n\n\n\n\n\n\n\n\nGeorgia on my Mind\n\n\n\n\n\n\n2022\n\nJaguar\n\nFingerstyle\n\nChord melody\n\n\n\n\n\n\n\n\n\nMonday, October 10, 2022\n\n\n\n\n\n\n\n\n\n\n\n\nNocturne\n\n\n\n\n\n\n2022\n\nJaguar\n\nFingerstyle\n\nStudy\n\n\n\n\n\n\n\n\n\nWednesday, August 24, 2022\n\n\n\n\n\n\n\n\n\n\n\n\nNocturne 1-32\n\n\n\n\n\n\n2022\n\nLes Paul\n\nHybrid picking\n\nSong\n\nStudy\n\n\n\n\n\n\n\n\n\nSaturday, July 16, 2022\n\n\n\n\n\n\n\n\n\n\n\n\nNocturne\n\n\n\n\n\n\n2022\n\nLes Paul\n\nSong\n\n\n\n\n\n\n\n\n\nMonday, July 4, 2022\n\n\n\n\n\n\n\n\n\n\n\n\nNocturne Bars 1-32\n\n\n\n\n\n\n2022\n\nLes Paul\n\nHybrid picking\n\nStudy\n\n\n\n\n\n\n\n\n\nThursday, June 23, 2022\n\n\n\n\n\n\n\n\n\n\n\n\nNocturne Bars 1-32\n\n\n\n\n\n\n2022\n\nLes Paul\n\nHybrid picking\n\nStudy\n\n\n\n\n\n\n\n\n\nThursday, June 23, 2022\n\n\n\n\n\n\n\n\n\n\n\n\nNocturne – A3\n\n\n\n\n\n\n2022\n\nLes Paul\n\nHybrid picking\n\nStudy\n\n\n\n\n\n\n\n\n\nTuesday, June 21, 2022\n\n\n\n\n\n\n\n\n\n\n\n\nNocturne - Bars 1 - 24\n\n\n\n\n\n\n2022\n\nLes Paul\n\nHybrid picking\n\nStudy\n\n\n\n\n\n\n\n\n\nFriday, June 17, 2022\n\n\n\n\n\n\n\n\n\n\n\n\nNocturne - Bars 1 - 24\n\n\n\n\n\n\n2022\n\nJaguar\n\nHybrid picking\n\nStudy\n\n\n\n\n\n\n\n\n\nThursday, June 16, 2022\n\n\n\n\n\n\n\n\n\n\n\n\nNocturne 6 Section B1 - Bars 17 & 20\n\n\n\n\n\n\n2022\n\nJaguar\n\nHybrid picking\n\nStudy\n\n\n\n\n\n\n\n\n\nThursday, June 9, 2022\n\n\n\n\n\n\n\n\n\n\n\n\nNocturne 6 Section B1\n\n\n\n\n\n\n2022\n\nJaguar\n\nHybrid picking\n\nStudy\n\n\n\n\n\n\n\n\n\nSunday, June 5, 2022\n\n\n\n\n\n\n\n\n\n\n\n\nNocturne 5\n\n\n\n\n\n\n2022\n\nJaguar\n\nSong\n\nStudy\n\n\n\n\n\n\n\n\n\nSunday, May 29, 2022\n\n\n\n\n\n\n\n\n\n\n\n\nNocturne 4\n\n\n\n\n\n\n2022\n\nJaguar\n\nSong\n\nStudy\n\n\n\n\n\n\n\n\n\nSaturday, May 21, 2022\n\n\n\n\n\n\n\n\n\n\n\n\nNocturne 3\n\n\n\n\n\n\n2022\n\nLes Paul\n\nSong\n\nStudy\n\n\n\n\n\n\n\n\n\nTuesday, May 17, 2022\n\n\n\n\n\n\n\n\n\n\n\n\nNocturne 2\n\n\n\n\n\n\n2022\n\nLes Paul\n\nSong\n\nStudy\n\n\n\n\n\n\n\n\n\nSunday, May 15, 2022\n\n\n\n\n\n\n\n\n\n\n\n\nNocturne 1\n\n\n\n\n\n\n2022\n\nLes Paul\n\nSong\n\nStudy\n\n\n\n\n\n\n\n\n\nTuesday, May 10, 2022\n\n\n\n\n\n\n\n\n\n\n\n\nDominant-Seventh Chords I7 VI7 II7 V7\n\n\n\n\n\n\n2022\n\nStratocaster\n\nRhythm\n\n\n\n\n\n\n\n\n\nSunday, February 13, 2022\n\n\n\n\n\n\n\n\n\n\n\n\nBanjo Rolls\n\n\n\n\n\n\n2022\n\nStratocaster\n\nFingerstyle\n\n\n\n\n\n\n\n\n\nSunday, January 30, 2022\n\n\n\n\n\n\n\n\n\n\n\n\nOtter’s Etude\n\n\n\n\n\n\n2022\n\nTelecaster\n\nStudy\n\nRhythm\n\n\n\n\n\n\n\n\n\nSunday, January 23, 2022\n\n\n\n\n\n\n\n\n\n\n\n\nRhythm Exercise\n\n\n\n\n\n\n2022\n\nTelecaster\n\nStudy\n\nRhythm\n\n\n\n\n\n\n\n\n\nMonday, January 3, 2022\n\n\n\n\n\n\n\n\n\n\n\n\nPracticing Scales\n\n\n\n\n\n\n2022\n\nTelecaster\n\nStudy\n\nTheory\n\n\n\n\n\n\n\n\n\nSunday, January 2, 2022\n\n\n\n\n\n\n\n\n\n\n\n\nRhythm Exercise\n\n\n\n\n\n\n2021\n\nTelecaster\n\nRhythm\n\nStudy\n\n\n\n\n\n\n\n\n\nThursday, December 30, 2021\n\n\n\n\n\n\n\n\n\n\n\n\nThe Little Drummer Boy\n\n\n\n\n\n\n2021\n\nTelecaster\n\nStudy\n\nChristmas\n\n\n\n\n\n\n\n\n\nMonday, December 20, 2021\n\n\n\n\n\n\n\n\n\n\n\n\nFür Edith 1.1\n\n\n\n\n\n\n2021\n\nLes Paul\n\nFingerstyle\n\nSong\n\n\n\n\n\n\n\n\n\nTuesday, November 30, 2021\n\n\n\n\n\n\n\n\n\n\n\n\nFür Edith 1\n\n\n\n\n\n\n2021\n\nLes Paul\n\nFingerstyle\n\nSong\n\n\n\n\n\n\n\n\n\nTuesday, November 30, 2021\n\n\n\n\n\n\n\n\n\n\n\n\nFür Edith 0.2\n\n\n\n\n\n\n2021\n\nLes Paul\n\nFingerstyle\n\nSong\n\n\n\n\n\n\n\n\n\nWednesday, November 24, 2021\n\n\n\n\n\n\n\n\n\n\n\n\nFür Edith 0.1\n\n\n\n\n\n\n2021\n\nLes Paul\n\nFingerstyle\n\nSong\n\n\n\n\n\n\n\n\n\nMonday, November 22, 2021\n\n\n\n\n\n\n\n\n\n\n\n\nFür Edith Supporting Theme B in Amaj Video\n\n\n\n\n\n\n2021\n\nLes Paul\n\nFingerstyle\n\nSong\n\n\n\n\n\n\n\n\n\nSunday, November 14, 2021\n\n\n\n\n\n\n\n\n\n\n\n\nTheme B | A Major Harmonized Chords\n\n\n\n\n\n\n2021\n\nLes Paul\n\nFingerstyle\n\nSong\n\n\n\n\n\n\n\n\n\nWednesday, November 3, 2021\n\n\n\n\n\n\n\n\n\n\n\n\nTheme C2 | G Major Harmonized Chords\n\n\n\n\n\n\n2021\n\nLes Paul\n\nFingerstyle\n\nSong\n\n\n\n\n\n\n\n\n\nWednesday, November 3, 2021\n\n\n\n\n\n\n\n\n\n\n\n\nTheme C1 | B Minor Harmonized Chords\n\n\n\n\n\n\n2021\n\nLes Paul\n\nFingerstyle\n\nSong\n\n\n\n\n\n\n\n\n\nWednesday, November 3, 2021\n\n\n\n\n\n\n\n\n\n\n\n\nFür Edith 0\n\n\n\n\n\n\n2021\n\nLes Paul\n\nFingerstyle\n\n\n\n\n\n\n\n\n\nSaturday, October 2, 2021\n\n\n\n\n\n\n\n\n\n\n\n\nFreight Train\n\n\n\n\n\n\n2021\n\nJaguar\n\nStudy\n\nFingerstyle\n\n\n\n\n\n\n\n\n\nSunday, September 26, 2021\n\n\n\n\n\n\n\n\n\n\n\n\nFreight Train\n\n\n\n\n\n\n2021\n\nTelecaster\n\nStudy\n\nFingerstyle\n\n\n\n\n\n\n\n\n\nSaturday, September 18, 2021\n\n\n\n\n\n\n\n\n\n\n\n\nFreight Train\n\n\n\n\n\n\n2021\n\nJaguar\n\nStudy\n\nFingerstyle\n\n\n\n\n\n\n\n\n\nWednesday, September 1, 2021\n\n\n\n\n\n\n\n\n\n\n\n\nFreight Train\n\n\n\n\n\n\n2021\n\nStratocaster\n\nStudy\n\nFingerstyle\n\n\n\n\n\n\n\n\n\nThursday, August 19, 2021\n\n\n\n\n\n\n\n\n\n\n\n\nFreight Train\n\n\n\n\n\n\n2021\n\nStratocaster\n\nStudy\n\nFingerstyle\n\n\n\n\n\n\n\n\n\nMonday, August 16, 2021\n\n\n\n\n\n\n\n\n\n\n\n\nFingerpicking\n\n\n\n\n\n\n2021\n\nTelecaster\n\nStudy\n\nFingerstyle\n\n\n\n\n\n\n\n\n\nSaturday, August 14, 2021\n\n\n\n\n\n\n\n\n\n\n\n\nFreight Train\n\n\n\n\n\n\n2021\n\nTelecaster\n\nStudy\n\nFingerstyle\n\n\n\n\n\n\n\n\n\nTuesday, August 10, 2021\n\n\n\n\n\n\n\n\n\n\n\n\nShunryū\n\n\n\n\n\n\n2021\n\nTelecaster\n\nStudy\n\nFingerstyle\n\n\n\n\n\n\n\n\n\nSunday, August 1, 2021\n\n\n\n\n\n\n\n\n\n\n\n\nArbutus Trail in Open D Minor\n\n\n\n\n\n\n2021\n\nJaguar\n\nFingerstyle\n\nTravis picking\n\nBottleneck slide\n\nStudy\n\n\n\n\n\n\n\n\n\nSaturday, July 3, 2021\n\n\n\n\n\n\n\n\n\n\n\n\nSlide Guitar Practice 1\n\n\n\n\n\n\n2021\n\nLes Paul\n\nFingerstyle\n\nBottleneck slide\n\n\n\n\n\n\n\n\n\nThursday, July 1, 2021\n\n\n\n\n\n\n\n\n\n\n\n\nLimes and Coronas\n\n\n\n\n\n\n2021\n\nLes Paul\n\nFingerstyle\n\nOpen D\n\nStudy\n\n\n\n\n\n\n\n\n\nSaturday, June 26, 2021\n\n\n\n\n\n\n\n\n\n\n\n\nWith Les Paul\n\n\n\n\n\n\n2021\n\nLes Paul\n\nFingerstyle\n\n\n\n\n\n\n\n\n\nThursday, June 24, 2021\n\n\n\n\n\n\n\n\n\n\n\n\nÉtude: Open D: I, IV and V chords\n\n\n\n\n\n\n2021\n\nLes Paul\n\nFingerstyle\n\nTheory\n\nOpen D\n\nStudy\n\n\n\n\n\n\n\n\n\nTuesday, June 15, 2021\n\n\n\n\n\n\n\n\n\n\n\n\nÉtude: Open D\n\n\n\n\n\n\n2021\n\nStratocaster\n\nFingerstyle\n\nTheory\n\nOpen D\n\nStudy\n\n\n\n\n\n\n\n\n\nSaturday, June 12, 2021\n\n\n\n\n\n\n\n\n\n\n\n\nYūgen: Mysterious Grace\n\n\n\n\n\n\n2021\n\nStratocaster\n\nFingerstyle\n\nBottleneck slide\n\nSong\n\n\n\n\n\n\n\n\n\nThursday, June 10, 2021\n\n\n\n\n\n\n\n\n\n\n\n\nPracticing w/ Logic Pro\n\n\n\n\n\n\n2021\n\nStratocaster\n\nFingerstyle\n\nBottleneck slide\n\nStudy\n\n\n\n\n\n\n\n\n\nWednesday, June 9, 2021\n\n\n\n\n\n\n\n\n\n\n\n\nTwelve-Bar Blues Shuffle\n\n\n\n\n\n\n2021\n\nStratocaster\n\nFingerstyle\n\nBottleneck slide\n\nStudy\n\n\n\n\n\n\n\n\n\nMonday, June 7, 2021\n\n\n\n\n\n\n\n\n\n\n\n\nFür Edith Bar 1 - 2 & 3 - 6\n\n\n\n\n\n\n2021\n\nStratocaster\n\nFingerstyle\n\nStudy\n\n\n\n\n\n\n\n\n\nSaturday, June 5, 2021\n\n\n\n\n\n\n\n\n\n\n\n\nFinger Picking With Luke Winslow King\n\n\n\n\n\n\n2021\n\nThe Parlor\n\nFingerstyle\n\nBottleneck slide\n\n\n\n\n\n\n\n\n\nThursday, May 27, 2021\n\n\n\n\n\n\n\n\n\n\n\n\nFür Edith\n\n\n\n\n\n\n2021\n\nStratocaster\n\nFingerstyle\n\nSong\n\nStudy\n\nBottleneck slide\n\n\n\n\n\n\n\n\n\nSunday, May 23, 2021\n\n\n\n\n\n\n\n\n\n\n\n\nBlack Swan Blues\n\n\n\n\n\n\n2021\n\nTelecaster\n\nFingerstyle\n\nSong\n\n\n\n\n\n\n\n\n\nSaturday, May 8, 2021\n\n\n\n\n\n\n\n\n\n\n\n\nBlues for Captain Grant\n\n\n\n\n\n\n2021\n\nStratocaster\n\nFingerstyle\n\nSong\n\n\n\n\n\n\n\n\n\nSaturday, May 1, 2021\n\n\n\n\n\n\n\n\n\n\n\n\nRobert Johnson Style Blues 14, 15, 16 & 17\n\n\n\n\n\n\n2021\n\nJaguar\n\nFingerstyle\n\nSong\n\n\n\n\n\n\n\n\n\nSunday, April 25, 2021\n\n\n\n\n\n\n\n\n\n\n\n\nEl sonido de la Les Paul\n\n\n\n\n\n\n2021\n\nLes Paul\n\n\n\n\n\n\n\n\n\nWednesday, April 7, 2021\n\n\n\n\n\n\n\n\n\n\n\n\nRobert Johnson Style Blues 11, 12 & 13\n\n\n\n\n\n\n2021\n\nJaguar\n\nFingerstyle\n\nSong\n\n\n\n\n\n\n\n\n\nSunday, March 28, 2021\n\n\n\n\n\n\n\n\n\n\n\n\nOkinawa Skies | Ikigai\n\n\n\n\n\n\n2021\n\nJaguar\n\nFingerstyle\n\nSong\n\n\n\n\n\n\n\n\n\nMonday, February 15, 2021\n\n\n\n\n\n\n\n\n\n\n\n\nOkinawa Shores\n\n\n\n\n\n\n2021\n\nJaguar\n\nStudy\n\n\n\n\n\n\n\n\n\nSunday, February 7, 2021\n\n\n\n\n\n\n\n\n\n\n\n\nOkinawa Skies | Ikigai\n\n\n\n\n\n\n2021\n\nJaguar\n\nSong\n\n\n\n\n\n\n\n\n\nSunday, January 24, 2021\n\n\n\n\n\n\n\n\n\n\n\n\nSilent Night\n\n\n\n\n\n\n2020\n\nJaguar\n\nChristmas\n\n\n\n\n\n\n\n\n\nSaturday, December 26, 2020\n\n\n\n\n\n\n\n\n\n\n\n\nOkinawa Shores\n\n\n\n\n\n\n2020\n\nJaguar\n\nStudy\n\n\n\n\n\n\n\n\n\nSunday, December 13, 2020\n\n\n\n\n\n\n\n\n\n\n\n\nJaguar is home…\n\n\n\n\n\n\n2020\n\nJaguar\n\n\n\n\n\n\n\n\n\nSunday, November 22, 2020\n\n\n\n\n\n\n\n\n\n\n\n\nIkigai Study 1 and Mastering a Song in GarageBand\n\n\n\n\n\n\n2020\n\nTelecaster\n\nFingerstyle\n\n\n\n\n\n\n\n\n\nThursday, November 19, 2020\n\n\n\n\n\n\n\n\n\n\n\n\nChord Inversions\n\n\n\n\n\n\n2020\n\nTelecaster\n\nFingerstyle\n\n\n\n\n\n\n\n\n\nMonday, November 16, 2020\n\n\n\n\n\n\n\n\n\n\n\n\nRe-Mastered Blues for Captain Grant Coburn\n\n\n\n\n\n\n2020\n\nTelecaster\n\nFingerstyle\n\nSong\n\n\n\n\n\n\n\n\n\nSunday, November 15, 2020\n\n\n\n\n\n\n\n\n\n\n\n\nExercise 7.4\n\n\n\n\n\n\n2020\n\nStratocaster\n\nTelecaster\n\nLes Paul\n\nFingerstyle\n\n\n\n\n\n\n\n\n\nSaturday, November 14, 2020\n\n\n\n\n\n\n\n\n\n\n\n\nCarter Picking & Banjo Rolls Exercise\n\n\n\n\n\n\n2020\n\nStratocaster\n\nJaguar\n\n\n\n\n\n\n\n\n\nSunday, November 1, 2020\n\n\n\n\n\n\n\n\n\n\n\n\nExercise 7.1.2\n\n\n\n\n\n\n2020\n\nStratocaster\n\nFingerstyle\n\n\n\n\n\n\n\n\n\nSaturday, October 10, 2020\n\n\n\n\n\n\n\n\n\n\n\n\nApple Blossom Live Again\n\n\n\n\n\n\n2020\n\nStratocaster\n\nSong\n\n\n\n\n\n\n\n\n\nFriday, October 2, 2020\n\n\n\n\n\n\n\n\n\n\n\n\nPractising Early in the Morning\n\n\n\n\n\n\n2020\n\nStratocaster\n\nFingerstyle\n\n\n\n\n\n\n\n\n\nSunday, September 27, 2020\n\n\n\n\n\n\n\n\n\n\n\n\nSession 7: Acoustic fingerstyle\n\n\n\n\n\n\n2020\n\nStratocaster\n\nFingerstyle\n\n\n\n\n\n\n\n\n\nSunday, September 20, 2020\n\n\n\n\n\n\n\n\n\n\n\n\nBlues for Capt. Grant\n\n\n\n\n\n\n2020\n\nStratocaster\n\nFingerstyle\n\n\n\n\n\n\n\n\n\nSunday, September 6, 2020\n\n\n\n\n\n\n\n\n\n\n\n\nApple Blossom by The White Stripes\n\n\n\n\n\n\n2020\n\nStratocaster\n\nSong\n\n\n\n\n\n\n\n\n\nTuesday, September 1, 2020\n\n\n\n\n\n\n\n\n\n\n\n\nEmancipation Blues\n\n\n\n\n\n\n2020\n\nTelecaster\n\nFingerstyle\n\nStudy\n\n\n\n\n\n\n\n\n\nThursday, August 20, 2020\n\n\n\n\n\n\n\n\n\n\n\n\nBlues in E\n\n\n\n\n\n\n2020\n\nLes Paul\n\nTelecaster\n\nFingerstyle\n\nStudy\n\n\n\n\n\n\n\n\n\nSunday, August 2, 2020\n\n\n\n\n\n\n\n\n\n\n\n\nBlues in E\n\n\n\n\n\n\n2020\n\nStratocaster\n\nFingerstyle\n\nStudy\n\n\n\n\n\n\n\n\n\nSaturday, July 25, 2020\n\n\n\n\n\n\n\n\n\n\n\n\nVictoria Park\n\n\n\n\n\n\n2020\n\nThe Parlor\n\n\n\n\n\n\n\n\n\nSaturday, July 18, 2020\n\n\n\n\n\n\n\n\n\n\n\n\nSUS4 Transitions\n\n\n\n\n\n\n2020\n\nStratocaster\n\n\n\n\n\n\n\n\n\nThursday, July 16, 2020\n\n\n\n\n\n\n\n\n\n\n\n\nStrat is One Year Old\n\n\n\n\n\n\n2020\n\nStratocaster\n\n\n\n\n\n\n\n\n\nThursday, July 9, 2020\n\n\n\n\n\n\n\n\n\n\n\n\nMisirlou Practice\n\n\n\n\n\n\n2020\n\nLes Paul\n\nTremolo Picking\n\n\n\n\n\n\n\n\n\nWednesday, July 1, 2020\n\n\n\n\n\n\n\n\n\n\n\n\nMisirlou\n\n\n\n\n\n\n2020\n\nLes Paul\n\nSong\n\n\n\n\n\n\n\n\n\nTuesday, June 30, 2020\n\n\n\n\n\n\n\n\n\n\n\n\nI’m So Lonesome I Could Cry\n\n\n\n\n\n\n2020\n\nLes Paul\n\n\n\n\n\n\n\n\n\nMonday, June 22, 2020\n\n\n\n\n\n\n\n\n\n\n\n\nAfter Midnight Blues\n\n\n\n\n\n\n2020\n\nLes Paul\n\n\n\n\n\n\n\n\n\nSaturday, June 20, 2020\n\n\n\n\n\n\n\n\n\n\n\n\nAccented Notes\n\n\n\n\n\n\n2020\n\nLes Paul\n\nFingerstyle\n\n\n\n\n\n\n\n\n\nTuesday, June 16, 2020\n\n\n\n\n\n\n\n\n\n\n\n\nTwelve-bar Blues\n\n\n\n\n\n\n2020\n\nLes Paul\n\nFingerstyle\n\n\n\n\n\n\n\n\n\nMonday, June 15, 2020\n\n\n\n\n\n\n\n\n\n\n\n\nFingerpick with a Bass Note Strum\n\n\n\n\n\n\n2020\n\nLes Paul\n\nFingerstyle\n\n\n\n\n\n\n\n\n\nFriday, June 12, 2020\n\n\n\n\n\n\n\n\n\n\n\n\nDaily Practice\n\n\n\n\n\n\n2020\n\nStratocaster\n\nSong\n\n\n\n\n\n\n\n\n\nThursday, June 4, 2020\n\n\n\n\n\n\n\n\n\n\n\n\nCorrina, Corrina\n\n\n\n\n\n\n2020\n\nStratocaster\n\nSong\n\n\n\n\n\n\n\n\n\nSaturday, May 16, 2020\n\n\n\n\n\n\n\n\n\n\n\n\nPractice: My Babe\n\n\n\n\n\n\n2020\n\nStratocaster\n\nSong\n\n\n\n\n\n\n\n\n\nTuesday, May 5, 2020\n\n\n\n\n\n\n\n\n\n\n\n\nMannish Boy Riff\n\n\n\n\n\n\n2020\n\nStratocaster\n\nSong\n\n\n\n\n\n\n\n\n\nSunday, April 19, 2020\n\n\n\n\n\n\n\n\n\n\n\n\nHonne & Tatemae 3 & 4\n\n\n\n\n\n\n2020\n\nStratocaster\n\nSong\n\n\n\n\n\n\n\n\n\nSaturday, March 7, 2020\n\n\n\n\n\n\n\n\n\n\n\n\nOde to Roads of New Mexico\n\n\n\n\n\n\n2020\n\nStratocaster\n\nSong\n\n\n\n\n\n\n\n\n\nFriday, March 6, 2020\n\n\n\n\n\n\n\n\n\n\n\n\nHonne & Tatemae 2\n\n\n\n\n\n\n2020\n\nStratocaster\n\nSong\n\n\n\n\n\n\n\n\n\nThursday, February 27, 2020\n\n\n\n\n\n\n\n\n\n\n\n\nMilestone 3: Obscure Poems\n\n\n\n\n\n\n2020\n\nStratocaster\n\nSong\n\nTitles\n\n\n\n\n\n\n\n\n\nSunday, January 12, 2020\n\n\n\n\n\n\n\n\n\n\n\n\nUe o Muite Arukō (Sukiyaki)\n\n\n\n\n\n\n2020\n\nStratocaster\n\nSong\n\n\n\n\n\n\n\n\n\nFriday, January 3, 2020\n\n\n\n\n\n\n\n\n\n\n\n\nThe New Year’s Burden\n\n\n\n\n\n\n2020\n\nStratocaster\n\nSong\n\n\n\n\n\n\n\n\n\nWednesday, January 1, 2020\n\n\n\n\n\n\n\n\n\n\n\n\nSilent Night\n\n\n\n\n\n\n2019\n\nStratocaster\n\nSong\n\nChristmas\n\n\n\n\n\n\n\n\n\nWednesday, December 25, 2019\n\n\n\n\n\n\n\n\n\n\n\n\nThe Little Drummer Boy\n\n\n\n\n\n\n2019\n\nStratocaster\n\nSong\n\nChristmas\n\n\n\n\n\n\n\n\n\nThursday, December 19, 2019\n\n\n\n\n\n\n\n\n\n\n\n\nImpermanence 2\n\n\n\n\n\n\n2019\n\nStratocaster\n\nSong\n\n\n\n\n\n\n\n\n\nWednesday, November 6, 2019\n\n\n\n\n\n\n\n\n\n\n\n\nMilestone 2 | Impermanence\n\n\n\n\n\n\n2019\n\nStratocaster\n\nSong\n\n\n\n\n\n\n\n\n\nSaturday, October 26, 2019\n\n\n\n\n\n\n\n\n\n\n\n\nMilestone 1 | Sight, Sound & Smell\n\n\n\n\n\n\n2019\n\nStratocaster\n\nSong\n\n\n\n\n\n\n\n\n\nMonday, October 14, 2019\n\n\n\n\n\n\n\n\n\n\n\n\nHonne and Tatemae\n\n\n\n\n\n\n2019\n\nStratocaster\n\nSong\n\n\n\n\n\n\n\n\n\nTuesday, September 3, 2019\n\n\n\n\n\n\n\n\n\n\n\n\nTremolo Picking\n\n\n\n\n\n\n2019\n\nStratocaster\n\n\n\n\n\n\n\n\n\nFriday, August 23, 2019\n\n\n\n\n\n\n\n\n\n\n\n\nHonne and Tatemae\n\n\n\n\n\n\n2019\n\nStratocaster\n\nSong\n\n\n\n\n\n\n\n\n\nThursday, August 22, 2019\n\n\n\n\n\n\n\n\n\n\n\n\nC Locrian\n\n\n\n\n\n\n2019\n\nStratocaster\n\nTheory\n\n\n\n\n\n\n\n\n\nWednesday, August 21, 2019\n\n\n\n\n\n\n\n\n\n\n\n\nC Phrygian\n\n\n\n\n\n\n2019\n\nStratocaster\n\nTheory\n\n\n\n\n\n\n\n\n\nTuesday, August 20, 2019\n\n\n\n\n\n\n\n\n\n\n\n\nC Aeolian\n\n\n\n\n\n\n2019\n\nStratocaster\n\nTheory\n\n\n\n\n\n\n\n\n\nMonday, August 19, 2019\n\n\n\n\n\n\n\n\n\n\n\n\nC Dorian\n\n\n\n\n\n\n2019\n\nStratocaster\n\nTheory\n\n\n\n\n\n\n\n\n\nSunday, August 18, 2019\n\n\n\n\n\n\n\n\n\n\n\n\nC Mixolydian\n\n\n\n\n\n\n2019\n\nStratocaster\n\nTheory\n\n\n\n\n\n\n\n\n\nSaturday, August 17, 2019\n\n\n\n\n\n\n\n\n\n\n\n\nC Ionian\n\n\n\n\n\n\n2019\n\nStratocaster\n\nTheory\n\n\n\n\n\n\n\n\n\nFriday, August 16, 2019\n\n\n\n\n\n\n\n\n\n\n\n\nC Lydian\n\n\n\n\n\n\n2019\n\nStratocaster\n\nTheory\n\n\n\n\n\n\n\n\n\nThursday, August 15, 2019\n\n\n\n\n\n\n\n\n\n\n\n\nVideo Lessons\n\n\n\n\n\n\n2019\n\nSong\n\n\n\n\n\n\n\n\n\nFriday, August 9, 2019\n\n\n\n\n\n\n\n\n\n\n\n\nRumble v1\n\n\n\n\n\n\n2019\n\nStratocaster\n\nSong\n\n\n\n\n\n\n\n\n\nThursday, August 8, 2019\n\n\n\n\n\n\n\n\n\n\n\n\nSimple Twist of Fate\n\n\n\n\n\n\n2019\n\nStratocaster\n\nSong\n\n\n\n\n\n\n\n\n\nSaturday, July 27, 2019\n\n\n\n\n\n\n\n\n\n\n\n\nCorrina, Corrina\n\n\n\n\n\n\n2019\n\nStratocaster\n\nSong\n\n\n\n\n\n\n\n\n\nThursday, July 25, 2019\n\n\n\n\n\n\n\n\n\n\n\n\nBlues in E, Open D Tuning\n\n\n\n\n\n\n2019\n\nThe Parlor\n\n\n\n\n\n\n\n\n\nWednesday, July 17, 2019\n\n\n\n\n\n\n\n\n\n\n\n\nOne More Cup of Coffee\n\n\n\n\n\n\n2019\n\nTelecaster\n\nSong\n\n\n\n\n\n\n\n\n\nTuesday, July 16, 2019\n\n\n\n\n\n\n\n\n\n\n\n\nDeluxe Strat is Home\n\n\n\n\n\n\n2019\n\nStratocaster\n\n\n\n\n\n\n\n\n\nWednesday, July 10, 2019\n\n\n\n\n\n\n\n\n\n\n\n\nOne More Cup of Coffee\n\n\n\n\n\n\n2019\n\nTelecaster\n\nLes Paul\n\nSong\n\n\n\n\n\n\n\n\n\nSaturday, July 6, 2019\n\n\n\n\n\n\n\n\n\n\n\n\nWabi-sabi for Guitar\n\n\n\n\n\n\n2019\n\nLes Paul\n\n\n\n\n\n\n\n\n\nSunday, June 9, 2019\n\n\n\n\n\n\n\n\n\n\n\n\nIncipit incipit\n\n\n\n\n\n\n2019\n\nTelecaster\n\nSong\n\n\n\n\n\n\n\n\n\nFriday, May 31, 2019\n\n\n\n\n\n\n\n\n\n\n\n\nEarly in the Morning\n\n\n\n\n\n\n2019\n\nTelecaster\n\nLes Paul\n\nSong\n\n\n\n\n\n\n\n\n\nSunday, April 14, 2019\n\n\n\n\n\n\n\n\n\n\n\n\nRoad to Taos Live\n\n\n\n\n\n\n2019\n\nLes Paul\n\nSong\n\n\n\n\n\n\n\n\n\nThursday, April 4, 2019\n\n\n\n\n\n\n\n\n\n\n\n\nRoad to Taos\n\n\n\n\n\n\n2019\n\nTelecaster\n\nSong\n\n\n\n\n\n\n\n\n\nSunday, March 31, 2019\n\n\n\n\n\n\n\n\n\n\n\n\nHallelujah\n\n\n\n\n\n\n2019\n\nTelecaster\n\nFingerstyle\n\nStudy\n\n\n\n\n\n\n\n\n\nSaturday, January 26, 2019\n\n\n\n\n\n\n\n\n\n\n\n\nHallelujah\n\n\n\n\n\n\n2019\n\nLes Paul\n\nFingerstyle\n\nStudy\n\n\n\n\n\n\n\n\n\nMonday, January 21, 2019\n\n\n\n\n\n\n\n\n\n\n\n\nHallelujah\n\n\n\n\n\n\n2019\n\nTelecaster\n\nFingerstyle\n\nStudy\n\n\n\n\n\n\n\n\n\nSunday, January 20, 2019\n\n\n\n\n\n\n\n\n\n\n\n\nWe’re going to be friends\n\n\n\n\n\n\n2019\n\nTelecaster\n\nFingerstyle\n\nStudy\n\n\n\n\n\n\n\n\n\nSaturday, January 5, 2019\n\n\n\n\n\n\n\n\n\n\n\n\nThe Journey Begins\n\n\n\n\n\n\n2018\n\nTelecaster\n\nSong\n\n\n\n\n\n\n\n\n\nTuesday, December 25, 2018\n\n\n\n\n\nNo matching items\n\n  \n\n Back to top"
-  },
-  {
-    "objectID": "posts/2026-06-21/index.html#zoom-g3xn-princeton-warm-patch-checklist",
-    "href": "posts/2026-06-21/index.html#zoom-g3xn-princeton-warm-patch-checklist",
-    "title": "Honne and Tatemae",
-    "section": "Zoom G3Xn “Princeton Warm” Patch Checklist",
-    "text": "Zoom G3Xn “Princeton Warm” Patch Checklist\nGuitar: Fender Telecaster MIJ, neck pickup, Master Volume ~9, Master Tone ~9\nZoom: G3Xn, Firmware 2.20, Patch cell 106, Patch name “Princeton” Goal: Warm, articulate Princeton Reverb-style clean tone with shimmer trem and spring reverb\nAmp: Fender Blues Jr III (real amp, miked — no Zoom amp/cab sim used)\n\nSignal Chain\nGuitar → RackComp → RC Boost → Tremolo → FD Spring → Zoom output → Blues Jr input → mic\nNote: guitar Volume/Tone currently near max (9/9) rather than rolled back. Brighter/more aggressive than original plan — if tone feels too bright or aggressive once recorded, roll Tone back to 6-7 as first adjustment.\n\n\nBlock 1 — RackComp (DYNAMICS)\n\nTHRSH: 25\nRatio: 3\nATTCK: 5\nVOL: 100 (unity/pass-through — not a boost like RC Boost’s Volume)\n\n\n\nBlock 2 — RC Boost (DRIVE)\n\nGain: 15\nBass: 50\nTreble: 55\nVOL: 65 (adjusted down from 100/max after A/B testing — 100 was a noticeable level jump, not a subtle push)\n\n\n\nBlock 3 — Tremolo (MODULATION)\n\nWave: TUBE\nDepth: 35\nRate: 30\nVOL: 100\n\n\n\nBlock 4 — FD Spring (REVERB) — sole reverb source (Option A)\n\nActive: ON\nColor: 1\nLo: 55\nHi: 45\nMix: 30\n\nDecision: FD Spring is the sole meaningful reverb source. Blues Jr’s physical Reverb dial has no true zero (range is 1–12), so it stays at its physical minimum (1) — this contributes a negligible touch of onboard spring underneath and is not treated as problematic stacking.\n\n\nBlock 5 — Rhythm (RHYTHM AND LOOPER) — practice aid, not part of the recorded tone\n\nActive: ON (intentional — metronome for practice)\nPattern: Metro4 4/4\nVolume: 4\nReminder: disable or mute before any actual take — this is a metronome click, not a tone-shaping effect, and isn’t meant to bleed into the final recording\n\n\n\nAmp Settings — Blues Jr III (dials 1–12, no true zero)\n\nVolume: 4.5\nFat: OFF\nTreble: 5.5\nBass: 4.5\nMiddle: 5.0\nMaster: 4.5\nReverb: 1 (physical minimum — FD Spring on the Zoom is the sole meaningful reverb source, see Block 4)\n\n\n\nMic Setup — Blue Yeti (on stock desktop stand, floor placement)\n\nMode: Cardioid\nOrientation: logo side of mesh grille facing the amp (this is the capsule’s listening face — confirmed correct)\nDistance: 4–5 inches from grille\nPosition: base shifted slightly to the right of the amp’s centerline (creates true off-axis angle, since the stock stand doesn’t swivel sideways)\nTilt: forward, toward the amp — this aims the capsule up to cone height (compensating for the stand sitting lower than the speaker on the floor)\nGain: set using the loudest tremolo peak, target -12 to -6 dB, no clipping\n\nNotes: - Forward tilt = vertical aim adjustment (reaches cone height), not the off-axis angle - Sideways base offset = true off-axis angle (softens pick attack/harshness) - Both adjustments are used together in this floor setup since the stand can’t swivel independently\n\n\nTest Pass\n\nTurn OFF/mute Rhythm (metronome) block before recording an actual take\nRecord 15–20 seconds of comping/chords\nRC Boost check: at Volume 65, should feel like a mild lift, not an obvious pedal jump. Adjust down further (55–60) if still too pushed.\nReverb check: FD Spring is the sole meaningful reverb source (amp Reverb sits at its physical minimum of 1) — confirm the overall reverb amount feels right, not doubled\nTremolo check: TUBE wave should feel smoother/rounder than a standard triangle wave trem\nCompression check: RackComp should be felt as sustain/evenness, not obvious pumping\nGuitar tone check: Volume/Tone near max (9/9) — if the result feels too bright/aggressive, roll Tone back to 6–7 first\nOverall: does the amp feel like it’s “working” a little (natural compression) rather than stiff/clean?\nIf still too clean/stiff: raise Master first, before touching EQ"
-  },
-  {
-    "objectID": "posts/2026-06-21/index.html#signal-chain",
-    "href": "posts/2026-06-21/index.html#signal-chain",
-    "title": "Honne and Tatemae",
-    "section": "Signal Chain",
-    "text": "Signal Chain\nGuitar → RackComp → RC Boost → Tremolo → FD Spring → Zoom output → Blues Jr input → mic\nNote: guitar Volume/Tone currently near max (9/9) rather than rolled back. Brighter/more aggressive than original plan — if tone feels too bright or aggressive once recorded, roll Tone back to 6-7 as first adjustment.\n\n\nBlock 1 — RackComp (DYNAMICS)\n\nTHRSH: 25\nRatio: 3\nATTCK: 5\nVOL: 100 (unity/pass-through — not a boost like RC Boost’s Volume)\n\n\n\nBlock 2 — RC Boost (DRIVE)\n\nGain: 15\nBass: 50\nTreble: 55\nVOL: 65 (adjusted down from 100/max after A/B testing — 100 was a noticeable level jump, not a subtle push)\n\n\n\nBlock 3 — Tremolo (MODULATION)\n\nWave: TUBE\nDepth: 35\nRate: 30\nVOL: 100\n\n\n\nBlock 4 — FD Spring (REVERB) — sole reverb source (Option A)\n\nActive: ON\nColor: 1\nLo: 55\nHi: 45\nMix: 30\n\nDecision: FD Spring is the sole meaningful reverb source. Blues Jr’s physical Reverb dial has no true zero (range is 1–12), so it stays at its physical minimum (1) — this contributes a negligible touch of onboard spring underneath and is not treated as problematic stacking.\n\n\n\nBlock 5 — Rhythm (RHYTHM AND LOOPER) — practice aid, not part of the recorded tone\n\nActive: ON (intentional — metronome for practice)\nPattern: Metro4 4/4\nVolume: 4\nReminder: disable or mute before any actual take — this is a metronome click, not a tone-shaping effect, and isn’t meant to bleed into the final recording\n\n\n\n\nAmp Settings — Blues Jr III (dials 1–12, no true zero)\n\nVolume: 4.5\nFat: OFF\nTreble: 5.5\nBass: 4.5\nMiddle: 5.0\nMaster: 4.5\nReverb: 1 (physical minimum — FD Spring on the Zoom is the sole meaningful reverb source, see Block 4)\n\n\n\n\nMic Setup — Blue Yeti (on stock desktop stand, floor placement)\n\nMode: Cardioid\nOrientation: logo side of mesh grille facing the amp (this is the capsule’s listening face — confirmed correct)\nDistance: 4–5 inches from grille\nPosition: base shifted slightly to the right of the amp’s centerline (creates true off-axis angle, since the stock stand doesn’t swivel sideways)\nTilt: forward, toward the amp — this aims the capsule up to cone height (compensating for the stand sitting lower than the speaker on the floor)\nGain: set using the loudest tremolo peak, target -12 to -6 dB, no clipping\n\nNotes: - Forward tilt = vertical aim adjustment (reaches cone height), not the off-axis angle - Sideways base offset = true off-axis angle (softens pick attack/harshness) - Both adjustments are used together in this floor setup since the stand can’t swivel independently\n\n\n\nTest Pass\n\nTurn OFF/mute Rhythm (metronome) block before recording an actual take\nRecord 15–20 seconds of comping/chords\nRC Boost check: at Volume 65, should feel like a mild lift, not an obvious pedal jump. Adjust down further (55–60) if still too pushed.\nReverb check: FD Spring is the sole meaningful reverb source (amp Reverb sits at its physical minimum of 1) — confirm the overall reverb amount feels right, not doubled\nTremolo check: TUBE wave should feel smoother/rounder than a standard triangle wave trem\nCompression check: RackComp should be felt as sustain/evenness, not obvious pumping\nGuitar tone check: Volume/Tone near max (9/9) — if the result feels too bright/aggressive, roll Tone back to 6–7 first\nOverall: does the amp feel like it’s “working” a little (natural compression) rather than stiff/clean?\nIf still too clean/stiff: raise Master first, before touching EQ"
-  },
-  {
-    "objectID": "posts/2026-06-21/index.html#block-1-rackcomp-dynamics",
-    "href": "posts/2026-06-21/index.html#block-1-rackcomp-dynamics",
-    "title": "Honne and Tatemae",
-    "section": "Block 1 — RackComp (DYNAMICS)",
-    "text": "Block 1 — RackComp (DYNAMICS)\n\nTHRSH: 25\nRatio: 3\nATTCK: 5\nVOL: 100 (unity/pass-through — not a boost like RC Boost’s Volume)"
-  },
-  {
-    "objectID": "posts/2026-06-21/index.html#block-2-rc-boost-drive",
-    "href": "posts/2026-06-21/index.html#block-2-rc-boost-drive",
-    "title": "Honne and Tatemae",
-    "section": "Block 2 — RC Boost (DRIVE)",
-    "text": "Block 2 — RC Boost (DRIVE)\n\nGain: 15\nBass: 50\nTreble: 55\nVOL: 65 (adjusted down from 100/max after A/B testing — 100 was a noticeable level jump, not a subtle push)"
-  },
-  {
-    "objectID": "posts/2026-06-21/index.html#block-3-tremolo-modulation",
-    "href": "posts/2026-06-21/index.html#block-3-tremolo-modulation",
-    "title": "Honne and Tatemae",
-    "section": "Block 3 — Tremolo (MODULATION)",
-    "text": "Block 3 — Tremolo (MODULATION)\n\nWave: TUBE\nDepth: 35\nRate: 30\nVOL: 100"
-  },
-  {
-    "objectID": "posts/2026-06-21/index.html#block-4-fd-spring-reverb",
-    "href": "posts/2026-06-21/index.html#block-4-fd-spring-reverb",
-    "title": "Honne and Tatemae",
-    "section": "Block 4 — FD Spring (REVERB)",
-    "text": "Block 4 — FD Spring (REVERB)\n\nColor: try 0 first, switch to 1 if thin\nLo: 55–60\nHi: 45–50\nMix: 30–35\n\nAlternative if FD Spring sounds too metallic: swap in plain Spring - PreD: 10–15 - Decay: 12–15 - Mix: 30–35"
-  },
-  {
-    "objectID": "posts/2026-06-21/index.html#amp-settings-blues-jr-iii",
-    "href": "posts/2026-06-21/index.html#amp-settings-blues-jr-iii",
-    "title": "Honne and Tatemae",
-    "section": "Amp Settings — Blues Jr III",
-    "text": "Amp Settings — Blues Jr III\n\nVolume: 4–5\nFat: OFF\nTreble: 5.5–6\nBass: 4.5–5\nMiddle: 5–6\nMaster: 4–4.5\nReverb: OFF or very low (FD Spring on the Zoom is handling reverb — avoid stacking two reverbs)"
-  },
-  {
-    "objectID": "posts/2026-06-21/index.html#mic-setup-blue-yeti-on-stock-desktop-stand-floor-placement",
-    "href": "posts/2026-06-21/index.html#mic-setup-blue-yeti-on-stock-desktop-stand-floor-placement",
-    "title": "Honne and Tatemae",
-    "section": "Mic Setup — Blue Yeti (on stock desktop stand, floor placement)",
-    "text": "Mic Setup — Blue Yeti (on stock desktop stand, floor placement)\n\nMode: Cardioid\nOrientation: logo side of mesh grille facing the amp (this is the capsule’s listening face — confirmed correct)\nDistance: 4–5 inches from grille\nPosition: base shifted slightly to the right of the amp’s centerline (creates true off-axis angle, since the stock stand doesn’t swivel sideways)\nTilt: forward, toward the amp — this aims the capsule up to cone height (compensating for the stand sitting lower than the speaker on the floor)\nGain: set using the loudest tremolo peak, target -12 to -6 dB, no clipping\n\nNotes: - Forward tilt = vertical aim adjustment (reaches cone height), not the off-axis angle - Sideways base offset = true off-axis angle (softens pick attack/harshness) - Both adjustments are used together in this floor setup since the stand can’t swivel independently"
-  },
-  {
-    "objectID": "posts/2026-06-21/index.html#test-pass",
-    "href": "posts/2026-06-21/index.html#test-pass",
-    "title": "Honne and Tatemae",
-    "section": "Test Pass",
-    "text": "Test Pass\n\nTurn OFF/mute Rhythm (metronome) block before recording an actual take\nRecord 15–20 seconds of comping/chords\nRC Boost check: at Volume 65, should feel like a mild lift, not an obvious pedal jump. Adjust down further (55–60) if still too pushed.\nReverb check: FD Spring is the sole meaningful reverb source (amp Reverb sits at its physical minimum of 1) — confirm the overall reverb amount feels right, not doubled\nTremolo check: TUBE wave should feel smoother/rounder than a standard triangle wave trem\nCompression check: RackComp should be felt as sustain/evenness, not obvious pumping\nGuitar tone check: Volume/Tone near max (9/9) — if the result feels too bright/aggressive, roll Tone back to 6–7 first\nOverall: does the amp feel like it’s “working” a little (natural compression) rather than stiff/clean?\nIf still too clean/stiff: raise Master first, before touching EQ"
-  },
-  {
-    "objectID": "posts/2026-07-05/index.html",
-    "href": "posts/2026-07-05/index.html",
-    "title": "Für Edith",
-    "section": "",
-    "text": "Tempo: free bpm\nScore: Download\nMuseScore: Download\nGarageBand: Download"
-  },
-  {
-    "objectID": "posts/2026-07-05/index.html#video",
-    "href": "posts/2026-07-05/index.html#video",
-    "title": "Für Edith",
-    "section": "Video",
-    "text": "Video"
-  },
-  {
-    "objectID": "posts/2026-07-05/index.html#fender-telecaster",
-    "href": "posts/2026-07-05/index.html#fender-telecaster",
-    "title": "Für Edith",
-    "section": "Fender Telecaster",
-    "text": "Fender Telecaster\nPickup Position: Neck & Middle\nMaster Volume: ~9\nMaster Tone: ~6"
-  },
-  {
-    "objectID": "posts/2026-07-05/index.html#multi-effects-processor-zoom-g3xn",
-    "href": "posts/2026-07-05/index.html#multi-effects-processor-zoom-g3xn",
-    "title": "Für Edith",
-    "section": "Multi Effects Processor: Zoom G3Xn",
-    "text": "Multi Effects Processor: Zoom G3Xn\nMaster Volume: 25\nRackComp: THRSH: 25–30 | Ratio: 3–4:1 | ATTCK: 5–6 | VOL: 100\nRC Boost: Gain: 15–20 | Bass: 50 | Treble: 55–60 | VOL: 105–110\nTremolo: Tube | Depth: 35–40 | Rate: 30–35 | VOL: 100\nFD Spring: Color: 1 | Lo: 55–60 | Hi: 45–50 | Mix: 30–35"
-  },
-  {
-    "objectID": "posts/2026-07-05/index.html#joyo-tremolo",
-    "href": "posts/2026-07-05/index.html#joyo-tremolo",
-    "title": "Für Edith",
-    "section": "Joyo Tremolo",
-    "text": "Joyo Tremolo\nOFF\nIntensity: 25%\nRate: 25%"
-  },
-  {
-    "objectID": "posts/2026-07-05/index.html#amplifier-fender-blues-jr.-iii",
-    "href": "posts/2026-07-05/index.html#amplifier-fender-blues-jr.-iii",
-    "title": "Für Edith",
-    "section": "Amplifier: Fender Blues Jr. III",
-    "text": "Amplifier: Fender Blues Jr. III\nVolume: 4.5\nFat: OFF\nTreble: 5.5\nBass: 4.5\nMiddle: 5.0\nMaster: 4.5\nReverb: 0.0"
-  },
-  {
-    "objectID": "posts/2026-07-05/index.html#microphone",
-    "href": "posts/2026-07-05/index.html#microphone",
-    "title": "Für Edith",
-    "section": "Microphone",
-    "text": "Microphone\nBlue Yeti\nGain: 9 o’clock\nMode: Cardioid mode, 4” from speaker, slightly off-axis"
-  },
-  {
-    "objectID": "posts/2026-07-05/index.html#dolby-on",
-    "href": "posts/2026-07-05/index.html#dolby-on",
-    "title": "Für Edith",
-    "section": "Dolby ON",
-    "text": "Dolby ON\nOFF"
-  },
-  {
-    "objectID": "posts/2026-06-21/index.html#block-4-fd-spring-reverb-sole-reverb-source-option-a",
-    "href": "posts/2026-06-21/index.html#block-4-fd-spring-reverb-sole-reverb-source-option-a",
-    "title": "Honne and Tatemae",
-    "section": "Block 4 — FD Spring (REVERB) — sole reverb source (Option A)",
-    "text": "Block 4 — FD Spring (REVERB) — sole reverb source (Option A)\n\nActive: ON\nColor: 1\nLo: 55\nHi: 45\nMix: 30\n\nDecision: FD Spring is the sole meaningful reverb source. Blues Jr’s physical Reverb dial has no true zero (range is 1–12), so it stays at its physical minimum (1) — this contributes a negligible touch of onboard spring underneath and is not treated as problematic stacking."
-  },
-  {
-    "objectID": "posts/2026-06-21/index.html#block-5-rhythm-rhythm-and-looper-practice-aid-not-part-of-the-recorded-tone",
-    "href": "posts/2026-06-21/index.html#block-5-rhythm-rhythm-and-looper-practice-aid-not-part-of-the-recorded-tone",
-    "title": "Honne and Tatemae",
-    "section": "Block 5 — Rhythm (RHYTHM AND LOOPER) — practice aid, not part of the recorded tone",
-    "text": "Block 5 — Rhythm (RHYTHM AND LOOPER) — practice aid, not part of the recorded tone\n\nActive: ON (intentional — metronome for practice)\nPattern: Metro4 4/4\nVolume: 4\nReminder: disable or mute before any actual take — this is a metronome click, not a tone-shaping effect, and isn’t meant to bleed into the final recording"
-  },
-  {
-    "objectID": "posts/2026-06-21/index.html#amp-settings-blues-jr-iii-dials-112-no-true-zero",
-    "href": "posts/2026-06-21/index.html#amp-settings-blues-jr-iii-dials-112-no-true-zero",
-    "title": "Honne and Tatemae",
-    "section": "Amp Settings — Blues Jr III (dials 1–12, no true zero)",
-    "text": "Amp Settings — Blues Jr III (dials 1–12, no true zero)\n\nVolume: 4.5\nFat: OFF\nTreble: 5.5\nBass: 4.5\nMiddle: 5.0\nMaster: 4.5\nReverb: 1 (physical minimum — FD Spring on the Zoom is the sole meaningful reverb source, see Block 4)"
-  },
-  {
-    "objectID": "posts/2026-06-21/index.html#zoom-g3xn-on",
-    "href": "posts/2026-06-21/index.html#zoom-g3xn-on",
-    "title": "Honne and Tatemae",
-    "section": "Zoom G3Xn ON",
-    "text": "Zoom G3Xn ON\n106 Princeton"
-  },
-  {
-    "objectID": "posts/2026-06-21/index.html#joyo-tremolo-off",
-    "href": "posts/2026-06-21/index.html#joyo-tremolo-off",
-    "title": "Honne and Tatemae",
-    "section": "Joyo Tremolo OFF",
-    "text": "Joyo Tremolo OFF\nIntensity: 50%\nRate: 50%"
-  },
-  {
-    "objectID": "posts/2026-06-21/index.html#zoom-g3xn-princeton-patch-checklist",
-    "href": "posts/2026-06-21/index.html#zoom-g3xn-princeton-patch-checklist",
-    "title": "Honne and Tatemae",
-    "section": "Zoom G3Xn “Princeton” Patch Checklist",
-    "text": "Zoom G3Xn “Princeton” Patch Checklist\nGuitar: Fender Telecaster MIJ, neck pickup, Master Volume ~9, Master Tone ~9\nZoom: G3Xn, Firmware 2.20, Patch cell 106, Patch name “Princeton” Goal: Warm, articulate Princeton Reverb-style clean tone with shimmer trem and spring reverb\nAmp: Fender Blues Jr III (real amp, miked — no Zoom amp/cab sim used)\n\nSignal Chain\nGuitar → RackComp → RC Boost → Tremolo → FD Spring → Zoom output → Blues Jr input → mic\nNote: guitar Volume/Tone currently near max (9/9) rather than rolled back. Brighter/more aggressive than original plan — if tone feels too bright or aggressive once recorded, roll Tone back to 6-7 as first adjustment.\n\n\nBlock 1 — RackComp (DYNAMICS)\n\nTHRSH: 25\nRatio: 3\nATTCK: 5\nVOL: 100 (unity/pass-through — not a boost like RC Boost’s Volume)\n\n\n\nBlock 2 — RC Boost (DRIVE)\n\nGain: 15\nBass: 50\nTreble: 55\nVOL: 65 (adjusted down from 100/max after A/B testing — 100 was a noticeable level jump, not a subtle push)\n\n\n\nBlock 3 — Tremolo (MODULATION)\n\nWave: TUBE\nDepth: 35\nRate: 30\nVOL: 100\n\n\n\nBlock 4 — FD Spring (REVERB) — sole reverb source (Option A)\n\nActive: ON\nColor: 1\nLo: 55\nHi: 45\nMix: 30\n\nDecision: FD Spring is the sole meaningful reverb source. Blues Jr’s physical Reverb dial has no true zero (range is 1–12), so it stays at its physical minimum (1) — this contributes a negligible touch of onboard spring underneath and is not treated as problematic stacking.\n\n\nBlock 5 — Rhythm (RHYTHM AND LOOPER) — practice aid, not part of the recorded tone\n\nActive: ON (intentional — metronome for practice)\nPattern: Metro4 4/4\nVolume: 4\nReminder: disable or mute before any actual take — this is a metronome click, not a tone-shaping effect, and isn’t meant to bleed into the final recording\n\n\n\nAmp Settings — Blues Jr III (dials 1–12, no true zero)\n\nVolume: 4.5\nFat: OFF\nTreble: 5.5\nBass: 4.5\nMiddle: 5.0\nMaster: 4.5\nReverb: 1 (physical minimum — FD Spring on the Zoom is the sole meaningful reverb source, see Block 4)\n\n\n\nMic Setup — Blue Yeti (on stock desktop stand, floor placement)\n\nMode: Cardioid\nOrientation: logo side of mesh grille facing the amp (this is the capsule’s listening face — confirmed correct)\nDistance: 4–5 inches from grille\nPosition: base shifted slightly to the right of the amp’s centerline (creates true off-axis angle, since the stock stand doesn’t swivel sideways)\nTilt: forward, toward the amp — this aims the capsule up to cone height (compensating for the stand sitting lower than the speaker on the floor)\nGain: set using the loudest tremolo peak, target -12 to -6 dB, no clipping\n\nNotes: - Forward tilt = vertical aim adjustment (reaches cone height), not the off-axis angle - Sideways base offset = true off-axis angle (softens pick attack/harshness) - Both adjustments are used together in this floor setup since the stand can’t swivel independently\n\n\nTest Pass\n\nTurn OFF/mute Rhythm (metronome) block before recording an actual take\nRecord 15–20 seconds of comping/chords\nRC Boost check: at Volume 65, should feel like a mild lift, not an obvious pedal jump. Adjust down further (55–60) if still too pushed.\nReverb check: FD Spring is the sole meaningful reverb source (amp Reverb sits at its physical minimum of 1) — confirm the overall reverb amount feels right, not doubled\nTremolo check: TUBE wave should feel smoother/rounder than a standard triangle wave trem\nCompression check: RackComp should be felt as sustain/evenness, not obvious pumping\nGuitar tone check: Volume/Tone near max (9/9) — if the result feels too bright/aggressive, roll Tone back to 6–7 first\nOverall: does the amp feel like it’s “working” a little (natural compression) rather than stiff/clean?\nIf still too clean/stiff: raise Master first, before touching EQ"
-  },
-  {
-    "objectID": "posts/2026-07-05/index.html#fender-stratocaster",
-    "href": "posts/2026-07-05/index.html#fender-stratocaster",
-    "title": "Für Edith",
-    "section": "Fender Stratocaster",
-    "text": "Fender Stratocaster\nPickup Position: Position 4"
-  },
-  {
-    "objectID": "posts/2026-07-05/index.html#zoom-g3xn-on",
-    "href": "posts/2026-07-05/index.html#zoom-g3xn-on",
-    "title": "Für Edith",
-    "section": "Zoom G3Xn ON",
-    "text": "Zoom G3Xn ON\n106 Princeton"
-  },
-  {
-    "objectID": "posts/2026-07-05/index.html#joyo-tremolo-off",
-    "href": "posts/2026-07-05/index.html#joyo-tremolo-off",
-    "title": "Für Edith",
-    "section": "Joyo Tremolo OFF",
-    "text": "Joyo Tremolo OFF\nIntensity: 50%\nRate: 50%"
-  },
-  {
-    "objectID": "posts/2026-07-05/index.html#fender-blues-jr.-iii",
-    "href": "posts/2026-07-05/index.html#fender-blues-jr.-iii",
-    "title": "Für Edith",
-    "section": "Fender Blues Jr. III",
-    "text": "Fender Blues Jr. III\nVolume: 4.5\nFat: OFF\nTreble: 5.5\nBass: 4.5\nMiddle: 5.0\nMaster: 4.5\nReverb: 1.0"
-  },
-  {
-    "objectID": "posts/2026-07-05/index.html#blue-yeti",
-    "href": "posts/2026-07-05/index.html#blue-yeti",
-    "title": "Für Edith",
-    "section": "Blue Yeti",
-    "text": "Blue Yeti\nGain: 9 o’clock\nMode: Cardioid mode, 4” from speaker, slightly off-axis"
-  },
-  {
-    "objectID": "posts/2026-07-05/index.html#zoom-g3xn-princeton-patch-checklist",
-    "href": "posts/2026-07-05/index.html#zoom-g3xn-princeton-patch-checklist",
-    "title": "Für Edith",
-    "section": "Zoom G3Xn “Princeton” Patch Checklist",
-    "text": "Zoom G3Xn “Princeton” Patch Checklist\nGuitar: Fender Stratocaster, pickup position 4\nZoom: G3Xn, Firmware 2.20, Patch cell 106, Patch name “Princeton” Goal: Warm, articulate Princeton Reverb-style clean tone with shimmer trem and spring reverb\nAmp: Fender Blues Jr III (real amp, miked — no Zoom amp/cab sim used)\n\nSignal Chain\nGuitar → RackComp → RC Boost → Tremolo → FD Spring → Zoom output → Blues Jr input → mic\nNote: guitar Volume/Tone currently near max (9/9) rather than rolled back. Brighter/more aggressive than original plan — if tone feels too bright or aggressive once recorded, roll Tone back to 6-7 as first adjustment.\n\n\nBlock 1 — RackComp (DYNAMICS)\n\nTHRSH: 25\nRatio: 3\nATTCK: 5\nVOL: 100 (unity/pass-through — not a boost like RC Boost’s Volume)\n\n\n\nBlock 2 — RC Boost (DRIVE)\n\nGain: 15\nBass: 50\nTreble: 55\nVOL: 65 (adjusted down from 100/max after A/B testing — 100 was a noticeable level jump, not a subtle push)\n\n\n\nBlock 3 — Tremolo (MODULATION)\n\nWave: TUBE\nDepth: 35\nRate: 30\nVOL: 100\n\n\n\nBlock 4 — FD Spring (REVERB) — sole reverb source (Option A)\n\nActive: ON\nColor: 1\nLo: 55\nHi: 45\nMix: 30"
-  },
-  {
-    "objectID": "posts/2026-07-05/index.html#dolby-on-1",
-    "href": "posts/2026-07-05/index.html#dolby-on-1",
-    "title": "Für Edith",
-    "section": "Dolby ON",
-    "text": "Dolby ON\nOFF"
-  },
-  {
-    "objectID": "posts/2026-07-05/index.html#zoom-g3xn-princeton-patch",
-    "href": "posts/2026-07-05/index.html#zoom-g3xn-princeton-patch",
-    "title": "Für Edith",
-    "section": "Zoom G3Xn “Princeton” Patch",
-    "text": "Zoom G3Xn “Princeton” Patch\nGuitar: Fender Stratocaster, pickup position 4\nZoom: G3Xn, Firmware 2.20, Patch cell 106, Patch name “Princeton” Goal: Warm, articulate Princeton Reverb-style clean tone with shimmer trem and spring reverb\nAmp: Fender Blues Jr III (real amp, miked — no Zoom amp/cab sim used)\n\nSignal Chain\nGuitar → RackComp → RC Boost → Tremolo → FD Spring → Zoom output → Blues Jr input → mic\n\n\nBlock 1 — RackComp (DYNAMICS)\n\nTHRSH: 25\nRatio: 3\nATTCK: 5\nVOL: 100 (unity/pass-through — not a boost like RC Boost’s Volume)\n\n\n\nBlock 2 — RC Boost (DRIVE)\n\nGain: 15\nBass: 50\nTreble: 55\nVOL: 65 (adjusted down from 100/max after A/B testing — 100 was a noticeable level jump, not a subtle push)\n\n\n\nBlock 3 — Tremolo (MODULATION)\n\nWave: TUBE\nDepth: 35\nRate: 30\nVOL: 100\n\n\n\nBlock 4 — FD Spring (REVERB) — sole reverb source (Option A)\n\nActive: ON\nColor: 1\nLo: 55\nHi: 45\nMix: 30"
-  },
-  {
-    "objectID": "posts/2026-07-17/index.html#fender-telecaster",
-    "href": "posts/2026-07-17/index.html#fender-telecaster",
-    "title": "Blues for Captain Grant Coburn",
-    "section": "Fender Telecaster",
-    "text": "Fender Telecaster\nPickup Position: Neck"
-  },
-  {
-    "objectID": "posts/2026-07-17/index.html#zoom-g3xn",
-    "href": "posts/2026-07-17/index.html#zoom-g3xn",
-    "title": "Blues for Captain Grant Coburn",
-    "section": "Zoom G3Xn",
-    "text": "Zoom G3Xn\n150 Trem Etc"
-  },
-  {
-    "objectID": "posts/2026-07-17/index.html#joyo-tremolo",
-    "href": "posts/2026-07-17/index.html#joyo-tremolo",
-    "title": "Blues for Captain Grant Coburn",
-    "section": "Joyo Tremolo",
-    "text": "Joyo Tremolo\nIntensity: 50%\nRate: 50%"
-  },
-  {
-    "objectID": "posts/2026-07-17/index.html#fender-blues-jr.-iii",
-    "href": "posts/2026-07-17/index.html#fender-blues-jr.-iii",
-    "title": "Blues for Captain Grant Coburn",
-    "section": "Fender Blues Jr. III",
-    "text": "Fender Blues Jr. III\nVolume: 3.5\nFat: OFF\nTreble: 4.5\nBass: 7.0\nMiddle: 11.0\nMaster: 3.5\nReverb: 2.0"
-  },
-  {
-    "objectID": "posts/2026-07-17/index.html#blue-yeti",
-    "href": "posts/2026-07-17/index.html#blue-yeti",
-    "title": "Blues for Captain Grant Coburn",
-    "section": "Blue Yeti",
-    "text": "Blue Yeti\nGain: 9 o’clock\nMode: Cardioid mode, 4” from speaker, slightly off-axis"
-  },
-  {
-    "objectID": "posts/2026-07-17/index.html",
-    "href": "posts/2026-07-17/index.html",
-    "title": "Blues for Captain Grant Coburn",
-    "section": "",
-    "text": "Tempo: 85 bpm\nScore: Download\nMuseScore: Download"
-  },
-  {
-    "objectID": "posts/2026-07-17/index.html#video",
-    "href": "posts/2026-07-17/index.html#video",
-    "title": "Blues for Captain Grant Coburn",
-    "section": "Video",
-    "text": "Video"
   }
 ]
