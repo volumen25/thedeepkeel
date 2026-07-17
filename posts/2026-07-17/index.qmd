@@ -13,9 +13,9 @@ categories:
   - Song
 ---
 
-## Video
-
-{{< video https://youtu.be/lf8Kh4mqEIs >}}
+Tempo: 85 bpm\
+Score: Download\
+MuseScore: Download
 
 ## Fender Telecaster
 
@@ -44,3 +44,9 @@ Reverb: 2.0
 
 Gain: 9 o'clock\
 Mode: Cardioid mode, 4” from speaker, slightly off-axis
+
+## Video
+
+{{< video https://youtu.be/OftGntNSKcE?si=rhdjPvTCa9-pHP1g >}}
+
+{{< video https://youtu.be/lf8Kh4mqEIs >}}
