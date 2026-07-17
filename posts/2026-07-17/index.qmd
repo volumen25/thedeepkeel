@@ -1,0 +1,46 @@
+---
+title: "Blues for Captain Grant Coburn"
+subtitle: "Revisited in 2026"
+date: "2026-07-17"
+date-modified: "2026-07-17"
+format: 
+  html: default
+image: "../img/tele_mij.jpg"
+categories:
+  - "2026"
+  - Telecaster
+  - Fingerstyle
+  - Song
+---
+
+## Video
+
+{{< video https://youtu.be/lf8Kh4mqEIs >}}
+
+## Fender Telecaster
+
+Pickup Position: Neck
+
+## Zoom G3Xn
+
+150 Trem Etc
+
+## Joyo Tremolo
+
+Intensity: 50%\
+Rate: 50%
+
+## Fender Blues Jr. III
+
+Volume: 3.5\
+Fat: OFF\
+Treble: 4.5\
+Bass: 7.0\
+Middle: 11.0\
+Master: 3.5\
+Reverb: 2.0
+
+## Blue Yeti
+
+Gain: 9 o'clock\
+Mode: Cardioid mode, 4” from speaker, slightly off-axis
