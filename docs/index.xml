@@ -409,25 +409,53 @@ Mode: Cardioid mode, 12” from speaker, slightly off-axis</p>
 <p>Hava Nagila 2026 version will be in the style of Bill Frisell, with harmonics in the intro. The song is played thoughtfully, one phrase at a time without rushing, as if talking to somebody and softly emphasizing the message of the tune.</p>
 <section id="video" class="level2">
 <h2 class="anchored" data-anchor-id="video">Video</h2>
-<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/54o3euq7viE" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/f439uemVTg4" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+<section id="fender-telecaster" class="level3">
+<h3 class="anchored" data-anchor-id="fender-telecaster">Fender Telecaster</h3>
+<p>Pickup Position: 3</p>
 </section>
-<section id="fender-telecaster" class="level2">
-<h2 class="anchored" data-anchor-id="fender-telecaster">Fender Telecaster</h2>
+<section id="zoom-g3xn-on" class="level3">
+<h3 class="anchored" data-anchor-id="zoom-g3xn-on">Zoom G3Xn ON</h3>
+<p>106 Princeton</p>
+<p>Block 1 — RackComp (DYNAMICS) THRSH: 25 Ratio: 3 ATTCK: 5 VOL: 100 (unity/pass-through — not a boost like RC Boost’s Volume)<br>
+Block 2 — RC Boost (DRIVE) Gain: 15 Bass: 50 Treble: 55 VOL: 65 (adjusted down from 100/max after A/B testing — 100 was a noticeable level jump, not a subtle push)<br>
+OFF Block 3 — Tremolo (MODULATION) Wave: TUBE Depth: 35 Rate: 30 VOL: 100<br>
+OFF Block 4 — FD Spring (REVERB) — sole reverb source (Option A)<br>
+Active: ON Color: 1 Lo: 55 Hi: 45 Mix: 30</p>
+</section>
+<section id="joyo-tremolo" class="level3">
+<h3 class="anchored" data-anchor-id="joyo-tremolo">Joyo Tremolo</h3>
+<p>Intensity: 25% Rate: 25%</p>
+</section>
+<section id="fender-blues-jr.-iii" class="level3">
+<h3 class="anchored" data-anchor-id="fender-blues-jr.-iii">Fender Blues Jr.&nbsp;III</h3>
+<p>Volume: 4.5 Fat: OFF Treble: 5.5 Bass: 4.5 Middle: 5.0 Master: 4.5 Reverb: 3.0</p>
+</section>
+<section id="blue-yeti" class="level3">
+<h3 class="anchored" data-anchor-id="blue-yeti">Blue Yeti</h3>
+<p>Gain: 9 o’clock Mode: Cardioid mode, 4” from speaker, slightly off-axis</p>
+</section>
+</section>
+<section id="video-1" class="level2">
+<h2 class="anchored" data-anchor-id="video-1">Video</h2>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/54o3euq7viE" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+<section id="fender-telecaster-1" class="level3">
+<h3 class="anchored" data-anchor-id="fender-telecaster-1">Fender Telecaster</h3>
 <p>Pickup Position: Neck<br>
 Master Volume: ~5<br>
 Master Tone: ~6</p>
 </section>
-<section id="zoom-g3xn" class="level2">
-<h2 class="anchored" data-anchor-id="zoom-g3xn">Zoom G3Xn</h2>
+<section id="zoom-g3xn" class="level3">
+<h3 class="anchored" data-anchor-id="zoom-g3xn">Zoom G3Xn</h3>
 <p>051 Jimi (Master Level 10)</p>
 </section>
-<section id="joyo-tremolo" class="level2">
-<h2 class="anchored" data-anchor-id="joyo-tremolo">Joyo Tremolo</h2>
+<section id="joyo-tremolo-1" class="level3">
+<h3 class="anchored" data-anchor-id="joyo-tremolo-1">Joyo Tremolo</h3>
 <p>Intensity: 50%<br>
 Rate: 50%</p>
 </section>
-<section id="fender-blues-jr.-iii" class="level2">
-<h2 class="anchored" data-anchor-id="fender-blues-jr.-iii">Fender Blues Jr.&nbsp;III</h2>
+<section id="fender-blues-jr.-iii-1" class="level3">
+<h3 class="anchored" data-anchor-id="fender-blues-jr.-iii-1">Fender Blues Jr.&nbsp;III</h3>
 <p>Volume: 3.5<br>
 Fat: OFF<br>
 Treble: 4.5<br>
@@ -436,16 +464,17 @@ Middle: 11.0<br>
 Master: 3.5<br>
 Reverb: 2.0</p>
 </section>
-<section id="blue-yeti" class="level2">
-<h2 class="anchored" data-anchor-id="blue-yeti">Blue Yeti</h2>
+<section id="blue-yeti-1" class="level3">
+<h3 class="anchored" data-anchor-id="blue-yeti-1">Blue Yeti</h3>
 <p>Gain: 9 o’clock<br>
 Mode: Cardioid mode, 12” from speaker, slightly off-axis</p>
 </section>
-<section id="dolby-on" class="level2">
-<h2 class="anchored" data-anchor-id="dolby-on">Dolby ON</h2>
+<section id="dolby-on" class="level3">
+<h3 class="anchored" data-anchor-id="dolby-on">Dolby ON</h3>
 <p>OFF</p>
 
 
+</section>
 </section>
 
 <a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
@@ -615,50 +644,39 @@ Mode: Cardioid mode, 12” from speaker, slightly off-axis</p>
 </section>
 <section id="video" class="level2">
 <h2 class="anchored" data-anchor-id="video">Video</h2>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/P5dOtDh9HTg" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+<section id="fender-telecaster" class="level3">
+<h3 class="anchored" data-anchor-id="fender-telecaster">Fender Telecaster</h3>
+<p>Pickup Position: 3</p>
+</section>
+<section id="zoom-g3xn-on" class="level3">
+<h3 class="anchored" data-anchor-id="zoom-g3xn-on">Zoom G3Xn ON</h3>
+<p>106 Princeton</p>
+<p>Block 1 — RackComp (DYNAMICS) THRSH: 25 Ratio: 3 ATTCK: 5 VOL: 100 (unity/pass-through — not a boost like RC Boost’s Volume)<br>
+Block 2 — RC Boost (DRIVE) Gain: 15 Bass: 50 Treble: 55 VOL: 65 (adjusted down from 100/max after A/B testing — 100 was a noticeable level jump, not a subtle push)<br>
+OFF Block 3 — Tremolo (MODULATION) Wave: TUBE Depth: 35 Rate: 30 VOL: 100<br>
+OFF Block 4 — FD Spring (REVERB) — sole reverb source (Option A)<br>
+Active: ON Color: 1 Lo: 55 Hi: 45 Mix: 30</p>
+</section>
+<section id="joyo-tremolo" class="level3">
+<h3 class="anchored" data-anchor-id="joyo-tremolo">Joyo Tremolo</h3>
+<p>Intensity: 25% Rate: 25%</p>
+</section>
+<section id="fender-blues-jr.-iii" class="level3">
+<h3 class="anchored" data-anchor-id="fender-blues-jr.-iii">Fender Blues Jr.&nbsp;III</h3>
+<p>Volume: 4.5 Fat: OFF Treble: 5.5 Bass: 4.5 Middle: 5.0 Master: 4.5 Reverb: 3.0</p>
+</section>
+<section id="blue-yeti" class="level3">
+<h3 class="anchored" data-anchor-id="blue-yeti">Blue Yeti</h3>
+<p>Gain: 9 o’clock Mode: Cardioid mode, 4” from speaker, slightly off-axis</p>
+</section>
+</section>
+<section id="video-1" class="level2">
+<h2 class="anchored" data-anchor-id="video-1">Video</h2>
 <div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/0NKNYXEXiRA" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 <div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/p8NZi2Ke6JM" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 <div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/Een76VTbAC0" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 <div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/a4PqakJCXjI" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
-</section>
-<section id="fender-telecaster" class="level2">
-<h2 class="anchored" data-anchor-id="fender-telecaster">Fender Telecaster</h2>
-<p>Pickup Position: Neck<br>
-Master Volume: ~9<br>
-Master Tone: ~9</p>
-</section>
-<section id="zoom-g3xn" class="level2">
-<h2 class="anchored" data-anchor-id="zoom-g3xn">Zoom G3Xn</h2>
-<p>040 Hot Twin (Master Level 10)</p>
-</section>
-<section id="joyo-tremolo" class="level2">
-<h2 class="anchored" data-anchor-id="joyo-tremolo">Joyo Tremolo</h2>
-<p>Intensity: 25%<br>
-Rate: 25%</p>
-</section>
-<section id="fender-blues-jr.-iii" class="level2">
-<h2 class="anchored" data-anchor-id="fender-blues-jr.-iii">Fender Blues Jr.&nbsp;III</h2>
-<p>Volume: 3.5<br>
-Fat: OFF<br>
-Treble: 4.5<br>
-Bass: 7.0<br>
-Middle: 9.0<br>
-Master: 3.5<br>
-Reverb: 2.0</p>
-</section>
-<section id="blue-yeti" class="level2">
-<h2 class="anchored" data-anchor-id="blue-yeti">Blue Yeti</h2>
-<p>Gain: 9 o’clock<br>
-Mode: Cardioid mode, 12” from speaker, slightly off-axis</p>
-</section>
-<section id="dolby-on" class="level2">
-<h2 class="anchored" data-anchor-id="dolby-on">Dolby ON</h2>
-<p>OFF</p>
-<p>Free tempo</p>
-</section>
-<section id="video-1" class="level2">
-<h2 class="anchored" data-anchor-id="video-1">Video</h2>
-<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/PwLIWSBWWH4" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
-<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/VxdPzjTyoL4" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 </section>
 <section id="fender-telecaster-1" class="level2">
 <h2 class="anchored" data-anchor-id="fender-telecaster-1">Fender Telecaster</h2>
@@ -666,9 +684,9 @@ Mode: Cardioid mode, 12” from speaker, slightly off-axis</p>
 Master Volume: ~9<br>
 Master Tone: ~9</p>
 </section>
-<section id="zoom-g3xn-1" class="level2">
-<h2 class="anchored" data-anchor-id="zoom-g3xn-1">Zoom G3Xn</h2>
-<p>OFF</p>
+<section id="zoom-g3xn" class="level2">
+<h2 class="anchored" data-anchor-id="zoom-g3xn">Zoom G3Xn</h2>
+<p>040 Hot Twin (Master Level 10)</p>
 </section>
 <section id="joyo-tremolo-1" class="level2">
 <h2 class="anchored" data-anchor-id="joyo-tremolo-1">Joyo Tremolo</h2>
@@ -681,12 +699,52 @@ Rate: 25%</p>
 Fat: OFF<br>
 Treble: 4.5<br>
 Bass: 7.0<br>
-Middle: 5.0<br>
+Middle: 9.0<br>
 Master: 3.5<br>
 Reverb: 2.0</p>
 </section>
 <section id="blue-yeti-1" class="level2">
 <h2 class="anchored" data-anchor-id="blue-yeti-1">Blue Yeti</h2>
+<p>Gain: 9 o’clock<br>
+Mode: Cardioid mode, 12” from speaker, slightly off-axis</p>
+</section>
+<section id="dolby-on" class="level2">
+<h2 class="anchored" data-anchor-id="dolby-on">Dolby ON</h2>
+<p>OFF</p>
+<p>Free tempo</p>
+</section>
+<section id="video-2" class="level2">
+<h2 class="anchored" data-anchor-id="video-2">Video</h2>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/PwLIWSBWWH4" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/VxdPzjTyoL4" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+</section>
+<section id="fender-telecaster-2" class="level2">
+<h2 class="anchored" data-anchor-id="fender-telecaster-2">Fender Telecaster</h2>
+<p>Pickup Position: Neck<br>
+Master Volume: ~9<br>
+Master Tone: ~9</p>
+</section>
+<section id="zoom-g3xn-1" class="level2">
+<h2 class="anchored" data-anchor-id="zoom-g3xn-1">Zoom G3Xn</h2>
+<p>OFF</p>
+</section>
+<section id="joyo-tremolo-2" class="level2">
+<h2 class="anchored" data-anchor-id="joyo-tremolo-2">Joyo Tremolo</h2>
+<p>Intensity: 25%<br>
+Rate: 25%</p>
+</section>
+<section id="fender-blues-jr.-iii-2" class="level2">
+<h2 class="anchored" data-anchor-id="fender-blues-jr.-iii-2">Fender Blues Jr.&nbsp;III</h2>
+<p>Volume: 3.5<br>
+Fat: OFF<br>
+Treble: 4.5<br>
+Bass: 7.0<br>
+Middle: 5.0<br>
+Master: 3.5<br>
+Reverb: 2.0</p>
+</section>
+<section id="blue-yeti-2" class="level2">
+<h2 class="anchored" data-anchor-id="blue-yeti-2">Blue Yeti</h2>
 <p>Gain: 9 o’clock<br>
 Mode: Cardioid mode, 12” from speaker, slightly off-axis</p>
 </section>

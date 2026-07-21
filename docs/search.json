@@ -1397,7 +1397,7 @@
     "href": "posts/2026-06-02/index.html#video",
     "title": "Hava Nagila",
     "section": "Video",
-    "text": "Video"
+    "text": "Video\n\n\nFender Telecaster\nPickup Position: 3\n\n\nZoom G3Xn ON\n106 Princeton\nBlock 1 — RackComp (DYNAMICS) THRSH: 25 Ratio: 3 ATTCK: 5 VOL: 100 (unity/pass-through — not a boost like RC Boost’s Volume)\nBlock 2 — RC Boost (DRIVE) Gain: 15 Bass: 50 Treble: 55 VOL: 65 (adjusted down from 100/max after A/B testing — 100 was a noticeable level jump, not a subtle push)\nOFF Block 3 — Tremolo (MODULATION) Wave: TUBE Depth: 35 Rate: 30 VOL: 100\nOFF Block 4 — FD Spring (REVERB) — sole reverb source (Option A)\nActive: ON Color: 1 Lo: 55 Hi: 45 Mix: 30\n\n\nJoyo Tremolo\nIntensity: 25% Rate: 25%\n\n\nFender Blues Jr. III\nVolume: 4.5 Fat: OFF Treble: 5.5 Bass: 4.5 Middle: 5.0 Master: 4.5 Reverb: 3.0\n\n\nBlue Yeti\nGain: 9 o’clock Mode: Cardioid mode, 4” from speaker, slightly off-axis"
   },
   {
     "objectID": "posts/2026-06-02/index.html#fender-telecaster",
@@ -6465,7 +6465,7 @@
     "href": "posts/2026-02-16/index.html#video",
     "title": "Okinawa Skies Revisited",
     "section": "Video",
-    "text": "Video"
+    "text": "Video\n\n\nFender Telecaster\nPickup Position: 3\n\n\nZoom G3Xn ON\n106 Princeton\nBlock 1 — RackComp (DYNAMICS) THRSH: 25 Ratio: 3 ATTCK: 5 VOL: 100 (unity/pass-through — not a boost like RC Boost’s Volume)\nBlock 2 — RC Boost (DRIVE) Gain: 15 Bass: 50 Treble: 55 VOL: 65 (adjusted down from 100/max after A/B testing — 100 was a noticeable level jump, not a subtle push)\nOFF Block 3 — Tremolo (MODULATION) Wave: TUBE Depth: 35 Rate: 30 VOL: 100\nOFF Block 4 — FD Spring (REVERB) — sole reverb source (Option A)\nActive: ON Color: 1 Lo: 55 Hi: 45 Mix: 30\n\n\nJoyo Tremolo\nIntensity: 25% Rate: 25%\n\n\nFender Blues Jr. III\nVolume: 4.5 Fat: OFF Treble: 5.5 Bass: 4.5 Middle: 5.0 Master: 4.5 Reverb: 3.0\n\n\nBlue Yeti\nGain: 9 o’clock Mode: Cardioid mode, 4” from speaker, slightly off-axis"
   },
   {
     "objectID": "posts/2026-02-16/index.html#fender-telecaster",
@@ -6542,7 +6542,7 @@
     "href": "posts/2026-02-16/index.html#fender-blues-jr.-iii-1",
     "title": "Okinawa Skies Revisited",
     "section": "Fender Blues Jr. III",
-    "text": "Fender Blues Jr. III\nVolume: 3.5\nFat: OFF\nTreble: 4.5\nBass: 7.0\nMiddle: 5.0\nMaster: 3.5\nReverb: 2.0"
+    "text": "Fender Blues Jr. III\nVolume: 3.5\nFat: OFF\nTreble: 4.5\nBass: 7.0\nMiddle: 9.0\nMaster: 3.5\nReverb: 2.0"
   },
   {
     "objectID": "posts/2026-02-16/index.html#blue-yeti-1",
@@ -6767,5 +6767,47 @@
     "title": "Blues for Captain Grant Coburn",
     "section": "Joyo Tremolo OFF",
     "text": "Joyo Tremolo OFF\nIntensity: 25%\nRate: 25%"
+  },
+  {
+    "objectID": "posts/2026-06-02/index.html#video-1",
+    "href": "posts/2026-06-02/index.html#video-1",
+    "title": "Hava Nagila",
+    "section": "Video",
+    "text": "Video\n\n\nFender Telecaster\nPickup Position: Neck\nMaster Volume: ~5\nMaster Tone: ~6\n\n\nZoom G3Xn\n051 Jimi (Master Level 10)\n\n\nJoyo Tremolo\nIntensity: 50%\nRate: 50%\n\n\nFender Blues Jr. III\nVolume: 3.5\nFat: OFF\nTreble: 4.5\nBass: 7.0\nMiddle: 11.0\nMaster: 3.5\nReverb: 2.0\n\n\nBlue Yeti\nGain: 9 o’clock\nMode: Cardioid mode, 12” from speaker, slightly off-axis\n\n\nDolby ON\nOFF"
+  },
+  {
+    "objectID": "posts/2026-02-16/index.html#video-2",
+    "href": "posts/2026-02-16/index.html#video-2",
+    "title": "Okinawa Skies Revisited",
+    "section": "Video",
+    "text": "Video"
+  },
+  {
+    "objectID": "posts/2026-02-16/index.html#fender-telecaster-2",
+    "href": "posts/2026-02-16/index.html#fender-telecaster-2",
+    "title": "Okinawa Skies Revisited",
+    "section": "Fender Telecaster",
+    "text": "Fender Telecaster\nPickup Position: Neck\nMaster Volume: ~9\nMaster Tone: ~9"
+  },
+  {
+    "objectID": "posts/2026-02-16/index.html#joyo-tremolo-2",
+    "href": "posts/2026-02-16/index.html#joyo-tremolo-2",
+    "title": "Okinawa Skies Revisited",
+    "section": "Joyo Tremolo",
+    "text": "Joyo Tremolo\nIntensity: 25%\nRate: 25%"
+  },
+  {
+    "objectID": "posts/2026-02-16/index.html#fender-blues-jr.-iii-2",
+    "href": "posts/2026-02-16/index.html#fender-blues-jr.-iii-2",
+    "title": "Okinawa Skies Revisited",
+    "section": "Fender Blues Jr. III",
+    "text": "Fender Blues Jr. III\nVolume: 3.5\nFat: OFF\nTreble: 4.5\nBass: 7.0\nMiddle: 5.0\nMaster: 3.5\nReverb: 2.0"
+  },
+  {
+    "objectID": "posts/2026-02-16/index.html#blue-yeti-2",
+    "href": "posts/2026-02-16/index.html#blue-yeti-2",
+    "title": "Okinawa Skies Revisited",
+    "section": "Blue Yeti",
+    "text": "Blue Yeti\nGain: 9 o’clock\nMode: Cardioid mode, 12” from speaker, slightly off-axis"
   }
 ]
