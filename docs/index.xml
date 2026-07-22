@@ -22,6 +22,10 @@
 <p>Tempo: 85 bpm<br>
 Score: Download<br>
 MuseScore: Download</p>
+<section id="video" class="level2">
+<h2 class="anchored" data-anchor-id="video">Video</h2>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/qfviH7PwDw0" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+</section>
 <section id="fender-telecaster" class="level2">
 <h2 class="anchored" data-anchor-id="fender-telecaster">Fender Telecaster</h2>
 <p>Pickup Position: Neck</p>
@@ -50,8 +54,8 @@ Reverb: 1.0</p>
 <p>Gain: 9 o’clock<br>
 Mode: Cardioid mode, 4” from speaker, slightly off-axis</p>
 </section>
-<section id="video" class="level2">
-<h2 class="anchored" data-anchor-id="video">Video</h2>
+<section id="video-1" class="level2">
+<h2 class="anchored" data-anchor-id="video-1">Video</h2>
 <div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/OftGntNSKcE?si=rhdjPvTCa9-pHP1g" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 <div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/lf8Kh4mqEIs" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 <div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/_At_hAHaz8s?si=obvyCeec1HSF5rdW" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>

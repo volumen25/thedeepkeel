@@ -2,7 +2,7 @@
 title: "Blues for Captain Grant Coburn"
 subtitle: "Revisited in 2026"
 date: "2026-07-17"
-date-modified: "2026-07-20"
+date-modified: "2026-07-21"
 format: 
   html: default
 image: "../img/tele_mij.jpg"
@@ -16,6 +16,10 @@ categories:
 Tempo: 85 bpm\
 Score: Download\
 MuseScore: Download
+
+## Video
+
+{{< video https://youtu.be/qfviH7PwDw0 >}}
 
 ## Fender Telecaster
 
