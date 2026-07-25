@@ -2,7 +2,7 @@
 title: "Blues for Captain Grant Coburn"
 subtitle: "Revisited in 2026"
 date: "2026-07-17"
-date-modified: "2026-07-21"
+date-modified: "2026-07-25"
 format: 
   html: default
 image: "../img/tele_mij.jpg"
