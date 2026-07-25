@@ -15,60 +15,87 @@ editor:
 
 ![Fender Telecaster](posts/img/tele.png)
 
-> Modern Player guitars deliver thoroughly modern features and
-> distinctively unconventional takes on revered Fender instruments. The
-> Modern Player Telecaster Plus is that rarest of birds---a three-pickup
-> Tele® model, further distinguished by a pine body, Stratocaster®
-> middle pickup, powerful humbucking bridge pickup, special switching
-> and more. One of the most individual and tonally versatile Telecaster
-> models Fender has ever offered.
+Modern Player guitars deliver thoroughly modern features and
+distinctively unconventional takes on revered Fender instruments. The
+Modern Player Telecaster Plus is that rarest of birds—a three-pickup
+Tele® model, further distinguished by a pine body, Stratocaster® middle
+pickup, powerful humbucking bridge pickup, special switching and more.
+One of the most individual and tonally versatile Telecaster models
+Fender has ever offered.
 
-*2013-11-09, Tom Lee Music, North Vancouver*
+------------------------------------------------------------------------
 
-**Model Name:** Modern Player Telecaster® Plus, Maple Fingerboard, Honey
-Burst\
-**Model Number:** 0241102542\
-**Series:** Modern Player\
-**Color:** Honey Burst
+### Purchase Information
 
-**Body\
-Body Material:** Pine\
-**Body Finish:** Gloss Polyester\
-**Body Shape:** Telecaster®
+- **Date:** 2013-11-09
+- **Store:** Tom Lee Music, North Vancouver
 
-**Neck**\
-**Neck Material:** 1-Piece Maple\
-**Neck Finish:** Gloss Polyester\
-**Neck Shape:** "C" Shape\
-**Scale Length:** 25.5" (64.8 cm)\
-**Fingerboard:** Maple\
-**Fingerboard Radius:** 9.5" (241 mm)\
-**Number of Frets:** 22\
-**Fret Size:** Jumbo\
-**String Nut:** Synthetic Bone\
-**Nut Width:** 1.650" (42 mm)\
-**Position Inlays:** Black Dots
+------------------------------------------------------------------------
 
-**Electronics**\
-**Bridge Pickup:** Modern Player Humbucking\
-**Middle Pickup:** Modern Player Single-Coil Strat\
-**Neck Pickup:** Modern Player Tele\
-**Controls:** Master Volume, Master Tone\
-**Pickup Switching:** 5-Position Blade: Position 1. Bridge Pickup,
-Position 2. Bridge and Middle Pickup, Position 3. Middle Pickup,
-Position 4. Middle and Neck Pickup, Position 5. Neck Pickup\
-**Pickup Configuration:** HSS
+### Model Information
 
-**Hardware**\
-**Bridge:** 6-Saddle Vintage-Style Strat® Strings-Through-Body Hardtail\
-**Hardware Finish:** Nickel/Chrome\
-**Tuning Machines:** Vintage-Style\
-**Pickguard:** 3-Ply Black\
-**Control Knobs:** Knurled Dome\
-**Auxiliary Switching:** Mini-Toggle Rear Coil Selector Switch\
-**Neck Plate:** 4-Bolt
+| Item | Specification |
+|-------------------------|-----------------------------------------------|
+| **Product Name** | Modern Player Telecaster® Plus, Maple Fingerboard, Honey Burst |
+| **Model Number** | 0241102542 |
+| **Series** | Modern Player |
+| **Color** | Honey Burst |
 
-**Miscellaneous** **Strings:** Fender® USA, NPS, (.009-.042 Gauges)
+------------------------------------------------------------------------
+
+### Body
+
+| Specification     | Value           |
+|-------------------|-----------------|
+| **Body Material** | Pine            |
+| **Body Finish**   | Gloss Polyester |
+| **Body Shape**    | Telecaster®     |
+
+------------------------------------------------------------------------
+
+### Neck
+
+| Specification          | Value           |
+|------------------------|-----------------|
+| **Neck Material**      | 1-Piece Maple   |
+| **Neck Finish**        | Gloss Polyester |
+| **Neck Shape**         | "C" Shape       |
+| **Scale Length**       | 25.5" (64.8 cm) |
+| **Fingerboard**        | Maple           |
+| **Fingerboard Radius** | 9.5" (241 mm)   |
+| **Number of Frets**    | 22              |
+| **Fret Size**          | Jumbo           |
+| **String Nut**         | Synthetic Bone  |
+| **Nut Width**          | 1.650" (42 mm)  |
+| **Position Inlays**    | Black Dots      |
+
+------------------------------------------------------------------------
+
+### Electronics
+
+| Specification | Value |
+|-----------------------------------------------|-------------------------|
+| **Bridge Pickup** | Modern Player Humbucking |
+| **Middle Pickup** | Modern Player Single-Coil Strat |
+| **Neck Pickup** | Modern Player Tele |
+| **Controls** | Master Volume, Master Tone |
+| **Pickup Switching** | 5-Position Blade: 1. Bridge Pickup 2. Bridge + Middle Pickup 3. Middle Pickup 4. Middle + Neck Pickup 5. Neck Pickup |
+| **Pickup Configuration** | HSS |
+
+------------------------------------------------------------------------
+
+### Hardware
+
+| Specification | Value |
+|-----------------------------------------------|-------------------------|
+| **Bridge** | 6-Saddle Vintage-Style Strat® Strings-Through-Body Hardtail |
+| **Hardware Finish** | Nickel/Chrome |
+| **Tuning Machines** | Vintage-Style |
+| **Pickguard** | 3-Ply Black |
+| **Control Knobs** | Knurled Dome |
+| **Auxiliary Switching** | Mini-Toggle Rear Coil Selector Switch |
+| **Neck Plate** | 4-Bolt |
+| **Strings** | Fender® USA, NPS (.009–.042 Gauges) |
 
 ### Amp Settings
 
@@ -139,173 +166,256 @@ Amp Weight: 17 lbs (7.7 kg)
 
 ![Art & Lutherie Parlor](posts/img/art-lutherie-ami.jpg)
 
-*2016-12-08, Tom Lee Music, North Vancouver*
+### Purchase Information
 
-- Body Type Ami
-- Case Gig Bag
-- Country of Origin Canada
-- Electronics None
-- Fingerboard Rosewood
-- Finish Burgundy, Semi-Gloss Custom Varnish
-- Neck Silver Leaf Maple
-- Nut Graphtech Tusq
-- Part \# 023523
-- Pickguard None
-- Saddle Graphtech Tusq
-- Top/Body Material Spruce / Wild Cherry
+- **Date:** 2016-12-08
+- **Store:** Tom Lee Music, North Vancouver
+
+------------------------------------------------------------------------
+
+### Model Information
+
+| Item                  | Specification                       |
+|-----------------------|-------------------------------------|
+| **Product Name**      | Art & Lutherie Parlor               |
+| **Part Number**       | 023523                              |
+| **Body Type**         | Ami (French for friend)             |
+| **Country of Origin** | Canada                              |
+| **Color / Finish**    | Burgundy, Semi-Gloss Custom Varnish |
+
+------------------------------------------------------------------------
+
+### Body
+
+| Specification             | Value                              |
+|---------------------------|------------------------------------|
+| **Top Material**          | Spruce (Pressure-Tested Solid Top) |
+| **Back & Sides Material** | Wild Cherry                        |
+| **Bracing**               | X-Braced                           |
+| **Finish**                | Semi-Gloss Custom Varnish          |
+| **Body Style**            | Parlor (12-Fret Design)            |
+
+------------------------------------------------------------------------
+
+### Neck
+
+| Specification     | Value                   |
+|-------------------|-------------------------|
+| **Neck Material** | Silver Leaf Maple       |
+| **Neck Joint**    | Joins Body at 12th Fret |
+| **Scale Length**  | 24.75"                  |
+| **Fingerboard**   | Rosewood                |
+| **String Nut**    | Graphtech Tusq          |
+| **Nut Width**     | 1 11/16" (1.72")        |
+
+------------------------------------------------------------------------
+
+### Electronics
+
+| Specification   | Value |
+|-----------------|-------|
+| **Electronics** | None  |
+
+------------------------------------------------------------------------
+
+### Hardware
+
+| Specification | Value          |
+|---------------|----------------|
+| **Bridge**    | Rosewood       |
+| **Saddle**    | Graphtech Tusq |
+| **Pickguard** | None           |
+
+------------------------------------------------------------------------
+
+### Accessories
+
+| Specification | Value   |
+|---------------|---------|
+| **Case**      | Gig Bag |
 
 ## Fender Blues Jr III
 
 ![Fender Blues Jr](posts/img/bluesjr.jpg)
 
-> Fender Hot Rod series amplifiers are found on every stage in the
-> world, large and small, and are used by guitarists from all walks of
-> life. Hot Rod amps deliver unmistakable Fender tone and are the
-> perfect platform for musicians to craft their own signature sound.
-> These no-frills amps are affordable, reliable and loud, and they pair
-> extremely well with stomp boxes. The Blues Junior III is a 15-watt
-> warm-toned, longtime favorite - the perfect grab-and-go tube amp for
-> stage and studio. It is known for the fat mid tones characteristic of
-> EL-84 output tubes, warm 12AX7 preamp tube overdrive, real spring
-> reverb, simple control layout, footswitchable FAT boost and external
-> speaker capability.
+The **Fender Blues Junior III** is a member of Fender's renowned **Hot
+Rod** amplifier series, found on stages around the world. Known for its
+unmistakable Fender tone, the Blues Junior III is a 15-watt all-tube
+combo amplifier that serves as an excellent platform for pedals while
+delivering warm clean tones and rich tube overdrive.
 
-*2017-11-12, Best Buy, West Vancouver*
+A longtime favourite for both stage and studio, it features EL84 power
+tubes, 12AX7 preamp tubes, genuine spring reverb, a simple control
+layout, a footswitchable **FAT** boost, and support for an external
+speaker cabinet.
 
-Features:\
-Black control panel with front-reading text\
-New badge\
-Vintage Fender dog bone handle\
-Vintage-size jewel light\
-Sparkle circuit mod\
-Rattle-reducing shock absorbers for the EL84 tubes\
-Highly sensitive Fender Special Design 12 lightning bolt speaker by
-Eminence\
-Heavy-duty set-screw chicken head knobs.\
-Electronics\
-Voltage: 120V\
-Wattage: 15 Watts\
-Inputs: One\
-Extension Speaker Jack: External Speaker Jack\
-Channels: One Channel\
-Rectifier: Solid State Rectifier\
-Controls: Reverb, Master, Middle, Bass, Treble, "Fat" Switch, Volume
+------------------------------------------------------------------------
 
-Hardware\
-Hardware Finish: Chrome\
-Pilot Light Jewel: Red Amp Jewel\
-Handle: "Dog Bone" Handle\
-Front Panel: Black Front Panel\
-Grill Cover Cloth: Black Textured Vinyl Covering with Blackface Style
-Black/Silver Grille Cloth\
-Input Impedance: 1 M Input Impedance\
-Output Impedance: 8 Ohm\
-Amplifier Length: 9.18" (23.31 cm)\
-Amplifier Width: 18" (45.72 cm)\
-Amplifier Height: 16" (40.6 cm)\
-Amplifier Weight: 31 lbs. (14.06 kg)\
-Effects: Spring Reverb
+### Purchase Information
 
-Speakers\
-Speaker: 12 inch, 8 ohm, 50 Watt Fender Lightning Bolt speaker by
-Eminence
+- **Date:** 2017-11-12
+- **Store:** Best Buy, West Vancouver
 
-Tubes\
-Pre Amp Tubes: 3 x 12AX7\
-Power Tubes: 2 x EL84
+------------------------------------------------------------------------
 
-Miscellaneous\
-Unique Features: Black control panel, New badge, Rattle reducing shock
-absorbers for EL84 tubes, Fat Switch
+### Features
 
-Accessories\
-FootSwitch: Uses Optional 1-Button Footswitch, p/n 0994054000\
-Knobs: Chicken head-style amp knobs
+- Black control panel with front-reading text
+- New Fender badge
+- Vintage Fender "Dog Bone" handle
+- Vintage-size jewel pilot light
+- Sparkle circuit modification
+- Rattle-reducing shock absorbers for the EL84 tubes
+- Fender Special Design 12" *Lightning Bolt* speaker by Eminence
+- Heavy-duty set-screw chicken-head knobs
+
+------------------------------------------------------------------------
+
+### Electronics
+
+| Specification | Value |
+|-----------------------------------------------|-------------------------|
+| **Voltage** | 120 V |
+| **Output Power** | 15 Watts |
+| **Inputs** | One |
+| **Channels** | One |
+| **Rectifier** | Solid State |
+| **Extension Speaker** | External Speaker Jack |
+| **Controls** | Volume, FAT Switch, Treble, Bass, Middle, Master, Reverb |
+
+------------------------------------------------------------------------
+
+### Hardware
+
+| Specification              | Value                                       |
+|----------------------------|---------------------------------------------|
+| **Hardware Finish**        | Chrome                                      |
+| **Pilot Light Jewel**      | Red Amp Jewel                               |
+| **Handle**                 | Vintage "Dog Bone" Handle                   |
+| **Front Panel**            | Black                                       |
+| **Covering**               | Black Textured Vinyl                        |
+| **Grille Cloth**           | Blackface Style Black/Silver                |
+| **Input Impedance**        | 1 MΩ                                        |
+| **Output Impedance**       | 8 Ω                                         |
+| **Effects**                | Spring Reverb                               |
+| **Dimensions (L × W × H)** | 9.18" × 18" × 16" (23.31 × 45.72 × 40.6 cm) |
+| **Weight**                 | 31 lb (14.06 kg)                            |
+
+------------------------------------------------------------------------
+
+### Speaker
+
+| Specification      | Value                                   |
+|--------------------|-----------------------------------------|
+| **Speaker**        | 12" Fender *Lightning Bolt* by Eminence |
+| **Impedance**      | 8 Ω                                     |
+| **Power Handling** | 50 Watts                                |
+
+------------------------------------------------------------------------
+
+### Tubes
+
+| Specification    | Value     |
+|------------------|-----------|
+| **Preamp Tubes** | 3 × 12AX7 |
+| **Power Tubes**  | 2 × EL84  |
+
+------------------------------------------------------------------------
+
+### Miscellaneous
+
+| Specification | Value |
+|-----------------------------------------------|-------------------------|
+| **Unique Features** | Black control panel, updated Fender badge, rattle-reducing EL84 tube shock absorbers, footswitchable FAT boost |
+
+------------------------------------------------------------------------
+
+### Accessories
+
+| Specification  | Value                                         |
+|----------------|-----------------------------------------------|
+| **Footswitch** | Optional 1-Button Footswitch (P/N 0994054000) |
+| **Knobs**      | Chicken Head Style                            |
 
 ## Gibson Les Paul
 
 ![Gibson Les Paul](posts/img/lespaul.png)
 
-> The Les Paul Tribute captures the historic character of the legendary
-> Les Paul guitar. Historic Gibson tonewoods, carved top, cream
-> pickguard, vintage-style tuners, trapezoid inlays, and boosted
-> PAF-inspired pickups give this impressive guitar classic looks and
-> sound with an elegant, vintage touch. No weight relief for those
-> players who like to feel the authenticity of history in their hands.
+The **Les Paul Tribute** captures the historic character of the
+legendary Les Paul guitar. Historic Gibson tonewoods, a carved top,
+cream pickguard, vintage-style tuners, trapezoid inlays, and boosted
+PAF-inspired pickups deliver classic Gibson looks and sound with an
+elegant vintage touch. There is **no weight relief**, making it ideal
+for players who appreciate the authentic feel of a traditional Les Paul.
 
 [Source](http://legacy.gibson.com/Products/Electric-Guitars/2018/USA/Les-Paul-Tribute-2018.aspx).
 
-*2018-06-30, Tom Lee Music, North Vancouver*
+------------------------------------------------------------------------
 
-**Body**
+### Purchase Information
 
-Wood Species: Plain Maple Top with a Mahogany Body
+- **Date:** 2018-06-30
+- **Store:** Tom Lee Music, North Vancouver
 
-Finish: Satin Nitrocellulose Lacquer \| Satin Faded Honeyburst
+### Body
 
-**Neck**
+| Specification    | Value                                |
+|------------------|--------------------------------------|
+| **Wood Species** | Plain Maple Top with a Mahogany Body |
+| **Finish**       | Satin Nitrocellulose Lacquer         |
+| **Color**        | Satin Faded Honeyburst               |
 
-Material: Mahogany
+------------------------------------------------------------------------
 
-Neck Profile: Slim Taper
+### Neck
 
-Scale Length: 24.75"
+| Specification            | Value                         |
+|--------------------------|-------------------------------|
+| **Neck Material**        | Mahogany                      |
+| **Neck Profile**         | Slim Taper                    |
+| **Scale Length**         | 24.75"                        |
+| **Fingerboard Material** | Rosewood                      |
+| **Fingerboard Radius**   | 12"                           |
+| **Number of Frets**      | 22                            |
+| **Frets**                | Medium, Cryogenically Treated |
+| **Nut Material**         | Tektoid                       |
+| **Nut Width**            | 1.695"                        |
+| **End of Board Width**   | 2.26"                         |
+| **Inlays**               | Acrylic Trapezoids            |
 
-Fingerboard Material: Rosewood
+------------------------------------------------------------------------
 
-Fingerboard Radius: 12"
+### Hardware
 
-Number of Frets: 22
+| Specification        | Value                                          |
+|----------------------|------------------------------------------------|
+| **Hardware Finish**  | Nickel                                         |
+| **Bridge**           | Aluminum Tune-O-Matic                          |
+| **Tailpiece**        | Aluminum Stop Bar                              |
+| **Tuning Machines**  | Vintage Style Keystones                        |
+| **Pickguard**        | Cream                                          |
+| **Control Knobs**    | Gold Top Hats with Silver Inserts and Pointers |
+| **Switch Tip**       | Cream                                          |
+| **Switch Washer**    | Cream (not mounted)                            |
+| **Jack Plate Cover** | Cream                                          |
 
-Frets: Medium - Cryogenically Treated
+------------------------------------------------------------------------
 
-Nut Material: Tektoid
+### Electronics
 
-Nut Width: 1.695"
+| Specification     | Value                                 |
+|-------------------|---------------------------------------|
+| **Neck Pickup**   | 490R                                  |
+| **Bridge Pickup** | 498T                                  |
+| **Controls**      | 2 Volume, 2 Tone, 3-Way Toggle Switch |
 
-End of Board Width: 2.26"
+------------------------------------------------------------------------
 
-Inlays: Acrylic Trapezoids
+### Accessories
 
-**Hardware**
-
-Finish: Nickel
-
-Bridge: Aluminum Tune-O-Matic
-
-Tailpiece: Aluminum Stop Bar
-
-Tuning Machines: Vintage Style Keystones
-
-Pick Guard: Cream
-
-Control Knobs: Gold top hats with silver inserts and pointers
-
-Switch Tip: Cream
-
-Switch Washer: Cream (not mounted)
-
-Jack Plate Cover: Cream
-
-**Electronics**
-
-Neck Pickup: 490R
-
-Bridge Pickup: 498T
-
-Controls: 2 volumes, 2 tones, 1 toggle switch
-
-**Accessories**
-
-Strings: .09, .011, .016, .026, .036, .046
-
-Case: Soft Case
-
-Other: Includes Gibson Accessory Kit
-
-**SKUs**
-
-LPTR18FHNH1, LPTR18SGNH1
+| Specification | Value                              |
+|---------------|------------------------------------|
+| **Strings**   | .009, .011, .016, .026, .036, .046 |
 
 ### Amp Settings
 
@@ -328,37 +438,85 @@ Rate: 25%
 
 ![ZOOM Multi-FX Processor](posts/img/Zoom_G3Xn_Top.jpg){width="540"}
 
-*2018-12-27, Long & McQuade, Richmond*
+The **ZOOM G3Xn Multi-FX Processor** is a compact guitar effects unit
+that combines high-quality digital effects, amplifier and cabinet
+modeling, looping, rhythm accompaniment, and USB connectivity. It allows
+guitarists to build complex signal chains while maintaining an intuitive
+stompbox-style interface with dedicated displays and footswitches.
 
-**Features At A Glance**
+------------------------------------------------------------------------
 
-- 70 (68 effects, 1 looper pedal, and 1 rhythm pedal) onboard
-  high-quality digital effects, including distortion, overdrive, EQ,
-  compression, delay, reverb, flanging, phasing, and chorusing
-- 5 new amp emulators plus 5 cabinet emulators
-- 75 custom-designed factory patches
-- Free ZOOM Guitar Lab Mac/Windows software allows\
-  downloading of additional effects and patches
-- Use up to 7 effects simultaneously, chained together in\
-  any order
-- 3 stompbox switches allow effects to instantly be brought in and out
-- 3 independent editing displays
-- Auto Save function for automatic saving of all patch parameters
-- Onboard chromatic tuner with dedicated footswitch supports all
-  standard guitar tunings, including open and drop tunings
-- Tuner range of 435 - 445 Hz
-- Stereo/mono Looper allows recording of up to 80 seconds of phrase
-  recording
-- 68 built-in rhythm patterns that can be used in conjunction with the
-  Looper
-- Tap Tempo with dedicated footswitch
-- Input jack accepts standard guitar cable
-- Auxiliary stereo input jack for connection of smartphones and music
-  players
-- Dual output jacks for connection to guitar amps and mono or stereo PA
-  systems
-- Stereo headphone output
-- Included AC adapter
+### Purchase Information
+
+- **Date:** 2018-12-27
+- **Store:** Long & McQuade, Richmond
+
+------------------------------------------------------------------------
+
+### Features
+
+- 70 onboard effects
+  - 68 guitar effects
+  - 1 Looper
+  - 1 Rhythm pedal
+- High-quality effects including:
+  - Distortion
+  - Overdrive
+  - Equalizer (EQ)
+  - Compression
+  - Delay
+  - Reverb
+  - Flanger
+  - Phaser
+  - Chorus
+- 5 amplifier emulators
+- 5 cabinet emulators
+- 75 factory preset patches
+- Free **ZOOM Guitar Lab** software for macOS and Windows
+  - Download additional effects
+  - Download and manage patches
+- Up to **7 simultaneous effects**, chained in any order
+- Three stompbox footswitches for instant effect on/off control
+- Three independent editing displays
+- Auto Save for automatic storage of edited patches
+
+### Tuner
+
+| Specification            | Value                            |
+|--------------------------|----------------------------------|
+| **Type**                 | Chromatic                        |
+| **Dedicated Footswitch** | Yes                              |
+| **Supported Tunings**    | Standard, Open, and Drop Tunings |
+| **Reference Pitch**      | 435–445 Hz                       |
+
+------------------------------------------------------------------------
+
+### Looper & Rhythm
+
+| Specification              | Value                |
+|----------------------------|----------------------|
+| **Looper**                 | Stereo/Mono          |
+| **Maximum Recording Time** | 80 seconds           |
+| **Rhythm Patterns**        | 68                   |
+| **Looper with Rhythm**     | Supported            |
+| **Tap Tempo**              | Dedicated Footswitch |
+
+------------------------------------------------------------------------
+
+### Connectivity
+
+| Specification | Value |
+|-----------------------------------------------|-------------------------|
+| **Instrument Input** | Standard 1/4" Guitar Input |
+| **Auxiliary Input** | Stereo input for smartphones and music players |
+| **Outputs** | Dual outputs for guitar amplifiers or mono/stereo PA systems |
+| **Headphone Output** | Stereo |
+
+------------------------------------------------------------------------
+
+### Included Accessories
+
+- AC power adapter
 
 ### Download Manuals
 
@@ -372,73 +530,92 @@ Rate: 25%
 
 ![Fender Stratocaster](posts/img/strat%202.jpg)
 
-> A tonally versatile guitar with time-honored Fender style and sound,
-> the Deluxe Strat has a few tricks up its sleeve. Special switching
-> unlocks extra pickup combinations for those moments you find yourself
-> needing a little extra kick to stand out. Combining noise-free
-> performance with enhanced playing comfort, this sleek instrument is a
-> truly deluxe performer that excels on stage and in the studio.
+The **Deluxe Strat®** is a tonally versatile guitar with the
+time-honored Fender style and sound. Special switching unlocks
+additional pickup combinations when a little extra presence is needed.
+Combining noise-free performance with enhanced playing comfort, this
+instrument is designed to excel both on stage and in the studio.
 
-*2019-07-09, Tom Lee Music, Vancouver*
+------------------------------------------------------------------------
 
-**Model Name:** Stratocaster Deluxe Strat®\
-**Model Number:** 0147103303\
-**Series:** Deluxe Strat®\
-**Color:** 2-Color Sunburst
+### Purchase Information
 
-**Body**
+- **Date:** 2019-07-09
+- **Store:** Tom Lee Music, Vancouver
 
-**Body Material:** Ash\
-**Body Finish:** Gloss Polyester\
-**Body Shape:** Stratocaster®
+### Model Information
 
-**Neck**
+| Item             | Specification    |
+|------------------|------------------|
+| **Product Name** | Deluxe Strat®    |
+| **Model Number** | 0147103303       |
+| **Series**       | Deluxe Strat®    |
+| **Color**        | 2-Color Sunburst |
 
-**Neck Material:** Maple\
-**Neck Finish:** Satin Urethane\
-**Neck Shape:** Modern "C"\
-**Scale Length:** 25.5" (648 mm)\
-**Fingerboard Material:** Pau Ferro\
-**Fingerboard Radius:** 12" (305 mm)\
-**Number of Frets:** 22\
-**Fret Size:** Narrow Tall\
-**Nut Material:** Synthetic Bone\
-**Nut Width:** 1.650" (42 mm)\
-**Position Inlays:** White Pearloid Dots\
-**Truss Rod:** Standard\
-**Truss Rod Nut:** 3/16" Hex Adjustment
+------------------------------------------------------------------------
 
-**Electronics**
+### Body
 
-**Bridge Pickup:** Vintage Noiseless™ Single-Coil Strat®\
-**Middle Pickup:** Vintage Noiseless™ Single-Coil Strat®\
-**Neck Pickup:** Vintage Noiseless™ Single-Coil Strat®\
-**Controls:** Master Volume, Tone 1. (Neck/Middle Pickups), Tone 2.
-(Bridge Pickup)\
-**Switching:** 5-Position Blade: Position 1. Bridge, Position 2. Bridge
-and Middle, Position 3. Middle, Position 4. Middle and Neck (Plus Bridge
-When Push/Push Switch Is Activated), Position 5. Neck (Plus Bridge When
-Push/Push Switch Is Activated)\
-**Configuration:** SSS
+| Specification     | Value           |
+|-------------------|-----------------|
+| **Body Material** | Ash             |
+| **Body Finish**   | Gloss Polyester |
+| **Body Shape**    | Stratocaster®   |
 
-**Hardware**
+------------------------------------------------------------------------
 
-**Bridge:** 2-Point Synchronized Tremolo with Bent Steel Saddles\
-**Hardware Finish:** Nickel/Chrome\
-**Tuning Machines:** Deluxe Cast/Sealed Locking with Vintage Style
-Button\
-**Pickguard:** 3-Ply Black\
-**Control Knobs:** Aged White Plastic\
-**Switch Tip:** Aged White\
-**Neck Plate:** 4-Bolt Asymmetrical
+### Neck
 
-**Miscellaneous**
+| Specification            | Value                |
+|--------------------------|----------------------|
+| **Neck Material**        | Maple                |
+| **Neck Finish**          | Satin Urethane       |
+| **Neck Shape**           | Modern "C"           |
+| **Scale Length**         | 25.5" (648 mm)       |
+| **Fingerboard Material** | Pau Ferro            |
+| **Fingerboard Radius**   | 12" (305 mm)         |
+| **Number of Frets**      | 22                   |
+| **Fret Size**            | Narrow Tall          |
+| **Nut Material**         | Synthetic Bone       |
+| **Nut Width**            | 1.650" (42 mm)       |
+| **Position Inlays**      | White Pearloid Dots  |
+| **Truss Rod**            | Standard             |
+| **Truss Rod Nut**        | 3/16" Hex Adjustment |
 
-**Strings:** Fender® USA 250L Nickel Plated Steel (.009-.042 Gauges)
+------------------------------------------------------------------------
 
-**Accessories**
+### Electronics
 
-**Case/Gig Bag:** Deluxe Gig Bag
+| Specification | Value |
+|-----------------------------------------------|-------------------------|
+| **Bridge Pickup** | Vintage Noiseless™ Single-Coil Strat® |
+| **Middle Pickup** | Vintage Noiseless™ Single-Coil Strat® |
+| **Neck Pickup** | Vintage Noiseless™ Single-Coil Strat® |
+| **Controls** | Master Volume, Tone 1 (Neck/Middle Pickups), Tone 2 (Bridge Pickup) |
+| **Switching** | 5-Position Blade: 1. Bridge 2. Bridge + Middle 3. Middle 4. Middle + Neck *(plus Bridge when Push/Push switch is activated)* 5. Neck *(plus Bridge when Push/Push switch is activated)* |
+| **Pickup Configuration** | SSS |
+
+------------------------------------------------------------------------
+
+### Hardware
+
+| Specification       | Value                                                 |
+|-----------------------------------------------|-------------------------|
+| **Bridge**          | 2-Point Synchronized Tremolo with Bent Steel Saddles  |
+| **Hardware Finish** | Nickel/Chrome                                         |
+| **Tuning Machines** | Deluxe Cast/Sealed Locking with Vintage Style Buttons |
+| **Pickguard**       | 3-Ply Black                                           |
+| **Control Knobs**   | Aged White Plastic                                    |
+| **Switch Tip**      | Aged White                                            |
+| **Neck Plate**      | 4-Bolt Asymmetrical                                   |
+
+------------------------------------------------------------------------
+
+### Miscellaneous
+
+| Specification | Value                                                   |
+|---------------|---------------------------------------------------------|
+| **Strings**   | Fender® USA 250L Nickel Plated Steel (.009–.042 Gauges) |
 
 ### Amp Settings
 
@@ -461,141 +638,179 @@ Rate: 25%
 
 ![Fender Jaguar](posts/img/jaguar_hh0.jpeg)
 
-> Respecting their heritage while offering a modern twist on a classic,
-> Fender's Player Series Jaguar updates the popular short-scale
-> instrument with modern features and pickups. Starting with the surf,
-> indie rock and punk favorite's iconic offset body and easy-playing 24"
-> scale length, Fender fines the design with freshly designed Player
-> Series pickups, for an exceptional range of available tones. The maple
-> neck now boasts a contemporary 9.5" radius pau ferro fingerboard, and
-> the Adjusto-matic bridge and anchored tailpiece offers stable tuning
-> and rock-solid intonation. Always a guitar for the musically
-> adventurous, the Player Series Jaguar is ready for you to create
-> whatever music floats into your head.
+Respecting their heritage while offering a modern twist on a classic,
+Fender's Player Series Jaguar updates the popular short-scale instrument
+with modern features and pickups. Starting with the surf, indie rock and
+punk favourite's iconic offset body and easy-playing 24" scale length,
+Fender refines the design with freshly designed Player Series pickups,
+for an exceptional range of available tones. The maple neck now boasts a
+contemporary 9.5" radius pau ferro fingerboard, and the Adjusto-matic
+bridge and anchored tailpiece offers stable tuning and rock-solid
+intonation. Always a guitar for the musically adventurous, the Player
+Series Jaguar is ready for you to create whatever music floats into your
+head.
 
 [Source](https://www.musiciansfriend.com/guitars/fender-player-jaguar-hh-pau-ferro-fingerboard-limited-edition-electric-guitar).
 
-*2020-11-07, Long & McQuade, Surrey*
+### Purchase Information
 
-**Model Name:** Jaguar\
-**Model Number:** 014-0223-504\
-**Series:** FSR Player\
-**Color:** Daphne Blue
+- **Date:** 2020-11-07
+- **Store:** Long & McQuade, Surrey
 
-**Body**
+------------------------------------------------------------------------
 
-**Shape:** Jaguar® (Double cutaway offset)\
-**Type:** Solid body\
-**Material:** Alder\
-**Finish:** Gloss Polyester\
-**Pickguard:** 3-Ply Black
+### Model Information
 
-**Neck**
+| Item | Specification |
+|-------------------------|-----------------------------------------------|
+| **Product Name** | Player Jaguar® HH, Pau Ferro Fingerboard (Limited Edition) |
+| **Model Number** | 014-0223-504 |
+| **Series** | FSR Player |
+| **Color** | Daphne Blue |
 
-**Shape:** Modern C\
-**Wood:** Maple\
-**Joint:** 4-Bolt with "F" Logo\
-**Scale length:** 24 in. (610 mm)\
-**Truss rod:** Standard, 3/16" Hex Adjustment\
-**Finish:** Satin Urethane Finish on Back of Neck with Gloss Urethane
-Headstock Face
+------------------------------------------------------------------------
 
-**Fingerboard**
+### Body
 
-**Material:** Pau Ferro\
-**Radius:** 9.5 in.\
-**Fret size:** Medium jumbo\
-**Number of frets:** 22\
-**Inlays:** Dot\
-**Nut width/material:** 1.65 in. (42 mm) Synthetic Bone
+| Specification     | Value                           |
+|-------------------|---------------------------------|
+| **Body Shape**    | Jaguar® (Double Cutaway Offset) |
+| **Body Type**     | Solid Body                      |
+| **Body Material** | Alder                           |
+| **Body Finish**   | Gloss Polyester                 |
+| **Pickguard**     | 3-Ply Black                     |
 
-**Pickups**
+------------------------------------------------------------------------
 
-**Configuration:** HH\
-**Neck:** Player Series Alnico 2 Humbucking\
-**Bridge:** Player Series Alnico 2 Humbucking
+### Neck
 
-**Controls**\
-**Control layout:** Master volume, Master tone\
-**Control knobs:** Skirted Amp Knobs\
-**Pickup switch:** 3-Position Blade: Position 1. Bridge Pickup, Position
-2. Bridge and Neck Pickups, Position 3. Neck Pickup
+| Specification | Value |
+|-----------------------------------------------|-------------------------|
+| **Neck Material** | Maple |
+| **Neck Finish** | Satin Urethane (Back of Neck), Gloss Urethane (Headstock Face) |
+| **Neck Shape** | Modern "C" |
+| **Neck Joint** | 4-Bolt with "F" Logo |
+| **Scale Length** | 24" (610 mm) |
+| **Truss Rod** | Standard, 3/16" Hex Adjustment |
+| **Fingerboard** | Pau Ferro |
+| **Fingerboard Radius** | 9.5" (241 mm) |
+| **Number of Frets** | 22 |
+| **Fret Size** | Medium Jumbo |
+| **String Nut** | Synthetic Bone |
+| **Nut Width** | 1.65" (42 mm) |
+| **Position Inlays** | White Dots |
 
-**Hardware**
+------------------------------------------------------------------------
 
-**Bridge type:** Fixed\
-**Bridge design:** Adjusto-matic\
-**Tailpiece:** Stopbar\
-**Tuning machines:** Die-cast sealed\
-**Color:** Nickel/chrome
+### Electronics
 
-**Miscellaneous**
+| Specification | Value |
+|-----------------------------------------------|-------------------------|
+| **Neck Pickup** | Player Series Alnico 2 Humbucking |
+| **Bridge Pickup** | Player Series Alnico 2 Humbucking |
+| **Controls** | Master Volume, Master Tone |
+| **Pickup Switching** | 3-Position Blade: 1. Bridge Pickup 2. Bridge + Neck Pickups 3. Neck Pickup |
+| **Pickup Configuration** | HH |
 
-**Strings:** Nickel Plated Steel (.009-.042 Gauges)
+------------------------------------------------------------------------
+
+### Hardware
+
+| Specification       | Value                                  |
+|---------------------|----------------------------------------|
+| **Bridge**          | Fixed, Adjustomatic Design             |
+| **Tailpiece**       | Stopbar                                |
+| **Hardware Finish** | Nickel/Chrome                          |
+| **Tuning Machines** | Die-Cast Sealed                        |
+| **Control Knobs**   | Skirted Amp Knobs                      |
+| **Strings**         | Nickel Plated Steel (.009–.042 Gauges) |
 
 ## Fender Telecaster
 
 ![Fender Telecaster](posts/img/tele_mij.png)
 
-> The Made in Japan Traditional series was derived by combining the
-> aesthetics of Fender's traditional musical instrument production with
-> sophisticated Japanese craftsmanship. The orthodox DNA of the Fender
-> is revived with a solid Made in Japan quality.
->
-> Made in Japan Traditional 60s Telecaster® uses a basswood body with a
-> gloss finish. The 9.5-inch radius "U"-shaped maple neck equipped with
-> 21 vintage-style frets provides a classic playability unique to the
-> Traditional series. Vintage style Tele® bridge with three threaded
-> steel saddles, and the original pick-up selected for the Traditional
-> series play a realistic and musical vintage tone. The narrow nut width
-> is easy for Japanese players to play.
+The **Made in Japan Traditional** series was derived by combining the
+aesthetics of Fender's traditional musical instrument production with
+sophisticated Japanese craftsmanship. The orthodox DNA of Fender is
+revived with solid **Made in Japan** quality.
+
+The **Made in Japan Traditional 60s Telecaster®** uses a basswood body
+with a gloss finish. The 9.5-inch radius **"U"**-shaped maple neck,
+equipped with 21 vintage-style frets, provides the classic playability
+unique to the Traditional series. A vintage-style Tele® bridge with
+three threaded steel saddles and the original pickups selected for the
+Traditional series deliver an authentic, musical vintage tone. The
+narrow nut width is designed for comfortable playability.
 
 [Source](https://jp.fender.com/products/made-in-japan-traditional-60s-telecaster)
 
-*2025-10-10, Fender Flagship Tokyo, Harajuku*
+### Purchase Information
 
-**Product Name:** Made in Japan Traditional 60s Telecaster®, Rosewood
-Fingerboard\
-**Model Number:** 5360200341\
-**Series:** Made in Japan Traditional\
-**Color:** Vintage White
+- **Date:** 2025-10-10
+- **Store:** Fender Flagship Tokyo, Harajuku
 
-**Body**\
-**Body Material:** Basswood\
-**Body Finish:** Gloss Polyester\
-**Body Shape:** Telecaster®
+### Model Information
 
-**Neck**\
-**Neck Material:** Maple\
-**Neck Finish:** Gloss Urethane\
-**Neck Shape:** "U" Shape\
-**Scale Length:** 25.5" (64.77 cm)\
-**Fingerboard:** Rosewood\
-**Fingerboard Radius:** 9.5" (241 mm)\
-**Number of Frets:** 21\
-**Fret Size:** Vintage\
-**String Nut:** Bone\
-**Nut Width:** 1.615" (41.02 mm)\
-**Position Inlays:** White Dots
+| Item | Specification |
+|-------------------------|-----------------------------------------------|
+| **Product Name** | Made in Japan Traditional 60s Telecaster®, Rosewood Fingerboard |
+| **Model Number** | 5360200341 |
+| **Series** | Made in Japan Traditional |
+| **Color** | Vintage White |
 
-**Electronics**\
-**Bridge Pickup:** Vintage-Style Single-Coil Tele®\
-**Neck Pickup:** Vintage-Style Single-Coil Tele®\
-**Controls:** Master Volume, Master Tone\
-**Pickup Switching:** 3-Position Blade: Position 1. Bridge Pickup,
-Position 2. Bridge and Neck Pickups, Position 3. Neck Pickup\
-**Pickup Configuration:** SS
+------------------------------------------------------------------------
 
-**Hardware**\
-**Bridge:** 3-Saddle Vintage Style Tele® with Threaded Steel Saddles\
-**Hardware Finish:** Nickel/Chrome\
-**Tuning Machines:** Vintage-Style\
-**Pickguard:** 3-Ply Mint Green\
-**Control Knobs:** Knurled Flat-Top\
-**Neck Plate:** 4-Bolt\
-**Strings:** Nickel Plated Steel (.009–.042 Gauges)
+### Body
 
-**Miscellaneous** Included: Gig Bag
+| Specification     | Value           |
+|-------------------|-----------------|
+| **Body Material** | Basswood        |
+| **Body Finish**   | Gloss Polyester |
+| **Body Shape**    | Telecaster®     |
+
+------------------------------------------------------------------------
+
+### Neck
+
+| Specification          | Value             |
+|------------------------|-------------------|
+| **Neck Material**      | Maple             |
+| **Neck Finish**        | Gloss Urethane    |
+| **Neck Shape**         | "U" Shape         |
+| **Scale Length**       | 25.5" (64.77 cm)  |
+| **Fingerboard**        | Rosewood          |
+| **Fingerboard Radius** | 9.5" (241 mm)     |
+| **Number of Frets**    | 21                |
+| **Fret Size**          | Vintage           |
+| **String Nut**         | Bone              |
+| **Nut Width**          | 1.615" (41.02 mm) |
+| **Position Inlays**    | White Dots        |
+
+------------------------------------------------------------------------
+
+### Electronics
+
+| Specification | Value |
+|-----------------------------------------------|-------------------------|
+| **Bridge Pickup** | Vintage-Style Single-Coil Tele® |
+| **Neck Pickup** | Vintage-Style Single-Coil Tele® |
+| **Controls** | Master Volume, Master Tone |
+| **Pickup Switching** | 3-Position Blade: 1. Bridge Pickup 2. Bridge + Neck Pickups 3. Neck Pickup |
+| **Pickup Configuration** | SS |
+
+------------------------------------------------------------------------
+
+### Hardware
+
+| Specification | Value |
+|-----------------------------------------------|-------------------------|
+| **Bridge** | 3-Saddle Vintage Style Tele® with Threaded Steel Saddles |
+| **Hardware Finish** | Nickel/Chrome |
+| **Tuning Machines** | Vintage-Style |
+| **Pickguard** | 3-Ply Mint Green |
+| **Control Knobs** | Knurled Flat-Top |
+| **Neck Plate** | 4-Bolt |
+| **Strings** | Nickel Plated Steel (.009–.042 Gauges) |
 
 ### Amp Settings
 
@@ -618,11 +833,51 @@ Rate: 50%
 
 ![JOYO JF-09 TREMOLO](posts/img/JOYO.jpg){width="246"}
 
-This is the tremolo of the beloved classic tube amplifiers--using the
-same photoelectric tube circuitry as the trem in those amps of old.
-Intensity and Rate knobs make it easy to adjust the tone and vibe. True
-bypass design minimizes tone loss. Aluminum alloy casing with stoving
-varnish finish.
+The **JOYO JF-09 Tremolo** recreates the classic tremolo effect found in
+vintage tube amplifiers. It uses the same **photoelectric tube
+circuitry** found in many classic amp designs, producing a warm, smooth,
+and musical modulation. Simple **Intensity** and **Rate** controls make
+it easy to dial in anything from a subtle shimmer to a deep pulsing
+tremolo.
+
+The pedal features **true bypass** switching to minimize tone loss when
+disengaged and is housed in a durable aluminum alloy enclosure with a
+stoving varnish finish.
+
+------------------------------------------------------------------------
+
+### Features
+
+- Vintage tube amplifier-style tremolo
+- Photoelectric tube circuit emulation
+- Warm, smooth modulation
+- Simple two-knob operation
+- True bypass switching
+- Rugged aluminum alloy enclosure
+- Durable stoving varnish finish
+
+------------------------------------------------------------------------
+
+### Overview
+
+| Item             | Specification                        |
+|------------------|--------------------------------------|
+| **Model**        | JF-09                                |
+| **Manufacturer** | JOYO                                 |
+| **Effect Type**  | Tremolo                              |
+| **Circuit**      | Photoelectric Tube Circuit Emulation |
+| **Bypass**       | True Bypass                          |
+| **Enclosure**    | Aluminum Alloy                       |
+| **Finish**       | Stoving Varnish                      |
+
+------------------------------------------------------------------------
+
+### Controls
+
+| Control       | Function                                    |
+|---------------|---------------------------------------------|
+| **Intensity** | Adjusts the depth of the tremolo effect     |
+| **Rate**      | Adjusts the speed of the tremolo modulation |
 
 ## Blue Yeti
 
@@ -630,21 +885,61 @@ varnish finish.
 
 ![](posts/img/Yeti_Diagram.jpg){fig-align="center" width="602"}
 
-Power Required/Consumption: 5V 150mA\
-Sample Rate: 48 kHz Bit Rate: 16-bit\
-Capsules: 3 Blue-proprietary 14mm condenser capsules\
-Polar Patterns: Cardioid, Bidirectional, Omnidirectional, Stereo\
-Frequency Response: 20Hz - 20kHz Max\
-Dimensions (extended in stand): 4.72" (12cm) x 4.92"(12.5cm) x
-11.61"(29.5cm)\
-Weight (microphone): 1.2 lbs (.55 kg)\
-Weight (stand): 2.2 lbs (1 kg)\
-Headphone Amplifier\
-Impedance: 16 ohms\
-Power Output (RMS): 130 mW\
-THD: 0.009%\
-Frequency Response: 15 Hz - 22 kHz\
-Signal to Noise: 100dB
+The **Blue Yeti** is a USB condenser microphone designed for podcasting,
+streaming, voice-over work, music recording, and video production.
+Featuring three proprietary condenser capsules and four selectable polar
+patterns, it provides versatile recording options while offering
+built-in headphone monitoring with zero-latency playback.
+
+------------------------------------------------------------------------
+
+### Features
+
+- USB plug-and-play connectivity
+- Three custom 14 mm condenser capsules
+- Four selectable polar patterns
+  - Cardioid
+  - Bidirectional
+  - Omnidirectional
+  - Stereo
+- Built-in headphone output for zero-latency monitoring
+- Integrated gain, mute, headphone volume, and pattern controls
+- Adjustable desktop stand
+
+------------------------------------------------------------------------
+
+### Microphone Specifications
+
+| Specification          | Value                                            |
+|-----------------------------------------------|-------------------------|
+| **Power Requirement**  | 5 V DC, 150 mA                                   |
+| **Sample Rate**        | 48 kHz                                           |
+| **Bit Depth**          | 16-bit                                           |
+| **Capsules**           | 3 × Blue Proprietary 14 mm Condenser Capsules    |
+| **Polar Patterns**     | Cardioid, Bidirectional, Omnidirectional, Stereo |
+| **Frequency Response** | 20 Hz – 20 kHz                                   |
+
+------------------------------------------------------------------------
+
+### Physical Specifications
+
+| Specification               | Value                                        |
+|-----------------------------------------------|-------------------------|
+| **Dimensions (with Stand)** | 4.72" × 4.92" × 11.61" (12 × 12.5 × 29.5 cm) |
+| **Microphone Weight**       | 1.2 lb (0.55 kg)                             |
+| **Stand Weight**            | 2.2 lb (1.0 kg)                              |
+
+------------------------------------------------------------------------
+
+### Headphone Amplifier
+
+| Specification                       | Value          |
+|-------------------------------------|----------------|
+| **Output Impedance**                | 16 Ω           |
+| **Power Output (RMS)**              | 130 mW         |
+| **Total Harmonic Distortion (THD)** | 0.009%         |
+| **Frequency Response**              | 15 Hz – 22 kHz |
+| **Signal-to-Noise Ratio**           | 100 dB         |
 
 ## Mac Studio
 
