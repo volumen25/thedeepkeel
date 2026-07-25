@@ -19,7 +19,7 @@ MuseScore: Download
 
 ## Video
 
-{{< video https://youtu.be/qfviH7PwDw0 >}}
+{{< video https://youtu.be/Mus6imXY07g >}}
 
 ## Fender Telecaster
 
