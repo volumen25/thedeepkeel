@@ -23,14 +23,10 @@ pickup, powerful humbucking bridge pickup, special switching and more.
 One of the most individual and tonally versatile Telecaster models
 Fender has ever offered.
 
-------------------------------------------------------------------------
-
 ### Purchase Information
 
 - **Date:** 2013-11-09
 - **Store:** Tom Lee Music, North Vancouver
-
-------------------------------------------------------------------------
 
 ### Model Information
 
@@ -41,8 +37,6 @@ Fender has ever offered.
 | **Series** | Modern Player |
 | **Color** | Honey Burst |
 
-------------------------------------------------------------------------
-
 ### Body
 
 | Specification     | Value           |
@@ -50,8 +44,6 @@ Fender has ever offered.
 | **Body Material** | Pine            |
 | **Body Finish**   | Gloss Polyester |
 | **Body Shape**    | Telecaster®     |
-
-------------------------------------------------------------------------
 
 ### Neck
 
@@ -69,8 +61,6 @@ Fender has ever offered.
 | **Nut Width**          | 1.650" (42 mm)  |
 | **Position Inlays**    | Black Dots      |
 
-------------------------------------------------------------------------
-
 ### Electronics
 
 | Specification | Value |
@@ -81,8 +71,6 @@ Fender has ever offered.
 | **Controls** | Master Volume, Master Tone |
 | **Pickup Switching** | 5-Position Blade: 1. Bridge Pickup 2. Bridge + Middle Pickup 3. Middle Pickup 4. Middle + Neck Pickup 5. Neck Pickup |
 | **Pickup Configuration** | HSS |
-
-------------------------------------------------------------------------
 
 ### Hardware
 
@@ -171,8 +159,6 @@ Amp Weight: 17 lbs (7.7 kg)
 - **Date:** 2016-12-08
 - **Store:** Tom Lee Music, North Vancouver
 
-------------------------------------------------------------------------
-
 ### Model Information
 
 | Item                  | Specification                       |
@@ -183,8 +169,6 @@ Amp Weight: 17 lbs (7.7 kg)
 | **Country of Origin** | Canada                              |
 | **Color / Finish**    | Burgundy, Semi-Gloss Custom Varnish |
 
-------------------------------------------------------------------------
-
 ### Body
 
 | Specification             | Value                              |
@@ -194,8 +178,6 @@ Amp Weight: 17 lbs (7.7 kg)
 | **Bracing**               | X-Braced                           |
 | **Finish**                | Semi-Gloss Custom Varnish          |
 | **Body Style**            | Parlor (12-Fret Design)            |
-
-------------------------------------------------------------------------
 
 ### Neck
 
@@ -208,15 +190,11 @@ Amp Weight: 17 lbs (7.7 kg)
 | **String Nut**    | Graphtech Tusq          |
 | **Nut Width**     | 1 11/16" (1.72")        |
 
-------------------------------------------------------------------------
-
 ### Electronics
 
 | Specification   | Value |
 |-----------------|-------|
 | **Electronics** | None  |
-
-------------------------------------------------------------------------
 
 ### Hardware
 
@@ -225,8 +203,6 @@ Amp Weight: 17 lbs (7.7 kg)
 | **Bridge**    | Rosewood       |
 | **Saddle**    | Graphtech Tusq |
 | **Pickguard** | None           |
-
-------------------------------------------------------------------------
 
 ### Accessories
 
@@ -249,14 +225,10 @@ tubes, 12AX7 preamp tubes, genuine spring reverb, a simple control
 layout, a footswitchable **FAT** boost, and support for an external
 speaker cabinet.
 
-------------------------------------------------------------------------
-
 ### Purchase Information
 
 - **Date:** 2017-11-12
 - **Store:** Best Buy, West Vancouver
-
-------------------------------------------------------------------------
 
 ### Features
 
@@ -269,8 +241,6 @@ speaker cabinet.
 - Fender Special Design 12" *Lightning Bolt* speaker by Eminence
 - Heavy-duty set-screw chicken-head knobs
 
-------------------------------------------------------------------------
-
 ### Electronics
 
 | Specification | Value |
@@ -282,8 +252,6 @@ speaker cabinet.
 | **Rectifier** | Solid State |
 | **Extension Speaker** | External Speaker Jack |
 | **Controls** | Volume, FAT Switch, Treble, Bass, Middle, Master, Reverb |
-
-------------------------------------------------------------------------
 
 ### Hardware
 
@@ -301,8 +269,6 @@ speaker cabinet.
 | **Dimensions (L × W × H)** | 9.18" × 18" × 16" (23.31 × 45.72 × 40.6 cm) |
 | **Weight**                 | 31 lb (14.06 kg)                            |
 
-------------------------------------------------------------------------
-
 ### Speaker
 
 | Specification      | Value                                   |
@@ -311,8 +277,6 @@ speaker cabinet.
 | **Impedance**      | 8 Ω                                     |
 | **Power Handling** | 50 Watts                                |
 
-------------------------------------------------------------------------
-
 ### Tubes
 
 | Specification    | Value     |
@@ -320,15 +284,11 @@ speaker cabinet.
 | **Preamp Tubes** | 3 × 12AX7 |
 | **Power Tubes**  | 2 × EL84  |
 
-------------------------------------------------------------------------
-
 ### Miscellaneous
 
 | Specification | Value |
 |-----------------------------------------------|-------------------------|
 | **Unique Features** | Black control panel, updated Fender badge, rattle-reducing EL84 tube shock absorbers, footswitchable FAT boost |
-
-------------------------------------------------------------------------
 
 ### Accessories
 
@@ -350,8 +310,6 @@ for players who appreciate the authentic feel of a traditional Les Paul.
 
 [Source](http://legacy.gibson.com/Products/Electric-Guitars/2018/USA/Les-Paul-Tribute-2018.aspx).
 
-------------------------------------------------------------------------
-
 ### Purchase Information
 
 - **Date:** 2018-06-30
@@ -364,8 +322,6 @@ for players who appreciate the authentic feel of a traditional Les Paul.
 | **Wood Species** | Plain Maple Top with a Mahogany Body |
 | **Finish**       | Satin Nitrocellulose Lacquer         |
 | **Color**        | Satin Faded Honeyburst               |
-
-------------------------------------------------------------------------
 
 ### Neck
 
@@ -383,8 +339,6 @@ for players who appreciate the authentic feel of a traditional Les Paul.
 | **End of Board Width**   | 2.26"                         |
 | **Inlays**               | Acrylic Trapezoids            |
 
-------------------------------------------------------------------------
-
 ### Hardware
 
 | Specification        | Value                                          |
@@ -399,8 +353,6 @@ for players who appreciate the authentic feel of a traditional Les Paul.
 | **Switch Washer**    | Cream (not mounted)                            |
 | **Jack Plate Cover** | Cream                                          |
 
-------------------------------------------------------------------------
-
 ### Electronics
 
 | Specification     | Value                                 |
@@ -408,8 +360,6 @@ for players who appreciate the authentic feel of a traditional Les Paul.
 | **Neck Pickup**   | 490R                                  |
 | **Bridge Pickup** | 498T                                  |
 | **Controls**      | 2 Volume, 2 Tone, 3-Way Toggle Switch |
-
-------------------------------------------------------------------------
 
 ### Accessories
 
@@ -444,14 +394,10 @@ modeling, looping, rhythm accompaniment, and USB connectivity. It allows
 guitarists to build complex signal chains while maintaining an intuitive
 stompbox-style interface with dedicated displays and footswitches.
 
-------------------------------------------------------------------------
-
 ### Purchase Information
 
 - **Date:** 2018-12-27
 - **Store:** Long & McQuade, Richmond
-
-------------------------------------------------------------------------
 
 ### Features
 
@@ -489,8 +435,6 @@ stompbox-style interface with dedicated displays and footswitches.
 | **Supported Tunings**    | Standard, Open, and Drop Tunings |
 | **Reference Pitch**      | 435–445 Hz                       |
 
-------------------------------------------------------------------------
-
 ### Looper & Rhythm
 
 | Specification              | Value                |
@@ -501,8 +445,6 @@ stompbox-style interface with dedicated displays and footswitches.
 | **Looper with Rhythm**     | Supported            |
 | **Tap Tempo**              | Dedicated Footswitch |
 
-------------------------------------------------------------------------
-
 ### Connectivity
 
 | Specification | Value |
@@ -511,8 +453,6 @@ stompbox-style interface with dedicated displays and footswitches.
 | **Auxiliary Input** | Stereo input for smartphones and music players |
 | **Outputs** | Dual outputs for guitar amplifiers or mono/stereo PA systems |
 | **Headphone Output** | Stereo |
-
-------------------------------------------------------------------------
 
 ### Included Accessories
 
@@ -536,8 +476,6 @@ additional pickup combinations when a little extra presence is needed.
 Combining noise-free performance with enhanced playing comfort, this
 instrument is designed to excel both on stage and in the studio.
 
-------------------------------------------------------------------------
-
 ### Purchase Information
 
 - **Date:** 2019-07-09
@@ -552,8 +490,6 @@ instrument is designed to excel both on stage and in the studio.
 | **Series**       | Deluxe Strat®    |
 | **Color**        | 2-Color Sunburst |
 
-------------------------------------------------------------------------
-
 ### Body
 
 | Specification     | Value           |
@@ -561,8 +497,6 @@ instrument is designed to excel both on stage and in the studio.
 | **Body Material** | Ash             |
 | **Body Finish**   | Gloss Polyester |
 | **Body Shape**    | Stratocaster®   |
-
-------------------------------------------------------------------------
 
 ### Neck
 
@@ -582,8 +516,6 @@ instrument is designed to excel both on stage and in the studio.
 | **Truss Rod**            | Standard             |
 | **Truss Rod Nut**        | 3/16" Hex Adjustment |
 
-------------------------------------------------------------------------
-
 ### Electronics
 
 | Specification | Value |
@@ -594,8 +526,6 @@ instrument is designed to excel both on stage and in the studio.
 | **Controls** | Master Volume, Tone 1 (Neck/Middle Pickups), Tone 2 (Bridge Pickup) |
 | **Switching** | 5-Position Blade: 1. Bridge 2. Bridge + Middle 3. Middle 4. Middle + Neck *(plus Bridge when Push/Push switch is activated)* 5. Neck *(plus Bridge when Push/Push switch is activated)* |
 | **Pickup Configuration** | SSS |
-
-------------------------------------------------------------------------
 
 ### Hardware
 
@@ -608,8 +538,6 @@ instrument is designed to excel both on stage and in the studio.
 | **Control Knobs**   | Aged White Plastic                                    |
 | **Switch Tip**      | Aged White                                            |
 | **Neck Plate**      | 4-Bolt Asymmetrical                                   |
-
-------------------------------------------------------------------------
 
 ### Miscellaneous
 
@@ -657,8 +585,6 @@ head.
 - **Date:** 2020-11-07
 - **Store:** Long & McQuade, Surrey
 
-------------------------------------------------------------------------
-
 ### Model Information
 
 | Item | Specification |
@@ -667,8 +593,6 @@ head.
 | **Model Number** | 014-0223-504 |
 | **Series** | FSR Player |
 | **Color** | Daphne Blue |
-
-------------------------------------------------------------------------
 
 ### Body
 
@@ -679,8 +603,6 @@ head.
 | **Body Material** | Alder                           |
 | **Body Finish**   | Gloss Polyester                 |
 | **Pickguard**     | 3-Ply Black                     |
-
-------------------------------------------------------------------------
 
 ### Neck
 
@@ -700,8 +622,6 @@ head.
 | **Nut Width** | 1.65" (42 mm) |
 | **Position Inlays** | White Dots |
 
-------------------------------------------------------------------------
-
 ### Electronics
 
 | Specification | Value |
@@ -711,8 +631,6 @@ head.
 | **Controls** | Master Volume, Master Tone |
 | **Pickup Switching** | 3-Position Blade: 1. Bridge Pickup 2. Bridge + Neck Pickups 3. Neck Pickup |
 | **Pickup Configuration** | HH |
-
-------------------------------------------------------------------------
 
 ### Hardware
 
@@ -758,8 +676,6 @@ narrow nut width is designed for comfortable playability.
 | **Series** | Made in Japan Traditional |
 | **Color** | Vintage White |
 
-------------------------------------------------------------------------
-
 ### Body
 
 | Specification     | Value           |
@@ -767,8 +683,6 @@ narrow nut width is designed for comfortable playability.
 | **Body Material** | Basswood        |
 | **Body Finish**   | Gloss Polyester |
 | **Body Shape**    | Telecaster®     |
-
-------------------------------------------------------------------------
 
 ### Neck
 
@@ -786,8 +700,6 @@ narrow nut width is designed for comfortable playability.
 | **Nut Width**          | 1.615" (41.02 mm) |
 | **Position Inlays**    | White Dots        |
 
-------------------------------------------------------------------------
-
 ### Electronics
 
 | Specification | Value |
@@ -797,8 +709,6 @@ narrow nut width is designed for comfortable playability.
 | **Controls** | Master Volume, Master Tone |
 | **Pickup Switching** | 3-Position Blade: 1. Bridge Pickup 2. Bridge + Neck Pickups 3. Neck Pickup |
 | **Pickup Configuration** | SS |
-
-------------------------------------------------------------------------
 
 ### Hardware
 
@@ -844,8 +754,6 @@ The pedal features **true bypass** switching to minimize tone loss when
 disengaged and is housed in a durable aluminum alloy enclosure with a
 stoving varnish finish.
 
-------------------------------------------------------------------------
-
 ### Features
 
 - Vintage tube amplifier-style tremolo
@@ -855,8 +763,6 @@ stoving varnish finish.
 - True bypass switching
 - Rugged aluminum alloy enclosure
 - Durable stoving varnish finish
-
-------------------------------------------------------------------------
 
 ### Overview
 
@@ -869,8 +775,6 @@ stoving varnish finish.
 | **Bypass**       | True Bypass                          |
 | **Enclosure**    | Aluminum Alloy                       |
 | **Finish**       | Stoving Varnish                      |
-
-------------------------------------------------------------------------
 
 ### Controls
 
@@ -891,8 +795,6 @@ Featuring three proprietary condenser capsules and four selectable polar
 patterns, it provides versatile recording options while offering
 built-in headphone monitoring with zero-latency playback.
 
-------------------------------------------------------------------------
-
 ### Features
 
 - USB plug-and-play connectivity
@@ -906,8 +808,6 @@ built-in headphone monitoring with zero-latency playback.
 - Integrated gain, mute, headphone volume, and pattern controls
 - Adjustable desktop stand
 
-------------------------------------------------------------------------
-
 ### Microphone Specifications
 
 | Specification          | Value                                            |
@@ -919,8 +819,6 @@ built-in headphone monitoring with zero-latency playback.
 | **Polar Patterns**     | Cardioid, Bidirectional, Omnidirectional, Stereo |
 | **Frequency Response** | 20 Hz – 20 kHz                                   |
 
-------------------------------------------------------------------------
-
 ### Physical Specifications
 
 | Specification               | Value                                        |
@@ -928,8 +826,6 @@ built-in headphone monitoring with zero-latency playback.
 | **Dimensions (with Stand)** | 4.72" × 4.92" × 11.61" (12 × 12.5 × 29.5 cm) |
 | **Microphone Weight**       | 1.2 lb (0.55 kg)                             |
 | **Stand Weight**            | 2.2 lb (1.0 kg)                              |
-
-------------------------------------------------------------------------
 
 ### Headphone Amplifier
 
