@@ -19,6 +19,11 @@ MuseScore: Download
 
 ## Video
 
+
+{{< video https://youtu.be/yICfcnTT_40 >}}
+
+{{< video https://youtu.be/F9_yEmw5WBE >}}
+
 {{< video https://youtu.be/Mus6imXY07g >}}
 
 ## Fender Telecaster
@@ -27,9 +32,9 @@ Pickup Position: Neck
 
 ## Zoom G3Xn ON
 
-106 Princeton
+33 RC Clean
 
-## Joyo Tremolo OFF
+## Joyo Tremolo ON
 
 Intensity: 25%\
 Rate: 25%
@@ -51,8 +56,8 @@ Mode: Cardioid mode, 4” from speaker, slightly off-axis
 
 ## Video
 
-{{< video https://youtu.be/OftGntNSKcE?si=rhdjPvTCa9-pHP1g >}}
+{{< video https://youtu.be/s2iD1PJiJK0 >}}
 
-{{< video https://youtu.be/lf8Kh4mqEIs >}}
+{{< video https://youtu.be/OftGntNSKcE?si=rhdjPvTCa9-pHP1g >}}
 
 {{< video https://youtu.be/_At_hAHaz8s?si=obvyCeec1HSF5rdW >}}
