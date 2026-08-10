@@ -1,0 +1,96 @@
+---
+title: "Happy Birthday Mom"
+subtitle: "2026"
+date: "2026-08-04"
+date-modified: "2026-08-09"
+#draft: true
+format: 
+  html: default
+image: "../img/tele_mij.jpg"
+# image: "../img/les.jpg"
+# image: "../img/strat.jpg"
+# image: "../img/tele.jpg"
+categories:
+  - "2026"
+  - Telecaster
+  - Song
+---
+
+## Video
+
+{{< video https://youtu.be/mR9cWn5HAkU >}}
+
+{{< video https://youtu.be/uVE2o2oTkWE >}}
+
+## Fender Telecaster
+
+Pickup Position: Neck\
+Master Volume: \~5\
+Master Tone: \~6
+
+# Zoom G3Xn ON
+
+106 Princeton
+
+## Joyo Tremolo OFF
+
+Intensity: 50%\
+Rate: 50%
+
+## Fender Blues Jr. III
+
+Volume: 4.5\
+Fat: OFF\
+Treble: 5.5\
+Bass: 4.5\
+Middle: 5.0\
+Master: 4.5\
+Reverb: 1.0
+
+## Blue Yeti
+
+Gain: 9 o'clock\
+Mode: Cardioid mode, 4” from speaker, slightly off-axis
+
+## Dolby ON
+
+OFF
+
+## Zoom G3Xn "Princeton" Patch
+
+**Guitar**: Fender Stratocaster, pickup position 4\
+**Zoom**: G3Xn, Firmware 2.20, Patch cell 106, Patch name "Princeton" Goal: Warm, articulate Princeton Reverb-style clean tone with shimmer trem and spring reverb\
+**Amp**: Fender Blues Jr III (real amp, miked — no Zoom amp/cab sim used)
+
+### Signal Chain
+
+Guitar → RackComp → RC Boost → Tremolo → FD Spring → Zoom output → Blues Jr input → mic
+
+### Block 1 — RackComp (DYNAMICS)
+
+- [x] THRSH: 25
+- [x] Ratio: 3
+- [x] ATTCK: 5
+- [x] VOL: 100 (unity/pass-through — not a boost like RC Boost's Volume)
+
+### Block 2 — RC Boost (DRIVE)
+
+- [x] Gain: 15
+- [x] Bass: 50
+- [x] Treble: 55
+- [x] VOL: 65 (adjusted down from 100/max after A/B testing — 100 was a noticeable level jump, not a subtle push)
+
+### Block 3 — Tremolo (MODULATION)
+
+- [x] Wave: **TUBE**
+- [x] Depth: 35
+- [x] Rate: 30
+- [x] VOL: 100
+
+### Block 4 — FD Spring (REVERB) — sole reverb source (Option A)
+
+- [x] Active: ON
+- [x] Color: 1
+- [x] Lo: 55
+- [x] Hi: 45
+- [x] Mix: 30
