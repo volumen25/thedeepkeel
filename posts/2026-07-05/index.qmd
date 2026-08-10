@@ -2,7 +2,7 @@
 title: "Für Edith"
 subtitle: "Open D Tuning"
 date: "2026-07-05"
-date-modified: "2026-07-14"
+date-modified: "2026-08-09"
 format: 
   html: default
 image: "../img/strat.jpg"
@@ -19,6 +19,8 @@ MuseScore: [Download](FurEdithJuly2026.mscz)\
 GarageBand: [Download](FurEdithJuly2026.band)
 
 ## Video
+
+{{< video https://youtu.be/PE-l3ffCEiw >}}
 
 {{< video https://youtu.be/s0GQLyrOMeQ >}}
 
