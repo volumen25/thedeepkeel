@@ -2,7 +2,7 @@
 title: "Blues for Captain Grant Coburn"
 subtitle: "Revisited in 2026"
 date: "2026-07-17"
-date-modified: "2026-07-25"
+date-modified: "2026-08-13"
 format: 
   html: default
 image: "../img/tele_mij.jpg"
@@ -19,6 +19,7 @@ MuseScore: Download
 
 ## Video
 
+{{< video https://youtu.be/ebpnsgp534U >}}
 
 {{< video https://youtu.be/yICfcnTT_40 >}}
 
