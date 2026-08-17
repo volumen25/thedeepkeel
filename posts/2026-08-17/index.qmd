@@ -2,7 +2,7 @@
 title: "Boogie Shuffle"
 subtitle: "Applied Blues"
 date: "2026-08-17"
-#date-modified: "2026-08-17"
+date-modified: "2026-08-17"
 format: 
   html: default
 image: "../img/tele_mij.jpg"
