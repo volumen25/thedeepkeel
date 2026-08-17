@@ -53,12 +53,3 @@ Reverb: 1.0
 Blue Yeti\
 Gain: 9 o'clock\
 Mode: Cardioid mode, 4” from speaker, slightly off-axis
-
-## Dolby ON
-
-Natural, Boost +2
-
-## GarageBand
-
-Track Preset: WhiteXmasTrack\
-Master Preset: WhiteXmas

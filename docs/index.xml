@@ -10,7 +10,66 @@
 <atom:link href="https://guitars.volumen.ca/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.10.18</generator>
-<lastBuildDate>Tue, 04 Aug 2026 07:00:00 GMT</lastBuildDate>
+<lastBuildDate>Mon, 17 Aug 2026 07:00:00 GMT</lastBuildDate>
+<item>
+  <title>Boogie Shuffle</title>
+  <link>https://guitars.volumen.ca/posts/2026-08-17/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Tempo: free bpm<br>
+Measures:</p>
+<p>Tempo: 85 bpm<br>
+Score: <a href="BoogieShuffle.pdf">Boogie Shuffle</a><br>
+MuseScore: <a href="BoogieShuffle.mscz">Boogie Shuffle</a></p>
+<section id="video" class="level2">
+<h2 class="anchored" data-anchor-id="video">Video</h2>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/-LRxImf_2FI?si=f3ME5rf5IFMj5PBk" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+</section>
+<section id="fender-telecaster" class="level2">
+<h2 class="anchored" data-anchor-id="fender-telecaster">Fender Telecaster</h2>
+<p>Pickup Position: Neck<br>
+Master Volume: ~9<br>
+Master Tone: ~6</p>
+</section>
+<section id="multi-effects-processor-zoom-g3xn" class="level2">
+<h2 class="anchored" data-anchor-id="multi-effects-processor-zoom-g3xn">Multi Effects Processor: Zoom G3Xn</h2>
+<p>Preset 33: RC Clean</p>
+</section>
+<section id="joyo-tremolo" class="level2">
+<h2 class="anchored" data-anchor-id="joyo-tremolo">Joyo Tremolo</h2>
+<p>Intensity: 25%<br>
+Rate: 25%</p>
+</section>
+<section id="amplifier-fender-blues-jr.-iii" class="level2">
+<h2 class="anchored" data-anchor-id="amplifier-fender-blues-jr.-iii">Amplifier: Fender Blues Jr.&nbsp;III</h2>
+<p>Volume: 4.5<br>
+Fat: OFF<br>
+Treble: 5.5<br>
+Bass: 4.5<br>
+Middle: 5.0<br>
+Master: 4.5<br>
+Reverb: 1.0</p>
+</section>
+<section id="microphone" class="level2">
+<h2 class="anchored" data-anchor-id="microphone">Microphone</h2>
+<p>Blue Yeti<br>
+Gain: 9 o’clock<br>
+Mode: Cardioid mode, 4” from speaker, slightly off-axis</p>
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
+  <category>2026</category>
+  <category>Telecaster</category>
+  <category>Blues</category>
+  <guid>https://guitars.volumen.ca/posts/2026-08-17/</guid>
+  <pubDate>Mon, 17 Aug 2026 07:00:00 GMT</pubDate>
+  <media:content url="https://guitars.volumen.ca/posts/img/tele_mij.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Happy Birthday Mom</title>
   <link>https://guitars.volumen.ca/posts/2026-08-04/</link>
@@ -876,66 +935,6 @@ Mode: Cardioid mode, 12” from speaker, slightly off-axis</p>
   <category>Study</category>
   <guid>https://guitars.volumen.ca/posts/2026-02-16/</guid>
   <pubDate>Mon, 16 Feb 2026 08:00:00 GMT</pubDate>
-  <media:content url="https://guitars.volumen.ca/posts/img/tele_mij.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>The Little Drummer Boy</title>
-  <link>https://guitars.volumen.ca/posts/2025-12-24/</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>Free tempo</p>
-<section id="video" class="level2">
-<h2 class="anchored" data-anchor-id="video">Video</h2>
-<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/yaO8B-w4CvA" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
-</section>
-<section id="fender-telecaster" class="level2">
-<h2 class="anchored" data-anchor-id="fender-telecaster">Fender Telecaster</h2>
-<p>Pickup Position: Neck<br>
-Master Volume: ~9<br>
-Master Tone: ~6</p>
-</section>
-<section id="zoom-g3xn" class="level2">
-<h2 class="anchored" data-anchor-id="zoom-g3xn">Zoom G3Xn</h2>
-<p>OFF</p>
-</section>
-<section id="joyo-tremolo" class="level2">
-<h2 class="anchored" data-anchor-id="joyo-tremolo">Joyo Tremolo</h2>
-<p>Intensity: 25%<br>
-Rate: 75%</p>
-</section>
-<section id="fender-blues-jr.-iii" class="level2">
-<h2 class="anchored" data-anchor-id="fender-blues-jr.-iii">Fender Blues Jr.&nbsp;III</h2>
-<p>Volume: 3.5<br>
-Fat: OFF<br>
-Treble: 4.5<br>
-Bass: 7.0<br>
-Middle: 5.0<br>
-Master: 3.5<br>
-Reverb: 2.0</p>
-</section>
-<section id="blue-yeti" class="level2">
-<h2 class="anchored" data-anchor-id="blue-yeti">Blue Yeti</h2>
-<p>Gain: 9 o’clock<br>
-Mode: Cardioid mode, 12” from speaker, slightly off-axis</p>
-</section>
-<section id="dolby-on" class="level2">
-<h2 class="anchored" data-anchor-id="dolby-on">Dolby ON</h2>
-<p>Standard</p>
-
-
-</section>
-
-<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
-  <category>2025</category>
-  <category>Telecaster</category>
-  <category>Christmas</category>
-  <category>Song</category>
-  <category>Study</category>
-  <guid>https://guitars.volumen.ca/posts/2025-12-24/</guid>
-  <pubDate>Wed, 24 Dec 2025 08:00:00 GMT</pubDate>
   <media:content url="https://guitars.volumen.ca/posts/img/tele_mij.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
