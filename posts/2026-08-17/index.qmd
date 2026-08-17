@@ -3,7 +3,6 @@ title: "Boogie Shuffle"
 subtitle: "Applied Blues"
 date: "2026-08-17"
 #date-modified: "2026-08-17"
-#draft: true
 format: 
   html: default
 image: "../img/tele_mij.jpg"
@@ -14,7 +13,7 @@ categories:
 ---
 
 Tempo: free bpm\
-Measures: 1-8
+Measures:
 
 Tempo: 85 bpm\
 Score: [Boogie Shuffle](BoogieShuffle.pdf)\
