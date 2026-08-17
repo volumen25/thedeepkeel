@@ -6774,5 +6774,68 @@
     "title": "Happy Birthday Mom",
     "section": "Zoom G3Xn “Princeton” Patch",
     "text": "Zoom G3Xn “Princeton” Patch\nGuitar: Fender Stratocaster, pickup position 4\nZoom: G3Xn, Firmware 2.20, Patch cell 106, Patch name “Princeton” Goal: Warm, articulate Princeton Reverb-style clean tone with shimmer trem and spring reverb\nAmp: Fender Blues Jr III (real amp, miked — no Zoom amp/cab sim used)\n\nSignal Chain\nGuitar → RackComp → RC Boost → Tremolo → FD Spring → Zoom output → Blues Jr input → mic\n\n\nBlock 1 — RackComp (DYNAMICS)\n\nTHRSH: 25\nRatio: 3\nATTCK: 5\nVOL: 100 (unity/pass-through — not a boost like RC Boost’s Volume)\n\n\n\nBlock 2 — RC Boost (DRIVE)\n\nGain: 15\nBass: 50\nTreble: 55\nVOL: 65 (adjusted down from 100/max after A/B testing — 100 was a noticeable level jump, not a subtle push)\n\n\n\nBlock 3 — Tremolo (MODULATION)\n\nWave: TUBE\nDepth: 35\nRate: 30\nVOL: 100\n\n\n\nBlock 4 — FD Spring (REVERB) — sole reverb source (Option A)\n\nActive: ON\nColor: 1\nLo: 55\nHi: 45\nMix: 30"
+  },
+  {
+    "objectID": "posts/2026-08-17/index.html",
+    "href": "posts/2026-08-17/index.html",
+    "title": "Boogie Shuffle",
+    "section": "",
+    "text": "Tempo: free bpm\nMeasures: 1-8\nTempo: 85 bpm\nScore: Boogie Shuffle\nMuseScore: Boogie Shuffle"
+  },
+  {
+    "objectID": "posts/2026-08-17/index.html#video",
+    "href": "posts/2026-08-17/index.html#video",
+    "title": "Boogie Shuffle",
+    "section": "Video",
+    "text": "Video"
+  },
+  {
+    "objectID": "posts/2026-08-17/index.html#fender-telecaster",
+    "href": "posts/2026-08-17/index.html#fender-telecaster",
+    "title": "Boogie Shuffle",
+    "section": "Fender Telecaster",
+    "text": "Fender Telecaster\nPickup Position: Neck\nMaster Volume: ~9\nMaster Tone: ~6"
+  },
+  {
+    "objectID": "posts/2026-08-17/index.html#multi-effects-processor-zoom-g3xn",
+    "href": "posts/2026-08-17/index.html#multi-effects-processor-zoom-g3xn",
+    "title": "Boogie Shuffle",
+    "section": "Multi Effects Processor: Zoom G3Xn",
+    "text": "Multi Effects Processor: Zoom G3Xn\nPreset 33: RC Clean"
+  },
+  {
+    "objectID": "posts/2026-08-17/index.html#joyo-tremolo",
+    "href": "posts/2026-08-17/index.html#joyo-tremolo",
+    "title": "Boogie Shuffle",
+    "section": "Joyo Tremolo",
+    "text": "Joyo Tremolo\nIntensity: 25%\nRate: 25%"
+  },
+  {
+    "objectID": "posts/2026-08-17/index.html#amplifier-fender-blues-jr.-iii",
+    "href": "posts/2026-08-17/index.html#amplifier-fender-blues-jr.-iii",
+    "title": "Boogie Shuffle",
+    "section": "Amplifier: Fender Blues Jr. III",
+    "text": "Amplifier: Fender Blues Jr. III\nVolume: 4.5\nFat: OFF\nTreble: 5.5\nBass: 4.5\nMiddle: 5.0\nMaster: 4.5\nReverb: 1.0"
+  },
+  {
+    "objectID": "posts/2026-08-17/index.html#microphone",
+    "href": "posts/2026-08-17/index.html#microphone",
+    "title": "Boogie Shuffle",
+    "section": "Microphone",
+    "text": "Microphone\nBlue Yeti\nGain: 9 o’clock\nMode: Cardioid mode, 4” from speaker, slightly off-axis"
+  },
+  {
+    "objectID": "posts/2026-08-17/index.html#dolby-on",
+    "href": "posts/2026-08-17/index.html#dolby-on",
+    "title": "Boogie Shuffle",
+    "section": "Dolby ON",
+    "text": "Dolby ON\nNatural, Boost +2"
+  },
+  {
+    "objectID": "posts/2026-08-17/index.html#garageband",
+    "href": "posts/2026-08-17/index.html#garageband",
+    "title": "Boogie Shuffle",
+    "section": "GarageBand",
+    "text": "GarageBand\nTrack Preset: WhiteXmasTrack\nMaster Preset: WhiteXmas"
   }
 ]

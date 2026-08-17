@@ -1,0 +1,65 @@
+---
+title: "Boogie Shuffle"
+subtitle: "Applied Blues"
+date: "2026-08-17"
+#date-modified: "2026-08-17"
+#draft: true
+format: 
+  html: default
+image: "../img/tele_mij.jpg"
+categories:
+  - "2026"
+  - Telecaster
+  - Blues
+---
+
+Tempo: free bpm\
+Measures: 1-8
+
+Tempo: 85 bpm\
+Score: [Boogie Shuffle](BoogieShuffle.pdf)\
+MuseScore: [Boogie Shuffle](BoogieShuffle.mscz)
+
+## Video
+
+{{< video https://youtu.be/-LRxImf_2FI?si=f3ME5rf5IFMj5PBk >}}
+
+## Fender Telecaster
+
+Pickup Position: Neck\
+Master Volume: \~9\
+Master Tone: \~6
+
+## Multi Effects Processor: Zoom G3Xn
+
+Preset 33: RC Clean
+
+## Joyo Tremolo
+
+Intensity: 25%\
+Rate: 25%
+
+## Amplifier: Fender Blues Jr. III
+
+Volume: 4.5\
+Fat: OFF\
+Treble: 5.5\
+Bass: 4.5\
+Middle: 5.0\
+Master: 4.5\
+Reverb: 1.0
+
+## Microphone
+
+Blue Yeti\
+Gain: 9 o'clock\
+Mode: Cardioid mode, 4” from speaker, slightly off-axis
+
+## Dolby ON
+
+Natural, Boost +2
+
+## GarageBand
+
+Track Preset: WhiteXmasTrack\
+Master Preset: WhiteXmas
