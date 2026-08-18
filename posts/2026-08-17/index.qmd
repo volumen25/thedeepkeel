@@ -2,7 +2,7 @@
 title: "Boogie Shuffle"
 subtitle: "Applied Blues"
 date: "2026-08-17"
-date-modified: "2026-08-17"
+date-modified: "2026-08-18"
 format: 
   html: default
 image: "../img/tele_mij.jpg"
@@ -20,6 +20,12 @@ Score: [Boogie Shuffle](BoogieShuffle.pdf)\
 MuseScore: [Boogie Shuffle](BoogieShuffle.mscz)
 
 ## Video
+
+{{< video https://youtu.be/kCoDEk1Lzw4 >}}
+
+{{< video https://youtu.be/89XunEKhR70 >}}
+
+{{< video https://youtu.be/YZD2Lld_Wes >}}
 
 {{< video https://youtu.be/-LRxImf_2FI?si=f3ME5rf5IFMj5PBk >}}
 
