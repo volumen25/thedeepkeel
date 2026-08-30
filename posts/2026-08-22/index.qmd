@@ -2,7 +2,7 @@
 title: "The Zipper"
 subtitle: "Applied Blues"
 date: "2026-08-22"
-date-modified: "2026-08-22"
+date-modified: "2026-08-29"
 format: 
   html: default
 image: "../img/tele_mij.jpg"
@@ -20,6 +20,10 @@ MuseScore:
 
 ## Video
 
+{{< video https://youtu.be/AEvKRjjkyKE >}}
+
+{{< video https://youtu.be/O3x0IhN_WYM >}}
+
 {{< video https://youtu.be/5ymx2rA7IWo >}}
 
 
@@ -31,7 +35,7 @@ Master Tone: \~6
 
 ## Multi Effects Processor: Zoom G3Xn
 
-Preset 33: RC Clean
+Preset 149: RC Clean
 
 ## Joyo Tremolo
 
