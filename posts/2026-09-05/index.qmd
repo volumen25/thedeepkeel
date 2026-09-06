@@ -1,0 +1,85 @@
+---
+title: "White Christmas"
+subtitle: "White Christmas"
+date: "2026-09-05"
+date-modified: "2026-09-05"
+format: 
+  html: default
+image: "../img/tele_mij.jpg"
+categories:
+  - "2026"
+  - Telecaster
+  - Christmas
+  - Song
+  - Chord melody
+  - Study
+---
+
+White Christmas Phrases 1, 2 & 3.
+
+## Song Structure
+
+A1 (8 measures): Phrase 1 - Phrase 2 - Phrase 3\
+A2 (8 measures): Phrase 1 - Phrase 2 - Phrase 4\
+
+**Phrase 1**\
+Bar 1: C∆7 Dm7 F♯13\
+Bar 2: Dm7 D♯ø Em7\
+
+**Phrase 2**\
+Bar 3: F∆7 G9\
+Bar 4: C∆7 E♭7 Dm11 G9sus4 G9\
+Bar 5: C∆7 C7\
+
+**Phrase 3**\
+Bar 6: F6/9 Fm6\
+Bar 7: C∆7 Dm7 G9\
+Bar 8: Dm7 G7\
+
+**Phrase 4**\
+Bar 6: F∆7 B♭7 B♭9\
+Bar 7: C∆7 C♯ø F∆7 A♭ø\
+Bar 8: D♭∆13 C6\
+
+## Video
+
+{{< video https://youtu.be/TblkE_NfhK0 >}}
+
+## Fender Telecaster
+
+Pickup Position: Neck\
+Master Volume: \~9\
+Master Tone: \~6
+
+## Multi Effects Processor: Zoom G3Xn
+
+Preset 149: RC Clean
+
+## Joyo Tremolo
+
+Intensity: 25%\
+Rate: 25%
+
+## Amplifier: Fender Blues Jr. III
+
+Volume: 4.5\
+Fat: OFF\
+Treble: 5.5\
+Bass: 4.5\
+Middle: 5.0\
+Master: 4.5\
+Reverb: 1.0
+
+## Microphone
+
+Blue Yeti\
+Gain: 9 o'clock\
+Mode: Cardioid mode, 4” from speaker, slightly off-axis
+
+## Dolby ON
+
+Standard
+
+## Lesson
+
+{{< video https://youtu.be/MpxE1P9fYeQ?si=5nKd9jXMpzpVsUZx >}}
