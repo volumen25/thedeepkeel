@@ -2,7 +2,7 @@
 title: "White Christmas"
 subtitle: "White Christmas"
 date: "2026-09-05"
-date-modified: "2026-09-05"
+date-modified: "2026-09-06"
 format: 
   html: default
 image: "../img/tele_mij.jpg"
@@ -15,7 +15,7 @@ categories:
   - Study
 ---
 
-White Christmas Phrases 1, 2 & 3.
+Focussing on [phrase 4](https://guitars.volumen.ca/posts/2024-10-06/) and then phrases 1, 2 & 3.
 
 ## Song Structure
 
@@ -43,7 +43,7 @@ Bar 8: D♭∆13 C6\
 
 ## Video
 
-{{< video https://youtu.be/TblkE_NfhK0 >}}
+{{< video https://youtu.be/RMRuvPIOFZE?si=Z282H58xBUdl44zU >}}
 
 ## Fender Telecaster
 
