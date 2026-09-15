@@ -18,9 +18,8 @@ categories:
 
 ## Video
 
-{{< video https://youtu.be/mR9cWn5HAkU >}}
+{{< video https://youtu.be/UQ6oknBZBOc >}}
 
-{{< video https://youtu.be/uVE2o2oTkWE >}}
 
 ## Fender Telecaster
 
