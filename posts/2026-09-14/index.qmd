@@ -1,0 +1,54 @@
+---
+title: "Happy Birthday Dad"
+subtitle: "2026"
+date: "2026-09-14"
+date-modified: "2026-09-14"
+#draft: true
+format: 
+  html: default
+image: "../img/tele_mij.jpg"
+# image: "../img/les.jpg"
+# image: "../img/strat.jpg"
+# image: "../img/tele.jpg"
+categories:
+  - "2026"
+  - Telecaster
+  - Song
+---
+
+## Video
+
+{{< video https://youtu.be/mR9cWn5HAkU >}}
+
+{{< video https://youtu.be/uVE2o2oTkWE >}}
+
+## Fender Telecaster
+
+Pickup Position: Neck\
+Master Volume: \~9\
+Master Tone: \~6
+
+## Multi Effects Processor: Zoom G3Xn
+
+Preset 149: RC Clean
+
+## Joyo Tremolo
+
+Intensity: 25%\
+Rate: 25%
+
+## Amplifier: Fender Blues Jr. III
+
+Volume: 4.5\
+Fat: OFF\
+Treble: 5.5\
+Bass: 4.5\
+Middle: 5.0\
+Master: 4.5\
+Reverb: 1.0
+
+## Microphone
+
+Blue Yeti\
+Gain: 9 o'clock\
+Mode: Cardioid mode, 4” from speaker, slightly off-axis
