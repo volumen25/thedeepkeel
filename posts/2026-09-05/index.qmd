@@ -2,7 +2,7 @@
 title: "White Christmas"
 subtitle: "White Christmas"
 date: "2026-09-05"
-date-modified: "2026-09-07"
+date-modified: "2026-10-09"
 format: 
   html: default
 image: "../img/tele_mij.jpg"
