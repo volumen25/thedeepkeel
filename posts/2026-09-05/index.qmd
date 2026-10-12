@@ -46,6 +46,8 @@ Bar 8: D♭∆13 C6\
 
 ## Video
 
+### 2026-10-11
+
 {{< video https://youtu.be/Knoh3P74RY0 >}}
 
 {{< video https://youtu.be/nuY1fiiF7O0 >}}
