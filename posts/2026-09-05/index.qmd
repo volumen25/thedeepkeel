@@ -2,7 +2,7 @@
 title: "White Christmas"
 subtitle: "White Christmas"
 date: "2026-09-05"
-date-modified: "2026-10-09"
+date-modified: "2026-10-11"
 format: 
   html: default
 image: "../img/tele_mij.jpg"
@@ -46,7 +46,9 @@ Bar 8: D♭∆13 C6\
 
 ## Video
 
-{{< video https://youtu.be/RMRuvPIOFZE?si=Z282H58xBUdl44zU >}}
+{{< video https://youtu.be/Knoh3P74RY0 >}}
+
+{{< video https://youtu.be/nuY1fiiF7O0 >}}
 
 ## Fender Telecaster
 
