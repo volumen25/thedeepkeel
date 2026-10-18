@@ -2,7 +2,7 @@
 title: "White Christmas"
 subtitle: "White Christmas"
 date: "2026-09-05"
-date-modified: "2026-10-11"
+date-modified: "2026-10-17"
 format: 
   html: default
 image: "../img/tele_mij.jpg"
@@ -45,6 +45,10 @@ Bar 7: C∆7 C♯ø F∆7 A♭ø\
 Bar 8: D♭∆13 C6\
 
 ## Video
+
+### 2026-10-17
+
+{{< video https://youtu.be/BKWgdf5ZPZk >}}
 
 ### 2026-10-11
 
