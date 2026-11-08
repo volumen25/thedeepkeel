@@ -2,7 +2,7 @@
 title: "White Christmas"
 subtitle: "White Christmas"
 date: "2026-10-18"
-date-modified: "2026-10-31"
+date-modified: "2026-11-08"
 format: 
   html: default
 image: "../img/tele_mij.jpg"
@@ -17,8 +17,8 @@ categories:
 
 Focussing on phrase 2 and [phrase 4](https://guitars.volumen.ca/posts/2024-10-06/) and then phrases 1 & 3.
 
-Chords: [Chord Chart](White_Christmas2026.pdf)\
-MuseScore:
+Chords: [Chord Chart](white-christmas-berlin-chordchart.pdf)\
+LilyPond: [White Christmas](white-christmas-berlin-chordchart.ly)
 
 ## Song Structure
 

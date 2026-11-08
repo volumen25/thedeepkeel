@@ -9,7 +9,7 @@
 <link>https://guitars.volumen.ca/</link>
 <atom:link href="https://guitars.volumen.ca/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
-<generator>quarto-1.10.20</generator>
+<generator>quarto-1.11.9</generator>
 <lastBuildDate>Sun, 18 Oct 2026 07:00:00 GMT</lastBuildDate>
 <item>
   <title>White Christmas</title>
@@ -20,8 +20,8 @@
 
 
 <p>Focussing on phrase 2 and <a href="https://guitars.volumen.ca/posts/2024-10-06/">phrase 4</a> and then phrases 1 &amp; 3.</p>
-<p>Chords: <a href="White_Christmas2026.pdf">Chord Chart</a><br>
-MuseScore:</p>
+<p>Chords: <a href="white-christmas-berlin-chordchart.pdf">Chord Chart</a><br>
+LilyPond: <a href="white-christmas-berlin-chordchart.ly">White Christmas</a></p>
 <section id="song-structure" class="level2">
 <h2 class="anchored" data-anchor-id="song-structure">Song Structure</h2>
 <p>A1 (8 measures): Phrase 1 - Phrase 2 - Phrase 3<br>
@@ -110,7 +110,7 @@ Mode: Cardioid mode, 4” from speaker, slightly off-axis</p>
   <category>Study</category>
   <guid>https://guitars.volumen.ca/posts/2026-10-18/</guid>
   <pubDate>Sun, 18 Oct 2026 07:00:00 GMT</pubDate>
-  <media:content url="https://guitars.volumen.ca/posts/img/tele_mij.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://guitars.volumen.ca/posts/img/tele_mij.jpg" medium="image" type="image/jpeg" height="97" width="144"/>
 </item>
 <item>
   <title>Happy Birthday Dad</title>
@@ -164,7 +164,7 @@ Mode: Cardioid mode, 4” from speaker, slightly off-axis</p>
   <category>Song</category>
   <guid>https://guitars.volumen.ca/posts/2026-09-14/</guid>
   <pubDate>Mon, 14 Sep 2026 07:00:00 GMT</pubDate>
-  <media:content url="https://guitars.volumen.ca/posts/img/tele_mij.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://guitars.volumen.ca/posts/img/tele_mij.jpg" medium="image" type="image/jpeg" height="97" width="144"/>
 </item>
 <item>
   <title>White Christmas</title>
@@ -265,7 +265,7 @@ Mode: Cardioid mode, 4” from speaker, slightly off-axis</p>
   <category>Study</category>
   <guid>https://guitars.volumen.ca/posts/2026-09-05/</guid>
   <pubDate>Sat, 05 Sep 2026 07:00:00 GMT</pubDate>
-  <media:content url="https://guitars.volumen.ca/posts/img/tele_mij.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://guitars.volumen.ca/posts/img/tele_mij.jpg" medium="image" type="image/jpeg" height="97" width="144"/>
 </item>
 <item>
   <title>Memphis</title>
@@ -323,7 +323,7 @@ Mode: Cardioid mode, 4” from speaker, slightly off-axis</p>
   <category>Blues</category>
   <guid>https://guitars.volumen.ca/posts/2026-08-30/</guid>
   <pubDate>Sun, 30 Aug 2026 07:00:00 GMT</pubDate>
-  <media:content url="https://guitars.volumen.ca/posts/img/tele_mij.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://guitars.volumen.ca/posts/img/tele_mij.jpg" medium="image" type="image/jpeg" height="97" width="144"/>
 </item>
 <item>
   <title>The Zipper</title>
@@ -383,7 +383,7 @@ Mode: Cardioid mode, 4” from speaker, slightly off-axis</p>
   <category>Blues</category>
   <guid>https://guitars.volumen.ca/posts/2026-08-22/</guid>
   <pubDate>Sat, 22 Aug 2026 07:00:00 GMT</pubDate>
-  <media:content url="https://guitars.volumen.ca/posts/img/tele_mij.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://guitars.volumen.ca/posts/img/tele_mij.jpg" medium="image" type="image/jpeg" height="97" width="144"/>
 </item>
 <item>
   <title>Boogie Shuffle</title>
@@ -446,7 +446,7 @@ Mode: Cardioid mode, 4” from speaker, slightly off-axis</p>
   <category>Blues</category>
   <guid>https://guitars.volumen.ca/posts/2026-08-17/</guid>
   <pubDate>Mon, 17 Aug 2026 07:00:00 GMT</pubDate>
-  <media:content url="https://guitars.volumen.ca/posts/img/tele_mij.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://guitars.volumen.ca/posts/img/tele_mij.jpg" medium="image" type="image/jpeg" height="97" width="144"/>
 </item>
 <item>
   <title>Happy Birthday Mom</title>
@@ -551,7 +551,7 @@ Mode: Cardioid mode, 4” from speaker, slightly off-axis</p>
   <category>Song</category>
   <guid>https://guitars.volumen.ca/posts/2026-08-04/</guid>
   <pubDate>Tue, 04 Aug 2026 07:00:00 GMT</pubDate>
-  <media:content url="https://guitars.volumen.ca/posts/img/tele_mij.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://guitars.volumen.ca/posts/img/tele_mij.jpg" medium="image" type="image/jpeg" height="97" width="144"/>
 </item>
 <item>
   <title>Blues for Captain Grant Coburn</title>
@@ -615,7 +615,7 @@ Mode: Cardioid mode, 4” from speaker, slightly off-axis</p>
   <category>Song</category>
   <guid>https://guitars.volumen.ca/posts/2026-07-17/</guid>
   <pubDate>Fri, 17 Jul 2026 07:00:00 GMT</pubDate>
-  <media:content url="https://guitars.volumen.ca/posts/img/tele_mij.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://guitars.volumen.ca/posts/img/tele_mij.jpg" medium="image" type="image/jpeg" height="97" width="144"/>
 </item>
 <item>
   <title>Für Edith</title>
@@ -724,7 +724,7 @@ Mode: Cardioid mode, 4” from speaker, slightly off-axis</p>
   <category>Song</category>
   <guid>https://guitars.volumen.ca/posts/2026-07-05/</guid>
   <pubDate>Sun, 05 Jul 2026 07:00:00 GMT</pubDate>
-  <media:content url="https://guitars.volumen.ca/posts/img/strat.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://guitars.volumen.ca/posts/img/strat.jpg" medium="image" type="image/jpeg" height="97" width="144"/>
 </item>
 <item>
   <title>Honne and Tatemae</title>
@@ -889,7 +889,7 @@ Mode: Cardioid mode, 4” from speaker, slightly off-axis</p>
   <category>Princeton</category>
   <guid>https://guitars.volumen.ca/posts/2026-06-21/</guid>
   <pubDate>Sun, 21 Jun 2026 07:00:00 GMT</pubDate>
-  <media:content url="https://guitars.volumen.ca/posts/img/tele_mij.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://guitars.volumen.ca/posts/img/tele_mij.jpg" medium="image" type="image/jpeg" height="97" width="144"/>
 </item>
 </channel>
 </rss>
