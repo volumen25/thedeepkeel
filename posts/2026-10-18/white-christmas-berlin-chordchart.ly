@@ -4,7 +4,7 @@
 
 \header {
   title = "White Christmas"
-  subtitle = "Chord chart with grips"
+  subtitle = "Chord Chart"
   composer = "Irving Berlin"
   tagline = ##f
 }
@@ -172,7 +172,7 @@ formLayout = \layout {
 }
 
 % ---------------------------------------------------------------
-% Page 2: grips by phrase (each phrase once)
+% Page 2: Chords by phrase (each phrase once)
 % ---------------------------------------------------------------
 gripsLayout = \layout {
   \context {
@@ -184,7 +184,7 @@ gripsLayout = \layout {
 }
 
 \bookpart {
-  \header { subtitle = "Grips by phrase" }
+  \header { subtitle = "Chords by Phrase" }
   \score {
     \header { piece = \markup { \bold \fontsize #2 "Phrase 1  (bars 1-2)" } }
     <<
